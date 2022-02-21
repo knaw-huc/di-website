@@ -6,10 +6,10 @@ Binnen het team Computer Vision is een pijplijn ontwikkeld waarin gescande docum
 
 Binnen de pijplijn wordt de tekst in de documenten gescheiden van de achtergrond, worden verschillende secties in de opmaak onderscheiden en worden de woorden herkend en omgezet naar tekstdata. Deze Optical Character Recognition en Handwritten Tekst Recognition maakt de tekst van de ingescande afbeeldingen digitaal doorzoekbaar. Ook maken de methoden van team Computer Vision het mogelijk de auteur van een tekst de identificeren of verifiëren, afbeeldingen automatisch te classificeren of segmenteren, en documenten te dateren en lokaliseren.
 
-# Contact
+### Contact
 images@di.huc.knaw.nl
 
-# Projecten
+### Projecten
 
 + [Republic]https://republic.huygens.knaw.nl/ (2019-2023)
 Digitale ontsluiting van de resoluties van de Staten Generaal van 1576 tot en met 1796. Deze deels handgeschreven, deels geprinte documenten tonen de vorming van de Republiek der Zeven Verenigde Nederlanden.
@@ -20,6 +20,6 @@ In het project Tribunaalarchieven als digitale onderzoeksfaciliteit (TRIADO) zij
 + [Digital Forensics]https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/ (2018-2021)
 In één digitale omgeving zijn forensische en paleografische methode voor handschriftanalyse gecombineerd.
 
-# Papers/Presentaties
+### Papers/Presentaties
 
 n.v.t.
