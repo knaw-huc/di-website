@@ -14,7 +14,7 @@ Belangrijke infrastructurele projecten zijn:
 DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. DI neemt hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten en de voorzitter van het HuC is ook PI van CLARIAH.
 * [Polifonia](https://polifonia-project.eu/) 2021-2024, EU Horizon 2020:
 Europees interdisciplinair team ontwikkelt een wereldwijd verbonden online database waarin met behulp van kunstmatige intelligentie verbindingen tussen muziek, mensen, locaties en evenmenten vanaf de zestiende eeuw onderzocht kunnen worden.
-* [Golden Agents](https://www.goldenagents.org) 2016-2021, Investeringen NWO-Groot:
+* [Golden Agents](https://www.goldenagents.org) 2016-2022, Investeringen NWO-Groot:
 Infrastructuur waarin semantic web-technologieën worden gecombineerd met multi-agent-technologieën. Deze duurzame infrastructuur maakt het mogelijk om de relaties en interacties tussen producenten en consumenten en tussen de verschillende bedrijfstakken van de creatieve industrie te bestuderen over de lange Gouden Eeuw.
 * [Nederlab](https://www.nederlab.nl/) 2013-2018, Investeringen NOW-Groot:
 Webinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.
