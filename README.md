@@ -32,9 +32,3 @@ Extra metadata (like author and publication date) can placed into the markdown f
 > type: news
 
 This way the site can be manages from only within the markdownfiles in the repository.
-
-(test van Menno) 
-
-## goed idee!
-
-Dat vereenvoudigt het systeem weer. En Google niet gebruiken lijkt me ook een goed plan.
