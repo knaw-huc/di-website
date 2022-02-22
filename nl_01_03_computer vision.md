@@ -4,7 +4,7 @@ Digitale foto’s en ingescande documenten zijn voor computers in principe inhou
 
 Binnen het team Computer Vision is een pijplijn ontwikkeld waarin gescande documenten verschillende stappen van het analyseproces doorlopen. Voor elke stap zijn verschillende tools voorhanden, ontwikkeld in eigen beheer of door externen, zodat voor elk type data de optimale pijplijn kan worden samengesteld. 
 
-Binnen de pijplijn wordt de tekst in de documenten gescheiden van de achtergrond, worden verschillende secties in de opmaak onderscheiden en worden de woorden herkend en omgezet naar tekstdata. Deze Optical Character Recognition en Handwritten Tekst Recognition maakt de tekst van de ingescande afbeeldingen digitaal doorzoekbaar. Ook maken de methoden van team Computer Vision het mogelijk de auteur van een tekst de identificeren of verifiëren, afbeeldingen automatisch te classificeren of segmenteren, en documenten te dateren en lokaliseren.
+Binnen de pijplijn wordt de tekst in de documenten gescheiden van de achtergrond, worden verschillende secties in de opmaak onderscheiden en worden de woorden herkend en omgezet naar tekstdata. Deze Optical Character Recognition en Handwritten Text Recognition maakt de tekst van de ingescande afbeeldingen digitaal doorzoekbaar. Ook maken de methoden van team Computer Vision het mogelijk de auteur van een tekst de identificeren of verifiëren, afbeeldingen automatisch te classificeren of segmenteren, en documenten te dateren en lokaliseren.
 
 ### Contact
 images@di.huc.knaw.nl
