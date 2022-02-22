@@ -2,7 +2,7 @@
 
 Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen. Dit geldt met name voor het IISG, dat een direct collectievormende doelstelling heeft. Deze datasets stellen we duurzaam, en zo veel mogelijk volgens de FAIR-principes beschikbaar. We zijn daarom ook [CoreTrustSeal](https://www.coretrustseal.org/) gecertificeerd . 
 
-Deze werkzaamheden voeren we uit in nauwe samenwerking met de afdeling Digitaal Databeheer van het Huygens Instituut, en met de afdeling Collecties van het IISG.
+Deze werkzaamheden voeren we uit in nauwe samenwerking met de afdeling Databeheer van het Huygens Instituut, en met de afdeling Collecties van het IISG.
 Het belang van de digitale collecties is groot; het betreft vaak ook digitaal erfgoed. Daarom is het HuC formeel ook het ‘knooppunt’ voor de sector wetenschap binnen het [Netwerk Digitaal Erfgoed](https://netwerkdigitaalerfgoed.nl/). Ook onze samenwerking met [DANS](https://dans.knaw.nl/) wordt steeds belangrijker. Recent zijn we ook een samenwerking aangegaan met het [NIOD](https://www.niod.nl/), waarvoor wij de digitale collecties zullen beheren.
 
 Een grote verzameling datasets die we beschikbaar stellen zijn te vinden op: [https://datasets.iisg.amsterdam/](https://datasets.iisg.amsterdam/). 
