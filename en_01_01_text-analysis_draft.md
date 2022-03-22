@@ -34,8 +34,10 @@ In particular, to meet a project's specific research goals, we're able to provid
 
 ### Publications and Presentations
 
-- tba
-- tba
+- iets van Maarten over LaMachine, MvG’s video over analiticcl
+- Nederlab paper
+- Republic paper van Marijn
+- een ppt over untanngle?
 - tba
 - tba
 - tba
