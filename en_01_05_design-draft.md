@@ -8,7 +8,7 @@ The tools developed by the Interface Design team place the underlying data in th
 
 ### Contact 
 
-Bas Doppen, Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/), [LinkedIn](https://nl.linkedin.com/in/bas-doppen-b50a1931), [GitHub](https://github.com/Doppen))
+[Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/), [LinkedIn](https://nl.linkedin.com/in/bas-doppen-b50a1931), [GitHub](https://github.com/Doppen))
 
 ### Research Projects
 
