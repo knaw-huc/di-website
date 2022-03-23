@@ -21,7 +21,7 @@ In particular, to meet a project's specific research goals, we're able to provid
 - tba
 
 
-### Digital Infrastructure, Tools and Datasets
+### Software and Datasets
 
 + what did we contribute to each of these resources?
 + Docere ownership?

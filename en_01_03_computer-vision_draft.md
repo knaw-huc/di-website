@@ -20,7 +20,7 @@ In the case of historical manuscripts, we can also draw on available commercial 
 - [TRIADO](https://www.oorlogsbronnen.nl/nieuws/veelbelovende-resultaten-onderzoek-naar-digitaal-doorzoekbaar-maken-cabr) (KNAW Humanities Cluster). After the Second World War, more than 300,000 Dutch citizens were subjected to the so-called special administration of justice. They were accused of collaboration with the German occupier, treason, membership in the Dutch National Socialist Movement (NSB) or having enlisted in the German military. Files on all these people are kept in the [Central Archive: Special Criminal Jurisdiction (CABR)](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/tweede-wereldoorlog-centraal-archief-bijzondere-rechtspleging-cabr). The goal of the TRIADO project is to make the entire CABR collection fully searchable and accessible.
 - [Digital Forensics](https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/?noredirect=nl_NL) (Huygens Institute) aims at creating a bridge in between two different modes of handwriting analyses: forensic (graph analysis) and palaeographical (the development of scripts through space and time). In Digital Forensics, the two methods will be combined in a single •deep learning system• to analyse the similarities and deviances in handwritten script in a palaeographically meaningful manner. 
 - 
-### Digital Infrastructure, Tools and Datasets
+### Software and Datasets
 
 + what did we contribute to each of these resources?
 
