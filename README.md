@@ -1,7 +1,6 @@
-## di-website
+# DI-website
 KNAW Digital Infrastructure website
 
-## Notes from Bas
 ## Content
 Content for the website can be placed in the folder `content`. Markdown files can be put in the `markdown` folder and images in the `images` folder.
 
