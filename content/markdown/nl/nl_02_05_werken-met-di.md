@@ -1,6 +1,6 @@
 ---
-title: Working with DI
-author: Arno Bosse
+title: Werken met DI
+author: Menno Rasch
 type: page
 ---
 De afdeling Digitale Infrastructuur werkt samen met onderzoekers en staat daarom altijd open voor nieuwe ideeën en projecten. Ook passen we de bestaande oplossingen graag toe in nieuwe onderzoeksprojecten.

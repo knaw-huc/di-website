@@ -1,6 +1,6 @@
 ---
 title: Partners
-author: Arno Bosse
+author: Thijs van der Veen
 type: page
 ---
 ## KNAW Humanities Cluster

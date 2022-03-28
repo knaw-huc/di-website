@@ -1,6 +1,6 @@
 ---
 title: Onderzoeksprojecten
-author: Arno Bosse
+author: Menno Rasch
 type: page
 ---
 De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt onderzoekers bij het gehele proces van een onderzoeksproject. Zowel bij het plannen als bij het managen. Dat begint bij de acquisitie en het nadenken over de technische mogelijkheden voor een specifiek onderzoek. Vervolgens werken we samen met het onderzoeksteam aan het realiseren van de beoogde tools en websites. Ten slotte verzorgen we het beheer van de nieuw ontwikkelde onderdelen. Hierbij focussen we op duurzaamheid: we gebruiken zo veel mogelijk bestaande infrastructuur, we delen code altijd als Open Source software, we sluiten zo veel mogelijk aan bij internationale standaarden en we maken het beheer zo efficiënt mogelijk.

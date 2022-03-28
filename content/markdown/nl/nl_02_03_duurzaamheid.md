@@ -1,6 +1,6 @@
 ---
 title: Duurzaam collectiebeheer
-author: Arno Bosse
+author: Menno Rasch
 type: page
 ---
 

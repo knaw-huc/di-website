@@ -1,5 +1,5 @@
 ---
-title: Computer Vision
+title: Patroonherkenning en Beeldverwerking
 author: Arno Bosse
 type: page
 ---

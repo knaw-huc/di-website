@@ -1,6 +1,6 @@
 ---
 title: Infrastructuurprojecten
-author: Arno Bosse
+author: Menno Rasch
 type: page
 ---
 Infrastructurele projecten, zowel nationaal als Europees, vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek.
