@@ -3,7 +3,7 @@ title: Partners
 author: Arno Bosse
 type: page
 ---
-The KNAW Humanities Cluster (HuC) is a partnership of the Huygens Institute, the Meertens Institute and the International Institute of Social History. The HuC stimulates innovative humanities research and builds a sustainable infrastructure. The former IT departments of the individual institutes have been merged within the HuC to form the Digital Infrastructure department. In addition, two interdisciplinary research groups are active within the HuC. These consist of experts in the fields of humanities, computational linguistics, social sciences and the semantic web. As a core member of CLARIAH, the HuC plays a leading role in the development of a sustainable, large-scale infrastructure for digital humanities research.
+The [KNAW Humanities Cluster](https://www.huc.knaw.nl) is a partnership of the [Huygens Instituut](https://www.huygens.knaw.nl), the [Meertens Instituut](https://www.meertens.knaw.nl) and the [Internationaal Instituut voor Sociale Geschiedenis](https://iisg.amsterdam/en). The HuC stimulates innovative humanities research and builds a sustainable infrastructure. The former IT departments of the individual institutes have been merged within the HuC to form the Digital Infrastructure department. In addition, two interdisciplinary research groups are active within the HuC. These consist of experts in the fields of humanities, computational linguistics, social sciences and the semantic web. As a core member of CLARIAH, the HuC plays a leading role in the development of a sustainable, large-scale infrastructure for digital humanities research.
 
 ## Huygens Institute
 
@@ -19,15 +19,15 @@ The International Institute of Social History (IISH) generates and offers reliab
 
 ## DHLab
 
-The Digital Humanities Lab (DHLab) is a research group within the KNAW Humanities Cluster (HuC). The DHLab connects research of the three HuC institutes in the field of the digital humanities. The Lab focuses on advancing humanities research through computational methods. To this end, it brings together knowledge from the humanities, computational linguistics, information retrieval, XML, social sciences and semantic web. Among other things, DHLab is co-developer of the olfactory reference language and semantic web technology in the EU Horizon2020 project Odeuropa. It is also closely involved in the NWO-funded AI:CULT project, which focuses on the gap between AI and our digital cultural heritage.
+The [Digital Humanities Lab](https://dhlab.nl/) (DHLab) is a research group within the KNAW Humanities Cluster (HuC). The DHLab connects research of the three HuC institutes in the field of the digital humanities. The Lab focuses on advancing humanities research through computational methods. To this end, it brings together knowledge from the humanities, computational linguistics, information retrieval, XML, social sciences and semantic web. Among other things, DHLab is co-developer of the olfactory reference language and semantic web technology in the EU Horizon2020 project Odeuropa. It is also closely involved in the NWO-funded AI:CULT project, which focuses on the gap between AI and our digital cultural heritage.
 
 ## NL-Lab
 
-NL-Lab is a research group of the KNAW Humanities Cluster, established by the Huygens Institute and the Meertens Institute. NL-Lab develops research into Dutch culture and identity, past and present. How is our national identity created and felt? How does the Netherlands talk, how does the Netherlands taste, how does the Netherlands tell its history? Where and for whom is Dutch identity at stake? NL-Lab combines expertise from various fields of knowledge to develop new perspectives on these pressing issues using innovative research methods. NL-Lab is also pulling the EU Horizon2020 project Odeuropa.
+[NL-Lab](https://nl-lab.net/en) is a research group of the KNAW Humanities Cluster, established by the Huygens Institute and the Meertens Institute. NL-Lab develops research into Dutch culture and identity, past and present. How is our national identity created and felt? How does the Netherlands talk, how does the Netherlands taste, how does the Netherlands tell its history? Where and for whom is Dutch identity at stake? NL-Lab combines expertise from various fields of knowledge to develop new perspectives on these pressing issues using innovative research methods. NL-Lab is also pulling the EU Horizon2020 project Odeuropa.
 
 ## Cultural AI Lab
 
-Cultural AI Lab is a collaboration between the KNAW Humanities Cluster (HuC), the Centre for Mathematics and Computer Science (CWI), the Koninklijke Bibliotheek (KB), the Rijksmuseum, the Netherlands Institute for Sound and Vision, TNO, the Vrije Universiteit Amsterdam and the University of Amsterdam. The lab builds a bridge between cultural heritage institutions, humanities and computer science. The mission of Cultural AI Lab is to study, design and develop socio-technological AI systems that are implicitly or explicitly aware of the subtle and subjective complexity of human culture. The lab is as much about using AI to understand human culture as it is about using knowledge and expertise from the humanities to analyse and improve AI technology. It studies how to deal with input and output data in the context of the intended (or other) application areas, how to deal with cultural bias in data and technology, and how to build AI technology optimised for cultural and ethical values.
+[Cultural AI Lab](https://www.cultural-ai.nl/) is a collaboration between the KNAW Humanities Cluster (HuC), the Centre for Mathematics and Computer Science (CWI), the Koninklijke Bibliotheek (KB), the Rijksmuseum, the Netherlands Institute for Sound and Vision, TNO, the Vrije Universiteit Amsterdam and the University of Amsterdam. The lab builds a bridge between cultural heritage institutions, humanities and computer science. The mission of Cultural AI Lab is to study, design and develop socio-technological AI systems that are implicitly or explicitly aware of the subtle and subjective complexity of human culture. The lab is as much about using AI to understand human culture as it is about using knowledge and expertise from the humanities to analyse and improve AI technology. It studies how to deal with input and output data in the context of the intended (or other) application areas, how to deal with cultural bias in data and technology, and how to build AI technology optimised for cultural and ethical values.
 
 ## External partners
 
@@ -36,14 +36,14 @@ We maintain close ties with a range of partners in research, education, governme
 <!--add logos-->
 
 <!--
-* Tilburg University
-* Universita di Bologna
-* Polish Academy of Sciences
-* University of London
-* University of Antwerpen
-* KB
-* Beeld & Geluid
-* Atos NL
-* VU
-* National Archives.
+* [Tilburg University](https://www.tilburguniversity.edu/en)
+* [Universita di Bologna](https://www.unibo.it/en/homepage)
+* [Polish Academy of Sciences](https://pasific.pan.pl/polish-academy-of-sciences/)
+* [University of London](https://london.ac.uk/)
+* [University of Antwerpen](https://www.uantwerpen.be/en/)
+* [KB](https://www.kb.nl/)
+* [Beeld & Geluid](https://www.beeldengeluid.nl/en)
+* [Atos NL](https://atos.net/en-nl/netherlands)
+* [VU](https://vu.nl/en)
+* [National Archives](https://www.nationaalarchief.nl/en)
 -->
