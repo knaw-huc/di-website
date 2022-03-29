@@ -5,11 +5,11 @@ type: page
 ---
 ## Text Analysis
 
-+ 152 words but likely still too short.
+We have have extensive experience with diverse kinds of scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The text collection we publish are often enhanced with supporting features such as metadata, search and browse options, page images, structured data, and annotations.
 
-We have have extensive experience in working with diverse kinds of scholarly text collections. These include literary text editions, correspondence collections, as well as historical manuscripts and linguistic collections. The text collection we publish are often enhanced by us with supporting features such as metadata, search and browse options, page images, structured data, and annotations.
+In particular, we offer researchers many ways to carry out complex searches using 'fuzzy' text patterns, semantically related passages or by filtering texts on the basis of structured data enrichments such as the persons or places mentioned in the text. We also provide the necessary know-how and software tools to allow project teams to edit, annotate, and visualize their text collections, to publish them on online, and deposit them in a certified digital repository to ensure their long term preservation and access.
 
-In particular, to meet a project's specific research goals, we're able to provide many ways to carry out complex textual analyses such as searching for specific or 'fuzzy' text patterns, semantically related passages or filtered searches limited to one or more enrichment layers (e.g. persons or places mentioned in the text). In addition, we also provide the necessary know-how and software to allow project teams to further edit, annotate, and visualize their text collections, publish them on online, and deposit them as research data in a digital repository to ensure their long term preservation and access.
+Very large and complex text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. 
 
 ### Contact
 
@@ -17,12 +17,10 @@ In particular, to meet a project's specific research goals, we're able to provid
 
 ### Research Projects
 
-+ what did we contribute to each of these projects?
-
-- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. Nederlab was launched in 2015 and further enhanced in 2017.
-- [Republic](https://en.huygens.knaw.nl/projecten/resoluties-staten-generaal-1576-1796-de-oerbronnen-van-de-parlementaire-democratie/?noredirect=en_GB) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Work on Republic began in 2019 and is scheduled to end in 2024.
+- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. Contribution: tba
+- [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Contribution: tba
+- [Globalise](https://globalise.huygens.knaw.nl) (huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
 - CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)
-- tba
 - tba
 
 
