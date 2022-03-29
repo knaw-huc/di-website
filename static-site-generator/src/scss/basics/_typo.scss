@@ -1,0 +1,51 @@
+@use '../abstracts' as *;
+
+p, h1, h2,h3,h4,h5,h6 {
+	width: 100%;
+}
+
+
+.in_text--bold {
+	font-weight: $fontWeightBold;
+}
+strong {
+	font-weight: $fontWeightBold;
+}
+
+
+// text sizes
+.in_text--L {
+	font-size: $fontSizeL;
+}
+
+.in_text--XL {
+	font-size: $fontSizeXL;
+}
+
+.in_text--XXL {
+	font-size: $fontSizeXXL;
+}
+
+.in_text--XXXL {
+	font-size: $fontSizeXXXL;
+}
+
+.in_text--S {
+	font-size: $fontSizeS;
+}
+
+.in_text--XS {
+	font-size: $fontSizeXS;
+}
+
+.in_text--XXS {
+	font-size: $fontSizeXXS;
+}
+
+.in_text--XXXS {
+	font-size: $fontSizeXXXS;
+}
+
+h1 {
+	line-height: 120%;
+}

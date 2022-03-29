@@ -1,0 +1,77 @@
+@use '../abstracts' as *;
+
+$gap: 40px;
+$colWidtMin: 300px;
+$colWidtMax: 400px;
+
+.layout_3col_vertNav {
+    margin-top: 3rem;
+    margin-left: $gap;
+    margin-right: $gap;
+    width: calc(100% - $gap - $gap);
+    display: grid;
+    grid-gap: $gap;
+}
+
+
+@media (min-width: 1000px) {
+    .layout_3col_vertNav {
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [colEnd] $gap [rightt];
+      grid-template-rows: [ttop] auto [r1] auto [botttom];
+
+
+      #colNav {
+        position: fixed;
+        top:0;
+        bottom: 0;
+        left: 0;
+        width: $colWidtMin;
+      }
+
+      #colContent { grid-column: col2 / colEnd;      grid-row: ttop; }
+      #colAside { grid-column: col2 / colEnd;      grid-row: r1; }
+    }
+}
+
+
+
+@media (min-width: 1144px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [col3] $colWidtMin [rightt];
+      grid-template-rows: [ttop] auto [botttom];
+
+      #colNav {
+        grid-column: col2 / rightt;
+        width: $colWidtMin;
+      }
+
+      #colContent { grid-column: col2 / col3;      grid-row: ttop;
+        justify-self: center;
+      }
+      #colAside {
+        position: fixed;
+        top:0;
+        bottom: 0;
+        right: 0;
+        padding-right: $gap;
+        width: $colWidtMin;
+}
+    }
+}
+
+@media (min-width: 1680px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMax [col2] auto [col3] $colWidtMax [rightt];
+
+      #colNav {
+        width: $colWidtMax;
+      }
+      #colAside {
+        width: $colWidtMax;
+      }
+
+  }
+}

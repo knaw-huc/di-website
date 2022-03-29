@@ -1,0 +1,92 @@
+@use 'abstracts' as *;
+
+$greyLight01: hsl(46, 30%, 95%);
+$greyLight02: hsl(46, 30%, 90%);
+$panelColor: #fff;
+$color01: hsl(37, 37%, 80%);
+$bordeLine: 1px solid #000;
+
+body {
+  background-color: $greyLight01;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.colNav {
+  border-bottom: $bordeLine;
+  background-color: $panelColor;
+  padding: 60px 40px;
+  margin: -60px -40px;
+  *> {
+    width: 100%;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
+
+@media (min-width: 1000px) {
+  .colNav {
+    border-bottom: 0;
+    border-right: $bordeLine;
+    background-color: $panelColor;
+    padding: 6rem 2rem;
+    margin: 0px;
+  }
+}
+
+
+
+.logo {
+}
+
+.mainNav {
+  a {
+    color: $colorText;
+    text-decoration: none;
+    margin-bottom: 1rem;
+  }
+
+}
+
+.colContent  {
+  padding: 6rem 0rem;
+}
+
+.centerContent {
+}
+
+.breadCrumb {
+}
+
+.colAside {
+  border-left: $bordeLine;
+  background-color: $color01;
+  padding: 2rem;
+}
+
+.read {
+}
+
+
+
+
+$hamSpace: 15px;
+.hamburgerButton {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 0;
+
+  background: none;
+  border: 0px;
+  cursor: pointer;
+  padding: $hamSpace;
+}
+
+.hamburgerIcon {
+
+  width: 30px;
+  height: auto;
+}

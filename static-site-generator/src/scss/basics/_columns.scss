@@ -1,0 +1,43 @@
+@use '../abstracts' as *;
+
+.in_columnsAuto {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+
+  >*{
+    flex: 1;
+  }
+}
+
+.in_gap {
+  gap: $spaceGutter/2;
+}
+
+
+.in_cell--x2 {
+  flex: 2;
+}
+
+.in_cell--x3 {
+  flex: 3;
+}
+
+.in_cell--x4 {
+  flex: 4;
+}
+
+.in_cell--x5 {
+  flex: 5;
+}
+
+@media (min-width: 800px) {
+  .in_columnsAuto {
+    flex-direction: row;
+  }
+
+  .in_gap {
+    gap: $spaceGutter;
+  }
+}

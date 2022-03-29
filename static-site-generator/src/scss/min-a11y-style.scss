@@ -1,0 +1,42 @@
+@use 'custom/minimal22/layout1';
+@use 'custom/minimal22/minimalCards';
+
+html {
+    font-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+    margin: 1.5rem 0;
+    font-size: 1rem;
+    line-height: 1.5;
+
+		// contrast
+		//background: #eee;
+		color: #222;
+}
+
+main {
+    max-width: 60rem;
+}
+
+@media print {
+    body > *:not(main) {
+        display: none;
+    }
+}
+
+
+[href="#main"] {
+    position: absolute;
+    top: 0;
+    right: 100%; /* moves off screen */
+}
+
+[href="#main"]:focus {
+    right: auto;
+}

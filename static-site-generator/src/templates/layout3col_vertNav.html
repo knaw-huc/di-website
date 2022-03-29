@@ -1,0 +1,61 @@
+{{> html_header}}
+
+<div class="layout_3col_vertNav">
+
+
+
+
+
+
+  <div id="colNav" class="colNav">
+    <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="" class="tempLogo01" />
+    <div class="hideOnSmall">
+      <nav id="mainNav" class="navNoList">{{{navigation_list}}}</nav>
+
+    </div>
+  </div>
+
+
+
+
+
+
+  <div id="colContent" class="colContent centerContent">
+    <div id="breadCrumb" class="tempBreadcrumb">
+      <a href="index.html">Home</a> {{{breadcrumb}}}
+    </div>
+    <main id="main-content" class="read">
+      <h1>{{title}}</h1>
+      {{{ htmlContent }}}
+    </main>
+  </div>
+
+
+
+
+
+
+
+  <aside id="colAside" class="colAside"><div>{{{langToggle}}}</div></aside>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" >
+  <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
+</button>
+
+
+
+
+<script src="js/hamburger-menu.js" charset="utf-8"></script>
+
+{{> html_footer}}

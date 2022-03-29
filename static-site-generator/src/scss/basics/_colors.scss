@@ -1,0 +1,36 @@
+@use '../abstracts' as *;
+
+
+// background colors
+.in_colorBG--ineo-blue-dark {
+  background-color: $colorBrandClariahBlueDark;
+  color: #fff;
+  a {
+    color: #fff;
+  }
+}
+
+.in_colorBG--ineo-grey-light {
+  background-color: $colorBrandIneoGreyLight;
+}
+
+
+.in_color--black{
+	color: #000;
+}
+
+.in_color--white{
+	color: #fff;
+}
+
+.in_color--signal-green{
+	color: $color-signal-green;
+}
+
+.in_color--signal-orange{
+	color: $color-signal-orange;
+}
+
+.in_color--signal-red{
+	color: $color-signal-red;
+}

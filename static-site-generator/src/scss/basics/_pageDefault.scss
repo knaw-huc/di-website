@@ -1,0 +1,13 @@
+@use '../abstracts' as *;
+
+body {
+
+	font-family: $fontFamilyDefault;
+	font-weight: $fontWeightDefault;
+	font-size: $fontSizeDefault;
+	line-height: $lineHeightDefault;
+	font-style: normal;
+	color: $colorText;
+}
+
+a {color: $colorLink}

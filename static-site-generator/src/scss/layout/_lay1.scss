@@ -1,0 +1,58 @@
+@use '../abstracts' as *;
+
+$gap: 30px;
+$maxWidth: 1300px;
+
+.temp01 {
+  margin-top: 3rem;
+  margin-left: $gap;
+  margin-right: $gap;
+  max-width: 1300px;
+  width: calc(100% - $gap - $gap);
+
+  display: grid;
+  grid-gap: $gap;
+
+}
+
+
+@media (min-width: 1000px) {
+  .temp01 {
+    grid-template-columns: [leftt] minMax(200px, 300px) [col2] auto [rightt];
+    grid-template-rows: [ttop] auto [r1] auto [r2] auto [r3] auto [r4] auto [botttom];
+
+    #logo         { grid-column: leftt / col2;      grid-row: ttop; }
+    #mainNav      { grid-column: col2 / rightt;    grid-row: ttop;}
+    #subNav       { grid-column: leftt;             grid-row: r3;}
+    #breadCrumb   { grid-column: col2;              grid-row: r2}
+    #content      { grid-column: col2;              grid-row: r3}
+    #searchForm   { grid-column: leftt;             grid-row: r2;}
+  }
+
+
+}
+
+
+
+@media (min-width: $maxWidth) {
+  .temp01 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+
+// extra
+
+.tempLogo01 {
+  width: 100px;
+  height: auto;
+}
+
+.read {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}

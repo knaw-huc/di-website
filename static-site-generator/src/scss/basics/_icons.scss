@@ -1,0 +1,25 @@
+@use '../abstracts' as *;
+
+.in_icon {
+	height: 1rem;
+	width: 1rem;
+
+	fill: currentColor;
+	color: $colorText;
+}
+
+
+.in_icon--xl {
+	height: 1.2rem;
+	width: 1.2rem;
+}
+
+.in_icon--xxl {
+	height: 1.5rem;
+	width: 1.5rem;
+}
+
+.in_icon--xxxl {
+	height: 2rem;
+	width: 2rem;
+}

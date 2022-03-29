@@ -1,0 +1,26 @@
+@use '../abstracts' as *;
+
+$gap: 40px;
+$colWidtMin: 300px;
+$colWidtMax: 400px;
+
+.layout_3col_vertNav {
+  display: grid;
+  width: 100%;
+}
+
+
+
+@media (min-width: 1000px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [rightt];
+      grid-gap: $gap;
+    }
+}
+
+
+@media (min-width: 1300px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [colEnd] $colWidtMin [rightt];
+    }
+}

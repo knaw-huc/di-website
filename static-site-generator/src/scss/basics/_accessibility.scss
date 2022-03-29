@@ -1,0 +1,12 @@
+// <a href="#main-content" class="skipToContent">Skip to content</a>
+// <main id="main-content"> </main>
+
+.skipToContent {
+  display: none;
+  position: absolute;
+  transform: translateY(-120%);
+}
+
+.skipToContent:focus {
+  transform: translateY(0%);
+}

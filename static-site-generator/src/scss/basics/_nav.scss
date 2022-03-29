@@ -1,0 +1,38 @@
+
+.navHideNestedSubNav, .navListHideNestedSubNav {
+  ul ul{
+    display: none;
+  }
+}
+
+
+
+.navInlineList, .navListInlineList {
+	ul {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+.navNoList {
+	ul {
+		li {
+			list-style: none;
+			margin-left: 0;
+			margin-right: 1rem;
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+	}
+}
+
+.navIsCurrentPage>a{
+  font-weight: bold;
+}
+
+.navIsCurrentParent>a {
+  font-weight: bold;
+}

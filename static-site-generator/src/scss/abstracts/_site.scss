@@ -1,0 +1,13 @@
+@use "sass:math";
+
+$siteWrapWidth: 1320px;
+$siteWrapWidthHalf: math.div(1320px, 2);
+
+// marging en padding
+$spaceBasic: 28px;
+$spaceGutter: 40px;
+
+// markup
+
+$borderRadiusBasic: 4px;
+$borderRadiusSmall: 2px;
