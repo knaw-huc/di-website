@@ -5,7 +5,7 @@ type: page
 ---
 ## KNAW Humanities Cluster
 
-Het KNAW Humanities Cluster (HuC) is een samenwerkingsverband van het Huygens Instituut, het Meertens Instituut en het Internationaal Instituut voor Sociale Geschiedenis. Het HuC stimuleert innovatief geesteswetenschappelijk onderzoek en bouwt aan een duurzame infrastructuur. De vroegere IT-afdelingen van de individuele instituten zijn binnen het HuC samengevoegd tot de afdeling Digital Infrastructure. Daarnaast zijn er binnen het HuC twee interdisciplinaire onderzoeksgroepen actief. Deze bestaan uit experts op het gebied van de geesteswetenschappen, computationele linguïstiek, sociale wetenschappen en het semantisch web. Als kernlid van CLARIAH speelt het HuC een leidende rol in de ontwikkeling van een duurzame, grootschalige infrastructuur voor digitaal geesteswetenschappelijk onderzoek.
+Het [KNAW Humanities Cluster](https://www.huc.knaw.nl) (HuC) is een samenwerkingsverband van het [Huygens Instituut](https://www.huygens.knaw.nl), het [Meertens Instituut](https://www.meertens.knaw.nl) en het [Internationaal Instituut voor Sociale Geschiedenis](https://iisg.amsterdam/nl). Het HuC stimuleert innovatief geesteswetenschappelijk onderzoek en bouwt aan een duurzame infrastructuur. De vroegere IT-afdelingen van de individuele instituten zijn binnen het HuC samengevoegd tot de afdeling Digital Infrastructure. Daarnaast zijn er binnen het HuC twee interdisciplinaire onderzoeksgroepen actief. Deze bestaan uit experts op het gebied van de geesteswetenschappen, computationele linguïstiek, sociale wetenschappen en het semantisch web. Als kernlid van [CLARIAH](https://www.clariah.nl/nl) speelt het HuC een leidende rol in de ontwikkeling van een duurzame, grootschalige infrastructuur voor digitaal geesteswetenschappelijk onderzoek.
 
 ## Huygens Instituut
 
@@ -21,15 +21,15 @@ Het Internationaal Instituut voor Sociale Geschiedenis (IISG) genereert en biedt
 
 ## DHLab
 
-Het Digital Humanities Lab (DHLab) is een onderzoeksgroep binnen het KNAW Humanities Cluster (HuC). Het DHLab verbindt onderzoek van de drie HuC-instituten op het gebied van de digitale geesteswetenschappen. Het Lab richt zich op het bevorderen van geesteswetenschappelijk onderzoek door middel van computationele methoden. Hiervoor brengt het kennis samen uit de geesteswetenschappen, computationele linguïstiek, information retrieval, XML, sociale wetenschappen en semantisch web. Het DHLab is onder andere mede-ontwikkelaar van de geurreferentietaal en semantische web-technologie in het EU Horizon2020-project Odeuropa. Ook is het nauw betrokken bij het door NWO gefinancierde AI:CULT-project, dat zich richt op de kloof tussen AI en ons digitale culturele erfgoed.
+Het [Digital Humanities Lab](https://dhlab.nl/) (DHLab) is een onderzoeksgroep binnen het KNAW Humanities Cluster (HuC). Het DHLab verbindt onderzoek van de drie HuC-instituten op het gebied van de digitale geesteswetenschappen. Het Lab richt zich op het bevorderen van geesteswetenschappelijk onderzoek door middel van computationele methoden. Hiervoor brengt het kennis samen uit de geesteswetenschappen, computationele linguïstiek, information retrieval, XML, sociale wetenschappen en semantisch web. Het DHLab is onder andere mede-ontwikkelaar van de geurreferentietaal en semantische web-technologie in het EU Horizon2020-project Odeuropa. Ook is het nauw betrokken bij het door NWO gefinancierde AI:CULT-project, dat zich richt op de kloof tussen AI en ons digitale culturele erfgoed.
 
 ## NL-Lab
 
-NL-Lab is een onderzoeksgroep van het KNAW Humanities Cluster, opgericht door het Huygens Instituut en het Meertens Instituut. NL-Lab ontwikkelt onderzoek naar Nederlandse cultuur en identiteit in heden en verleden. Hoe wordt onze nationale identiteit gemaakt en gevoeld? Hoe praat Nederland, hoe smaakt Nederland, hoe vertelt Nederland zijn geschiedenis? Waar en voor wie staat de Nederlandse identiteit op het spel? NL-Lab bundelt expertises uit verschillende kennisvelden om met behulp van innovatieve onderzoeksmethodes nieuwe perspectieven op deze urgente kwesties te ontwikkelen. NL-Lab trekt daarnaast het EU Horizon2020-project Odeuropa.
+[NL-Lab](https://nl-lab.net/) is een onderzoeksgroep van het KNAW Humanities Cluster, opgericht door het Huygens Instituut en het Meertens Instituut. NL-Lab ontwikkelt onderzoek naar Nederlandse cultuur en identiteit in heden en verleden. Hoe wordt onze nationale identiteit gemaakt en gevoeld? Hoe praat Nederland, hoe smaakt Nederland, hoe vertelt Nederland zijn geschiedenis? Waar en voor wie staat de Nederlandse identiteit op het spel? NL-Lab bundelt expertises uit verschillende kennisvelden om met behulp van innovatieve onderzoeksmethodes nieuwe perspectieven op deze urgente kwesties te ontwikkelen. NL-Lab trekt daarnaast het EU Horizon2020-project Odeuropa.
 
 ## Cultural AI Lab
 
-Cultural AI Lab is een samenwerking tussen het KNAW Humanities Cluster (HuC), het Centrum Wiskunde & Informatica (CWI), de Koninklijke Bibliotheek (KB), het Rijksmuseum, het Nederlands Instituut voor Beeld en Geluid, TNO, de Vrije Universiteit Amsterdam en de Universiteit van Amsterdam. Het lab slaat een brug tussen culturele erfgoedinstellingen, geesteswetenschappen en informatica. De missie van Cultural AI Lab is het bestuderen, ontwerpen en ontwikkelen van socio-technologische AI-systemen die zich impliciet of expliciet bewust zijn van de subtiele en subjectieve complexiteit van de menselijke cultuur. Het lab gaat evenzeer over het gebruik van AI voor het begrijpen van de menselijke cultuur als over het gebruik van kennis en expertise uit de geesteswetenschappen om AI-technologie te analyseren en te verbeteren. Het bestudeert hoe om te gaan met input- en outputdata in de context van de beoogde (of andere) toepassingsgebieden, hoe om te gaan met culturele bias in data en technologie, en hoe AI-technologie te bouwen die geoptimaliseerd is voor culturele en ethische waarden.
+[Cultural AI Lab](https://www.cultural-ai.nl/) is een samenwerking tussen het KNAW Humanities Cluster (HuC), het Centrum Wiskunde & Informatica (CWI), de Koninklijke Bibliotheek (KB), het Rijksmuseum, het Nederlands Instituut voor Beeld en Geluid, TNO, de Vrije Universiteit Amsterdam en de Universiteit van Amsterdam. Het lab slaat een brug tussen culturele erfgoedinstellingen, geesteswetenschappen en informatica. De missie van Cultural AI Lab is het bestuderen, ontwerpen en ontwikkelen van socio-technologische AI-systemen die zich impliciet of expliciet bewust zijn van de subtiele en subjectieve complexiteit van de menselijke cultuur. Het lab gaat evenzeer over het gebruik van AI voor het begrijpen van de menselijke cultuur als over het gebruik van kennis en expertise uit de geesteswetenschappen om AI-technologie te analyseren en te verbeteren. Het bestudeert hoe om te gaan met input- en outputdata in de context van de beoogde (of andere) toepassingsgebieden, hoe om te gaan met culturele bias in data en technologie, en hoe AI-technologie te bouwen die geoptimaliseerd is voor culturele en ethische waarden.
 
 ## Externe partners
 
@@ -38,14 +38,14 @@ Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, ove
 <!--add logos-->
 
 <!--
-* Tilburg University
-* Universita di Bologna
-* Polish Academy of Sciences
-* University of London
-* University of Antwerpen
-* KB
-* Beeld & Geluid
-* Atos NL
-* VU
-* National Archives.
+* [Tilburg University](https://www.tilburguniversity.edu/nl)
+* [Universita di Bologna](https://www.unibo.it/en/homepage)
+* [Polish Academy of Sciences](https://pasific.pan.pl/polish-academy-of-sciences/)
+* [University of London](https://london.ac.uk/)
+* [University of Antwerpen](https://www.uantwerpen.be/nl/)
+* [KB](https://www.kb.nl/)
+* [Beeld & Geluid](https://www.beeldengeluid.nl/)
+* [Atos NL](https://atos.net/nl/nederland)
+* [VU](https://vu.nl/nl)
+* [National Archives](https://www.nationaalarchief.nl/)
 -->
