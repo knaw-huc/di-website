@@ -1,32 +1,37 @@
 ---
-title: Spatial Computing
-author: Arno Bosse
+title: Ruimtelijk Rekenen
+author: Thomas Vermaut
 type: page
 ---
-## Spatial Computing
+Ruimtelijke informatie is alomtegenwoordig. Het vormt met *place* de tweede pijler van de triade People - Place - Event. Alles gebeurt *ergens*. Onze uitdaging is om dat abstract gegeven te vertalen in concrete en bruikbare technologie.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
+Data speelt een belangrijke rol hierbij, aangezien ook alle *computationele pipelines* uiteindelijk draaien om de output, en de bruikbaarheid hiervan voor meer zichtbare publiekstoepassingen, alsook minder zichtbare onderzoeksdoeleinden. Ook het logisch redeneren over deze data in complexe systemen maakt hier deel van uit.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
+Aan onze basis ligt het [HisGIS-project](https://hisgis.nl) dat in de voorhoede stond en staat als het aankomt op digitale infrastructuur met een fijnmazige ruimtelijke granulariteit, namelijk het perceel als atoom van de ruimte. Met het langlopende project hebben we sinds de jaren negentig ervaring met het inzetten van vrijwilligers in een brede maatschappelijke basis voor het opbouwen van een wetenschappelijke infrastructuur.
+
+We maken gebruik van semantische technologie waarmee we data en output transformeren van *kaart* naar een interactief en dynamisch dataportaal. Daarvoor maken we vaak gebruik van OpenStreetMap als platform, dat we voor een case los kunnen uitrollen, zodat er voor een project desgewenst een eigen *data-graph* kan worden opgebouwd. Wat wij bijdragen is ervaring met het vertalen van inhoudelijke concepten en entiteiten naar de meest geschikte technische (data)structuur, zodat zo efficiënt mogelijk het doel van een project kan worden bereikt.
+
+Naast een brede historische scope, beperken we ons ook niet tot de huidige landsgrenzen van Nederland. Een van onze belangrijkste projecten is de samenwerking met de [World Historical Gazetteer (WHG)](https://whgazetteer.org/). Daarmee willen we bijdragen aan het over tijd en ruimte heen toegankelijk maken van informatie.
+
+| key | value |
+|--|--|
+|  keywords | spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, kadaster, kaart |
+| tech we use | Postgres, Postgis, OpenStreetMap, OSM, QGIS |
 
 ### Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+[Thomas Vermaut](mailto:thomas.vermaut@di.huc.knaw.nl), Lead developer for Team Geo ([Pure](https://pure.knaw.nl/portal/en/persons/thomas-vermaut), [ORCID](https://orcid.org/0000-0003-2770-7383)
 
 ### Research Projects
 
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
+- [HisGIS](https://hisgis.nl)
+- [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We hebben bijgedragen aan de ontwikkeling van v2.0 van de gazetteer, alsook de [Dutch Global History collectie](https://whgazetteer.org/collections/2/detail)
 
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
-### Software and Datasets
+### Digital Infrastructure, Tools and Datasets
 
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
+- [HisGIS](https://hisgis.nl)
 
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
 ### Publications and Presentations
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
+- [Damen, M. J. M., Drukker, D., Feikens, J. J., Jongepier, I., Overlaet, K., Oostindiër, A. E., Stapel, R. & Vermaut, T. Hertogdom Brabant (26 Aug 2021)](https://pure.knaw.nl/portal/en/publications/hertogdom-brabant)
