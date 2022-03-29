@@ -3,40 +3,46 @@
 <div class="layout_3col_vertNav">
 
 
+  <div id="colNav" class="colNav borderRight in_padding--basic ">
+    <div class="topSpace">
+      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="" class="tempLogo01" />
+    </div>
 
-
-
-
-  <div id="colNav" class="colNav">
-    <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="" class="tempLogo01" />
-    <div class="hideOnSmall">
+    <div class="hideOnSmall stickyTop">
       <nav id="mainNav" class="navNoList">{{{navigation_list}}}</nav>
-
+      <div>{{> comp_language-switch}}</div>
     </div>
   </div>
-
-
 
 
 
 
   <div id="colContent" class="colContent centerContent">
-    <div id="breadCrumb" class="tempBreadcrumb">
-      <a href="index.html">Home</a> {{{breadcrumb}}}
-    </div>
-    <main id="main-content" class="read">
-      <h1>{{title}}</h1>
+
+    {{#if hero1}}
+      {{> comp_hero}}
+      <main id="main-content" class="read in_padding--basic ">
+
+      {{else}}
+      <div id="breadCrumb" class="tempBreadcrumb topSpace">
+        <a href="index.html">Home</a> {{{breadcrumb}}}
+      </div>
+      <main id="main-content" class="read in_padding--basic ">
+        <h1>{{title}}</h1>
+
+    {{/if}}
+
       {{{ htmlContent }}}
+
+
+
     </main>
+    {{> comp_feature_list}}
   </div>
 
 
 
-
-
-
-
-  <aside id="colAside" class="colAside"><div>{{{langToggle}}}</div></aside>
+  <aside id="colAside" class="colAside borderLeft"><div> {{> comp_huc-founders}}</div></aside>
 </div>
 
 

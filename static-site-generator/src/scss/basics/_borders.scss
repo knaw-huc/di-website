@@ -1,0 +1,14 @@
+@use '../abstracts' as *;
+
+
+.borderBot {
+  border-bottom: $bordeLine
+}
+
+.borderLeft {
+  border-left: $bordeLine
+}
+
+.borderRight {
+  border-right: $bordeLine
+}

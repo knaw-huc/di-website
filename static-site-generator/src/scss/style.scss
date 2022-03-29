@@ -7,6 +7,12 @@
 @use 'basics/nav';
 @use 'layout/layout_3col-vertNav';
 @use 'basics/contentColumnMarkup';
+@use 'components/hero';
+@use 'components/listBlocks';
+@use 'components/listRows';
+@use 'components/huc-founders';
+@use 'components/language-switch';
+@use 'basics/borders';
 @use 'markupCustom';
 
 

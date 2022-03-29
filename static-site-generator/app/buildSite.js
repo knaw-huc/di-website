@@ -57,13 +57,13 @@ function handleLanguage() {
   languages = languages.filter(onlyUniqueInArr);
 
   languages.forEach((item, i) => {
-    sitedataLang[item+'-pages'] = []
+    sitedataLang[item+'_pages'] = []
   });
 
 
   // create
   sitedata.forEach((item, i) => {
-    sitedataLang[item.language+'-pages'].push(item)
+    sitedataLang[item.language+'_pages'].push(item)
 
   });
   //console.log(sitedataLang);
@@ -278,34 +278,49 @@ function addPageSubNavigationList() {
 
 
 function createAltPageLists() {
-  let catList = []
-  let pageList = []
+  for (const [key, value] of Object.entries(sitedataLang)) {
+    //itedataLang[key]
 
-  // collect all categories
-  sitedata.forEach((item) => {
-    if (item.type != 'page') {
-      catList.push(item.type)
-    }
-  });
-   catList = catList.filter((v, i, a) => a.indexOf(v) === i);
+    let catList = []
+    let pageList = []
+
+    // collect all categories
+    sitedataLang[key].forEach((item) => {
+      if (item.type != 'page') {
+        catList.push(item.type)
+      }
+    });
+     catList = catList.filter((v, i, a) => a.indexOf(v) === i);
 
 
-   // create lists with pages
-   catList.forEach((cat, i) => {
-     sitedata.forEach((item) => {
-       if (item.type == cat) {
-         pageList.push(item)
-       }
+     // create lists with pages
+     catList.forEach((cat, i) => {
+       sitedataLang[key].forEach((item) => {
+         if (item.type == cat) {
+           pageList.push({
+             file_name: item.file_name,
+             title: item.title,
+             author: item.author,
+             type: item.type,
+             htmlContent: item.htmlContent,
+             publish_date: item.publish_date
+           })
+         }
+       });
+
+       // add the list to each page
+
+       sitedataLang[key].forEach((page, j) => {
+           sitedataLang[key][j][cat]= pageList;
+       });
+       catList = [];
+       pageList = [];
+
      });
 
-     // add the list to each page
-     sitedata.forEach((page, j) => {
-         sitedata[j][cat]= pageList;
-     });
-     pageList = [];
-
-   });
-
+  }
+//console.log(sitedataLang.nl_pages[0]);
+createFile('outputsite.json',JSON.stringify(sitedataLang));
 }
 
 
@@ -323,7 +338,7 @@ function createLanguageToggle() {
     })
   }
 
-  //createFile('outputsite2.json',JSON.stringify(sitedataLang));
+
 }
 
 

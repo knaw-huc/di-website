@@ -9,7 +9,7 @@ let siteData = []
 
 // go through all files in markdown folder and create structure based on filenames
 fs.readdir(config.dirMarkdown, (err, files) => {
-  console.log(files);
+  //console.log(files);
   let filesAmount = files.length
 
   files.forEach((file, i) => {
