@@ -12,16 +12,15 @@ To convert page images of typed or printed text (OCR) into machine-readable text
 
 [Rutger van Koert](mailto:rutger.van.koert@di.huc.knaw.nl), Lead developer for Team Images ([Pure](https://pure.knaw.nl/portal/en/persons/rutger-koert-van), [ACM](https://dl.acm.org/profile/81339533737))
 
-### Research Projects
+### Related Research Projects
 
 + what did we contribute to each of these projects?
-
 - [Republic](https://en.huygens.knaw.nl/projecten/resoluties-staten-generaal-1576-1796-de-oerbronnen-van-de-parlementaire-democratie/?noredirect=en_GB) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Work on Republic began in 2019 and is scheduled to end in 2024. **Contribution:** Improved layout analysis detecting textlines and regions in 16-18th century handwritten and printed material
 - [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). Consisting of approximately twenty-five million pages, the archives of the Dutch East India Company (VOC) offer a unique view on interactions between European and non-European actors in Asia in the seventeenth and eighteenth centuries. However, doing research on this collection of handwritten documents is currently extremely challenging. Globalise will develop an online infrastructure that will make the VOC reports easily accessible for advanced new research methods. **Contribution:** HTR of 16-18th century handwritten materials drawn largely from the Dutch East Indian Shipping company and Dutch East Asian colonies.
 - [TRIADO](https://www.oorlogsbronnen.nl/nieuws/veelbelovende-resultaten-onderzoek-naar-digitaal-doorzoekbaar-maken-cabr) (KNAW Humanities Cluster). After the Second World War, more than 300,000 Dutch citizens were subjected to the so-called special administration of justice. They were accused of collaboration with the German occupier, treason, membership in the Dutch National Socialist Movement (NSB) or having enlisted in the German military. Files on all these people are kept in the [Central Archive: Special Criminal Jurisdiction (CABR)](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/tweede-wereldoorlog-centraal-archief-bijzondere-rechtspleging-cabr). The goal of the TRIADO project is to make the entire CABR collection fully searchable and accessible. **Contribution:** Document type classification, OCR pre-processing, OCR, named entity recognition, and topic modeling.
 - [Digital Forensics](https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/?noredirect=nl_NL) (Huygens Institute) aims at creating a bridge in between two different modes of handwriting analyses: forensic (graph analysis) and palaeographical (the development of scripts through space and time). In Digital Forensics, the two methods will be combined in a single ‘deep learning system’ to analyse the similarities and deviances in handwritten script in a palaeographically meaningful manner. **Contribution:** Authorship attribution and location.
 
-### Digital Infrastructure, Tools and Datasets
+### Software and Data
 
 + what did we contribute to each of these resources?
 

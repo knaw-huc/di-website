@@ -15,7 +15,7 @@ Very large and complex text based projects can benefit from the open source [tex
 
 [Hennie Brugman](mailto:hennie.brugman@di.huc.knaw.nl), Lead Developer for Team Text ([Research Gate](https://www.researchgate.net/profile/Hennie-Brugman), [LinkedIn](https://nl.linkedin.com/in/hennie-brugman-8327369), [Pure](https://pure.knaw.nl/portal/en/persons/h-brugman))
 
-### Research Projects
+### Related Research Projects
 
 - [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. Contribution: tba
 - [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Contribution: tba
@@ -24,7 +24,7 @@ Very large and complex text based projects can benefit from the open source [tex
 - tba
 
 
-### Software and Datasets
+### Software and Data
 
 + what did we contribute to each of these resources?
 + Docere ownership?

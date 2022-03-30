@@ -13,7 +13,7 @@ The tools developed by the Interface Design team place the underlying data in th
 
 [Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/), [LinkedIn](https://nl.linkedin.com/in/bas-doppen-b50a1931), [GitHub](https://github.com/Doppen))
 
-### Research Projects
+### Related Research Projects
 
 + Explain the design contributions
 
@@ -21,7 +21,7 @@ The tools developed by the Interface Design team place the underlying data in th
 - [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (20xx-202x)
 - [The Art of Reasoning](https://art-of-reasoning.huygens.knaw.nl/) (date)
 
-### Software and Datasets
+### Software and Data
 
 - tba
 

@@ -3,7 +3,7 @@ title: Cloud Computing
 author: Arno Bosse
 type: page
 ---
-## Spatial Computing
+## Cloud Computing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
 
@@ -13,13 +13,13 @@ Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhonc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-### Research Projects
+### Related Research Projects
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
-### Software and Datasets
+### Software and Data
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 

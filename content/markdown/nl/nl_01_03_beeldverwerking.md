@@ -12,7 +12,7 @@ Binnen de pijplijn wordt de tekst in de documenten gescheiden van de achtergrond
 ### Contact
 images@di.huc.knaw.nl
 
-### Projecten
+### Verwante Onderzoeksprojecten
 
 + [Republic]https://republic.huygens.knaw.nl/ (2019-2023)
 Digitale ontsluiting van de resoluties van de Staten Generaal van 1576 tot en met 1796. Deze deels handgeschreven, deels geprinte documenten tonen de vorming van de Republiek der Zeven Verenigde Nederlanden.
@@ -23,6 +23,9 @@ In het project Tribunaalarchieven als digitale onderzoeksfaciliteit (TRIADO) zij
 + [Digital Forensics]https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/ (2018-2021)
 In één digitale omgeving zijn forensische en paleografische methode voor handschriftanalyse gecombineerd.
 
-### Papers/Presentaties
+### Software en Data
+
+
+### Publicaties en Presentaties
 
 n.v.t.

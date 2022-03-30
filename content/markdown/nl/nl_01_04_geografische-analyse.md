@@ -1,5 +1,5 @@
 ---
-title: Ruimtelijk Rekenen
+title: Geographische Analyse
 author: Thomas Vermaut
 type: page
 ---
@@ -22,16 +22,17 @@ Naast een brede historische scope, beperken we ons ook niet tot de huidige lands
 
 [Thomas Vermaut](mailto:thomas.vermaut@di.huc.knaw.nl), Lead developer for Team Geo ([Pure](https://pure.knaw.nl/portal/en/persons/thomas-vermaut), [ORCID](https://orcid.org/0000-0003-2770-7383)
 
-### Research Projects
+### Verwante Onderzoeksprojecten
 
 - [HisGIS](https://hisgis.nl)
 - [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We hebben bijgedragen aan de ontwikkeling van v2.0 van de gazetteer, alsook de [Dutch Global History collectie](https://whgazetteer.org/collections/2/detail)
 
 
-### Digital Infrastructure, Tools and Datasets
+### Software en Data
 
 - [HisGIS](https://hisgis.nl)
 
 
-### Publications and Presentations
+### Publicaties en Presentaties
+
 - [Damen, M. J. M., Drukker, D., Feikens, J. J., Jongepier, I., Overlaet, K., Oostindiër, A. E., Stapel, R. & Vermaut, T. Hertogdom Brabant (26 Aug 2021)](https://pure.knaw.nl/portal/en/publications/hertogdom-brabant)
