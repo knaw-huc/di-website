@@ -1,0 +1,21 @@
+@use '../abstracts' as *;
+
+.founders {
+  display: flex;
+  flex-direction: row;
+
+  img {
+    width: auto;
+    height: 50px;
+  }
+
+  >* {
+    margin: 0 30px 30px 0;
+  }
+}
+
+@media (min-width: 1300px) {
+  .founders {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,36 @@
+@use '../abstracts' as *;
+
+.list_blocks {
+  width: 100%;
+  border-top: $bordeLine;
+
+  ul{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+
+
+    li{
+      border-right: $bordeLine;
+      flex: 1;
+      width: 100%;
+      list-style: none;
+      margin: 0;
+      min-height: 200px;
+    }
+  }
+}
+
+@media (min-width: 1000px) {
+  .list_blocks {
+
+    ul{
+      flex-direction: row;
+
+      li {
+        width: 50%;
+      }
+    }
+  }
+}

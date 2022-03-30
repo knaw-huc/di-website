@@ -1,17 +1,21 @@
 //@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,300&display=swap');
 //@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,700;1,300&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,700;1,300&display=swap');
 //@import url('http://fonts.cdnfonts.com/css/graphik?styles=44660,44652');
 //@import url('http://fonts.cdnfonts.com/css/graphik?styles=44656,44657,44658'); //300, 300i 500
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,200;0,500;1,200&display=swap');
 
 $fontSizeDefault: 18px;
 $fontSizeSmall: 15px;
 
 $lineHeightDefault: 150%;
-$fontWeightDefault: 300;
+$fontWeightDefault: 200;
 $fontWeightBold: 500;
 
-$fontFamilyDefault: 'Roboto', sans-serif;
+$fontFamilyDefault: 'IBM Plex Sans', sans-serif;;
+//$fontFamilyDefault: 'Poppins', sans-serif;
+//$fontFamilyDefault: 'Roboto', sans-serif;
 //$fontFamilyMono: "Andale Mono", AndaleMono, monospace;
 // $fontFamilyDefault: 'Graphik', sans-serif;
 // $fontFamilyMono: "Andale Mono", AndaleMono, monospace;
