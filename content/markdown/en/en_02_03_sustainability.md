@@ -1,17 +1,22 @@
 ---
-title: Sustainable Collections
+title: Sustainability
 author: Arno Bosse
 type: page
 ---
+An important core task of the Digital Infrastructure department is to manage digital data. Not only because all research projects produce data, but also because our institutes aim to form data sets or digital collections and to make them available. This applies particularly to the IISG, which has a direct collection-building objective. We make these datasets available in a sustainable way, and as much as possible according to FAIR principles. Therefore, we are also [CoreTrustSeal](https://www.coretrustseal.org/) certified.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
+We carry out this work in close cooperation with the Data Management department of the Huygens Institute and with the Collections department of the IISG.
+The importance of the digital collections is great; it often concerns digital heritage. For this reason, the HuC is also the formal 'hub' for the science sector within the [Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/). Our cooperation with [DANS](https://dans.knaw.nl/) is also becoming increasingly important. Recently, we have also entered into a cooperation with the [NIOD](https://www.niod.nl/), for whom we will manage the digital collections.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
+A large collection of datasets that we make available can be found at: [https://datasets.iisg.amsterdam/](https://datasets.iisg.amsterdam/).
+For more information, please contact Mario Mieldijk (Concern Infrastructure team) at [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).
 
-Vivamus eu lectus sollicitudin, egestas diam in, auctor risus. Praesent elementum sapien velit. Aenean ac sagittis massa. Quisque ut nulla id elit luctus volutpat. Nullam arcu justo, feugiat vitae tortor vel, dapibus dictum velit. Fusce imperdiet auctor mauris quis blandit. Nullam aliquam pharetra ornare. Aliquam accumsan nisi tortor, ac sagittis quam malesuada ac. Etiam eget erat quis mauris scelerisque aliquet congue non nunc. Nulla nulla neque, eleifend eu lacinia id, cursus at ipsum. Praesent commodo mi vitae eros dapibus commodo.
+#### Sustainable software and infrastructure
 
-#### Sustainable Software and Infrastructure
+The DI department develops software and infrastructure as sustainably as possible. Where possible, we use existing tools and software. We continue to build on generic components to serve specific research questions. When further developing software, we always seek to collaborate with other parties. We always make the software available on open source.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
+The DI department has its own Concern Infrastructure team that manages the developed infrastructure and ensures secure access to it. By using techniques such as Kubernetes, Docker, vmWare and Database clusters, the infrastructure is scalable and sustainably maintained.
 
-Vivamus eu lectus sollicitudin, egestas diam in, auctor risus. Praesent elementum sapien velit. Aenean ac sagittis massa. Quisque ut nulla id elit luctus volutpat. Nullam arcu justo, feugiat vitae tortor vel, dapibus dictum velit. Fusce imperdiet auctor mauris quis blandit. Nullam aliquam pharetra ornare. Aliquam accumsan nisi tortor, ac sagittis quam malesuada ac. Etiam eget erat quis mauris scelerisque aliquet congue non nunc. Nulla nulla neque, eleifend eu lacinia id, cursus at ipsum. Praesent commodo mi vitae eros dapibus commodo.
+We invite researchers and developers to make use of this infrastructure and to build on it with us.
+
+A large collection of Open Source software projects can be found on [GitHub](https://github.com/knaw-huc). Translated with www.DeepL.com/Translator (free version)

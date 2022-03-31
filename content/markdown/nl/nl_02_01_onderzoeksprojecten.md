@@ -11,6 +11,6 @@ Neem voor meer informatie contact op met Arno Bosse (Acquisition manager) of Men
 
 Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 
-+ [Anne Frank Manuscripten](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)  (Huygens) – Editiewetenschappelijk en geschiedkundig onderzoek naar de manuscripten van Anne Frank met behulp van innovatieve technieken.
-+ [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (Huygens) – Toegankelijk maken van de gedigitaliseerde documenten die door Britse kapers in de periode 1652-1815 op vijandelijke schepen zijn buitgemaakt.
-+ … nog een paar kleinere onderzoeksprojecten
+- [Anne Frank Manuscripten](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)  (Huygens) – Editiewetenschappelijk en geschiedkundig onderzoek naar de manuscripten van Anne Frank met behulp van innovatieve technieken.
+- [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (Huygens) – Toegankelijk maken van de gedigitaliseerde documenten die door Britse kapers in de periode 1652-1815 op vijandelijke schepen zijn buitgemaakt.
+- … nog een paar kleinere onderzoeksprojecten

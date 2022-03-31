@@ -3,7 +3,6 @@ title: Duurzaam collectiebeheer
 author: Menno Rasch
 type: page
 ---
-
 Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen. Dit geldt met name voor het IISG, dat een direct collectievormende doelstelling heeft. Deze datasets stellen we duurzaam, en zo veel mogelijk volgens de FAIR-principes beschikbaar. We zijn daarom ook [CoreTrustSeal](https://www.coretrustseal.org/) gecertificeerd .
 
 Deze werkzaamheden voeren we uit in nauwe samenwerking met de afdeling Databeheer van het Huygens Instituut, en met de afdeling Collecties van het IISG.
