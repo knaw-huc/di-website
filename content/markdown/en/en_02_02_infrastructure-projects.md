@@ -3,12 +3,26 @@ title: Infrastructure Projects
 author: Menno Rasch
 type: page
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
+Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
+Our developers have extensive experience in setting up and implementing complex infrastructure projects. Even after these projects are completed, the DI department usually continues to play a major role in managing the infrastructure that has been delivered.
 
-Vivamus eu lectus sollicitudin, egestas diam in, auctor risus. Praesent elementum sapien velit. Aenean ac sagittis massa. Quisque ut nulla id elit luctus volutpat. Nullam arcu justo, feugiat vitae tortor vel, dapibus dictum velit. Fusce imperdiet auctor mauris quis blandit. Nullam aliquam pharetra ornare. Aliquam accumsan nisi tortor, ac sagittis quam malesuada ac. Etiam eget erat quis mauris scelerisque aliquet congue non nunc. Nulla nulla neque, eleifend eu lacinia id, cursus at ipsum. Praesent commodo mi vitae eros dapibus commodo.
+The Digital Infrastructure department is always open to new collaborations and new infrastructure projects for the humanities. Please contact us to discuss what our role and added value can be.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+For more information: Arno Bosse (Acquisition manager, member of the grant team Huc (link?)) and Menno Rasch (director).
+
+Important infrastructure projects are:
+
+- Clariah](https://www.clariah.nl), 2018-2022, NWO-GWI:
+DI is working with various universities and heritage institutions on facilities for the digital humanities. DI occupies a key technical position in this. The HuC is the leader of a large number of work packages and the chairman of the HuC is also PI of CLARIAH.
+- Polifonia](https://polifonia-project.eu/) 2021-2024, EU Horizon 2020:
+European interdisciplinary team develops a globally connected online database in which connections between music, people, locations and events from the sixteenth century onwards can be investigated using artificial intelligence.
+- Golden Agents](https://www.goldenagents.org) 2016-2022, Investments NWO-Great:
+Infrastructure combining semantic web technologies with multi-agent technologies. This sustainable infrastructure makes it possible to study the relationships and interactions between producers and consumers and between the various branches of the creative industry over the long Golden Age.
+- Nederlab](https://www.nederlab.nl/) 2013-2018, Investments NOW-Great:
+Web interface that allows researchers to search and analyse scattered digital historical corpora as a unit; this applies to both the texts themselves and the metadata.
+
+Presentations of DI
+- ...
+- ...
+ Translated with www.DeepL.com/Translator (free version)
