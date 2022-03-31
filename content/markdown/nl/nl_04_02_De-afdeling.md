@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: De afdeling
 author: Menno Rasch
 type: page
 ---

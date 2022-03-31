@@ -1,70 +1,74 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
   <head>
     <title>Werken met DI | Digital Infrastructure</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/v1/style.css" />
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
-    <script type="text/javascript">
-      function subNav(id) {
-        document.getElementById(id).style.display = "flex";
-      }
-    </script>
+
   </head>
   <body>
-    <!-- <a href="#main-content" class="skipToContent">Skip to content</a> -->
-  </body>
-</html>
+    <a href="#main-content" class="skipToContent">Skip to content</a>
 
 <div class="layout_3col_vertNav">
 
 
-  <div id="colNav" class="colNav borderRight in_padding--basic ">
+  <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
-      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="" class="tempLogo01" />
+      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" />
     </div>
 
     <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList"><ul><li><a href="index.html">Home</a></li><li><a href="expertise-nl.html">Expertise</a></li><li class=" navIsCurrentParent"><a href="activiteiten-nl.html">Activiteiten</a><ul><li class=""><a href="onderzoeksprojecten-nl.html">Onderzoeksprojecten</a></li><li class=""><a href="infrastructuurprojecten-nl.html">Infrastructuurprojecten</a></li><li class=""><a href="duurzaam-collectiebeheer-nl.html">Duurzaam collectiebeheer</a></li><li class=""><a href="duurzame-software-en-infrastuctuur-nl.html">Duurzame software en infrastuctuur</a></li><li class=" navIsCurrentPage"><a href="werken-met-di-nl.html">Werken met DI</a></li></ul></li><li><a href="partners-nl.html">Partners</a></li><li><a href="organisatie-nl.html">Organisatie</a></li></ul></nav>
-      <div><div class="languageToggle">
-  <a href="home-en.html">en</a><a href="index.html">nl</a>
+      <nav id="mainNav" class="navNoList"><ul><li><a href="index.html">Home</a></li><li><a href="expertise-nl.html">Expertise</a></li><li class=" navIsCurrentParent"><a href="activiteiten-nl.html">Activiteiten</a><ul><li class=""><a href="onderzoeksprojecten-nl.html">Onderzoeksprojecten</a></li><li class=""><a href="infrastructuurprojecten-nl.html">Infrastructuurprojecten</a></li><li class=""><a href="duurzaam-collectiebeheer-nl.html">Duurzaam collectiebeheer</a></li><li class=""><a href="duurzame-software-en-infrastuctuur-nl.html">Duurzame software en infrastuctuur</a></li><li class=" navIsCurrentPage"><a href="werken-met-di-nl.html">Werken met DI</a></li></ul></li><li><a href="organisatie-nl.html">Organisatie</a></li></ul></nav>
+      <div><div class="languageToggle" aria-label="Choose a language">
+  <a href="home-en.html" aria-label="English">en</a><a href="index.html" aria-label="Nederlands">nl</a>
 </div>
 </div>
     </div>
-  </div>
+  </aside>
 
 
 
 
-  <div id="colContent" class="colContent centerContent">
+  <div id="colContent" class="colContent">
 
-      <div id="breadCrumb" class="tempBreadcrumb topSpace">
+      <div id="breadCrumb" class="tempBreadcrumb topSpace in_padding--basic maxWidth">
         <a href="index.html">Home</a> | <a href="activiteiten-nl.html">Activiteiten</a> | <span>Werken met DI</span>
       </div>
-      <main id="main-content" class="read in_padding--basic ">
+      <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>Werken met DI</h1>
 
-
       <p>De afdeling Digitale Infrastructuur werkt samen met onderzoekers en staat daarom altijd open voor nieuwe ideeën en projecten. Ook passen we de bestaande oplossingen graag toe in nieuwe onderzoeksprojecten.</p>  <p>Onze research software engineers zijn specialisten op hun terrein en zijn graag bereid mee te denken hoe DI kan bijdragen aan uw plannen. Onze Acquisition Manager en het Grant Team wisselen graag met u van gedachten over funding of de invulling van het technische deel van het project. Wij adviseren om deze gesprekken zo vroeg mogelijk aan te gaan, in de fase waarin de eerste ideeën worden gevormd, en niet te wachten tot bijvoorbeeld een deadline al in zicht is.</p>  <p>Daarnaast beschikt elk instituut binnen het Humanities Cluster over een product owner, die de weg binnen DI goed kent en u de juiste richting op kan wijzen voor een samenwerking met DI.</p>  <p>Hoewel DI primair is opgericht om onderzoekers van de HuC-instituten te helpen, voert de afdeling ook projecten uit in samenwerking met andere onderzoeksorganisaties. Zeker als deze aansluiten bij de andere projecten en de bestaande infrastructuur.</p>
-
-
-
     </main>
+
+
+
+    <footer class="huc_footer borderTop">
+      <div class="maxWidth huc_footer__cols">
+        <div>Col 1</div>
+        <div>Col 2</div>
+        <div>Col 3</div>
+    
+      </div>
+    
+    
+    </footer>
   </div>
 
 
 
-  <aside id="colAside" class="colAside borderLeft"><div> <div class="founders">
-  <div>
+  <aside id="colAside" class="colAside borderLeft"><div> <div class="founders in_padding--basic">
+  <h2>Partners</h2>
+  <div class="founders__hi">
     <img src="images/logo_huygens.png" alt="Huyegsn Instituut">
   </div>
 
-  <div>
+  <div class="founders__ii">
     <img src="images/logo-iisg.png" alt="IISG">
   </div>
 
-  <div>
+  <div class="founders__me">
     <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut">
   </div>
 
@@ -90,6 +94,8 @@
 
 
 <script src="js/hamburger-menu.js" charset="utf-8"></script>
+
+
 
 </body>
 </html>

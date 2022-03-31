@@ -10,6 +10,9 @@
 * `npm i`
 
 
-* metadata
-list: true
-list_cat: feature
+## metadata
+list_feature: true
+list_news: true
+type: news / feature / page
+publication_date: 22-03-2022
+teaser_text: Dit is een nieuws bericht.

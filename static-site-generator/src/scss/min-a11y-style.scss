@@ -1,5 +1,3 @@
-@use 'custom/minimal22/layout1';
-@use 'custom/minimal22/minimalCards';
 
 html {
     font-size: 100%;
@@ -11,18 +9,16 @@ body {
 }
 
 p {
-    margin: 1.5rem 0;
-    font-size: 1rem;
-    line-height: 1.5;
+    // margin: 1.5rem 0;
+    // font-size: 1rem;
+    // line-height: 1.5;
 
 		// contrast
 		//background: #eee;
-		color: #222;
+		// color: #222;
 }
 
-main {
-    max-width: 60rem;
-}
+
 
 @media print {
     body > *:not(main) {
@@ -31,12 +27,38 @@ main {
 }
 
 
-[href="#main"] {
+[href="#main-content"] {
     position: absolute;
     top: 0;
     right: 100%; /* moves off screen */
 }
 
-[href="#main"]:focus {
+[href="#main-content"]:focus {
     right: auto;
+}
+
+
+
+
+// cards
+
+.incCard {
+  position: relative;
+}
+
+.incCard a {
+    text-decoration: none;
+}
+
+.incCard a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.incCard a:focus {
+    text-decoration: underline;
 }
