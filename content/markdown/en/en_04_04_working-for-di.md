@@ -1,5 +1,5 @@
 ---
-title: Work for DI
+title: Working for DI
 author: Menno Rasch
 type: page
 ---
