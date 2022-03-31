@@ -5,7 +5,8 @@
 
   <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
-      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" />
+      <div><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" /></div>
+
     </div>
 
     <div class="hideOnSmall stickyTop">
@@ -24,7 +25,7 @@
       <main id="main-content" class="read in_padding--basic maxWidth">
 
       {{else}}
-      <div id="breadCrumb" class="tempBreadcrumb topSpace in_padding--basic maxWidth">
+      <div id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth">
         <a href="index.html">Home</a> {{{breadcrumb}}}
       </div>
       <main id="main-content" class="read in_padding--basic maxWidth">
@@ -37,6 +38,7 @@
 
     {{> comp_feature_list}}
     {{> comp_news_list}}
+    {{> comp_subpages_list}}
 
     {{> huc_footer}}
   </div>

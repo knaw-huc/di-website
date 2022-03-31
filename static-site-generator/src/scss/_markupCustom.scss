@@ -18,11 +18,20 @@ body {
   width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 @media (min-width: 1000px) {
   .topSpace {
     min-height: 170px;
+  }
+}
+
+@media (min-width: 1500px) {
+  .topSpace {
+    min-height: 300px;
   }
 }
 
@@ -92,7 +101,7 @@ body {
 }
 
 .breadCrumb {
-
+  font-size: $fontSizeS;
 }
 
 
@@ -130,9 +139,11 @@ $hamSpace: 15px;
 
 .huc_footer {
   margin-top: 100px;
-  padding: 50px 0;
-  background-color: hsl(0, 0%, 90%);
+  padding: 150px 0;
+  background-color: hsl(0, 0%, 94%);
   width: 100%;
+  display: flex;
+  justify-content: center;
 
   .huc_footer__cols {
     display: flex;

@@ -23,7 +23,7 @@ function build() {
     .then(handleLanguage)
     .then(addPageBreadCrumb)
     .then(addPageNavigationList)
-    //.then(addPageSubNavigationList)
+    .then(addPageSubNavigationList)
     .then(createAltPageLists)
     .then(createLanguageToggle)
     .then(registerPartials)
@@ -245,33 +245,44 @@ function addPageNavigationList() {
 
 
 function addPageSubNavigationList() {
-  let tempArr = [];
-  let tempUl = '';
+  for (const [key, value] of Object.entries(sitedataLang)) {
+    let tempArr = [];
+    let tempUl = '';
+    let pageList = []
 
-  sitedata.slice().reverse().forEach((page, i) => {
-    if (page.type == 'page') {
+    sitedataLang[key].slice().reverse().forEach((page, i) => {
+      if (page.type == 'page') {
 
-      if (page.page_level == 2) {
-        tempUl = '<li><a href="' + page.file_name + '">' + page.title + '</a></li>' + tempUl;
-        tempArr.push(sitedata.length - i)
+        if (page.page_level == 2) {
+          tempUl = '<li><a href="' + page.file_name + '">' + page.title + '</a></li>' + tempUl;
+          tempArr.push(sitedataLang[key].length - i)
+          pageList.push({
+            title: page.title,
+            file_name: page.file_name
+          }
+
+          )
+
+        }
+        if (page.page_level == 1) {
+          tempArr.push((sitedataLang[key].length - i));
+          tempArr.forEach((id, j) => {
+            let tempUl2
+
+            tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
+
+            sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
+            sitedataLang[key][id - 1].navigationSub = pageList;
+          });
+
+          tempUl = '';
+          tempArr = [];
+          pageList = []
+        }
 
       }
-      if (page.page_level == 1) {
-        tempArr.push((sitedata.length - i));
-        tempArr.forEach((id, j) => {
-          let tempUl2
-
-          tempUl2 = tempUl.replace('<li><a href="' + sitedata[id - 1].file_name + '">', '<li class="currPage"><a href="' + sitedata[id - 1].file_name + '">');
-
-          sitedata[id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
-        });
-
-        tempUl = '';
-        tempArr = [];
-      }
-
-    }
-  })
+    })
+}
 
 }
 
