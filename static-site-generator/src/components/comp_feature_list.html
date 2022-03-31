@@ -1,13 +1,21 @@
 {{#if list_feature}}
-<div class="list_blocks">
-  <ul>
+<section class="list_blocks ">
+  <header class="in_padding--basic">
+    <h2>Featured articles</h2>
+  </header>
+
+  <ul class="borderTop ">
     {{#each feature }}
-    <li class="in_padding--basic">
-      <h2>{{title}}</h2>
-      <a href="{{file_name}}">More</a>
+    <li class=" incCard">
+      <div class="list_blocks__thumbnail"><img src="images/{{featured_image}}" alt=""></div>
+      <div class="list_blocks__text">
+        <h3><a href="{{file_name}}">{{title}}</a></h3>
+        <div>{{teaser_text}} </div>
+      </div>
+
     </li>
     {{/each}}
 
   </ul>
-</div>
+</section>
 {{/if}}

@@ -1,6 +1,10 @@
 @use '../abstracts' as *;
 
 
+.borderTop {
+  border-top: $bordeLine
+}
+
 .borderBot {
   border-bottom: $bordeLine
 }

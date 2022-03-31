@@ -1,86 +1,103 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
   <head>
     <title>Home | Digital Infrastructure</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/v1/style.css" />
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
-    <script type="text/javascript">
-      function subNav(id) {
-        document.getElementById(id).style.display = "flex";
-      }
-    </script>
+
   </head>
   <body>
-    <!-- <a href="#main-content" class="skipToContent">Skip to content</a> -->
-  </body>
-</html>
+    <a href="#main-content" class="skipToContent">Skip to content</a>
 
 <div class="layout_3col_vertNav">
 
 
-  <div id="colNav" class="colNav borderRight in_padding--basic ">
+  <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
-      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="" class="tempLogo01" />
+      <img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" />
     </div>
 
     <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList"><ul><li class=" navIsCurrentParent"><a href="index.html">Home</a><ul></ul></li><li><a href="expertise-nl.html">Expertise</a></li><li><a href="activiteiten-nl.html">Activiteiten</a></li><li><a href="partners-nl.html">Partners</a></li><li><a href="organisatie-nl.html">Organisatie</a></li></ul></nav>
-      <div><div class="languageToggle">
-  <a href="home-en.html">en</a><a href="index.html">nl</a>
+      <nav id="mainNav" class="navNoList"><ul><li class=" navIsCurrentParent"><a href="index.html">Home</a><ul></ul></li><li><a href="expertise-nl.html">Expertise</a></li><li><a href="activiteiten-nl.html">Activiteiten</a></li><li><a href="organisatie-nl.html">Organisatie</a></li></ul></nav>
+      <div><div class="languageToggle" aria-label="Choose a language">
+  <a href="home-en.html" aria-label="English">en</a><a href="index.html" aria-label="Nederlands">nl</a>
 </div>
 </div>
     </div>
-  </div>
+  </aside>
 
 
 
 
-  <div id="colContent" class="colContent centerContent">
+  <div id="colContent" class="colContent">
 
-      <div class="hero borderBot">
+      <div class="hero">
         <div class="in_padding--basic">
           <h1>We build sustainable infrastructure to foster innovative research connecting people, data, and collections.</h1>
           <p>Digital Infrastructure</p>
         </div>
         <div class="hero__image" style="background-image: url(images/Box-with-Prize-Papers.jpg)"></div>
       </div>
-      <main id="main-content" class="read in_padding--basic ">
+      <main id="main-content" class="read in_padding--basic maxWidth">
 
 
       
-
-
-
     </main>
-    <div class="list_blocks">
-      <ul>
-        <li class="in_padding--basic">
-          <h2>Zoeken in handgeschreven teksten</h2>
-          <a href="zoeken-in-handgeschreven-teksten-nl.html">More</a>
+
+
+    <section class="list_blocks ">
+      <header class="in_padding--basic">
+        <h2>Featured articles</h2>
+      </header>
+    
+      <ul class="borderTop ">
+        <li class=" incCard">
+          <div class="list_blocks__thumbnail"><img src="images/Holland-Replicatie_thumb.png" alt=""></div>
+          <div class="list_blocks__text">
+            <h3><a href="zoeken-in-handgeschreven-teksten-nl.html">Zoeken in handgeschreven teksten</a></h3>
+            <div>“Tot het begin van de 18e eeuw werden de resoluties van de Staten Generaal met de hand geschreven”, vertelt Joris Oddens, projectleider van Republic, waarin deze resoluties (1576-1796) digitaal worden ontsloten. “Die handschriften zijn voor een mens moeilijk te lezen en lastig om in groten getale te doorzoeken. Automatische handschriftherkenning zorgt dan ook voor een revolutie in de geesteswetenschappen. Doordat alles online doorzoekbaar wordt, kun je heel andere onderzoeksvragen stellen.” </div>
+          </div>
+    
         </li>
-        <li class="in_padding--basic">
-          <h2>Lorem Ipsum</h2>
-          <a href="lorem-ipsum-nl.html">More</a>
+        <li class=" incCard">
+          <div class="list_blocks__thumbnail"><img src="images/map_v2-1024x614_thumb.jpg" alt=""></div>
+          <div class="list_blocks__text">
+            <h3><a href="lorem-ipsum-nl.html">Lorem Ipsum</a></h3>
+            <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula.  </div>
+          </div>
+    
         </li>
     
       </ul>
-    </div>
+    </section>
+
+    <footer class="huc_footer borderTop">
+      <div class="maxWidth huc_footer__cols">
+        <div>Col 1</div>
+        <div>Col 2</div>
+        <div>Col 3</div>
+    
+      </div>
+    
+    
+    </footer>
   </div>
 
 
 
-  <aside id="colAside" class="colAside borderLeft"><div> <div class="founders">
-  <div>
+  <aside id="colAside" class="colAside borderLeft"><div> <div class="founders in_padding--basic">
+  <h2>Partners</h2>
+  <div class="founders__hi">
     <img src="images/logo_huygens.png" alt="Huyegsn Instituut">
   </div>
 
-  <div>
+  <div class="founders__ii">
     <img src="images/logo-iisg.png" alt="IISG">
   </div>
 
-  <div>
+  <div class="founders__me">
     <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut">
   </div>
 
@@ -106,6 +123,8 @@
 
 
 <script src="js/hamburger-menu.js" charset="utf-8"></script>
+
+
 
 </body>
 </html>

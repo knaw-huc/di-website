@@ -23,7 +23,7 @@ function build() {
     .then(handleLanguage)
     .then(addPageBreadCrumb)
     .then(addPageNavigationList)
-    .then(addPageSubNavigationList)
+    //.then(addPageSubNavigationList)
     .then(createAltPageLists)
     .then(createLanguageToggle)
     .then(registerPartials)
@@ -288,14 +288,18 @@ function createAltPageLists() {
     sitedataLang[key].forEach((item) => {
       if (item.type != 'page') {
         catList.push(item.type)
+
       }
     });
+    // undouble
      catList = catList.filter((v, i, a) => a.indexOf(v) === i);
+
 
 
      // create lists with pages
      catList.forEach((cat, i) => {
        sitedataLang[key].forEach((item) => {
+
          if (item.type == cat) {
            pageList.push({
              file_name: item.file_name,
@@ -303,10 +307,14 @@ function createAltPageLists() {
              author: item.author,
              type: item.type,
              htmlContent: item.htmlContent,
-             publish_date: item.publish_date
+             publication_date: item.publication_date,
+             teaser_text: item.teaser_text,
+             featured_image: item.featured_image
            })
          }
        });
+
+
 
        // add the list to each page
 
@@ -329,7 +337,17 @@ function createLanguageToggle() {
   for (const [key, value] of Object.entries(sitedataLang)) {
     let label = sitedataLang[key][0].language
     let link = sitedataLang[key][0].file_name
-    langToggle += '<a href="'+link+'">'+label+'</a>'
+    let languageName
+
+    switch (label) {
+      case 'en':
+        languageName = 'English'
+        break;
+      case 'nl':
+        languageName = 'Nederlands'
+        break;
+    }
+    langToggle += '<a href="'+link+'" aria-label="'+languageName+'">'+label+'</a>'
   }
 
   for (const [key, value] of Object.entries(sitedataLang)) {
