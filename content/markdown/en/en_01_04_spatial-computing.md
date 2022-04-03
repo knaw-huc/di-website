@@ -5,15 +5,11 @@ type: page
 ---
 ## Spatial Computing
 
-Spatial information is omnipresent. The study of complex data requires multiple facets, of which the geographical space (*where* something takes place) is one of the most important dimensions. This is often seen in the form of a disclosure of a dataset *within* or *on* a **map**.
+Spatial information is omnipresent. The study of complex data requires multiple facets, of which the geographical space (*where* something takes place) is one of the most important dimensions. This is often seen in the form of a disclosure of a dataset within or on a map. Data plays an important role here, as all computational pipelines ultimately revolve around the output, and its usability for more visible public applications, as well as less visible research purposes. Logical reasoning about this data in complex systems is also part of this.
 
-Data plays an important role here, as all *computational pipelines* ultimately revolve around the output, and its usability for more visible public applications, as well as less visible research purposes. Logical reasoning about this data in complex systems is also part of this.
+One of our important tools is [HisGIS](https://hisgis.nl) which is at the forefront when it comes to digital infrastructure with a fine-grained spatial granularity, namely the plot as an atom of space. The project aims to unlock the first historical original land register of the Netherlands, also known as the Napoleonic land register, in all its facets (socio-economic value, property as an expression of power, spatially accurate reconstruction of the natural and cultural landscape, etc.). With this long-term project, we have had experience since the 1990s in using volunteers in a broad social basis to build up a scientific infrastructure.
 
-One of our important tools is [HisGIS](https://hisgis.nl) which is at the forefront when it comes to digital infrastructure with a fine-grained spatial granularity, namely *the plot as an atom of space*. The project aims to unlock the first historical original land register of the Netherlands, also known as the Napoleonic land register, in all its facets (socio-economic value, property as an expression of power, spatially accurate reconstruction of the natural and cultural landscape, etc.).
-
-With this long-term project, we have had experience since the 1990s in using volunteers in a broad social basis to build up a scientific infrastructure.
-
-We use semantic technology to transform data and output from *map* to an interactive and dynamic data portal. To do this, we often use OpenStreetMap as a technical platform, which we can roll out separately for a case, so that a project can build its own *data-graph* if required. What we contribute is experience in translating substantive concepts and entities into the most appropriate technical (data) structure, so that the goal of a project can be achieved as efficiently as possible.
+We use semantic technology to transform data and output from map to an interactive and dynamic data portal. To do this, we often use OpenStreetMap as a technical platform, which we can roll out separately for a case, so that a project can build its own data-graph if required. What we contribute is experience in translating substantive concepts and entities into the most appropriate technical (data) structure, so that the goal of a project can be achieved as efficiently as possible.
 
 In addition to a broad historical scope, we do not limit ourselves to the current national borders of the Netherlands. One of our most important projects is the cooperation with the [World Historical Gazetteer (WHG)](https://whgazetteer.org/). In this way, we want to contribute to making information accessible across time and space.
 
@@ -46,6 +42,6 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 - **HisGIS 1832 Kustzone Zuid-Holland** Mol, JA; Feikens, JJ; Vermaut, T & van der Meer, P, 2020, [hisgis.nl/kaartviewer/zuid-holland](https://hisgis.nl/kaartviewer/zuid-holland/)
 - **CLARIAH Research Pilot Final report: Amsterdam Time Machine.** Vermaut, T; Raat, M; Mol, H; van der Sijs, N; van Erp M; Doreleijers K et al. 2019.
 - Mol, JA; Vermaut, T; Raat, M; Boonstra, B; Hartmann J. **Fryske Stêden Time Machine** 2019.
-- **HISGIS Dokkum** Mol, JA; Hartmann, J; Raat, M; Vermaut, T; Boonstra, B; Delfstra, T; de Haan, P. (2017) We bouwden de eerste Friese Time Machine voor de stad Dokkum op [hisgis.nl/projecten/dokkum](https://hisgis.nl/projecten/dokkum/).
+- **HiSGIS Dokkum** Mol, JA; Hartmann, J; Raat, M; Vermaut, T; Boonstra, B; Delfstra, T; de Haan, P. (2017) We bouwden de eerste Friese Time Machine voor de stad Dokkum op [hisgis.nl/projecten/dokkum](https://hisgis.nl/projecten/dokkum/).
 - Stapel, R.J. (2021) ‘**Historical Multimodal Transport Networks in East Asia**. Modelling Historical Transport Times Using GIS and Chinese Travel Documents (Early Twentieth Century)’, [European Association for Digital Humanities 2020-2021, Krasnoyarsk](https://eadh2020-2021.org).
 - Bosse, A., Jul 2019, **Place.** _Reassembling the Republic of Letters in the Digital Age: Standards, Systems, Scholarship._ Hotson, H. & Wallnig, T. (eds.). Göttingen: Göttingen University Press, p. 79-96. [https://doi.org/10.17875/gup2019-1146](https://doi.org/10.17875/gup2019-1146)

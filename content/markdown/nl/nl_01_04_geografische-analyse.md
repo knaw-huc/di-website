@@ -3,15 +3,12 @@ title: Ruimtelijke Analyse
 author: Thomas Vermaut
 type: page
 ---
-Ruimtelijke informatie is alomtegenwoordig. Het bestuderen van complexe data vereist meerdere facetten, waarvan de geografische ruimte (*waar* iets plaatsvindt) één van de belangrijkste dimensies is. Dit zie je vaak in de vorm van een ontsluiting van een dataset *mèt* of *òp* een **kaart**.
 
-Data speelt een belangrijke rol hierbij, aangezien ook alle *computationele pipelines* uiteindelijk draaien om de output, en de bruikbaarheid hiervan voor meer zichtbare publiekstoepassingen, alsook minder zichtbare onderzoeksdoeleinden. Ook het logisch redeneren over deze data in complexe systemen maakt hier deel van uit.
+Ruimtelijke informatie is alomtegenwoordig. Het bestuderen van complexe data vereist meerdere facetten, waarvan de geografische ruimte (*waar* iets plaatsvindt) één van de belangrijkste dimensies is. Dit zie je vaak in de vorm van een ontsluiting van een dataset mèt of òp een kaart. Data speelt een belangrijke rol hierbij, aangezien ook alle computationele pipelines uiteindelijk draaien om de output, en de bruikbaarheid hiervan voor meer zichtbare publiekstoepassingen, alsook minder zichtbare onderzoeksdoeleinden. Ook het logisch redeneren over deze data in complexe systemen maakt hier deel van uit.
 
-Een van onze belangrijke tools is [HisGIS](https://hisgis.nl) dat aan de voorhoede staat als het aankomt op digitale infrastructuur met een fijnmazige ruimtelijke granulariteit, namelijk *het perceel als atoom van de ruimte*. Het project heeft tot doel het ontsluiten van het eerste historische oorspronkelijke kadaster van Nederland, ook wel het Napoleontisch kadaster genoemd, in al haar facetten (sociaal-economische waarde, bezit als uitdrukking van macht, ruimtelijk acurate reconstructie van het natuurlijk en cultureel landschap, etc.).
+Een van onze belangrijke tools is [HisGIS](https://hisgis.nl) dat aan de voorhoede staat als het aankomt op digitale infrastructuur met een fijnmazige ruimtelijke granulariteit, namelijk het perceel als atoom van de ruimte. Het project heeft tot doel het ontsluiten van het eerste historische oorspronkelijke kadaster van Nederland, ook wel het Napoleontisch kadaster genoemd, in al haar facetten (sociaal-economische waarde, bezit als uitdrukking van macht, ruimtelijk acurate reconstructie van het natuurlijk en cultureel landschap, etc.). Met dit langlopende project hebben we sinds de jaren negentig ervaring met het inzetten van vrijwilligers in een brede maatschappelijke basis voor het opbouwen van een wetenschappelijke infrastructuur.
 
-Met dit langlopende project hebben we sinds de jaren negentig ervaring met het inzetten van vrijwilligers in een brede maatschappelijke basis voor het opbouwen van een wetenschappelijke infrastructuur.
-
-We maken gebruik van semantische technologie waarmee we data en output transformeren van *kaart* naar een interactief en dynamisch dataportaal. Daarvoor maken we vaak gebruik van OpenStreetMap als technisch platform, dat we voor een case los kunnen uitrollen, zodat er voor een project desgewenst een eigen *data-graph* kan worden opgebouwd. Wat wij bijdragen is ervaring met het vertalen van inhoudelijke concepten en entiteiten naar de meest geschikte technische (data)structuur, zodat zo efficiënt mogelijk het doel van een project kan worden bereikt.
+We maken gebruik van semantische technologie waarmee we data en output transformeren van kaart naar een interactief en dynamisch dataportaal. Daarvoor maken we vaak gebruik van OpenStreetMap als technisch platform, dat we voor een case los kunnen uitrollen, zodat er voor een project desgewenst een eigen data-graph kan worden opgebouwd. Wat wij bijdragen is ervaring met het vertalen van inhoudelijke concepten en entiteiten naar de meest geschikte technische (data)structuur, zodat zo efficiënt mogelijk het doel van een project kan worden bereikt.
 
 Naast een brede historische scope, beperken we ons ook niet tot de huidige landsgrenzen van Nederland. Een van onze belangrijkste projecten is de samenwerking met de [World Historical Gazetteer (WHG)](https://whgazetteer.org/). Daarmee willen we bijdragen aan het over tijd en ruimte heen toegankelijk maken van informatie.
 
@@ -36,7 +33,6 @@ Naast een brede historische scope, beperken we ons ook niet tot de huidige lands
 - [HisGIS Nederland](https://hisgis.nl)
 - [Historical Atlas of the Low Countries, 1350-1800](https://hdl.handle.net/10622/PGFYTM) en het ['(Re)counting the Uncounted' project](https://www.nwo.nl/projecten/40119038) (NWO Replicatiestudies, PI: Rombert Stapel), waarvoor DI een QGIS plugin heeft ontwikkeld om het linken van (census-)data aan GIS kaarten te vereenvoudigen.
 - Diverse geo-datasets zijn beschikbaar via [IISH Data Collection](https://datasets.iisg.amsterdam/). 
-
 
 ### Publicaties en Presentaties
 
