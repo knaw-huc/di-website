@@ -1,6 +1,6 @@
 ---
 title: Nieuws
-author: Menno Rasch
+author: Thijs van der Veen
 type: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Events
-author: Menno Rasch
+author: Arno Bosse
 type: page
 ---
 

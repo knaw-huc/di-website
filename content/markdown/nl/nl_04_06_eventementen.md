@@ -1,6 +1,6 @@
 ---
 title: Eventementen
-author: Menno Rasch
+author: Arno Bosse
 type: page
 ---
 
