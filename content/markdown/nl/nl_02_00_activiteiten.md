@@ -1,5 +1,6 @@
 ---
 title: Activiteiten
 author: Menno Rasch
-type: landing
+type: page
+list_subpages: true
 ---
