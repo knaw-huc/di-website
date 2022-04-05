@@ -72,7 +72,7 @@ function handleLanguage() {
 
 
 
-// register partials (components) and generate site files
+// register partials (components) and generate site files (Handlebars.js)
 function registerPartials() {
   return new Promise((resolve, reject) => {
     const longPath = path.resolve("./src/components/");
@@ -214,7 +214,7 @@ function addPageNavigationList() {
         isCurr = ' navIsCurrentPage';
       }
 
-        let tempUl = '<a href="' + navItem.file_name + '">' + navItem.title + '</a>';
+        let tempUl = '<a href="' + navItem.file_name + '" tabindex="0">' + navItem.title + '</a>';
         if (navItem.page_level == 2) {
           subNav = '<li class="'+isCurr+'">'+ tempUl +'</li>'+ subNav
         }
@@ -254,7 +254,7 @@ function addPageSubNavigationList() {
       if (page.type == 'page') {
 
         if (page.page_level == 2) {
-          tempUl = '<li><a href="' + page.file_name + '">' + page.title + '</a></li>' + tempUl;
+          tempUl = '<li><a href="' + page.file_name + '" tabindex="'+i+'">' + page.title + '</a></li>' + tempUl;
           tempArr.push(sitedataLang[key].length - i)
           pageList.push({
             title: page.title,
@@ -269,10 +269,10 @@ function addPageSubNavigationList() {
           tempArr.forEach((id, j) => {
             let tempUl2
 
-            tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
+            tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '"  tabindex="'+i+'">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
 
             sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
-            sitedataLang[key][id - 1].navigationSub = pageList;
+            sitedataLang[key][id - 1].navigationSub = pageList.reverse();
           });
 
           tempUl = '';
@@ -312,6 +312,14 @@ function createAltPageLists() {
        sitedataLang[key].forEach((item) => {
 
          if (item.type == cat) {
+           let publication_dateToGet='2022-01-01'
+           if (item.publication_date !== undefined) {
+             publication_dateToGet = item.publication_date
+           }
+           const pubDate = new Date(publication_dateToGet);
+           const unixTimestamp = Math.floor(pubDate.getTime() / 1000);
+
+
            pageList.push({
              file_name: item.file_name,
              title: item.title,
@@ -319,11 +327,15 @@ function createAltPageLists() {
              type: item.type,
              htmlContent: item.htmlContent,
              publication_date: item.publication_date,
+             dateOrder: unixTimestamp,
              teaser_text: item.teaser_text,
              featured_image: item.featured_image
            })
          }
        });
+
+       pageList = sortByKey(pageList, 'dateOrder')
+       pageList = pageList.reverse()
 
 
 
@@ -339,7 +351,7 @@ function createAltPageLists() {
 
   }
 //console.log(sitedataLang.nl_pages[0]);
-createFile('outputsite.json',JSON.stringify(sitedataLang));
+//createFile('outputsite.json',JSON.stringify(sitedataLang));
 }
 
 
@@ -430,4 +442,11 @@ function handleHtmlDom(fileContent) {
 
   //console.log(dom);
   return fileContent;
+}
+
+function sortByKey(array, key) {
+    return array.sort(function(a, b) {
+        var x = a[key]; var y = b[key];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
 }

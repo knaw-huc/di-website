@@ -3,17 +3,17 @@
 <div class="layout_3col_vertNav">
 
 
-  <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
+  <header id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
       <div><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" /></div>
 
     </div>
 
     <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList">{{{navigation_list}}}</nav>
+      <nav id="mainNav" class="navNoList" >{{{navigation_list}}}</nav>
       <div>{{> comp_language-switch}}</div>
     </div>
-  </aside>
+  </header>
 
 
 
@@ -25,9 +25,9 @@
       <main id="main-content" class="read in_padding--basic maxWidth">
 
       {{else}}
-      <div id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth">
+      <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
         <a href="index.html">Home</a> {{{breadcrumb}}}
-      </div>
+      </nav>
       <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>{{title}}</h1>
     {{/if}}
@@ -58,7 +58,7 @@
 
 
 
-<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" >
+<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" title="click to open the menu">
   <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
 </button>
 

@@ -4,6 +4,7 @@
   "dirMarkdown": "../content/markdown",
   "dirJson": "../content/data",
   "languageDefault": "nl",
+  "url": "http://di.huc.knaw.nl",
   "defaults": [
     {
       "name": "template",

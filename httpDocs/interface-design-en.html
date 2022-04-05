@@ -4,6 +4,14 @@
     <title>Interface Design | Digital Infrastructure</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
+
+    <meta property="og:title" content="Interface Design" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://di.huc.knaw.nl/interface-design-en.html" />
+    
+
     <link rel="stylesheet" href="css/v1/style.css" />
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
 
@@ -14,29 +22,29 @@
 <div class="layout_3col_vertNav">
 
 
-  <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
+  <header id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
       <div><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" /></div>
 
     </div>
 
     <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList"><ul><li><a href="home-en.html">Home</a></li><li class=" navIsCurrentParent"><a href="expertise-en.html">Expertise</a><ul><li class=""><a href="text-analysis-en.html">Text Analysis</a></li><li class=""><a href="structured-data-en.html">Structured Data</a></li><li class=""><a href="computer-vision-en.html">Computer Vision</a></li><li class=""><a href="spatial-computing-en.html">Spatial Computing</a></li><li class=" navIsCurrentPage"><a href="interface-design-en.html">Interface Design</a></li><li class=""><a href="cloud-computing-en.html">Cloud Computing</a></li></ul></li><li><a href="activities-en.html">Activities</a></li><li><a href="partners-en.html">Partners</a></li><li><a href="about-en.html">About</a></li></ul></nav>
-      <div><div class="languageToggle" aria-label="Choose a language">
-  <a href="home-en.html" aria-label="English">en</a><a href="index.html" aria-label="Nederlands">nl</a>
-</div>
+      <nav id="mainNav" class="navNoList" ><ul><li><a href="home-en.html" tabindex="0">Home</a></li><li class=" navIsCurrentParent"><a href="expertise-en.html" tabindex="0">Expertise</a><ul><li class=""><a href="text-analysis-en.html" tabindex="0">Text Analysis</a></li><li class=""><a href="structured-data-en.html" tabindex="0">Structured Data</a></li><li class=""><a href="computer-vision-en.html" tabindex="0">Computer Vision</a></li><li class=""><a href="spatial-computing-en.html" tabindex="0">Spatial Computing</a></li><li class=" navIsCurrentPage"><a href="interface-design-en.html" tabindex="0">Interface Design</a></li><li class=""><a href="cloud-computing-en.html" tabindex="0">Cloud Computing</a></li></ul></li><li><a href="activities-en.html" tabindex="0">Activities</a></li><li><a href="partners-en.html" tabindex="0">Partners</a></li><li><a href="about-en.html" tabindex="0">About</a></li></ul></nav>
+      <div><nav class="languageToggle" aria-label="Choose a language">
+  <a href="nieuws-bericht-1-nl.html" aria-label="Nederlands">nl</a><a href="home-en.html" aria-label="English">en</a>
+</nav>
 </div>
     </div>
-  </aside>
+  </header>
 
 
 
 
   <div id="colContent" class="colContent">
 
-      <div id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth">
+      <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
         <a href="index.html">Home</a> | <a href="expertise-en.html">Expertise</a> | <span>Interface Design</span>
-      </div>
+      </nav>
       <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>Interface Design</h1>
 
@@ -103,7 +111,7 @@
 
 
 
-<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" >
+<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" title="click to open the menu">
   <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
 </button>
 

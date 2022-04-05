@@ -11,8 +11,14 @@
 
 
 ## metadata
-list_feature: true
-list_news: true
+title: Tekstanalyse
+author: Arno Bosse
 type: news / feature / page
+list_feature: true // feature list
+list_news: true // news list
+list_subpages: true // underlaying pages (level 2)
 publication_date: 22-03-2022
-teaser_text: Dit is een nieuws bericht.
+summary: // teaser text for news snippits
+meta_description:
+meta_keyword:
+featured_image: // thumbnail for overview page. Image for sharing

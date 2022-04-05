@@ -4,6 +4,14 @@
     <title>{{title}} | Digital Infrastructure</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {{#if meta_description}}<meta name="description" content="{{meta_description}}">{{/if}}
+    {{#if meta_keyword}}<meta name="keywords" content="{{meta_keyword}}">{{/if}}
+
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{url}}/{{file_name}}" />
+    {{#if featured_image}}<meta property="og:image" content="{{url}}/{{featured_image}}" />{{/if}}
+
     <link rel="stylesheet" href="css/v1/style.css" />
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
 

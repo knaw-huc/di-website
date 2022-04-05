@@ -54,6 +54,9 @@ function filesFromDir(lang) {
           }
           pageObj.name = file.substr(9)
 
+          // other data
+          pageObj.url = config.url
+
           // level
 
 

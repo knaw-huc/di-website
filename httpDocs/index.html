@@ -4,6 +4,14 @@
     <title>Home | Digital Infrastructure</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="The Digital Infrastructure department of the KNAW Humanties Cluster creates digital tools and instrastructure for Digital Humanities.">
+    <meta name="keywords" content="Digital Humanities, Science, tools, Research">
+
+    <meta property="og:title" content="Home" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://di.huc.knaw.nl/index.html" />
+    <meta property="og:image" content="http://di.huc.knaw.nl/Box-with-Prize-Papers.jpg" />
+
     <link rel="stylesheet" href="css/v1/style.css" />
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
 
@@ -14,33 +22,33 @@
 <div class="layout_3col_vertNav">
 
 
-  <aside id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
+  <header id="colNav" class="colNav borderRight  in_padding--basic " aria-label="Main navigation">
     <div class="topSpace">
       <div><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo" /></div>
 
     </div>
 
     <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList"><ul><li class=" navIsCurrentParent"><a href="index.html">Home</a><ul></ul></li><li><a href="expertise-nl.html">Expertise</a></li><li><a href="activiteiten-nl.html">Activiteiten</a></li><li><a href="partners-nl.html">Partners</a></li><li><a href="organisatie-nl.html">Organisatie</a></li></ul></nav>
-      <div><div class="languageToggle" aria-label="Choose a language">
-  <a href="home-en.html" aria-label="English">en</a><a href="index.html" aria-label="Nederlands">nl</a>
-</div>
+      <nav id="mainNav" class="navNoList" ><ul><li class=" navIsCurrentParent"><a href="index.html" tabindex="0">Home</a><ul></ul></li><li><a href="expertise-nl.html" tabindex="0">Expertise</a></li><li><a href="activiteiten-nl.html" tabindex="0">Activiteiten</a></li><li><a href="partners-nl.html" tabindex="0">Partners</a></li><li><a href="organisatie-nl.html" tabindex="0">Organisatie</a></li></ul></nav>
+      <div><nav class="languageToggle" aria-label="Choose a language">
+  <a href="nieuws-bericht-1-nl.html" aria-label="Nederlands">nl</a><a href="home-en.html" aria-label="English">en</a>
+</nav>
 </div>
     </div>
-  </aside>
+  </header>
 
 
 
 
   <div id="colContent" class="colContent">
 
-      <div class="hero">
+      <section class="hero"  aria-label="Introduction to Digital Infrastructure">
         <div class="in_padding--basic">
           <h1>We build sustainable infrastructure to foster innovative research connecting people, data, and collections.</h1>
           <p>Digital Infrastructure</p>
         </div>
         <div class="hero__image" style="background-image: url(images/Box-with-Prize-Papers.jpg)"></div>
-      </div>
+      </section>
       <main id="main-content" class="read in_padding--basic maxWidth">
 
 
@@ -48,7 +56,7 @@
     </main>
 
 
-    <section class="list_blocks ">
+    <section class="list_blocks" aria-label="Featured articles about Digital Infrastructure">
       <header class="in_padding--basic">
         <h2>Featured articles</h2>
       </header>
@@ -57,7 +65,7 @@
         <li class=" incCard">
           <div class="list_blocks__thumbnail"><img src="images/" alt=""></div>
           <div class="list_blocks__text">
-            <h3><a href="zoeken-in-handgeschreven-teksten-nl.html">Zoeken in handgeschreven teksten</a></h3>
+            <h3><a href="lorem-ipsum-nl.html">Lorem Ipsum</a></h3>
             <div> </div>
           </div>
     
@@ -65,7 +73,7 @@
         <li class=" incCard">
           <div class="list_blocks__thumbnail"><img src="images/" alt=""></div>
           <div class="list_blocks__text">
-            <h3><a href="lorem-ipsum-nl.html">Lorem Ipsum</a></h3>
+            <h3><a href="zoeken-in-handgeschreven-teksten-nl.html">Zoeken in handgeschreven teksten</a></h3>
             <div> </div>
           </div>
     
@@ -132,7 +140,7 @@
 
 
 
-<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" >
+<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" title="click to open the menu">
   <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
 </button>
 
