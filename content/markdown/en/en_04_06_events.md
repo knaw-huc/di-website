@@ -4,6 +4,8 @@ author: Arno Bosse
 type: page
 ---
 
+* Call for reviews of digital scholarly editions for the journal RIDE [https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/](https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/). Deadline for proposals: 17 May, 2022.
+
 * Call for Papers 6th Joint *SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*. To be held mid-October 2022 in conjunction with COLING 2022 in Gyeongju, Republic of Korea. [https://sighum.wordpress.com/events/latech-clfl-2022/](https://sighum.wordpress.com/events/latech-clfl-2022/). Deadline July 11, 2022.
 
 * Call for papers, *Workshop on Computational Drama Analysis: Achievements and Opportunities*. The workshop will take place on-site at the University of Cologne on September 14-15, 2022. Deadline for Abstracts: May 6, 2022. [https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop](https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop)  
