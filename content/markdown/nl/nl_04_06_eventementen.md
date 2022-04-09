@@ -4,6 +4,8 @@ author: Arno Bosse
 type: page
 ---
 
+* Call for papers for the 2nd edition of the _International Workshop on Archives and Linked Data_ [https://linkedarchives.inesctec.pt](https://linkedarchives.inesctec.pt/) on 20 September 2022, in Padua, Italy. The workshop will be run in conjunction with the 26th International Conference on [Theory and Practice of Digital Libraries](http://tpdl2022.dei.unipd.it/) (TPDL 2022). The aim of the workshop is to gather researchers and specialists who are engaged in initiatives that cross Archives and the Semantic Web and those planning similar initiatives in cultural heritage organizations. Submission deadline: May 29, 2022.
+
 * Call for reviews of digital scholarly editions for the journal RIDE [https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/](https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/). Deadline for proposals: 17 May, 2022.
 
 * Call for Papers 6th Joint *SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*. To be held mid-October 2022 in conjunction with COLING 2022 in Gyeongju, Republic of Korea. [https://sighum.wordpress.com/events/latech-clfl-2022/](https://sighum.wordpress.com/events/latech-clfl-2022/). Deadline July 11, 2022.
