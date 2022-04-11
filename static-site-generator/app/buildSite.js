@@ -112,6 +112,7 @@ function registerPartials() {
     };
 
 
+
     walk(partialsDir, function(err, results) {
       if (err) throw err;
       setTimeout(() => {

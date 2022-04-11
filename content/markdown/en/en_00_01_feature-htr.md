@@ -2,6 +2,8 @@
 title: Searching in handwritten texts
 author: Erica Renckens
 type: feature
+featured_image: Holland-Replicatie_thumb.png
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
 
@@ -13,6 +15,4 @@ Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cu
 
 Phasellus eros nisi, iaculis porttitor diam ut, ultrices finibus dui. Sed ac ultrices elit. Cras quis accumsan ligula. Morbi dignissim tincidunt imperdiet. Maecenas lobortis tempus elit, ac volutpat ante rutrum at. Ut a libero tellus. Curabitur ultricies odio in dui interdum, ut eleifend metus venenatis. Aenean volutpat nisl ac efficitur blandit. Etiam volutpat bibendum quam, ut euismod purus placerat vel. Mauris ultrices nunc et accumsan tincidunt. Nullam auctor luctus sapien eu varius. Nullam venenatis consequat aliquet. Maecenas congue, orci vitae cursus rutrum, sem dui tempus purus, eget viverra dolor ligula sed felis. Fusce efficitur odio quis enim egestas, dictum facilisis mi dapibus. Praesent eu ligula nec tortor tempor convallis eu imperdiet neque.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. 
-
-
+Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut.
