@@ -329,7 +329,7 @@ function createAltPageLists() {
              htmlContent: item.htmlContent,
              publication_date: item.publication_date,
              dateOrder: unixTimestamp,
-             teaser_text: item.teaser_text,
+             summary: item.summary,
              featured_image: item.featured_image
            })
          }
