@@ -161,6 +161,7 @@ function createContentList() {
 
 
 function addPageBreadCrumb() {
+  //
   for (const [key, value] of Object.entries(sitedataLang)) {
 
     let parentPageName = '';
@@ -168,18 +169,25 @@ function addPageBreadCrumb() {
     let parentPageLevel = 1;
 
     sitedataLang[key].forEach((page, i) => {
-      let breadCrumb = '';
+      let breadCrumb = '<a href="index.html">Home</a> ';
       let currPage = '<span class="breadCrumb__seperator">|</span> <span>' + page.title + '</span>'
 
       if (page.page_level == 1) {
         // if top level
-        breadCrumb = currPage;
+        breadCrumb += currPage;
         parentPageName = page.title
         parentPageLink = page.file_name
 
       } else if (page.page_level = 2) {
         // if subpage
-        breadCrumb = '<span class="breadCrumb__seperator">|</span> <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
+        //breadCrumb += '<span class="breadCrumb__seperator">|</span> <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
+
+        if (page.type == 'feature') {
+          breadCrumb += '<span class="breadCrumb__seperator">|</span> <span>' + page.title + '</span>'
+        } else {
+          breadCrumb += '<span class="breadCrumb__seperator">|</span> <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
+        }
+
       }
       sitedataLang[key][i].breadcrumb = breadCrumb;
     });

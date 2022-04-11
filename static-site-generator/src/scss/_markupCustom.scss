@@ -167,15 +167,25 @@ $hamSpace: 15px;
   background-color: hsl(0, 0%, 94%);
   width: 100%;
   display: flex;
+
   justify-content: center;
 
   .huc_footer__cols {
     display: flex;
+    flex-direction: column;
     width: 100%;
 
     >* {
       width: 100%;
+      margin-bottom: 2rem;
     }
 
   }
+}
+
+@media (min-width: 1000px) {
+  .huc_footer__cols {
+    flex-direction: row;
+  }
+
 }
