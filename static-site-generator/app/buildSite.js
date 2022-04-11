@@ -168,7 +168,7 @@ function addPageBreadCrumb() {
 
     sitedataLang[key].forEach((page, i) => {
       let breadCrumb = '';
-      let currPage = '| <span>' + page.title + '</span>'
+      let currPage = '<span class="breadCrumb__seperator">|</span> <span>' + page.title + '</span>'
 
       if (page.page_level == 1) {
         // if top level
@@ -178,7 +178,7 @@ function addPageBreadCrumb() {
 
       } else if (page.page_level = 2) {
         // if subpage
-        breadCrumb = '| <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
+        breadCrumb = '<span class="breadCrumb__seperator">|</span> <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
       }
       sitedataLang[key][i].breadcrumb = breadCrumb;
     });

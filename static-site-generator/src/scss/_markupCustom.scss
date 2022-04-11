@@ -121,6 +121,11 @@ p {
 
 .breadCrumb {
   font-size: $fontSizeS;
+
+  .breadCrumb__seperator {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }
 
 
