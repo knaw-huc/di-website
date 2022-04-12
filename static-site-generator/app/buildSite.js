@@ -267,7 +267,8 @@ function addPageSubNavigationList() {
           tempArr.push(sitedataLang[key].length - i)
           pageList.push({
             title: page.title,
-            file_name: page.file_name
+            file_name: page.file_name,
+            page_order: page.page_order
           }
 
           )
@@ -281,7 +282,7 @@ function addPageSubNavigationList() {
             tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '"  tabindex="'+i+'">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
 
             sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
-            sitedataLang[key][id - 1].navigationSub = pageList.reverse();
+            sitedataLang[key][id - 1].navigationSub = sortByKey(pageList, 'page_order');//  pageList.reverse();
           });
 
           tempUl = '';
@@ -367,8 +368,10 @@ function createAltPageLists() {
 function createLanguageToggle() {
   let langToggle=''
   for (const [key, value] of Object.entries(sitedataLang)) {
-    let label = sitedataLang[key][0].language
-    let link = sitedataLang[key][0].file_name
+    let label = findInArray(sitedataLang[key], 10000, 'page_order', 'language')
+    let link = findInArray(sitedataLang[key], 10000, 'page_order', 'file_name')
+
+
     let languageName
 
     switch (label) {
@@ -377,6 +380,12 @@ function createLanguageToggle() {
         break;
       case 'nl':
         languageName = 'Nederlands'
+        break;
+      case 'fr':
+        languageName = 'Français'
+        break;
+      case 'de':
+        languageName = 'Deutsch'
         break;
     }
     langToggle += '<a href="'+link+'" aria-label="'+languageName+'">'+label+'</a>'
@@ -458,4 +467,14 @@ function sortByKey(array, key) {
         var x = a[key]; var y = b[key];
         return ((x < y) ? -1 : ((x > y) ? 1 : 0));
     });
+}
+
+function findInArray(arr, val, objectNameCompare, objectOut) {
+  var out;
+  for (var i = 0; i < arr.length; i++){
+    if (arr[i][objectNameCompare] == val){
+      out = arr[i][objectOut];
+    }
+  }
+  return out;
 }
