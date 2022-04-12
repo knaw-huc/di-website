@@ -2,6 +2,7 @@
 title: Infrastructure Projects
 author: Menno Rasch
 type: page
+summary: Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research.
 ---
 Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research.
 
