@@ -2,6 +2,7 @@
 title: Organisation
 author: Menno Rasch
 type: page
+summary: DI focuses on supporting the researchers of the Humanities Cluster. 
 ---
 In early 2018, the IT departments of the three institutes of the HuC were merged into one group, the Digital Infrastructure (DI) Department of the KNAW Humanities Cluster. This has created a unique department in the field of infrastructure for the humanities, one of the largest in Europe.
 
