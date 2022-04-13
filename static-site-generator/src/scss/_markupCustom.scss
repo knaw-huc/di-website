@@ -184,8 +184,10 @@ $hamSpace: 15px;
 }
 
 @media (min-width: 1000px) {
-  .huc_footer__cols {
-    flex-direction: row;
+  .huc_footer {
+    .huc_footer__cols {
+      flex-direction: row;
+    }
   }
 
 }
