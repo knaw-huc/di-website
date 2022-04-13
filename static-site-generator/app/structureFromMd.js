@@ -42,9 +42,10 @@ function filesFromDir(lang) {
         if (fileExtention == '.md') { // if is markdown page
           let pageObj = {}
           // filename handling
-          pageObj.language = file.substr(0, 2)
-          let level1 = file.substr(3, 2)
-          let level2 = file.substr(6, 2)
+          //pageObj.language = file.substr(0, 2)
+          pageObj.language = lang
+          let level1 = file.substr(0, 2)
+          let level2 = file.substr(3, 2)
           let order = '1' + level1 + level2;
           pageObj.page_order = parseInt(order)
           if (level2 != '00') {
@@ -52,7 +53,7 @@ function filesFromDir(lang) {
           } else {
             pageObj.page_level = 1
           }
-          pageObj.name = file.substr(9)
+          pageObj.name = file.substr(6)
 
           // other data
           pageObj.url = config.url

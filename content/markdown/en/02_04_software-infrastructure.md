@@ -2,6 +2,7 @@
 title: Sustainable Software and Infrastructure
 author: Arno Bosse
 type: page
+summary: The DI department develops software and infrastructure as sustainably as possible. We continue to build on generic components in order to serve specific research questions. We always make the software available on open source.
 ---
 The DI department develops software and infrastructure as sustainably as possible. Where possible, we use existing tools and software. We continue to build on generic components in order to serve specific research questions. When further developing software, we always seek to collaborate with other parties. We always make the software available on open source.
 

@@ -2,6 +2,7 @@
 title: Events
 author: Arno Bosse
 type: page
+summary: An overview of upcoming events.
 ---
 
 * Call for papers for the 2nd edition of the _International Workshop on Archives and Linked Data_ [https://linkedarchives.inesctec.pt](https://linkedarchives.inesctec.pt/) on 20 September 2022, in Padua, Italy. The workshop will be run in conjunction with the 26th International Conference on [Theory and Practice of Digital Libraries](http://tpdl2022.dei.unipd.it/) (TPDL 2022). The aim of the workshop is to gather researchers and specialists who are engaged in initiatives that cross Archives and the Semantic Web and those planning similar initiatives in cultural heritage organizations. Submission deadline: May 29, 2022.
