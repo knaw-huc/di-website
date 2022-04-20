@@ -1,5 +1,5 @@
 ---
-title: Ruimtelijke Analyse
+title: Geografische Analyse
 author: Thomas Vermaut
 type: page
 ---
