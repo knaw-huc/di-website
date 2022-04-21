@@ -4,9 +4,11 @@ author: Menno Rasch
 type: page
 summary: Infrastructurele projecten, zowel nationaal als Europees, vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek.
 ---
-Infrastructurele projecten, zowel nationaal als Europees, vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek.
+Infrastructurele projecten vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek. Het betreft hier zowel Europese als nationale projecten. Het betreft hier bijna altijd projecten waarin intensief wordt samengewerkt met andere partijen uit de geesteswetenschappen of erfgoedsector.
 
-Onze ontwikkelaars hebben uitgebreide ervaring in het opzetten en uitvoeren van complexe infrastructuurprojecten. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.
+Op dit moment is CLARIAH (https://www.clariah.nl) daar het belangrijkste voorbeeld van. In CLARIAH werkt DI samen met meerdere universiteiten en diverse erfgoedinstellingen aan voorzieningen voor de digital humanities. DI neemt een technische sleutelpositie in en het HuC is trekker van een groot aantal werkpaketten.
+
+Onze ontwikkelaars hebben uitgebreide ervaring opgedaan in het opzetten en uitvoeren van complexe infrastructuurprojecten. Vaak worden ook specifieke projecten ingezet om te komen tot herbruikbare componenten, op die manier dragen dit soort projecten ook bij aan het opbouwen van deze infrastructuur. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.
 
 De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn.
 
@@ -22,7 +24,3 @@ Europees interdisciplinair team ontwikkelt een wereldwijd verbonden online datab
 Infrastructuur waarin semantic web-technologieën worden gecombineerd met multi-agent-technologieën. Deze duurzame infrastructuur maakt het mogelijk om de relaties en interacties tussen producenten en consumenten en tussen de verschillende bedrijfstakken van de creatieve industrie te bestuderen over de lange Gouden Eeuw.
 - [Nederlab](https://www.nederlab.nl/) 2013-2018, Investeringen NOW-Groot:
 Webinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.
-
-Presentaties van DI
-- ...
-- ...
