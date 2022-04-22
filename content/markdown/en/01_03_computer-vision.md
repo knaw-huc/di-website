@@ -1,6 +1,6 @@
 ---
 title: Computer Vision
-author: Arno Bosse
+author: Rutger van Koert
 type: page
 ---
 In the field of computer vision our main area of expertise is the creation of searchable, full-text transcripts from both handwritten manuscripts and printed sources. Besides text recognition, we also have experience in analysing the visual characteristics of documents to assist with other research tasks such as determining authorship, dating and localizing where a text was written, identifying entities such as people, places, dates in a text, and classifying images. 

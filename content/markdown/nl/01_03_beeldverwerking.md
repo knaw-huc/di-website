@@ -1,6 +1,6 @@
 ---
 title: Patroonherkenning en Beeldverwerking
-author: Arno Bosse
+author: Rutger van Koert
 type: page
 ---
 Onze grootste expertise op het gebied van beeldbewerking ligt bij het creëren van doorzoekbare full-text transcripten van zowel handgeschreven manuscripten als gedrukte bronnen. We hebben niet alleen ervaring in tekstherkenning, maar ook in het analyseren van visuele kenmerken van documenten. Daarmee dragen we bij aan andere onderzoekstaken, zoals het bepalen van auteurschap, het dateren en lokaliseren waar een tekst is geschreven, het identificeren van entiteiten als personen, plaatsen en data in een tekst, en het classificeren van afbeeldingen.
