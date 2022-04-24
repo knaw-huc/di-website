@@ -4,11 +4,13 @@ author: Menno Rasch
 type: page
 summary: Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research.
 ---
-Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research.
+Infrastructure projects are an important part of the Digital Infrastructure department of the KNAW Humanities Cluster. These projects contribute directly to the department's goal of creating an infrastructure for humanities research. They are both European and national projects. They are almost always projects in which there is intensive collaboration with other parties from the humanities or heritage sector.
 
-Our developers have extensive experience in setting up and implementing complex infrastructure projects. Even after these projects are completed, the DI department usually continues to play a major role in managing the infrastructure that has been delivered.
+CLARIAH (https://www.clariah.nl) is the most important example of this at the moment. In CLARIAH, DI is working with several universities and various heritage institutions on facilities for the digital humanities. DI occupies a key technical position and HuC leads a large number of work packages.
 
-The Digital Infrastructure department is always open to new collaborations and new infrastructure projects for the humanities. Please contact us to discuss what our role and added value can be.
+Our developers have gained extensive experience in setting up and implementing complex infrastructure projects. Specific projects are often used to create reusable components, thus also contributing to the building of this infrastructure. Even after these projects have been completed, the DI department usually continues to play a major role in managing the infrastructure that has been delivered.
+
+The Digital Infrastructure department is always open to new collaborations and new infrastructure projects for the humanities. Contact us to discuss what our role and added value could be.
 
 For more information: Arno Bosse (Acquisition manager, member of the grant team Huc (link?)) and Menno Rasch (director).
 
