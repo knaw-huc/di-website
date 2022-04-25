@@ -5,11 +5,11 @@ type: page
 ---
 ## Text Analysis
 
-We have have extensive experience with diverse kinds of scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The text collection we publish are often enhanced with supporting features such as metadata, search and browse options, page images, structured data, and annotations.
+We have extensive experience with diverse kinds of scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The text collections we publish are often complemented by descriptive metadata, page images other enrichments such as links to structured data and annotations.
 
-In particular, we offer researchers many ways to carry out complex searches using 'fuzzy' text patterns, semantically related passages or by filtering texts on the basis of structured data enrichments such as the persons or places mentioned in the text. We also provide the necessary know-how and software tools to allow project teams to edit, annotate, and visualize their text collections, to publish them on online, and deposit them in a certified digital repository to ensure their long term preservation and access.
+In particular, we offer researchers many ways to carry out complex searches using 'fuzzy' text patterns, semantically related passages or by filtering texts on the basis of structured data enrichments such as the persons or places mentioned in the text. We also provide the necessary know-how and software tools to allow project teams to edit and visualize their text collections, to publish them on online, and to deposit them in a certified digital repository to ensure their long term preservation and access.
 
-Very large and complex text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. 
+All of our text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. In particular, much like IIIF Canvas, it enables the retrieval and annotation of text segments, irrespective of their original text format.
 
 ### Contact
 
@@ -32,7 +32,7 @@ Very large and complex text based projects can benefit from the open source [tex
 - [Text Repository](https://github.com/knaw-huc/textrepo) (KNAW Humanities Cluster) is a  backend repository system to store and index text corpora with metadata and versions.
 - [LaMachine](https://proycon.github.io/LaMachine) (Radboud University Nijmegen) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web-services and web-applications in a single Virtual Research Environment that can be installed on a wide variety of machines.
 - [analiticcl](https://github.com/proycon/analiticcl)(KNAW Humanities Cluster) is an approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction.
-- [Docere](https://github.com/knaw-huc/docere) (Gijsjann Brouwer) is a flexible and customisable digital (scholarly) edition publishing platform.
+- [Docere](https://github.com/knaw-huc/docere) (Gijsjan Brouwer) is a flexible and customisable digital (scholarly) edition publishing platform.
 - tba
 
 ### Publications and Presentations
