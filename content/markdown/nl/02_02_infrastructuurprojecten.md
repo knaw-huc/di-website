@@ -6,13 +6,13 @@ summary: Infrastructurele projecten, zowel nationaal als Europees, vormen een be
 ---
 Infrastructurele projecten vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek. Het betreft hier zowel Europese als nationale projecten. Het betreft hier bijna altijd projecten waarin intensief wordt samengewerkt met andere partijen uit de geesteswetenschappen of erfgoedsector.
 
-Op dit moment is CLARIAH (https://www.clariah.nl) daar het belangrijkste voorbeeld van. In CLARIAH werkt DI samen met meerdere universiteiten en diverse erfgoedinstellingen aan voorzieningen voor de digital humanities. DI neemt een technische sleutelpositie in en het HuC is trekker van een groot aantal werkpaketten.
+Op dit moment is CLARIAH [(https://www.clariah.nl)](https://www.clariah.nl) daar het belangrijkste voorbeeld van. In CLARIAH werkt DI samen met meerdere universiteiten en diverse erfgoedinstellingen aan voorzieningen voor de digital humanities. DI neemt een technische sleutelpositie in en het HuC is trekker van een groot aantal werkpaketten.
 
 Onze ontwikkelaars hebben uitgebreide ervaring opgedaan in het opzetten en uitvoeren van complexe infrastructuurprojecten. Vaak worden ook specifieke projecten ingezet om te komen tot herbruikbare componenten, op die manier dragen dit soort projecten ook bij aan het opbouwen van deze infrastructuur. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.
 
 De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn.
 
-Voor meer informatie: Arno Bosse (Acquisition manager, lid van het grant team Huc (link?)) en Menno Rasch (directeur).
+Voor meer informatie: Arno Bosse (acquisition manager en lid van het Huc grant team) en Menno Rasch (directeur).
 
 Belangrijke infrastructurele projecten zijn:
 
