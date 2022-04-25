@@ -7,6 +7,8 @@ summary: Een overzicht van de komende evenementen.
 
 ### Digital Humanities Vaktijdschriften, Conferenties en Workshops
 
+* Call for papers, _QURATOR 2022_ – 3rd Conference on Digital Curation Technologies, 19-23 September 2022, Berlin. Deadline for regular/short/student papers: July 10th, 2022 [https://qurator.ai/conference-qurator-2022/](https://qurator.ai/conference-qurator-2022/)
+
 * Call for papers, _European Semantic Web Conference_ in Hersonissos, May 29 - June 2, 2022 to discuss the latest scientific results and technology innovations around semantic technologies. [https://2022.eswc-conferences.org/about/](https://2022.eswc-conferences.org/about/)
 
 * Call for papers, _VISART VI Workshop_, held in conjunction with the _2022 European Conference on Computer Vision (ECCV 2022)_ in Tel Aviv, October 2022. VISART will continue its role as a forum for the presentation, discussion and publication of Computer Vision techniques for the analysis of art. Submission deadline: 27 May 2022. [https://visarts.eu](https://visarts.eu)
