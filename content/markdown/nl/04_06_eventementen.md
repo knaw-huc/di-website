@@ -7,6 +7,8 @@ summary: Een overzicht van de komende evenementen.
 
 ### Digital Humanities Vaktijdschriften, Conferenties en Workshops
 
+* Call for Papers, _Artificial Intelligence and the Future of the Arts_, 12-16 September 2022, University of Luxembourg, Campus Belval. Paper submission deadline: 20 May 2022 [https://aifa.uni.lu](https://aifa.uni.lu)  
+
 * Call for papers, _QURATOR 2022_ – 3rd Conference on Digital Curation Technologies, 19-23 September 2022, Berlin. Deadline for regular/short/student papers: July 10th, 2022 [https://qurator.ai/conference-qurator-2022/](https://qurator.ai/conference-qurator-2022/)
 
 * Call for papers, _European Semantic Web Conference_ in Hersonissos, May 29 - June 2, 2022 to discuss the latest scientific results and technology innovations around semantic technologies. [https://2022.eswc-conferences.org/about/](https://2022.eswc-conferences.org/about/)
