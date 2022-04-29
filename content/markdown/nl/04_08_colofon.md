@@ -2,6 +2,10 @@
 title: Colofon
 author: Arno Bosse
 type: page
-summary: Credits en Dankwoord
+summary: Verantwoording en Dankwoord
 ---
 
+### Verantwoording
+
+
+### Dankwoord
