@@ -7,6 +7,8 @@ summary: Een overzicht van de komende evenementen.
 
 ### Digital Humanities Vaktijdschriften, Conferenties en Workshops
 
+* Call for Papers, _Workshop on Biographical Data in a Digital World 2022 (BD2022)_. July 25, 2022, online (held in conjunction with the Digital Humanities 2022 conference). Deadline for abstracts (500-1000 words): 20 May. [https://seco.cs.aalto.fi/events/2022/2022-07-25-bd/](https://seco.cs.aalto.fi/events/2022/2022-07-25-bd/)
+
 * Call for Papers, _Artificial Intelligence and the Future of the Arts_, 12-16 September 2022, University of Luxembourg, Campus Belval. Paper submission deadline: 20 May 2022 [https://aifa.uni.lu](https://aifa.uni.lu)  
 
 * Call for papers, _QURATOR 2022_ – 3rd Conference on Digital Curation Technologies, 19-23 September 2022, Berlin. Deadline for regular/short/student papers: July 10th, 2022 [https://qurator.ai/conference-qurator-2022/](https://qurator.ai/conference-qurator-2022/)
