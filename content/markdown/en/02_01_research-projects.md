@@ -12,7 +12,6 @@ For more information, please contact Arno Bosse (Acquisition manager) or Menno R
 
 Examples of current and completed research projects are:
 
-- Anne Frank Manuscripts](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/) (Huygens) - Editing and historical research into the manuscripts of Anne Frank using innovative techniques.
-- Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (Huygens) - Making accessible the digitized documents captured from enemy ships by British privateers in the period 1652-1815.
-- ... a few more smaller research projects
+- [Anne Frank Manuscripts](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/) (Huygens) - Editing and historical research into the manuscripts of Anne Frank using innovative techniques.
+- [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (Huygens) - Making accessible the digitized documents captured from enemy ships by British privateers in the period 1652-1815.
 
