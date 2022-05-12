@@ -7,6 +7,14 @@ summary: Een overzicht van de komende evenementen.
 
 ### Digital Humanities Vaktijdschriften, Conferenties en Workshops
 
+* Call for papers for the _2nd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH 2022)_. Co-located with AACL 2022 in Taipei, Taiwan. The proceedings will be published in the ACL anthology. The workshop will take place on the 24th of November 2022. [https://rootroo.com/en/nlp4dh-2022/](https://rootroo.com/en/nlp4dh-2022/) Submission deadline: August 25, 2022.
+
+* Call for proposals (papers, provocations, lab talks), _7th Workshop on Visualization for the Digital Humanities - IEEE VIS 2022_. 16–21 October 2022 in Oklahoma City, USA + online (hybrid format). Submission deadlines: 8 July for papers, 29 August for provocations and lab talks. [https://vis4dh.dbvis.de/cfp/](https://vis4dh.dbvis.de/cfp/)
+
+* Call for Proposals: _DHQ Special Issue, Working on and with Categories for Text Analysis: Challenges and Findings from and for Digital Humanities Practices__ Proposals due: 2022-06-15 [http://dhq.fortext.org/](http://dhq.fortext.org/)
+
+* Call for papers, _Margins22: On the Margins: Hypertext, Electronic Literature, Digital Humanities_ Senate House, University of London, London, UK, December 15-16, 2022. Deadline: July 4, 2022 [https://easychair.org/cfp/Margins22](https://easychair.org/cfp/Margins22)
+
 * Call for Papers, _Workshop on Biographical Data in a Digital World 2022 (BD2022)_. July 25, 2022, online (held in conjunction with the Digital Humanities 2022 conference). Deadline for abstracts (500-1000 words): 20 May. [https://seco.cs.aalto.fi/events/2022/2022-07-25-bd/](https://seco.cs.aalto.fi/events/2022/2022-07-25-bd/)
 
 * Call for Papers, _Artificial Intelligence and the Future of the Arts_, 12-16 September 2022, University of Luxembourg, Campus Belval. Paper submission deadline: 20 May 2022 [https://aifa.uni.lu](https://aifa.uni.lu)  
