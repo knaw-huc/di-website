@@ -3,7 +3,6 @@ title: Spatial Computing
 author: Thomas Vermaut
 type: page
 ---
-## Spatial Computing
 
 Spatial information is omnipresent. The study of complex data requires multiple facets, of which the geographical space (*where* something takes place) is one of the most important dimensions. This is often seen in the form of a disclosure of a dataset within or on a map. Data plays an important role here, as all computational pipelines ultimately revolve around the output, and its usability for more visible public applications, as well as less visible research purposes. Logical reasoning about this data in complex systems is also part of this.
 
@@ -19,16 +18,18 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 
 ### Related Research Projects
 
-- HisGIS Netherlands](https://hisgis.nl)
-- World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to v2.0 of the gazetteer, a.o. with the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) and preparing and curating datasets for it.
-- At the right address](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). In doing so, we as DI contribute knowledge, experience and technology to the project.
-- Historical Travel Times in China, 1930-2000](https://www.worldeconomichistory.org/) (ERC Starting Grant, PI: Bas van Leeuwen). Although DI is not directly involved, we are happy to use the expertise we have acquired in reconstructing and analysing historical transport networks elsewhere.
+- [HisGIS Netherlands](https://hisgis.nl)
+- [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to v2.0 of the gazetteer, a.o. with the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) and preparing and curating datasets for it.
+- [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). In doing so, we as DI contribute knowledge, experience and technology to the project.
+- [Historical Travel Times in China, 1930-2000](https://www.worldeconomichistory.org/) (ERC Starting Grant, PI: Bas van Leeuwen). Although DI is not directly involved, we are happy to use the expertise we have acquired in reconstructing and analysing historical transport networks elsewhere.
+
+![HisGIS Viewer](assets/his-gis.png)
 
 ### Software and Data
 
-- HisGIS Netherlands](https://hisgis.nl)
-- Historical Atlas of the Low Countries, 1350-1800](https://hdl.handle.net/10622/PGFYTM) and the ['(Re)counting the Uncounted' project](https://www.nwo.nl/projecten/40119038) (NWO Replication Studies, PI: Rombert Stapel), for which DI developed a QGIS plugin to simplify the linking of (census) data to GIS maps.
-- Various geo-datasets are available via [IISH Data Collection](https://datasets.iisg.amsterdam/). 
+- [HisGIS Netherlands](https://hisgis.nl)
+- [Historical Atlas of the Low Countries, 1350-1800](https://hdl.handle.net/10622/PGFYTM) and the ['(Re)counting the Uncounted' project](https://www.nwo.nl/projecten/40119038) NWO Replication Studies, (PI: Rombert Stapel), for which DI developed a QGIS plugin to simplify the linking of (census) data to GIS maps.
+- [IISH Data Collection](https://datasets.iisg.amsterdam/). 
 
 ### Publications and Presentations
 
