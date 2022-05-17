@@ -1,7 +1,11 @@
 ---
 title: Text Analysis
-author: Arno Bosse
-type: page
+author: Hennie Brugman
+type: page // news | list
+publication_date: 22-03-2022
+meta_description:
+meta_keyword:
+featured_image: // thumbnail for overview page.
 ---
 ## Text Analysis
 
@@ -9,13 +13,13 @@ We have extensive experience with diverse kinds of scholarly text collections. T
 
 In particular, we offer researchers many ways to carry out complex searches using 'fuzzy' text patterns, semantically related passages or by filtering texts on the basis of structured data enrichments such as the persons or places mentioned in the text. We also provide the necessary know-how and software tools to allow project teams to edit and visualize their text collections, to publish them on online, and to deposit them in a certified digital repository to ensure their long term preservation and access.
 
-All of our text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. In particular, much like IIIF Canvas, it enables the retrieval and annotation of text segments, irrespective of their original text format.
+All of our text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. In particular, much like IIIF Canvas, it enables the retrieval and annotation of text passages, irrespective of their original text format.
 
 ### Contact
 
 [Hennie Brugman](mailto:hennie.brugman@di.huc.knaw.nl), Lead Developer for Team Text ([Research Gate](https://www.researchgate.net/profile/Hennie-Brugman), [LinkedIn](https://nl.linkedin.com/in/hennie-brugman-8327369), [Pure](https://pure.knaw.nl/portal/en/persons/h-brugman))
 
-### Related Research Projects
+### Related Projects
 
 - [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. Contribution: tba
 - [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Contribution: tba
