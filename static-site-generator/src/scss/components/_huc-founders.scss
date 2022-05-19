@@ -3,10 +3,11 @@
 .founders {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
-  min-height: 100vh;
-  padding-bottom: 30px;
-  margin-top: 2rem;
+  justify-content: flex-start;
+  flex: none;
+  position: fixed;
+  bottom: 0;
+
 
   img {
     width: auto;
@@ -15,7 +16,7 @@
 
   >* {
     margin-bottom: 10px;
-    margin-left: 10px;
+    margin-right: 10px;
 
   }
 
@@ -27,13 +28,13 @@
 
 
 @media (min-width: 1300px) {
-  .founders {
-    flex-direction: column;
-  }
+  // .founders {
+  //   flex-direction: column;
+  // }
   .founders__ii, .founders__hi {
-    margin-left: -7px;
+
   }
   .founders__me{
-    margin-left: 0px;
+
   }
 }

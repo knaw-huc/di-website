@@ -259,6 +259,7 @@ function addPageSubNavigationList() {
     let tempUl = '';
     let pageList = []
 
+
     sitedataLang[key].slice().reverse().forEach((page, i) => {
       if (page.type == 'page') {
 
@@ -270,6 +271,8 @@ function addPageSubNavigationList() {
             file_name: page.file_name,
             page_order: page.page_order
           }
+
+
 
           )
 

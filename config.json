@@ -8,7 +8,7 @@
   "defaults": [
     {
       "name": "template",
-      "val": "layout3col_vertNav.html"
+      "val": "di_detail.html"
     },
     {
       "name": "title",

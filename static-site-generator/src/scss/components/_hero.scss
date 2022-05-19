@@ -4,11 +4,15 @@
   width: 100%;
   height: 50vh;
   max-height: 800px;
+  max-width: 1000px;
+  width: 100%;
 
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
+  display: flex;
   flex-direction: column;
-  align-items: stretch;
+  justify-content: center;
+  align-items: center;
+
+
 
   >* {
     //flex: 1;
@@ -24,7 +28,9 @@
   }
 }
 
-.hero__text {}
+.hero__text {
+  position: relative;
+}
 
 
 
@@ -37,10 +43,7 @@
 @media (min-width: 700px) {
   .hero {
     height: 75vh;
-    grid-template-columns: repeat(2, 1fr);
-    >* {
-      //width: 50%;
-    }
+
 
     h1 {
       font-size: 1.6rem;
@@ -58,4 +61,17 @@
     }
   }
 
+}
+
+#di_canals {
+  stroke: hsl(173, 64%, 89%);
+  stroke-width: 3px;
+  stroke-dasharray: 1,8;
+  stroke-linecap: round;
+  fill: none;
+  position: absolute;
+  top: -25%;
+  width: 70vw;
+  max-width: 100%;
+  height: auto;
 }

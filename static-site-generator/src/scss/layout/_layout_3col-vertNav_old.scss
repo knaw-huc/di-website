@@ -1,0 +1,41 @@
+@use '../abstracts' as *;
+
+$gap: 40px;
+$colWidtMin: 300px;
+$colWidtMax: 400px;
+$widtMax: 2200px;
+
+.layout_3col_vertNav {
+  display: grid;
+  width: 100%;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:$widtMax;
+  box-sizing: content-box;
+}
+
+
+
+@media (min-width: 1000px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [rightt];
+      grid-template-rows: [topp] auto [row2] auto [bott];
+      //grid-gap: $gap;
+    }
+    #colNav {       grid-column: leftt / col2;       grid-row: topp / bott;}
+    #colContent {   grid-column: col2 / rightt;      grid-row: topp / row2;}
+    #colAside {     grid-column: col2 / rightt;      grid-row: row2 / bott;}
+}
+
+
+@media (min-width: 1300px) {
+    .layout_3col_vertNav {
+      grid-template-columns: [leftt] $colWidtMin [col2] auto [colEnd] $colWidtMin [rightt];
+      grid-template-rows: [topp] auto  [bott];
+    }
+
+    #colNav {       grid-column: leftt / col2;       grid-row: topp / bott;}
+    #colContent {   grid-column: col2 / colEnd;      grid-row: topp / bott;}
+    #colAside {     grid-column: colEnd / rightt;      grid-row: topp / bott;}
+}

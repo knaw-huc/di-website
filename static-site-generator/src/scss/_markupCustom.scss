@@ -55,14 +55,18 @@ p {
 }
 
 .colNav {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: stretch;
 
-  // padding: 60px 40px;
-  // margin: -60px -40px;
   *> {
     width: 100%;
     max-width: 70%;
     margin-left: auto;
     margin-right: auto;
+
+
 
   }
 
@@ -109,7 +113,7 @@ p {
 
 }
 
-.colContent  {
+.colContent, .colContentWide  {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -187,6 +191,84 @@ $hamSpace: 15px;
   .huc_footer {
     .huc_footer__cols {
       flex-direction: row;
+    }
+  }
+
+}
+
+
+
+.homeLists {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 1300px;
+
+  h2 {
+    margin-bottom: .5rem;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    li{
+      margin: 0 0 3rem 0;
+      padding: 0;
+      list-style: none;
+
+    }
+  }
+
+}
+
+
+
+.homeListsRow {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+
+}
+
+@media (min-width: 1200px) {
+  .homeLists {
+    flex-direction: row;
+    gap: 4rem
+  }
+
+  .homeListsRow {
+
+    width: 50%;
+
+
+  }
+}
+
+
+.homeItem {
+  background-color: #fff;
+  margin-bottom: 16rem;
+
+  .homeItem__thumbnail {
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+
+  }
+  .homeItem__text {
+    position: relative;
+    padding: 3rem 1.5rem 1.5rem 1.5rem;
+    margin-top: -100px;
+    background: linear-gradient(180deg, rgba(#ffffff, 0) 0,    rgba(#ffffff, 1) 50px);
+
+    h3 {
+      a {
+        color: $colorText;
+      }
     }
   }
 
