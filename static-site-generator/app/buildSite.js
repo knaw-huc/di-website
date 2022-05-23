@@ -27,6 +27,7 @@ function build() {
     .then(createAltPageLists)
     .then(createLanguageToggle)
     .then(registerPartials)
+    .then(homeExpertiseList) // di specific
 
     .then(() => {
       createSite();
@@ -298,6 +299,46 @@ function addPageSubNavigationList() {
 }
 
 }
+
+
+
+
+function homeExpertiseList() {
+  for (const [key, value] of Object.entries(sitedataLang)) {
+  sitedataLang[key].slice().reverse().forEach((page, i) => {
+    if (page.type == 'page') {
+      let subPages = []
+      let subPagesStore = []
+
+      if (page.page_level == 2) {
+        console.log('2', page.title);
+        subPages.push(page)
+        //console.log(subPages);
+      }
+      if (page.page_level == 1) {
+        console.log(subPages);
+        console.log('1', page.title);
+        if (page.title == 'Expertise') {
+          subPagesStore = subPages
+          console.log('Exp', subPages);
+        }
+        else {
+          //subPages = []
+        }
+        if (page.title == 'Home') {
+          console.log('home?',sitedataLang[key][i].title);
+          page.expertise = subPagesStore
+
+        }
+      }
+    }
+
+    })
+  }
+
+  createFile('outputsite.json',JSON.stringify(sitedataLang));
+}
+
 
 
 
