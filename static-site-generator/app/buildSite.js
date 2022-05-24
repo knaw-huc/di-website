@@ -304,37 +304,43 @@ function addPageSubNavigationList() {
 
 
 function homeExpertiseList() {
+  let subPages = []
+  let subPagesStore = ''
+
   for (const [key, value] of Object.entries(sitedataLang)) {
-  sitedataLang[key].slice().reverse().forEach((page, i) => {
+  sitedataLang[key].reverse().forEach((page, i) => {
     if (page.type == 'page') {
-      let subPages = []
-      let subPagesStore = []
+
 
       if (page.page_level == 2) {
-        console.log('2', page.title);
-        subPages.push(page)
-        //console.log(subPages);
+        subPages.push({
+          title:page.title,
+          summary: page.summary,
+          file_name: page.file_name,
+          feautred_img: page.feautred_img,
+        })
+
       }
       if (page.page_level == 1) {
-        console.log(subPages);
-        console.log('1', page.title);
         if (page.title == 'Expertise') {
-          subPagesStore = subPages
-          console.log('Exp', subPages);
+          subPagesStore = subPages.reverse()
         }
         else {
-          //subPages = []
-        }
-        if (page.title == 'Home') {
-          console.log('home?',sitedataLang[key][i].title);
-          page.expertise = subPagesStore
-
+          subPages = []
         }
       }
     }
 
     })
+    sitedataLang[key].forEach((page, j) => {
+      sitedataLang[key][j].expertise = subPagesStore
+    })
   }
+
+
+
+
+
 
   createFile('outputsite.json',JSON.stringify(sitedataLang));
 }
