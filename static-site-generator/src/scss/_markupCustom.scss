@@ -302,3 +302,26 @@ $hamSpace: 15px;
   }
 
 }
+
+.logos{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  a {
+    margin-left: 0;
+    margin-right: 2rem;
+    margin-bottom: 0rem;
+    display: inline-flex;
+  }
+
+  figure {
+    margin-left: 0;
+    margin-right: 0;
+
+    img{
+      height: auto;
+      width: 150px;
+    }
+  }
+}

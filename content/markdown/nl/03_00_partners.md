@@ -37,11 +37,21 @@ Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, ove
 
 <!--add logos-->
 
-
-[![Tilburg University](images/logos/tilburg.png#small)](https://www.tilburguniversity.edu/nl)
-[![Koninklijke Bibliotheek](images/logos/kb.png#small)](https://www.kb.nl)
-[![Beeld & Geluid](images/logos/beeld+geluid_v2.png#small)](https://www.beeldengeluid.nl)
-
+<div class=logos>
+[![Beeld & Geluid](images/logos/logo_beeldGeluid.png)](https://www.beeldengeluid.nl)
+[![Cultural AI ](images/logos/logo_cul_ai.png)](https://www.kb.nl)
+[![DH Lab](images/logos/logo_dhlab.png)](https://www.kb.nl)
+[![EHumanities](images/logos/logo_eHumanities.png)](https://www.kb.nl)
+[![Huygens Instutuut](images/logos/logo_huygens.png)](https://www.kb.nl)
+[![IISG](images/logos/logo_iisg.png)](https://www.kb.nl)
+[![Koninklijke Bibliotheek](images/logos/logo_kb.png)](https://www.kb.nl)
+[![Universiteit Leiden](images/logos/logo_leiden.png)](https://www.kb.nl)
+[![Meertens Instituut](images/logos/logo_meertens.png)](https://www.kb.nl)
+[![National Archives](images/logos/logo_na.png)](https://www.nationaalarchief.nl/)
+[![Oxford](images/logos/logo_oxford.png)](https://www.kb.nl)
+[![UVA](images/logos/logo_uva.png)](https://www.kb.nl)
+[![Vu](images/logos/logo_vu.png)](https://www.kb.nl)
+</div>
 <!--
 * [Tilburg University](https://www.tilburguniversity.edu/nl)
 * [Universita di Bologna](https://www.unibo.it/en/homepage)
