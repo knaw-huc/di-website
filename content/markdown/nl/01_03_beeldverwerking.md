@@ -12,6 +12,9 @@ images@di.huc.knaw.nl
 
 ### Verwante Onderzoeksprojecten
 
+- [Digital Forensics](https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/?noredirect=nl_NL) (Huygens Institute) aims at creating a bridge in between two different modes of handwriting analyses: forensic (graph analysis) and palaeographical (the development of scripts through space and time). In Digital Forensics, the two methods will be combined in a single ‘deep learning system’ to analyse the similarities and deviances in handwritten script in a palaeographically meaningful manner. / (2018-2021)
+In één digitale omgeving zijn forensische en paleografische methode voor handschriftanalyse gecombineerd.
+
 + [Republic]https://republic.huygens.knaw.nl/ (2019-2023)
 Digitale ontsluiting van de resoluties van de Staten Generaal van 1576 tot en met 1796. Deze deels handgeschreven, deels geprinte documenten tonen de vorming van de Republiek der Zeven Verenigde Nederlanden.
 + [Globalise]https://globalise.huygens.knaw.nl/ (2021-2026)
@@ -26,4 +29,9 @@ In één digitale omgeving zijn forensische en paleografische methode voor hands
 
 ### Publicaties en Presentaties
 
-n.v.t.
+- [Anne Gorter; Rutger van Koert; Ismee Tames; Edwin Klijn; Marielle Scherer. _From Tribunal Archive to Digital Research Facility (TRIADO): Exploring ways to make archives accessible and useable_, DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage (2019), pp. 105–110.](https://doi.org/10.1145/3322905.3322906)
+ - [Marius Bulacu; Rutger van Koert; Lambert Schomaker; Tijn van der Zant. _Layout Analysis of Handwritten Historical Documents for Searching the Archive of the Cabinet of the Dutch Queen_, ICDAR '07: Proceedings of the Ninth International Conference on Document Analysis and Recognition - Volume 01 (September 2007), pp. 357–361.](https://dl.acm.org/doi/10.5555/1304595.1304749)
+- [Eindrapport verrijkingsfase TRIADO](https://www.oorlogsbronnen.nl/sites/default/files/20190517_eindrapportTRIADO%20verrijkingsfase_0.pdf) (PDF)
+- [Interview with Network Oorlogsbronnen](https://www.youtube.com/watch?v=yUzs1QP5i08) for TRIADO.
+- [DATeCH 2019](https://www.youtube.com/watch?v=Sa0KONYWwVc) conference presentation on TRIADO.
+

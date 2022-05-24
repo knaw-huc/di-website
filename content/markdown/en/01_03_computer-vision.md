@@ -20,8 +20,19 @@ To convert page images of typed or printed text (OCR) into machine-readable text
 
 ![Layout Analysis](assets/htr-layout-analysis2.png)
 
+### Related Projects
 
-- [Digital Forensics](https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/?noredirect=nl_NL) (Huygens Institute) aims at creating a bridge in between two different modes of handwriting analyses: forensic (graph analysis) and palaeographical (the development of scripts through space and time). In Digital Forensics, the two methods will be combined in a single ‘deep learning system’ to analyse the similarities and deviances in handwritten script in a palaeographically meaningful manner. **Contribution:** Authorship attribution and location.
+- [Digital Forensics](https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/?noredirect=nl_NL) (Huygens Institute) aims at creating a bridge in between two different modes of handwriting analyses: forensic (graph analysis) and palaeographical (the development of scripts through space and time). In Digital Forensics, the two methods will be combined in a single ‘deep learning system’ to analyse the similarities and deviances in handwritten script in a palaeographically meaningful manner. / (2018-2021)
+In één digitale omgeving zijn forensische en paleografische methode voor handschriftanalyse gecombineerd.
+
++ [Republic]https://republic.huygens.knaw.nl/ (2019-2023)
+Digitale ontsluiting van de resoluties van de Staten Generaal van 1576 tot en met 1796. Deze deels handgeschreven, deels geprinte documenten tonen de vorming van de Republiek der Zeven Verenigde Nederlanden.
++ [Globalise]https://globalise.huygens.knaw.nl/ (2021-2026)
+Digitale infrastructuur waarin de belangrijkste reeks VOC-rapporten voor geavanceerde nieuwe onderzoeksmethoden kunnen worden ontsloten. De infrastructuur maakt de documenten niet alleen doorzoekbaar, maar ook onderzoekbaar.
++ [TRIADO]https://www.oorlogsbronnen.nl/nieuws/project-tribunaalarchieven-als-digitale-onderzoeksfaciliteit-triado  (2017-2019)
+In het project Tribunaalarchieven als digitale onderzoeksfaciliteit (TRIADO) zijn aan de hand van concrete onderzoeksvragen methoden verkend om het meest geraadpleegde Tweede Wereldoorlog-archief van Nederland, het Centraal Archief Bijzondere Rechtspleging (CABR), digitaal beter doorzoekbaar te maken.
++ [Digital Forensics]https://www.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/ (2018-2021)
+In één digitale omgeving zijn forensische en paleografische methode voor handschriftanalyse gecombineerd.
 
 ### Software and Data
 
