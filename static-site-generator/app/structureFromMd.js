@@ -98,6 +98,8 @@ function filesFromDir(lang) {
                 if ((contentArr.length - 1) == j) {
                   text = markdown.toHTML(text)
                   text = text.replaceAll('\n', ' ')
+                  text = text.replaceAll('&lt;', '<')
+                  text = text.replaceAll('&gt;', '>')
                   pageObj.htmlContent = text
                 }
                 break;

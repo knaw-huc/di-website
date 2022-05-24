@@ -30,6 +30,7 @@
 
 .hero__text {
   position: relative;
+  z-index: 11;
 }
 
 
@@ -62,16 +63,23 @@
   }
 
 }
-
 #di_canals {
-  stroke: hsl(173, 64%, 89%);
-  stroke-width: 3px;
-  stroke-dasharray: 1,8;
-  stroke-linecap: round;
-  fill: none;
-  position: absolute;
-  top: -25%;
-  width: 70vw;
-  max-width: 100%;
-  height: auto;
+  display: none;
+  z-index: 0;
+}
+
+@media (min-width: 1000px) {
+  #di_canals {
+    display: block;
+    stroke: hsl(173, 64%, 89%);
+    stroke-width: 3px;
+    stroke-dasharray: 1,8;
+    stroke-linecap: round;
+    fill: none;
+    position: absolute;
+    top: -25%;
+    width: 70vw;
+    max-width: 100%;
+    height: auto;
+    }
 }

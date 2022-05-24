@@ -5,8 +5,7 @@
   flex-direction: row;
   justify-content: flex-start;
   flex: none;
-  position: fixed;
-  bottom: 0;
+
 
 
   img {
@@ -27,14 +26,9 @@
 
 
 
-@media (min-width: 1300px) {
-  // .founders {
-  //   flex-direction: column;
-  // }
-  .founders__ii, .founders__hi {
-
-  }
-  .founders__me{
-
+@media (min-width: 1000px) {
+  .founders {
+    position: fixed;
+    bottom: 0;
   }
 }

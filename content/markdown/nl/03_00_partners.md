@@ -37,6 +37,11 @@ Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, ove
 
 <!--add logos-->
 
+
+[![Tilburg University](images/logos/tilburg.png#small)](https://www.tilburguniversity.edu/nl)
+[![Koninklijke Bibliotheek](images/logos/kb.png#small)](https://www.kb.nl)
+[![Beeld & Geluid](images/logos/beeld+geluid_v2.png#small)](https://www.beeldengeluid.nl)
+
 <!--
 * [Tilburg University](https://www.tilburguniversity.edu/nl)
 * [Universita di Bologna](https://www.unibo.it/en/homepage)

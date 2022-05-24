@@ -121,6 +121,7 @@ p {
 }
 
 .centerContent {
+
 }
 
 .breadCrumb {
@@ -133,9 +134,34 @@ p {
 }
 
 
-.read {
+.read figure {
+  margin-left: 0;
+  margin-right: 0;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  figcaption {
+    font-size: .85rem;
+    font-style: italic;
+  }
 }
 
+@media (min-width: 1200px) {
+  .read figure {
+    width: calc(100% + 4rem);
+    height: auto;
+    margin-left: -2rem;
+    margin-right: -2rem;
+
+    figcaption {
+      margin-left: 2rem;
+    }
+  }
+
+}
 
 
 
@@ -168,7 +194,7 @@ $hamSpace: 15px;
 .huc_footer {
   margin-top: 100px;
   padding: 150px 0;
-  background-color: hsl(0, 0%, 94%);
+  background-color: rgba(181,234,229,1);
   width: 100%;
   display: flex;
 
@@ -204,6 +230,7 @@ $hamSpace: 15px;
   justify-content: flex-start;
   width: 100%;
   max-width: 1300px;
+  z-index: 10;
 
   h2 {
     margin-bottom: .5rem;
@@ -250,6 +277,8 @@ $hamSpace: 15px;
 .homeItem {
   background-color: #fff;
   margin-bottom: 16rem;
+  position: relative;
+
 
   .homeItem__thumbnail {
     img {

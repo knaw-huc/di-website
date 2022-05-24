@@ -3,8 +3,8 @@ const fs = require("fs-extra");
 const path = require("path");
 let sass = require("sass");
 let markdown = require("markdown").markdown;
-//const jsdom = require("jsdom");
-//const { JSDOM } = jsdom;
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
 
 const config = require("../../config.json");
 const sitedata = require("../../content/data/site.json");
@@ -23,7 +23,7 @@ function build() {
     .then(handleLanguage)
     .then(addPageBreadCrumb)
     .then(addPageNavigationList)
-    .then(addPageSubNavigationList)
+    //.then(addPageSubNavigationList)
     .then(createAltPageLists)
     .then(createLanguageToggle)
     .then(registerPartials)
@@ -252,57 +252,53 @@ function addPageNavigationList() {
 }
 
 
-
-
-function addPageSubNavigationList() {
-  for (const [key, value] of Object.entries(sitedataLang)) {
-    let tempArr = [];
-    let tempUl = '';
-    let pageList = []
-
-
-    sitedataLang[key].slice().reverse().forEach((page, i) => {
-      if (page.type == 'page') {
-
-        if (page.page_level == 2) {
-          tempUl = '<li><a href="' + page.file_name + '" tabindex="'+i+'">' + page.title + '</a></li>' + tempUl;
-          tempArr.push(sitedataLang[key].length - i)
-          pageList.push({
-            title: page.title,
-            file_name: page.file_name,
-            page_order: page.page_order
-          }
-
-
-
-          )
-
-        }
-        if (page.page_level == 1) {
-          tempArr.push((sitedataLang[key].length - i));
-          tempArr.forEach((id, j) => {
-            let tempUl2
-
-            tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '"  tabindex="'+i+'">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
-
-            sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
-            sitedataLang[key][id - 1].navigationSub = sortByKey(pageList, 'page_order');//  pageList.reverse();
-          });
-
-          tempUl = '';
-          tempArr = [];
-          pageList = []
-        }
-
-      }
-    })
-}
-
-}
+//
+//
+// function addPageSubNavigationList() {
+//   for (const [key, value] of Object.entries(sitedataLang)) {
+//     let tempArr = [];
+//     let tempUl = '';
+//     let pageList = []
+//
+//
+//     sitedataLang[key].slice().reverse().forEach((page, i) => {
+//       if (page.type == 'page') {
+//
+//         if (page.page_level == 2) {
+//           tempUl = '<li><a href="' + page.file_name + '" tabindex="'+i+'">' + page.title + '</a></li>' + tempUl;
+//           tempArr.push(sitedataLang[key].length - i)
+//           pageList.push({
+//             title: page.title,
+//             file_name: page.file_name,
+//             page_order: page.page_order
+//           })
+//
+//         }
+//         if (page.page_level == 1) {
+//           tempArr.push((sitedataLang[key].length - i));
+//           tempArr.forEach((id, j) => {
+//             let tempUl2
+//
+//             tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '"  tabindex="'+i+'">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
+//
+//             sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
+//             sitedataLang[key][id - 1].navigationSub = sortByKey(pageList, 'page_order');//  pageList.reverse();
+//           });
+//
+//           tempUl = '';
+//           tempArr = [];
+//           pageList = []
+//         }
+//
+//       }
+//     })
+// }
+//
+// }
 
 
 
-
+//di specific
 function homeExpertiseList() {
   let subPages = []
   let subPagesStore = ''
@@ -317,7 +313,7 @@ function homeExpertiseList() {
           title:page.title,
           summary: page.summary,
           file_name: page.file_name,
-          feautred_img: page.feautred_img,
+          featured_image: page.featured_image,
         })
 
       }
@@ -461,6 +457,7 @@ function generateHtml() {
       ) {
         var template = handlebars.compile(source);
         var html = template(item);
+        var html = handleHtmlDom(html);
         createFile(outputDir +item.file_name, html);
         //console.log(item.file_name+' created.');
       });
@@ -496,20 +493,22 @@ function onlyUniqueInArr(value, index, self) {
 
 
 function handleHtmlDom(fileContent) {
-  // const dom = new JSDOM(fileContent);
-  // let img = dom.window.document.querySelectorAll("img")
-  //
-  // dom.window.document.querySelectorAll("img").forEach((item, i) => {
-  //   if (item !== null) {
-  //     let altText = item.getAttribute('alt');
-  //     let mfigur = dom.window.document.createElement("figure");
-  //     mfigur.innerHTML = item+'<figcaption>'+altText+'</figcaption>';
-  //     item.parentNode.replaceChild(mfigur, item);
-  //   }
-  // });
+  const dom = new JSDOM(fileContent);
+  let img = dom.window.document.querySelectorAll(".read img")
+  //console.log('img', img);
 
-  //console.log(dom);
-  return fileContent;
+
+  for (var i = 0; i < img.length; i++) {
+
+    if (img[i] !== null) {
+      let altText = img[i].getAttribute('alt');
+      let mfigur = dom.window.document.createElement("figure");
+      mfigur.innerHTML = img[i].outerHTML+'<figcaption>'+altText+'</figcaption>';
+      img[i].parentNode.replaceChild(mfigur, img[i]);
+    }
+  }
+
+  return dom.serialize();
 }
 
 function sortByKey(array, key) {

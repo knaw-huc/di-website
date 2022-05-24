@@ -2,10 +2,12 @@
 title: Tekstanalyse
 author: Arno Bosse
 type: page
+featured_image: paper_1.jpg
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula.
 ---
 We hebben ruime ervaring met verschillende typen wetenschappelijke tekstcollecties. Deze omvatten zowel literaire tekstedities, correspondenties, als ook historische manuscripten en taalkundige collecties. Onze gepubliceerde tekstcollecties zijn vaak verrijkt met bijvoorbeeld metadata, zoek- en browse-mogelijkheden, afbeeldingen van de originele pagina's, gestructureerde data en annotaties.
 
-Met name bieden we onderzoekers verschillende manieren om complexe zoekopdrachten uit te voeren met behulp van 'fuzzy' tekstpatronen, semantisch gerelateerde passages of door teksten te filteren op basis van verrijkingen met gestructureerde data, zoals de personen en plaatsen die in de tekst genoemd worden. We bieden ook de noodzakelijke kennis en software waarmee projectteams hun tekstcollecties kunnen bewerken, annoteren en visualiseren, deze online kunnen publiceren en ze kunnen onderbrengen in een gecertificeerde digitale repository om het behoud en de toegang op de lange termijn veilig te stellen. 
+Met name bieden we onderzoekers verschillende manieren om complexe zoekopdrachten uit te voeren met behulp van 'fuzzy' tekstpatronen, semantisch gerelateerde passages of door teksten te filteren op basis van verrijkingen met gestructureerde data, zoals de personen en plaatsen die in de tekst genoemd worden. We bieden ook de noodzakelijke kennis en software waarmee projectteams hun tekstcollecties kunnen bewerken, annoteren en visualiseren, deze online kunnen publiceren en ze kunnen onderbrengen in een gecertificeerde digitale repository om het behoud en de toegang op de lange termijn veilig te stellen.
 
 Zeer grote en complexe projecten die werken met tekstuele data kunnen profiteren van de open source text repository die we binnen het Humanities Cluster ontwikkeld hebben. De software fungeert als een backend repository om corpora met metadata en versiebeheer op te slaan en te indexeren. Applicaties zoals een web-frontend of een editor kunnen gebruikmaken van de API van de text repository om teksten te lezen, updaten en verwijderen of om documenten te zoeken en doorzoeken.
 
