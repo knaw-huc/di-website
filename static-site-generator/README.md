@@ -22,3 +22,4 @@ summary: // teaser text for news snippits
 meta_description:
 meta_keyword:
 featured_image: // thumbnail for overview page. Image for sharing
+directSubpages: true // dont show the page content but the first child

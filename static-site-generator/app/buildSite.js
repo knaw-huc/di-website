@@ -209,6 +209,7 @@ function addPageNavigationList() {
     let hasCurrInSub = false;
     let topNav = '';
     let subNav = '';
+    let lastLink = '';
 
     // generate list
     sitedataLang[key].slice().reverse().forEach((navItem, j) => {
@@ -224,12 +225,17 @@ function addPageNavigationList() {
         isCurr = ' navIsCurrentPage';
       }
 
-        let tempUl = '<a href="' + navItem.file_name + '" tabindex="0">' + navItem.title + '</a>';
+        let tempUl = '<a href="' + navItem.file_name + '" >' + navItem.title + '</a>';
         if (navItem.page_level == 2) {
           subNav = '<li class="'+isCurr+'">'+ tempUl +'</li>'+ subNav
         }
 
         if (navItem.page_level == 1) {
+
+          if (navItem.directSubpages) {
+            tempUl = '<a href="' + lastLink + '" >' + navItem.title + '</a>';
+          }
+
           if (hasCurrInSub) {
             subNav = '<ul>'+subNav+'</ul>'
             topNav = '<li class="'+isCurrParent+'">'+tempUl + subNav +'</li>'+topNav
@@ -241,6 +247,8 @@ function addPageNavigationList() {
           subNav = ''
 
         }
+
+        lastLink = navItem.file_name;
 
       }
     })

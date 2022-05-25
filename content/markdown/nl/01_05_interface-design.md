@@ -11,6 +11,10 @@ Wij zijn gespecialiseerd in gebruikersonderzoek, online gebruiksvriendelijkheid,
 
 De oplossingen die die wij ontwikkelen, plaatsen de onderliggende data in de juiste context, zodat ze beter kunnen worden begrepen en makkelijker zijn te gebruiken. Daarbij is veel aandacht voor responsive design, zodat de toepassingen toegankelijk zijn vanaf verschillende beeldschermen, van tablet tot breedbeeld monitor. Ook is inclusiviteit een belangrijk uitgangspunt: de tools zijn waar mogelijk toegankelijk voor mensen met een beperking. Daarnaast is het ontwerp zoveel mogelijk duurzaam: het team werkt volgens de open source-principes, zodat de toepassing ook op de langere termijn bruikbaar blijft.
 
+<!--
+welke specifieke problemen komen we tegen
+-->
+
 ## Contact
 
 Bas Doppen
