@@ -2,15 +2,16 @@
 title: Spatial Computing
 author: Thomas Vermaut
 type: page
+meta_keyword: spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, Historical GIS, land register, map, historical travel, gazetteers, urban gazetteers
 ---
 
-Spatial information is omnipresent. The study of complex data requires multiple facets, of which the geographical space (*where* something takes place) is one of the most important dimensions. This is often seen in the form of a disclosure of a dataset within or on a map. Data plays an important role here, as all computational pipelines ultimately revolve around the output, and its usability for more visible public applications, as well as less visible research purposes. Logical reasoning about this data in complex systems is also part of this.
+Spatial information is present everywhere. The study of complex data requires multiple facets, of which the geographical space (_where_ something takes place) is one of the most important. This often results in the publication of a dataset or the publication of a map. [Sentence to be added here once Dutch original is revised]. Logical reasoning about this data in complex systems also plays a relevant part.
 
-One of our important tools is [HisGIS](https://hisgis.nl) which is at the forefront when it comes to digital infrastructure with a fine-grained spatial granularity, namely the plot as an atom of space. The project aims to unlock the first historical original land register of the Netherlands, also known as the Napoleonic land register, in all its facets (socio-economic value, property as an expression of power, spatially accurate reconstruction of the natural and cultural landscape, etc.). With this long-term project, we have had experience since the 1990s in using volunteers in a broad social basis to build up a scientific infrastructure.
+One of our important tools is [HisGIS](https://hisgis.nl) which is our first choice for a digital infrastructure for working with fine-grained spatial data such as individual parcels of land. The project aims to unlock the first historical original land register of the Netherlands, also known as the Napoleonic land register, in all its facets (socio-economic value, property as an expression of power, spatially accurate reconstruction of the natural and cultural landscape, etc.). With this project, we have had experience since the 1990s in using volunteers on a broad basis to create the necessary research infrastructure.
 
-We use semantic technology to transform data and output from map to an interactive and dynamic data portal. To do this, we often use OpenStreetMap as a technical platform, which we can roll out separately for a case, so that a project can build its own data-graph if required. What we contribute is experience in translating substantive concepts and entities into the most appropriate technical (data) structure, so that the goal of a project can be achieved as efficiently as possible.
+We use semantic technology to transform data from maps to an interactive and dynamic data portal. To do this, we often use OpenStreetMap as a technical platform, which we can deploy separately from HisGIS on a case by case basis, so that a project can build its own data-graph if required. What we contribute above all is experience in translating geographical concepts and entities into the most appropriate technical (data) structures, so that the goals of a project can be achieved as efficiently as possible.
 
-In addition to a broad historical scope, we do not limit ourselves to the current national borders of the Netherlands. One of our most important projects is the cooperation with the [World Historical Gazetteer (WHG)](https://whgazetteer.org/). In this way, we want to contribute to making information accessible across time and space.
+In addition to a broad historical scope, we do not limit ourselves to the current national borders of the Netherlands. One of our most important projects is our ongoing cooperation with the [World Historical Gazetteer (WHG)](https://whgazetteer.org/). In this way, we want to contribute to making geographic information accessible across time and space.
 
 ### Contact
 
@@ -19,11 +20,10 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 ### Related Research Projects
 
 - [HisGIS Netherlands](https://hisgis.nl)
-- [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to v2.0 of the gazetteer, a.o. with the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) and preparing and curating datasets for it.
-- [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). In doing so, we as DI contribute knowledge, experience and technology to the project.
-- [Historical Travel Times in China, 1930-2000](https://www.worldeconomichistory.org/) (ERC Starting Grant, PI: Bas van Leeuwen). Although DI is not directly involved, we are happy to use the expertise we have acquired in reconstructing and analysing historical transport networks elsewhere.
+- [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to the technical development of v2 of the gazetteer, and in particular also to the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) for which we prepared and curated a variety of datasets.
+- [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). 
 
-![HisGIS Viewer](assets/his-gis.png)
+![HisGIS Viewer](/images/his-gis.png)
 
 ### Software and Data
 
