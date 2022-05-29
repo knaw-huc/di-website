@@ -9,11 +9,11 @@ featured_image: // thumbnail for overview page.
 ---
 ## Text Analysis
 
-We have extensive experience with diverse kinds of scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The text collections we publish are often complemented by descriptive metadata, page images other enrichments such as links to structured data and annotations.
+We have extensive experience with publishing different kinds of digital scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The collections we publish are usually complemented by us with descriptive metadata, page images and other types of enrichments such as links to structured data and user annotations.
 
-In particular, we offer researchers many ways to carry out complex searches using 'fuzzy' text patterns, semantically related passages or by filtering texts on the basis of structured data enrichments such as the persons or places mentioned in the text. We also provide the necessary know-how and software tools to allow project teams to edit and visualize their text collections, to publish them on online, and to deposit them in a certified digital repository to ensure their long term preservation and access.
+In particular, we offer researchers many ways to carry out complex searches — for example by using 'fuzzy' text patterns, finding semantically related passages or by filtering texts on the basis of structured data such as the persons or places mentioned in a text. We can also provide the necessary know-how and software to allow project teams to edit and visualize their text collections, to publish them on online, and to deposit them in a certified digital repository to ensure their long term preservation and access.
 
-All of our text based projects can benefit from the open source [text repository](https://github.com/knaw-huc/textrepo) we've developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts or to explore or search documents. In particular, much like IIIF Canvas, it enables the retrieval and annotation of text passages, irrespective of their original text format.
+All of our text based projects make use of the open source [text repository](https://github.com/knaw-huc/textrepo) we have developed in-house at the Humanities Cluster. The software acts as a backend repository to store and index corpora with metadata and versions. An application such as a web front-end or editor can make use of the text repository's API to read, update, and delete texts, as well as to explore or search documents. In particular, much like the [IIIF Canvas standard](https://iiif.io), this enables the retrieval and annotation of text passages, irrespective of their original text format.
 
 ### Contact
 
@@ -23,18 +23,18 @@ All of our text based projects can benefit from the open source [text repository
 
 + what did we contribute to each of these projects?
 
-
-- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. Contribution: tba
-- [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images. Contribution: tba
+- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. 
+- [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
 - [Globalise](https://globalise.huygens.knaw.nl) (huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
 - CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)
 - tba
 
+// screenshot from one of the above projects to be inserted here
 
 ### Software and Data
 
 + what did we contribute to each of these resources?
-+ Docere ownership?
++ Docere ownership - current status?
 
 - [Text Repository](https://github.com/knaw-huc/textrepo) (KNAW Humanities Cluster) is a  backend repository system to store and index text corpora with metadata and versions.
 - [LaMachine](https://proycon.github.io/LaMachine) (Radboud University Nijmegen) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web-services and web-applications in a single Virtual Research Environment that can be installed on a wide variety of machines.

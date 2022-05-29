@@ -1,5 +1,5 @@
 ---
-title: Searching in handwritten texts
+title: Lorem ipsum dolor sit amet
 author: Erica Renckens
 type: feature
 featured_image: paper_1.jpg
