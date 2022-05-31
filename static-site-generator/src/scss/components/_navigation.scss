@@ -1,0 +1,21 @@
+@use '../abstracts' as *;
+
+.colNavInner {
+position: relative;
+}
+
+@media (min-width: 1000px) {
+  .colNavInner {
+  position: fixed;
+  width: 270px;
+  }
+}
+
+.mainNav {
+  ul ul {
+    display: none;
+  }
+  .navIsCurrentParent ul {
+    display: block;
+  }
+}

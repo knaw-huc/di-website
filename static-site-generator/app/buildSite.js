@@ -238,11 +238,14 @@ function addPageNavigationList() {
 
           if (hasCurrInSub) {
             subNav = '<ul>'+subNav+'</ul>'
-            topNav = '<li class="'+isCurrParent+'">'+tempUl + subNav +'</li>'+topNav
+            topNav = '<li class="'+isCurrParent+'" >'+tempUl + subNav +'</li>'+topNav
             hasCurrInSub = false
 
           } else {
-            topNav = '<li>'+tempUl + '</li>'+topNav
+            if (subNav != '') {
+              subNav = '<button class="subMenuButton" id="'+navItem.title.toLowerCase()+'" aria-label="Open submenu for '+navItem.title+'">></button><ul id="sub_'+navItem.title.toLowerCase()+'">'+subNav+'</ul>'
+            }
+            topNav = '<li class="subLi" id="parent_' + navItem.title.toLowerCase() + '">'+tempUl + subNav + '</li>'+topNav
           }
           subNav = ''
 
@@ -260,49 +263,71 @@ function addPageNavigationList() {
 }
 
 
-//
-//
-// function addPageSubNavigationList() {
+
+
+
+// function addPageNavigationList() {
+//   // for each language
 //   for (const [key, value] of Object.entries(sitedataLang)) {
-//     let tempArr = [];
-//     let tempUl = '';
-//     let pageList = []
 //
 //
-//     sitedataLang[key].slice().reverse().forEach((page, i) => {
-//       if (page.type == 'page') {
+//   //for each page
+//   sitedataLang[key].forEach((page, i) => {
+//     let hasCurrInSub = false;
+//     let topNav = '';
+//     let subNav = '';
+//     let lastLink = '';
 //
-//         if (page.page_level == 2) {
-//           tempUl = '<li><a href="' + page.file_name + '" tabindex="'+i+'">' + page.title + '</a></li>' + tempUl;
-//           tempArr.push(sitedataLang[key].length - i)
-//           pageList.push({
-//             title: page.title,
-//             file_name: page.file_name,
-//             page_order: page.page_order
-//           })
+//     // generate list
+//     sitedataLang[key].slice().reverse().forEach((navItem, j) => {
+//
+//       if (navItem.type == 'page') {
+//
+//
+//       let isCurr = '';
+//       let isCurrParent = ' navIsCurrentParent';
+//
+//       if (page.title == navItem.title) {
+//         hasCurrInSub = true;
+//         isCurr = ' navIsCurrentPage';
+//       }
+//
+//         let tempUl = '<a href="' + navItem.file_name + '" >' + navItem.title + '</a>';
+//         if (navItem.page_level == 2) {
+//           subNav = '<li class="'+isCurr+'">'+ tempUl +'</li>'+ subNav
+//         }
+//
+//         if (navItem.page_level == 1) {
+//
+//           if (navItem.directSubpages) {
+//             tempUl = '<a href="' + lastLink + '" >' + navItem.title + '</a>';
+//           }
+//
+//           if (hasCurrInSub) {
+//             subNav = '<ul>'+subNav+'</ul>'
+//             topNav = '<li class="'+isCurrParent+'">'+tempUl + subNav +'</li>'+topNav
+//             hasCurrInSub = false
+//
+//           } else {
+//             topNav = '<li>'+tempUl + '</li>'+topNav
+//           }
+//           subNav = ''
 //
 //         }
-//         if (page.page_level == 1) {
-//           tempArr.push((sitedataLang[key].length - i));
-//           tempArr.forEach((id, j) => {
-//             let tempUl2
 //
-//             tempUl2 = tempUl.replace('<li><a href="' + sitedataLang[key][id - 1].file_name + '"  tabindex="'+i+'">', '<li class="currPage"><a href="' + sitedataLang[key][id - 1].file_name + '">');
-//
-//             sitedataLang[key][id - 1].navigationSub_list = '<ul>' + tempUl2 + '</ul>';
-//             sitedataLang[key][id - 1].navigationSub = sortByKey(pageList, 'page_order');//  pageList.reverse();
-//           });
-//
-//           tempUl = '';
-//           tempArr = [];
-//           pageList = []
-//         }
+//         lastLink = navItem.file_name;
 //
 //       }
 //     })
+//     sitedataLang[key][i].navigation_list = '<ul>'+topNav+'</ul>'
+//   })
 // }
 //
+//
 // }
+
+
+
 
 
 

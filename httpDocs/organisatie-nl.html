@@ -20,33 +20,35 @@
 <div class="layout_3col_vertNav fullHeight">
 
   <header id="colNav" class="colNav in_padding--basic" aria-label="Main navigation">
-    <div class="topSpace">
-      <div><a href="index.html"><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo"></a></div>
+    <div class="colNavInner">
+      <div class="topSpace">
+        <div><a href="index.html"><img id="logo" src="images/logo-knaw-humanities-cluster.png" alt="Welcome to the KNAW Humanties Cluster" class="logo"></a></div>
   
-    </div>
+      </div>
   
-    <div class="hideOnSmall stickyTop">
-      <nav id="mainNav" class="navNoList"><ul><li><a href="index.html">Home</a></li><li><a href="tekstanalyse-nl.html">Expertise</a></li><li><a href="onderzoeksprojecten-nl.html">Activiteiten</a></li><li><a href="partners-nl.html">Partners</a></li><li class=" navIsCurrentParent"><a href="missie-nl.html">Organisatie</a><ul><li class=""><a href="missie-nl.html">Missie</a></li><li class=""><a href="de-afdeling-nl.html">De afdeling</a></li><li class=""><a href="staff-nl.html">Staff</a></li><li class=""><a href="werken-bij-di-nl.html">Werken bij DI</a></li><li class=""><a href="nieuws-nl.html">Nieuws</a></li><li class=""><a href="eventementen-nl.html">Eventementen</a></li><li class=""><a href="colofon-nl.html">Colofon</a></li></ul></li></ul></nav>
-      <div><nav class="languageToggle" aria-label="Choose a language">
+      <div class="hideOnSmall">
+        <nav id="mainNav" class="mainNav navNoList"><ul><li class="subLi" id="parent_home"><a href="index.html">Home</a></li><li class="subLi" id="parent_expertise"><a href="tekstanalyse-nl.html">Expertise</a><button class="subMenuButton" id="expertise" aria-label="Open submenu for Expertise">&gt;</button><ul id="sub_expertise"><li class=""><a href="tekstanalyse-nl.html">Tekstanalyse</a></li><li class=""><a href="gestructureerde-data-nl.html">Gestructureerde Data</a></li><li class=""><a href="patroonherkenning-en-beeldverwerking-nl.html">Patroonherkenning en Beeldverwerking</a></li><li class=""><a href="geografische-analyse-nl.html">Geografische Analyse</a></li><li class=""><a href="interface-design-nl.html">Interface Design</a></li><li class=""><a href="cloud-computing-nl.html">Cloud Computing</a></li></ul></li><li class="subLi" id="parent_activiteiten"><a href="onderzoeksprojecten-nl.html">Activiteiten</a><button class="subMenuButton" id="activiteiten" aria-label="Open submenu for Activiteiten">&gt;</button><ul id="sub_activiteiten"><li class=""><a href="onderzoeksprojecten-nl.html">Onderzoeksprojecten</a></li><li class=""><a href="infrastructuurprojecten-nl.html">Infrastructuurprojecten</a></li><li class=""><a href="duurzaam-collectiebeheer-nl.html">Duurzaam collectiebeheer</a></li><li class=""><a href="duurzame-software-en-infrastuctuur-nl.html">Duurzame software en infrastuctuur</a></li><li class=""><a href="werken-met-di-nl.html">Werken met DI</a></li></ul></li><li class="subLi" id="parent_partners"><a href="partners-nl.html">Partners</a></li><li class=" navIsCurrentParent"><a href="missie-nl.html">Organisatie</a><ul><li class=""><a href="missie-nl.html">Missie</a></li><li class=""><a href="de-afdeling-nl.html">De afdeling</a></li><li class=""><a href="staff-nl.html">Staff</a></li><li class=""><a href="werken-bij-di-nl.html">Werken bij DI</a></li><li class=""><a href="nieuws-nl.html">Nieuws</a></li><li class=""><a href="colofon-nl.html">Colofon</a></li></ul></li></ul></nav>
+        <div><nav class="languageToggle" aria-label="Choose a language">
     <a href="home-en.html" aria-label="English">en</a><a href="index.html" aria-label="Nederlands">nl</a>
   </nav>
   </div>
-    </div>
+      </div>
   
-    <div class="hideOnSmall ">
-      <div class="founders">
-        <div class="founders__hi">
-          <img src="images/logo_huygens.png" alt="Huyegsn Instituut">
+      <div class="hideOnSmall ">
+        <div class="founders">
+          <div class="founders__hi">
+            <img src="images/logo_huygens.png" alt="Huyegsn Instituut">
+          </div>
+        
+          <div class="founders__ii">
+            <img src="images/logo-iisg.png" alt="IISG">
+          </div>
+        
+          <div class="founders__me">
+            <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut">
+          </div>
+        
         </div>
-      
-        <div class="founders__ii">
-          <img src="images/logo-iisg.png" alt="IISG">
-        </div>
-      
-        <div class="founders__me">
-          <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut">
-        </div>
-      
       </div>
     </div>
   </header>
@@ -108,7 +110,7 @@
 
 
 <script src="js/hamburger-menu.js" charset="utf-8"></script>
-
+<script src="js/menu-a11y-submenu.js" charset="utf-8"></script>
 
 
 
