@@ -15,3 +15,37 @@ Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 - [Anne Frank Manuscripten](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)  (Huygens) – Editiewetenschappelijk en geschiedkundig onderzoek naar de manuscripten van Anne Frank met behulp van innovatieve technieken.
 - [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) (Huygens) – Toegankelijk maken van de gedigitaliseerde documenten die door Britse kapers in de periode 1652-1815 op vijandelijke schepen zijn buitgemaakt.
 - etc.
+
+
+| **Title**                                                                                                                           | **Status** | **Type** | **Partner**                               |
+|-------------------------------------------------------------------------------------------------------------------------------------|------------|----------|-------------------------------------------|
+| [Nieuwe Maritieme Geschiedenis van Nederland](https://beta.nmgn.huygens.knaw.nl)                                                    | Current    | Edition  | Huygens ING                               |
+| [Anne Frank Engelse editie](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)                               | Current    | Edition  | Huygens ING                               |
+| DANS UX-klussen                                                                                                                     | Current    | External | HuC                                       |
+| [DARIAH contribution tool](https://www.dariah.eu)                                                                                   | Current    | External | HuC, DANS                                 |
+| Detachering Nationaal Archief                                                                                                       | Current    | External | HuC                                       |
+| NIOD Collectiebeheer                                                                                                                | Current    | External | HuC                                       |
+| Diplomatieke Getuigenissen                                                                                                          | Current    | Research | Huygens ING                               |
+| [eCodicesNL](https://www.huygens.knaw.nl/projecten/ecodicesnl/)                                                                     | Current    | Research | Huygens ING                               |
+| Visualisatie Data en Collecties                                                                                                     | Current    | Research | IISG                                      |
+| [Omeka-S Volksverhalenbank](http://www.verhalenbank.nl)                                                                             | Current    | Research | Meertens                                  |
+| [Suriano](https://www.huygens.knaw.nl/projecten/briefwisseling-van-christofforo-suriano/)                                           | Current    | Research | HuC                                       |
+| [Digital forensics](https://en.huygens.knaw.nl/projecten/digital-forensics-for-historical-documents/)                               | Current    | Research | Huygens ING                               |
+| Tijdschriftenplatform                                                                                                               | Current    | Research | Huygens ING                               |
+| HSN-ODISSEI                                                                                                                         | Current    | Research | IISG                                      |
+| [Globalise](https://globalise.huygens.knaw.nl)                                                                                      | Current    | Research | Huygens ING                               |
+| [Republic](ttps://en.huygens.knaw.nl/projecten/resoluties-staten-generaal-1576-1796-de-oerbronnen-van-de-parlementaire-democratie/) | Current    | Research | Huygens ING                               |
+| [Track Changes](ttps://en.huygens.knaw.nl/projecten/track-changes/)                                                                 | Current    | Research | Huygens ING                               |
+| [TransLatin](https://translatin.nl)                                                                                                 | Current    | Research | Huygens ING                               |
+| Oorlog voor de rechter                                                                                                              | Current    | Research | Huygens ING                               |
+| [Lifting the burden of disease](https://www.nwo.nl/projecten/40618hw011-0)                                                          | Current    | Research | Huygens ING                               |
+| Evidence                                                                                                                            | Completed  | Research | HuC, NIOD, OU                             |
+| GHEYS                                                                                                                               | Completed  | Research | HuC                                       |
+| Isisdore's Etymologiae                                                                                                              | Completed  | Research | Huygens ING                               |
+| [Uitbreiding Amsterdam Time Machine](https://www.amsterdamtimemachine.nl)                                                           | Completed  | Research | HuC                                       |
+| Governance                                                                                                                          | Completed  | Research | Huygens ING                               |
+| [Isebel](https://isebel.eu )                                                                                                        | Completed  | Research | Meertens                                  |
+| [Nederlandse Voornamen Bank](https://www.meertens.knaw.nl/nvb/)                                                                     | Completed  | Research | Meertens                                  |
+| [Prize Papers](https://www.prizepapers.de)                                                                                          | Completed  | Research | Huygens ING                               |
+| [The Art of Reasoning](https://art-of-reasoning.huygens.knaw.nl)                                                                    | Completed  | Research | Huygens ING                               |
+| [Triado](https://www.oorlogsbronnen.nl )                                                                                            | Completed  | Research | HuC, Huygens ING, NIOD, Nationaal Archief |

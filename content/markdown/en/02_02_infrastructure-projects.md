@@ -25,3 +25,17 @@ DI is working with various universities and heritage institutions on facilities 
 Presentations of DI
 - ...
 - ...
+
+| Title|Status|Type|Partner|
+|--------------------------------------------------------------------------------------------------------------------|-----------|----------------|-------------|
+| [OpenHuygens](https://en.huygens.knaw.nl/openhuygens-nl-hits-the-ground-running-thanks-to-fonds-knaw-instituten/ ) | Current   | Infrastructure | Huygens ING |
+| [CLARIN Certificering](http://www.clarin.nl)                                                                       | Current   | Infrastructure | Meertens    |
+| [CLARIAH PLUS](https://www.clariah.nl)                                                                             | Current   | Infrastructure | Huygens ING |
+| [Golden Agents](https://www.goldenagents.org)                                                                      | Current   | Infrastructure | Huygens ING |
+| Fair reuse of SPARQL Queries                                                                                       | Current   | Infrastructure | IISG        |
+| [Pure3D](https://pure3d.eu)                                                                                        | Current   | Infrastructure | HuC         |
+| [EOSC-hub](https://www.sshopencloud.eu)                                                                            | Completed | Infrastructure | HuC         |
+| Migratie servers Huygens ING                                                                                       | Completed | Infrastructure | Huygens ING |
+| Vernieuwing Resources Huygens ING                                                                                  | Completed | Infrastructure | Huygens ING |
+| Archives Space                                                                                                     | Completed | Infrastructure | IISG        |
+| Flat Data                                                                                                          | Completed | Infrastructure | Meertens    |
