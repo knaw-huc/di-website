@@ -26,6 +26,10 @@ p {
   margin-top: 0;
 }
 
+button {
+  cursor: pointer;
+}
+
 @media (max-width: 1300px) {
   .colAside.borderLeft {
     border-left: 0;
@@ -168,9 +172,9 @@ p {
 $hamSpace: 15px;
 .hamburgerButton {
   display: none;
-  position: fixed;
+  position: absolute;
   right: 0;
-  top: 0;
+  top: 35px;
 
   background: none;
   border: 0px;
@@ -193,8 +197,8 @@ $hamSpace: 15px;
 
 .huc_footer {
   margin-top: 100px;
-  padding: 150px 0;
-  background-color: rgba(181,234,229,1);
+  padding: 100px 0;
+  background-color: $colorBrandDiGreenAccent;
   width: 100%;
   display: flex;
 

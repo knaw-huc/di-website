@@ -242,10 +242,12 @@ function addPageNavigationList() {
             hasCurrInSub = false
 
           } else {
+            let subClass= ''
             if (subNav != '') {
-              subNav = '<button class="subMenuButton" id="'+navItem.title.toLowerCase()+'" aria-label="Open submenu for '+navItem.title+'">></button><ul id="sub_'+navItem.title.toLowerCase()+'">'+subNav+'</ul>'
+              subNav = '<button class="subMenuButton" id="'+navItem.title.toLowerCase()+'" aria-label="Open submenu for '+navItem.title+'"><svg viewBox="0 0 30 30" class="openArrow"> <polygon points="0,0 30,15 0,30" class="svgArrow"/> </svg></button><ul id="sub_'+navItem.title.toLowerCase()+'" class="subnav">'+subNav+'</ul>'
+              subClass= 'subLi'
             }
-            topNav = '<li class="subLi" id="parent_' + navItem.title.toLowerCase() + '">'+tempUl + subNav + '</li>'+topNav
+            topNav = '<li class="'+subClass+'" id="parent_' + navItem.title.toLowerCase() + '">'+tempUl + subNav + '</li>'+topNav
           }
           subNav = ''
 
@@ -371,7 +373,7 @@ function homeExpertiseList() {
 
 
 
-  createFile('outputsite.json',JSON.stringify(sitedataLang));
+  //createFile('outputsite.json',JSON.stringify(sitedataLang));
 }
 
 
@@ -490,7 +492,7 @@ function generateHtml() {
       ) {
         var template = handlebars.compile(source);
         var html = template(item);
-        var html = handleHtmlDom(html);
+        html = handleHtmlDom(html);
         createFile(outputDir +item.file_name, html);
         //console.log(item.file_name+' created.');
       });

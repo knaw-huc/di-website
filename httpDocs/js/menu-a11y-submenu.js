@@ -1,77 +1,47 @@
 //event for button
 let elements = document.querySelectorAll(".subLi");
-let openLists = []
-let responsEvent = 'mouseover'
-if (isTouchDevice()) {
-  responsEvent = 'click'
-}
+
 Array.from(elements).forEach(function(element) {
-      element.addEventListener(responsEvent, openSubmenu);
+      element.addEventListener('click', openSubmenu);
+      if (!isTouchDevice()) {
+        element.addEventListener('mouseover', openSubmenu);
+      }
+
+      element.getElementsByTagName('a')[0].removeAttribute("href");
     });
 
 
 
     function openSubmenu(em) {
-      console.log('klikt');
-      let theId = em.id
-      console.log(theId);
+      hideSubmenus()
+      this.removeAttribute("href");
+      let theId = this.id.replace('parent_', '')
 
-
-      if (openLists.includes(theId)) {
-        // close
-        //     let myIndex = openLists.indexOf(theId);
-        //     if (myIndex !== -1) {
-        //         openLists.splice(myIndex, 1);
-        //     }
-
-
-
-
-      } else {
-        // Set open
-
-
-        //openLists.push(theId)
-      }
+      visElem = document.getElementById('sub_'+theId);
+      visElem.style.display = 'block';
+      let baseHeight = document.getElementById('mainNav').getBoundingClientRect().top;
+      let b_height = this.getBoundingClientRect();
+      console.log(b_height.top);
+      visElem.style.top = (b_height.top-baseHeight)+'px';
+      visElem.addEventListener('mouseout', function() {
+            visElem.style.display = 'none';
+      });
+      this.addEventListener('mouseout', function() {
+            visElem.style.display = 'none';
+      });
     }
 
 
 
 
-// function openSubmenu(em) {
-//
-//   let theId = em.id
-//   if (theId === undefined) {
-//     theId = this.id
-//   }
-//   theId = theId.replace('parent_', '')
-//
-//
-//   if (openLists.includes(theId)) {
-//
-//     //if open
-//     document.getElementById('sub_'+theId).style.display = 'none';
-//     let myIndex = openLists.indexOf(theId);
-//     if (myIndex !== -1) {
-//         openLists.splice(myIndex, 1);
-//     }
-//
-//
-//   } else {
-//     // if closed
-//     let elem = document.getElementById('sub_'+theId)
-//     elem.style.display = 'block';
-//     console.log(elem);
-//     elem.addEventListener('mouseout', function() {
-//       openSubmenu(theId);
-//     });
-//     openLists.push(theId)
-//   }
-// }
 
+function hideSubmenus() {
+  let elements = document.querySelectorAll(".subnav");
 
-
-
+  elements.forEach(function(element) {
+    element.style.display = 'none';
+      });
+}
 
 
 
