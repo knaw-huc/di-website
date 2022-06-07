@@ -136,6 +136,12 @@ button {
     margin-right: 10px;
   }
 }
+.read {
+  ul {
+    list-style-image: url('../../images/listicon.svg');
+  }
+}
+
 
 
 .read figure {
@@ -151,6 +157,8 @@ button {
     font-size: .85rem;
     font-style: italic;
   }
+
+
 }
 
 @media (min-width: 1200px) {
@@ -190,7 +198,7 @@ $hamSpace: 15px;
 
 
 .logo  {
-  width: 100px;
+  width: 230px;
   height: auto;
 }
 
