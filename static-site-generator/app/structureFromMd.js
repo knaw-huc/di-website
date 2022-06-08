@@ -23,10 +23,14 @@ const getFileList = async (dirName) => {
         } else {
           let filename = `${dirName}/${item.name}`
           filename = filename.replace(config.dirMarkdown+'/', '')
-          let nameParts = filename.split('/')
+          let fileExtention = filename.substr(filename.length - 3)
 
-
+          if (fileExtention == '.md') {
+            let nameParts = filename.split('/')
             files.push({lang:nameParts[0], fileName: nameParts[1]});
+          }
+
+
         }
     }
 
@@ -44,6 +48,8 @@ getFileList(config.dirMarkdown)
 
 
 function createSiteJson(files) {
+  console.log(files);
+
   return new Promise((resolve, reject) => {
   //console.log(files);
   let siteData = []
@@ -52,9 +58,9 @@ function createSiteJson(files) {
 
     fs.readFile(config.dirMarkdown+'/'+file.lang + '/' + file.fileName, 'utf-8', function(error, source) {
 
+
       let fileExtention = file.fileName.substr(file.fileName.length - 3)
 
-      if (fileExtention == '.md') { // if is markdown page
         let pageObj = {}
 
         pageObj.language = file.lang
@@ -129,7 +135,7 @@ function createSiteJson(files) {
         if ( i == files.length-1) {
           resolve(siteData);
         }
-      }
+
     });
 
   });
