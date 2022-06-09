@@ -1,0 +1,50 @@
+{{> html_header}}
+
+<div class="layout_3col_vertNav fullHeight">
+
+  {{> comp_huc_aside_nav}}
+
+  <div id="colContentWide" class="colContentWide bgDIBrand01 {{#if hero1}}bgDIBrand01Gradient{{/if}}">
+
+
+    {{#if hero1}}
+      {{> comp_hero}}
+      <main id="main-content centerContent" class="read in_padding--basic maxWidth">
+        
+
+    {{else}}
+      <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
+        {{{breadcrumb}}}
+      </nav>
+      <main id="main-content" class="read in_padding--basic maxWidth">
+        <h1>{{title}}</h1>
+    {{/if}}
+
+      {{{ htmlContent }}}
+
+  </main>
+  {{#if homeLists}}
+    {{> comp_homeLists}}
+  {{/if}}
+
+  {{> huc_footer}}
+
+
+
+  </div>
+</div>
+
+
+
+
+
+<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" title="click to open the menu">
+  <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
+</button>
+
+
+
+
+<script src="js/hamburger-menu.js" charset="utf-8"></script>
+<script src="js/menu-a11y-submenu.js" charset="utf-8"></script>
+{{> html_footer}}

@@ -48,7 +48,7 @@ getFileList(config.dirMarkdown)
 
 
 function createSiteJson(files) {
-  console.log(files);
+
 
   return new Promise((resolve, reject) => {
   //console.log(files);
@@ -77,6 +77,10 @@ function createSiteJson(files) {
 
         // other data
         pageObj.url = config.url
+        pageObj.markup = config.markup
+        pageObj.siteName = config.siteName
+        pageObj.content = config.content
+        pageObj.customTemplateFolder = config.customTemplateFolder
 
         // level
 

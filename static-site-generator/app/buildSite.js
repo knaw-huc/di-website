@@ -11,8 +11,22 @@ const sitedata = require("../../content/data/site.json");
 const outputDir = config.dirOutput;
 //const markdownDir = "content/markdown/";
 const outputVersion = 1;
-const partialsDir = "./src/components";
+//const partialsDir = ['./src/components'];
+let partialsDir = './src/components';
 let sitedataLang = {}
+
+
+// custom templates
+const customTemplate = {}
+customTemplate.status = false
+if ( typeof config.customTemplateFolder !== "undefined")  {
+  if ( config.customTemplateFolder !== '')  {
+    customTemplate.status = true
+    customTemplate.path = config.customTemplateFolder
+  }
+
+}
+
 
 build();
 
@@ -26,6 +40,8 @@ function build() {
     //.then(addPageSubNavigationList)
     .then(createAltPageLists)
     .then(createLanguageToggle)
+    .then(partialListDefaultTempl)
+    .then(partialListCustomTempl)
     .then(registerPartials)
     .then(homeExpertiseList) // di specific
 
@@ -43,8 +59,14 @@ function build() {
 
 function createSite() {
   generateHtml();
-  createSass("src/scss/style.scss");
+
   //createSass("src/scss/editor.scss");
+  if (customTemplate.status) {
+    templPath = config.dirContent +'/template/'+ customTemplate.path+'/scss/additional.scss'
+    createSass(templPath);
+  }
+
+  createSass("src/scss/style.scss");
 }
 
 
@@ -73,55 +95,65 @@ function handleLanguage() {
 
 
 
-// register partials (components) and generate site files (Handlebars.js)
-function registerPartials() {
-  return new Promise((resolve, reject) => {
-    const longPath = path.resolve("./src/components/");
-    var walk = function(dir, done) {
-      var results = [];
-      fs.readdir(dir, function(err, list) {
-        if (err) return done(err);
-        var pending = list.length;
-        if (!pending) return done(null, results);
-        list.forEach(function(file) {
-          file = path.resolve(dir, file);
-          fs.stat(file, function(err, stat) {
-            // if dir
-            if (stat && stat.isDirectory()) {
-              walk(file, function(err, res) {
-                results = results.concat(res);
-                if (!--pending) done(null, results);
-              });
-            } else {
-              results.push(file.replace(longPath + "/", ""));
-              file = file.replace(longPath + "/", "");
-
-              fs.readFile("src/components/" + file, "utf-8", function(
-                error,
-                source
-              ) {
-                handlebars.registerPartial(
-                  file.replace(path.extname(file), ""),
-                  source
-                );
-              });
-              if (!--pending) done(null, results);
-            }
-          });
+function partialListDefaultTempl() {
+  let partialPathList = []
+    return new Promise((resolve, reject) => {
+      fs.readdir(partialsDir, function (err, files) {
+        files.forEach((item, i) => {
+          partialPathList.push(partialsDir+'/'+item)
         });
+
+        resolve(partialPathList);
+      })
+    });
+}
+
+function partialListCustomTempl(fileList) {
+  if (customTemplate.status) {
+    const dir = config.dirContent + '/template/' +config.customTemplateFolder+'/components'
+    return new Promise((resolve, reject) => {
+      fs.readdir(dir, function (err, files) {
+        files.forEach((item, i) => {
+          fileList.push(dir+'/'+item)
+        });
+        resolve(fileList);
+      })
+    });
+  } else {
+    return new Promise((resolve, reject) => {
+      resolve(fileList);
+    });
+  }
+}
+
+
+function registerPartials(partiList) {
+  return new Promise((resolve, reject) => {
+    //resolve(fileList);
+    partiList.forEach((item, i) => {
+
+      fs.readFile(item, 'utf8', function(err, data){
+        let fileNameArr = item.split('/')
+        let fileNameExt = fileNameArr.at(-1)
+        let fileName = fileNameExt.replace('.html', '')
+
+        handlebars.registerPartial(
+          fileName,
+          data
+        );
+
+        if ( i == partiList.length-1) {
+          resolve('yo');
+        }
       });
-    };
-
-
-
-    walk(partialsDir, function(err, results) {
-      if (err) throw err;
-      setTimeout(() => {
-        resolve(results);
-      }, 500);
     });
   });
 }
+
+
+
+
+
 
 // create sass file
 function createSass(pathFile) {
@@ -267,66 +299,6 @@ function addPageNavigationList() {
 
 
 
-
-// function addPageNavigationList() {
-//   // for each language
-//   for (const [key, value] of Object.entries(sitedataLang)) {
-//
-//
-//   //for each page
-//   sitedataLang[key].forEach((page, i) => {
-//     let hasCurrInSub = false;
-//     let topNav = '';
-//     let subNav = '';
-//     let lastLink = '';
-//
-//     // generate list
-//     sitedataLang[key].slice().reverse().forEach((navItem, j) => {
-//
-//       if (navItem.type == 'page') {
-//
-//
-//       let isCurr = '';
-//       let isCurrParent = ' navIsCurrentParent';
-//
-//       if (page.title == navItem.title) {
-//         hasCurrInSub = true;
-//         isCurr = ' navIsCurrentPage';
-//       }
-//
-//         let tempUl = '<a href="' + navItem.file_name + '" >' + navItem.title + '</a>';
-//         if (navItem.page_level == 2) {
-//           subNav = '<li class="'+isCurr+'">'+ tempUl +'</li>'+ subNav
-//         }
-//
-//         if (navItem.page_level == 1) {
-//
-//           if (navItem.directSubpages) {
-//             tempUl = '<a href="' + lastLink + '" >' + navItem.title + '</a>';
-//           }
-//
-//           if (hasCurrInSub) {
-//             subNav = '<ul>'+subNav+'</ul>'
-//             topNav = '<li class="'+isCurrParent+'">'+tempUl + subNav +'</li>'+topNav
-//             hasCurrInSub = false
-//
-//           } else {
-//             topNav = '<li>'+tempUl + '</li>'+topNav
-//           }
-//           subNav = ''
-//
-//         }
-//
-//         lastLink = navItem.file_name;
-//
-//       }
-//     })
-//     sitedataLang[key][i].navigation_list = '<ul>'+topNav+'</ul>'
-//   })
-// }
-//
-//
-// }
 
 
 
@@ -486,9 +458,14 @@ function createLanguageToggle() {
 
 // generate files
 function generateHtml() {
+  let templPath = 'src/templates/'
+  if (customTemplate.status) {
+    templPath = config.dirContent +'/template/'+ customTemplate.path+'/templates/'
+  }
+
   for (const [key, value] of Object.entries(sitedataLang)) {
     sitedataLang[key].forEach((item) => {
-      fs.readFile("src/templates/" + item.template, "utf-8", function( error, source
+      fs.readFile(templPath + item.template, "utf-8", function( error, source
       ) {
         var template = handlebars.compile(source);
         var html = template(item);

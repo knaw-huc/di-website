@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{language}}">
   <head>
-    <title>{{title}} | Digital Infrastructure</title>
+    <title>{{title}} | {{siteName}}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark">
     {{#if meta_description}}<meta name="description" content="{{meta_description}}">{{/if}}
     {{#if meta_keyword}}<meta name="keywords" content="{{meta_keyword}}">{{/if}}
 
@@ -13,6 +14,7 @@
     {{#if featured_image}}<meta property="og:image" content="{{url}}/{{featured_image}}" />{{/if}}
 
     <link rel="stylesheet" href="css/v1/style.css" />
+    {{#if customTemplateFolder }} <link rel="stylesheet" href="css/v1/additional.css" />{{/if}}
     <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
 
   </head>

@@ -1,10 +1,18 @@
-@use '../abstracts' as *;
+.hasHero {
+  color: hsl(174, 86%, 17%);
+}
+
+.bgDIBrand01Gradient {
+  background-color: hsl(174, 86%, 45%);
+  // background: linear-gradient(220.24deg, #EDF0B6  0%, hsla(63, 65%, 82%, 0) 25vw), linear-gradient(180deg, #B5EAC7 0, rgba(181,234,229,1) 20vh, rgba(181,234,229,1) 65vh, rgba(227,242,242,1) 85vh);
+}
+
 
 .hero {
   width: 100%;
   height: 50vh;
   max-height: 800px;
-  max-width: 1000px;
+  max-width: 1200px;
   width: 100%;
 
   display: flex;
@@ -45,24 +53,13 @@
   .hero {
     height: 75vh;
 
-
     h1 {
-      font-size: calc(1rem + 2vw);
+      font-size: calc(1rem + 1.6vw);
     }
-
   }
-
 }
 
-@media (min-width: 1500px) {
-  .hero {
 
-    // h1 {
-    //   font-size: 3rem;
-    // }
-  }
-
-}
 #di_canals {
   display: none;
   z-index: 0;
@@ -71,15 +68,15 @@
 @media (min-width: 1000px) {
   #di_canals {
     display: block;
-    stroke: hsla(172, 94%, 93%, 0.7);
+    stroke: hsla(172, 94%, 93%, 0.5);
     stroke-width: 2px;
     stroke-dasharray: 1,8;
     stroke-linecap: round;
     fill: none;
     position: absolute;
     top: -25%;
-    width: 70vw;
-    max-width: 100%;
+    width: 50%;
+    max-width: 1100px;
     height: auto;
     }
 }
