@@ -3,7 +3,7 @@
   "dirContent": "../content",
   "dirMarkdown": "../content/markdown",
   "dirJson": "../content/data",
-  "languageDefault": "en",
+  "languageDefault": "nl",
   "siteName": "Di Huc",
   "url": "http://di.huc.knaw.nl",
   "markup": {
