@@ -246,7 +246,7 @@ function addPageNavigationList() {
     // generate list
     sitedataLang[key].slice().reverse().forEach((navItem, j) => {
 
-      if (navItem.type == 'page') {
+      if (  (navItem.type == 'page')  &&  (navItem.publish !== 'false')  ) {
 
 
       let isCurr = '';
