@@ -1,15 +1,18 @@
 ---
-title: Gestructureerde Data
+title: Gestructureerde en Linked Data
 author: Arno Bosse
 type: page
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
+Data komen in vele vormen en maten. Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen. Ons doel is om de juiste tool te gebruiken voor elke data en elk project. Dat gaat van kant-en-klare software, via intern ontwikkelde generieke componenten en frameworks tot project-specifieke samenstellingen hiervan. Data zijn waardevol en horen een heldere weg af te leggen richting archief. Wij verzorgen die weg en de middelen om de bijgaande metadata te creëren.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
+Datasets zijn intern - en in toenemende mate ook extern - sterk verbonden. Deze verbindingen komen tot stand op basis van _linking pins_, zoals shared key entities en core vocabularies. Dit speelt met name in het domein van Linked (Open) Data. Met [Timbuctoo](https://github.com/HuygensING/timbuctoo), onze eigen Linked Data Store, bieden wij onderzoekers een stabiele basis voor het opslaan van hun data. [Lenticular Lens](https://lenticularlens.org/) maakt het mogelijk om links tussen entiteiten in verschillende Timbuctoo-datasets te leggen en te valideren. Binnen de Nederlandse CLARIAH-infrastructuur zorgen wij middels de vocabularies als semantische hoeksteen voor de I ([Interoperability](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)) in FAIR-datasets.
+
+De herkomst (_provenance_) van data is een belangrijk punt van aandacht in de digitale geesteswetenschappen. Deze informatie geeft onderzoekers die bestaande data willen hergebruiken inzicht in de bronnen en doorlopen verwerkingsstappen, wat zorgt voor een vertrouwensbasis. Wij hebben daarom een [provenance-service](https://github.com/knaw-huc/provenance) opgezet die ontwikkelaars eenvoudig kunnen integreren en die de datasporen vastlegt. De volgende stap zal zijn om voor verschillende doelgroepen op maat gemaakte inzichten op deze datasporen te bieden.
+
 
 ### Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Menzo Windhouwer 
 
 ### Verwante Onderzoeksprojecten
 
