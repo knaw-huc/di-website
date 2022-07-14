@@ -19,14 +19,14 @@ Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 
 | **Title**                                                                                                                           | **Status** | **Type** | **Partner**                               |
 |-------------------------------------------------------------------------------------------------------------------------------------|------------|----------|-------------------------------------------|
-| [Nieuwe Maritieme Geschiedenis van Nederland](https://beta.nmgn.huygens.knaw.nl)                                                    | Current    | Edition  | Huygens ING                               |
-| [Anne Frank Engelse editie](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)                               | Current    | Edition  | Huygens ING                               |
+| [Nieuwe Maritieme Geschiedenis van Nederland](https://beta.nmgn.huygens.knaw.nl)                                                    | Current    | Edition  | Huygens                               |
+| [Anne Frank Engelse editie](https://www.huygens.knaw.nl/projecten/onderzoek-manuscripten-anne-frank/)                               | Current    | Edition  | Huygens                               |
 | DANS UX-klussen                                                                                                                     | Current    | External | HuC                                       |
 | [DARIAH contribution tool](https://www.dariah.eu)                                                                                   | Current    | External | HuC, DANS                                 |
 | Detachering Nationaal Archief                                                                                                       | Current    | External | HuC                                       |
 | NIOD Collectiebeheer                                                                                                                | Current    | External | HuC                                       |
-| Diplomatieke Getuigenissen                                                                                                          | Current    | Research | Huygens ING                               |
-| [eCodicesNL](https://www.huygens.knaw.nl/projecten/ecodicesnl/)                                                                     | Current    | Research | Huygens ING                               |
+| Diplomatieke Getuigenissen                                                                                                          | Current    | Research | Huygens                               |
+| [eCodicesNL](https://www.huygens.knaw.nl/projecten/ecodicesnl/)                                                                     | Current    | Research | Huygens                               |
 | Visualisatie Data en Collecties                                                                                                     | Current    | Research | IISG                                      |
 | [Omeka-S Volksverhalenbank](http://www.verhalenbank.nl)                                                                             | Current    | Research | Meertens                                  |
 | [Suriano](https://www.huygens.knaw.nl/projecten/briefwisseling-van-christofforo-suriano/)                                           | Current    | Research | HuC                                       |
