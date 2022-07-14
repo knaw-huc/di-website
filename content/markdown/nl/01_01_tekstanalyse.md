@@ -28,13 +28,12 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 
 ### Software and Data
 
-+ what did we contribute to each of these resources?
 + Docere ownership - current status?
 
-- [Text Repository](https://github.com/knaw-huc/textrepo) (KNAW Humanities Cluster) is a  backend repository system to store and index text corpora with metadata and versions.
+- [Text Repository](https://github.com/knaw-huc/textrepo) is a  backend repository system to store and index text corpora with metadata and versions.
 - [LaMachine](https://proycon.github.io/LaMachine) (Radboud University Nijmegen) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web-services and web-applications in a single Virtual Research Environment that can be installed on a wide variety of machines.
-- [analiticcl](https://github.com/proycon/analiticcl)(KNAW Humanities Cluster) is an approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction.
-- [Docere](https://github.com/knaw-huc/docere) (Gijsjan Brouwer) is a flexible and customisable digital (scholarly) edition publishing platform.
+- [analiticcl](https://github.com/proycon/analiticcl)is an approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction.
+- [Docere](https://github.com/knaw-huc/docere) is a flexible and customisable digital (scholarly) edition publishing platform.
 - tba
 
 ### Publications and Presentations
