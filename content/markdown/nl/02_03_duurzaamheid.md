@@ -9,7 +9,7 @@ Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren 
 Deze werkzaamheden voeren we uit in nauwe samenwerking met de databeheer- en collectieverwerkende afdelingen van onze KNAW HuC-instituten en het NIOD. Het belang van de digitale collecties is groot; het betreft vaak ook digitaal erfgoed. Daarom is het HuC formeel ook het ‘knooppunt’ voor de sector wetenschap binnen het [Netwerk Digitaal Erfgoed](https://netwerkdigitaalerfgoed.nl/). Ook onze samenwerking met [DANS](https://dans.knaw.nl/) wordt steeds belangrijker.
 
 Een grote verzameling datasets die we beschikbaar stellen zijn te vinden op: 
-- [IISH Data Collection](https://datasets.iisg.amsterdam/).
+- [IISH Data Collection](https://datasets.iisg.amsterdam/)
 - [Search IISG](https://meertens.knaw.nl/collecties/databanken/)
 - [Meertens Instituut Databanken](https://meertens.knaw.nl/collecties/databanken/)
 - [Resources Huygens](http://resources.huygens.knaw.nl/)
