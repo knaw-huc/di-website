@@ -19,7 +19,7 @@ welke specifieke problemen komen we tegen
 
 [Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/), [LinkedIn](https://nl.linkedin.com/in/bas-doppen-b50a1931), [GitHub](https://github.com/Doppen))
 
-## Verwante Onderzoeksprojecten
+## Projecten
 
 - [Golden Agents](https://www.goldenagents.org/) (2017-2021)<br>
 Duurzame onderzoeksinfrastructuur waarin de relaties en interacties tussen producenten en consumenten en tussen verschillende bedrijfstakken in de creatieve industrie in de Gouden Eeuw bestudeerd kunnen worden. De gebruiker kan complexe zoekopdrachten geven via de SPARQL-code editor of via de gebruiksvriendelijke query builder met dropdown-menu’s.
