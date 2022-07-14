@@ -21,7 +21,7 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 
 - [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts.
 - [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
-- [Globalise](https://globalise.huygens.knaw.nl) (huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
+- [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
 - CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)
 - tba
 
