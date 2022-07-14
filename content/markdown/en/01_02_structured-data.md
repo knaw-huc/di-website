@@ -13,7 +13,7 @@ The provenance of data is an important point of attention in the digital humanit
 
 ### Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Menzo Windhouwer, menzo.windhouwer@di.huc.knaw.nl
 
 ### Projects
 
