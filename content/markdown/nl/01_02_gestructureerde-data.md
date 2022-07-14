@@ -14,7 +14,7 @@ De herkomst (_provenance_) van data is een belangrijk punt van aandacht in de di
 
 Menzo Windhouwer 
 
-### Verwante Onderzoeksprojecten
+### Projecten
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
