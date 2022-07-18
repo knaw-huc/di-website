@@ -13,9 +13,9 @@
     "branding_logo": "logo-knaw-humanities-cluster.png"
   },
   "content": {
-    "footer_col1": "<p><strong>Powered by</strong></p><p><a href=\"\">Huygens ING</a></p><p><a href=\"\">IISG</a></p><p><a href=\"\">Meertens Instituut</a></p>",
-    "footer_col2": "<p><strong>Contact</strong></p><p>+31 20 224 68 00</p>",
-    "footer_col3": "<p><strong>Adress</strong></p><p>Oudezijds Achterburgwal 185</p><p>1012 DK Amsterdam</p>"
+    "footer_col1": "<p><strong>Powered by</strong><br><a href=\"\">Huygens ING</a><br><a href=\"\">IISG</a></p><p><a href=\"\">Meertens Instituut</a></p>",
+    "footer_col2": "<p><strong>Contact</strong><br>+31 20 224 68 00</p>",
+    "footer_col3": "<p><strong>Adress</strong><br>Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>"
   },
   "customTemplateFolder": "huc_di",
   "defaults": [
