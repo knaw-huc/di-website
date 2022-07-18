@@ -1,5 +1,5 @@
 ---
-title: Cloud Computing
+title: Infrastructure Services
 author: Arno Bosse
 type: page
 ---
@@ -12,19 +12,19 @@ Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhonc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-### Verwante Onderzoeksprojecten
+### Related Research Projects
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
-### Software en Data
+### Software and Data
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
-### Publicaties en Presentaties
+### Publications and Presentations
 
 - Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
 
