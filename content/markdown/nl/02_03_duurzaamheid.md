@@ -1,5 +1,5 @@
 ---
-title: Collectiebeheer
+title: Duurzaamheid
 author: Menno Rasch
 type: page
 summary: Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen.

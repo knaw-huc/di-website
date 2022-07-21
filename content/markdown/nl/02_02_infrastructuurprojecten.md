@@ -25,16 +25,14 @@ Infrastructuur waarin semantic web-technologieën worden gecombineerd met multi-
 - [Nederlab](https://www.nederlab.nl/) 2013-2018, Investeringen NOW-Groot:
 Webinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.
 
-| Title|Status|Type|Partner|
-|--------------------------------------------------------------------------------------------------------------------|-----------|----------------|-------------|
-| [OpenHuygens](https://en.huygens.knaw.nl/openhuygens-nl-hits-the-ground-running-thanks-to-fonds-knaw-instituten/ ) | Current   | Infrastructure | Huygens ING |
-| [CLARIN Certificering](http://www.clarin.nl)                                                                       | Current   | Infrastructure | Meertens    |
-| [CLARIAH PLUS](https://www.clariah.nl)                                                                             | Current   | Infrastructure | Huygens ING |
-| [Golden Agents](https://www.goldenagents.org)                                                                      | Current   | Infrastructure | Huygens ING |
-| Fair reuse of SPARQL Queries                                                                                       | Current   | Infrastructure | IISG        |
-| [Pure3D](https://pure3d.eu)                                                                                        | Current   | Infrastructure | HuC         |
-| [EOSC-hub](https://www.sshopencloud.eu)                                                                            | Completed | Infrastructure | HuC         |
-| Migratie servers Huygens ING                                                                                       | Completed | Infrastructure | Huygens ING |
-| Vernieuwing Resources Huygens ING                                                                                  | Completed | Infrastructure | Huygens ING |
-| Archives Space                                                                                                     | Completed | Infrastructure | IISG        |
-| Flat Data                                                                                                          | Completed | Infrastructure | Meertens    |
+| **Title**                    | **Partner**         | **Funder** | **DI Role** |
+|------------------------------|---------------------|------------|-------------|
+| Globalise                    | "Huygens, Meertens" | NWO        |             |
+| OpenHuygens                  | Huygens             | KNAW       |             |
+| CLARIN Certificering         | Meertens            | NWO        |             |
+| CLARIAH PLUS                 | Huygens             | NWO        |             |
+| Golden Agents                | Huygens             | NWO        |             |
+| Fair reuse of SPARQL Queries | IISG                | NWO        |             |
+| Pure3D                       | HuC                 |            |             |
+
+

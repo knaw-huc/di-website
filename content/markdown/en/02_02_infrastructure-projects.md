@@ -22,20 +22,15 @@ DI is working with various universities and heritage institutions on facilities 
 - [Golden Agents](https://www.goldenagents.org) 2016-2022, Funding: NWO-Groot. Infrastructure combining semantic web technologies with multi-agent technologies. This sustainable infrastructure makes it possible to study the relationships and interactions between producers and consumers and between the various branches of the creative industry over the long Golden Age.
 - [Nederlab](https://www.nederlab.nl/) 2013-2018, Funding: NWO-Groot. Web interface that allows researchers to search and analyse scattered digital historical corpora as a unit; this applies to both the texts themselves and the metadata.
 
-Presentations of DI
-- ...
-- ...
 
-| Title|Status|Type|Partner|
-|--------------------------------------------------------------------------------------------------------------------|-----------|----------------|-------------|
-| [OpenHuygens](https://en.huygens.knaw.nl/openhuygens-nl-hits-the-ground-running-thanks-to-fonds-knaw-instituten/ ) | Current   | Infrastructure | Huygens ING |
-| [CLARIN Certificering](http://www.clarin.nl)                                                                       | Current   | Infrastructure | Meertens    |
-| [CLARIAH PLUS](https://www.clariah.nl)                                                                             | Current   | Infrastructure | Huygens ING |
-| [Golden Agents](https://www.goldenagents.org)                                                                      | Current   | Infrastructure | Huygens ING |
-| Fair reuse of SPARQL Queries                                                                                       | Current   | Infrastructure | IISG        |
-| [Pure3D](https://pure3d.eu)                                                                                        | Current   | Infrastructure | HuC         |
-| [EOSC-hub](https://www.sshopencloud.eu)                                                                            | Completed | Infrastructure | HuC         |
-| Migratie servers Huygens ING                                                                                       | Completed | Infrastructure | Huygens ING |
-| Vernieuwing Resources Huygens ING                                                                                  | Completed | Infrastructure | Huygens ING |
-| Archives Space                                                                                                     | Completed | Infrastructure | IISG        |
-| Flat Data                                                                                                          | Completed | Infrastructure | Meertens    |
+| **Title**                    | **Partner**         | **Funder** | **DI Role** |
+|------------------------------|---------------------|------------|-------------|
+| Globalise                    | "Huygens, Meertens" | NWO        |             |
+| OpenHuygens                  | Huygens             | KNAW       |             |
+| CLARIN Certificering         | Meertens            | NWO        |             |
+| CLARIAH PLUS                 | Huygens             | NWO        |             |
+| Golden Agents                | Huygens             | NWO        |             |
+| Fair reuse of SPARQL Queries | IISG                | NWO        |             |
+| Pure3D                       | HuC                 |            |             |
+
+

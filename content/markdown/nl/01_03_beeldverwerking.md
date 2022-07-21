@@ -1,5 +1,5 @@
 ---
-title: Patroonherkenning en Beeldverwerking
+title: Beeldverwerking
 author: Rutger van Koert
 type: page
 ---
