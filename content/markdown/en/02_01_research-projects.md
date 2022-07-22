@@ -12,25 +12,25 @@ For more information, please contact Arno Bosse (Acquisition manager) or Menno R
 
 Examples of current and completed research projects are:
 
-| **Title**                                   | **Organisation** | **Funder** | **DI Role** |
+| **Project Title**                           | **Organisation** | **Funder** | **DI Role** |
 |---------------------------------------------|------------------|------------|-------------|
-| Nieuwe Maritieme Geschiedenis van Nederland | Huygens ING      |            |             |
-| Anne Frank Engelse editie                   | Huygens ING      |            |             |
+| Nieuwe Maritieme Geschiedenis van Nederland | Huygens          |            |             |
+| Anne Frank Engelse editie                   | Huygens          |            |             |
 | DANS UX-klussen                             | HuC              |            |             |
-| DARIAH contribution tool                    | "HuC, DANS"      |            |             |
+| DARIAH contribution tool                    | HuC, DANS        |            |             |
 | Detachering Nationaal Archief               | HuC              |            |             |
 | NIOD Collectiebeheer                        | HuC              |            |             |
-| Diplomatieke Getuigenissen                  | Huygens ING      |            |             |
-| eCodicesNL                                  | Huygens ING      |            |             |
+| Diplomatieke Getuigenissen                  | Huygens          |            |             |
+| eCodicesNL                                  | Huygens          |            |             |
 | Visualisatie Data en Collecties             | IISG             |            |             |
 | Omeka-S Volksverhalenbank                   | Meertens         |            |             |
 | Suriano                                     | HuC              |            |             |
-| Digital forensics                           | Huygens ING      |            |             |
-| Tijdschriftenplatform                       | Huygens ING      |            |             |
+| Digital forensics                           | Huygens          |            |             |
+| Tijdschriftenplatform                       | Huygens          |            |             |
 | HSN-ODISSEI                                 | IISG             |            |             |
-| Globalise                                   | Huygens ING      |            |             |
-| Republic                                    | Huygens ING      |            |             |
-| Track Changes                               | Huygens ING      |            |             |
-| TransLatin                                  | Huygens ING      |            |             |
-| Oorlog voor de rechter                      | Huygens ING      |            |             |
-| Lifting the burden of disease               | Huygens ING      |            |             |
+| [Globalise](https://globalise.huygens.knaw.nl) | Huygens          | NWO Groot  | Add DI role here. This section can't be too long or it will really mess things up. |
+| Republic                                    | Huygens          | NWO Groot  |             |
+| Track Changes                               | Huygens          |            |             |
+| TransLatin                                  | Huygens          |            |             |
+| Oorlog voor de rechter                      | Huygens          |            |             |
+| Lifting the burden of disease               | Huygens          |            |             |
