@@ -12,25 +12,25 @@ For more information, please contact Arno Bosse (Acquisition manager) or Menno R
 
 Examples of current and completed research projects are:
 
-| **Project Title**                           | **Organisation** | **Funder** | **DI Role** |
-|---------------------------------------------|------------------|------------|-------------|
-| Nieuwe Maritieme Geschiedenis van Nederland | Huygens          |            |             |
-| Anne Frank Engelse editie                   | Huygens          |            |             |
-| DANS UX-klussen                             | HuC              |            |             |
-| DARIAH contribution tool                    | HuC, DANS        |            |             |
-| Detachering Nationaal Archief               | HuC              |            |             |
-| NIOD Collectiebeheer                        | HuC              |            |             |
-| Diplomatieke Getuigenissen                  | Huygens          |            |             |
-| eCodicesNL                                  | Huygens          |            |             |
-| Visualisatie Data en Collecties             | IISG             |            |             |
-| Omeka-S Volksverhalenbank                   | Meertens         |            |             |
-| Suriano                                     | HuC              |            |             |
-| Digital forensics                           | Huygens          |            |             |
-| Tijdschriftenplatform                       | Huygens          |            |             |
-| HSN-ODISSEI                                 | IISG             |            |             |
-| [Globalise](https://globalise.huygens.knaw.nl) | Huygens          | NWO Groot  | Add DI role here. This section can't be too long or it will really mess things up. |
-| Republic                                    | Huygens          | NWO Groot  |             |
-| Track Changes                               | Huygens          |            |             |
-| TransLatin                                  | Huygens          |            |             |
-| Oorlog voor de rechter                      | Huygens          |            |             |
-| Lifting the burden of disease               | Huygens          |            |             |
+| **Project Title**                                                                                                                                         | **Organisation(s)** | **Funder(s)**                                            | **DI Role**                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------|----------------------------------------------------|
+| Nieuwe Maritieme Geschiedenis van Nederland                                                                                                               | Huygens             | Multiple                                                 | Add DI role here. This section can't get too long. |
+| [Anne Frank Manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/) | Huygens             | VSBfonds, Prins Bernhard Cultuurfonds, Vriendenloterij |                                                    |
+| DANS UX-klussen                                                                                                                                           | HuC                 | DANS                                                     |                                                    |
+| DARIAH contribution tool                                                                                                                                  | "HuC, DANS"         | DANS                                                     |                                                    |
+| Detachering Nationaal Archief                                                                                                                             | HuC                 | National Archives                                        |                                                    |
+| NIOD Collectiebeheer                                                                                                                                      | HuC                 | NIOD                                                     |                                                    |
+| [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)                                                              | Huygens             | Ministerie van Buitenlandse Zaken                        |                                                    |
+| [eCodicesNL](https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/)                                                                                      | Huygens             | KNAW Oderzoeksfonds                                      |                                                    |
+| Visualisatie Data en Collecties                                                                                                                           | IISG                | IISG                                                     |                                                    |
+| [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)                                                                                              | Meertens            | Meertens                                                 |                                                    |
+| [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)                                | HuC                 | Private funder                                           |                                                    |
+| [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)                                               | Huygens             | NWO                                                      |                                                    |
+| [Openjournals](https://openjournals.nl)                                                                                                                   | Huygens             | NWO, KNAW, Open Access Publishing Services             |                                                    |
+| [ODISSEI](https://odissei-data.nl/en/)                                                                                                                    | IISG                | NWO                                                      |                                                    |
+| [Globalise](https://globalise.huygens.knaw.nl)                                                                                                            | Huygens             | NWO                                                      |                                                    |
+| [Republic](https://republic.huygens.knaw.nl)                                                                                                              | Huygens             | NWO                                                      |                                                    |
+| [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)                                                                                | Huygens             | NWO                                                      |                                                    |
+| [TransLatin](https://translatin.nl)                                                                                                                       | Huygens             | NWO                                                      |                                                    |
+| Oorlog voor de Rechter                                                                                                                                    | Huygens             | Ministerie van Volksgezondheid Welzijn en Sport; vFonds investiert in Vrede                          |                                                    |                          |                     |                                                          |                                                    |
+| Lifting the burden of disease                                                                                                                             | Huygens             | RU Nijmegen                                              |                                                    |
