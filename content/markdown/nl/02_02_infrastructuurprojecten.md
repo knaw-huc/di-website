@@ -25,14 +25,29 @@ Infrastructuur waarin semantic web-technologieën worden gecombineerd met multi-
 - [Nederlab](https://www.nederlab.nl/) 2013-2018, Investeringen NOW-Groot:
 Webinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.
 
-| **Title**                    | **Partner**         | **Funder** | **DI Role** |
-|------------------------------|---------------------|------------|-------------|
-| Globalise                    | "Huygens, Meertens" | NWO        |             |
-| OpenHuygens                  | Huygens             | KNAW       |             |
-| CLARIN Certificering         | Meertens            | NWO        |             |
-| CLARIAH PLUS                 | Huygens             | NWO        |             |
-| Golden Agents                | Huygens             | NWO        |             |
-| Fair reuse of SPARQL Queries | IISG                | NWO        |             |
-| Pure3D                       | HuC                 |            |             |
-
-
+| **Project Title**                                                                                      | **Description**                 | **Grantholder**                                                              | **Funder(s)** | **DI Role** |
+|--------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------------|---------------|-------------|
+| [CLARIAH Plus](https://www.clariah.nl) WP1 1 - FAIR Datasets                                           | One or two sentence description | Huygens                                                                      | NWO           |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 2 - Fair Vocabularies                                       | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 3 - Fair Tool Discovery                                     | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 4 - Fair Distribution & Deployment                          | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 5 - FAIR Annottion                                          | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 6 - Fair Data Stories                                       | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP1 7 - Fair Data Stories                                       | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP2 DI                                                          | Huygens                         | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP3 DI                                                          | Meertens                        | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP4 DI                                                          | IISG                            | NWO                                                                          |               |             |
+| [CLARIAH Plus](https://www.clariah.nl) WP6 DI                                                          | Huygens                         | NWO                                                                          |               |             |
+| [CLARIN](https://www.clarin.eu) Certification                                                          | Meertens                        | Meertens                                                                     |               |             |
+| Fair reuse of SPARQL Queries                                                                           | IISG                            | NWO                                                                          |               |             |
+| [Globalise](https://globalise.huygens.knaw.nl)                                                         | Huygens                         | NWO                                                                          |               |             |
+| [Golden Agents](https://www.goldenagents.org)                                                          | Huygens                         | NWO                                                                          |               |             |
+| [ODISSEI](https://odissei-data.nl/en/)                                                                 | IISG                            | NWO                                                                          |               |             |
+| [OpenHuygens](https://www.huygens.knaw.nl/fonds-knaw-instituten-geeft-openhuygens-nl-vliegende-start/) | Huygens                         | KNAW                                                                         |               |             |
+| [Pure3D](https://pure3d.eu)                                                                            | HuC                             | PDI-SSH                                                                      |               |             |
+| [Republic](https://republic.huygens.knaw.nl)                                                           | Huygens                         | NWO                                                                          |               |             |
+| DARIAH contribution tool                                                                               | HuC, DANS                       | DANS                                                                         |               |             |
+| HTR software collaboration with National Archives                                                      | HuC                             | National Archives                                                            |               |             |
+| NIOD Collectiebeheer                                                                                   | HuC                             | NIOD                                                                         |               |             |
+| Oorlog voor de Rechter                                                                                 | HuC                             | Ministerie van Volksgezondheid, Welzijn en Sport, vFonds investiert in Vrede |               |             |
+| [Openjournals](https://openjournals.nl)                                                                | Huygens                         | NWO, KNAW, Open Access Publishing Services                                   |               |             |

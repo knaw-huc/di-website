@@ -12,27 +12,17 @@ Neem voor meer informatie contact op met Arno Bosse (Acquisition manager) of Men
 
 Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 
-| **Title**                                   | **Organisation** | **Funder** | **DI Role** |
-|---------------------------------------------|------------------|------------|-------------|
-| Nieuwe Maritieme Geschiedenis van Nederland | Huygens ING      |            |             |
-| Anne Frank Engelse editie                   | Huygens ING      |            |             |
-| DANS UX-klussen                             | HuC              |            |             |
-| DARIAH contribution tool                    | "HuC, DANS"      |            |             |
-| Detachering Nationaal Archief               | HuC              |            |             |
-| NIOD Collectiebeheer                        | HuC              |            |             |
-| Diplomatieke Getuigenissen                  | Huygens ING      |            |             |
-| eCodicesNL                                  | Huygens ING      |            |             |
-| Visualisatie Data en Collecties             | IISG             |            |             |
-| Omeka-S Volksverhalenbank                   | Meertens         |            |             |
-| Suriano                                     | HuC              |            |             |
-| Digital forensics                           | Huygens ING      |            |             |
-| Tijdschriftenplatform                       | Huygens ING      |            |             |
-| HSN-ODISSEI                                 | IISG             |            |             |
-| Globalise                                   | Huygens ING      |            |             |
-| Republic                                    | Huygens ING      |            |             |
-| Track Changes                               | Huygens ING      |            |             |
-| TransLatin                                  | Huygens ING      |            |             |
-| Oorlog voor de rechter                      | Huygens ING      |            |             |
-| Lifting the burden of disease               | Huygens ING      |            |             |
-
+| **Project Title**                                                                                                                                         | **Description**                 | **Lead Institute**                                     | **Funder(s)** | **DI Role**                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------|---------------|-------------------------------------------|
+| Nieuwe Maritieme Geschiedenis van Nederland                                                                                                               | One or two sentence description | Huygens                                                | Multiple      | Add DI role here. Short paragraph length. |
+| [Anne Frank manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/) | Huygens                         | VSBfonds, Prins Bernhard Cultuurfonds, Vriendenloterij |               |                                           |
+| [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)                                                              | Huygens                         | Ministerie van Buitenlandse Zaken                      |               |                                           |
+| [eCodicesNL](https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/)                                                                                      | Huygens                         | KNAW Oderzoeksfonds                                    |               |                                           |
+| Visualisatie Data en Collecties                                                                                                                           | IISG                            | IISG                                                   |               |                                           |
+| [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)                                                                                              | Meertens                        | Meertens                                               |               |                                           |
+| [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)                                | Huygens                         | Private funder                                         |               |                                           |
+| [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)                                               | Huygens                         | NWO                                                    |               |                                           |
+| [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)                                                                                | Huygens                         | NWO                                                    |               |                                           |
+| [TransLatin](https://translatin.nl)                                                                                                                       | Huygens                         | NWO                                                    |               |                                           |
+| Lifting the burden of disease                                                                                                                             | Huygens                         | RU Nijmegen                                            |               |                                           |
 
