@@ -2,6 +2,7 @@
 title: Interface Design
 author: Arno Bosse
 type: page
+summary: Wij zijn gespecialiseerd in gebruikersonderzoek, online gebruiksvriendelijkheid, interface-ontwerp, webpublicatie, datavisualisatie en project branding.
 ---
 Data uit de geesteswetenschappen zijn vaak complex en lastig te interpreteren. Het team Interface Design maakt deze data toegankelijk en begrijpelijk, voor zowel onderzoekers als voor mensen buiten de wetenschap. Zodat ook gebruikers zonder domeinkennis of ervaring met complexe zoekopdrachten op de onderliggende datasets kunnen uitvoeren.
 

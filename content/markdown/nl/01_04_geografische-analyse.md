@@ -3,6 +3,7 @@ title: Geografische Analyse
 author: Thomas Vermaut
 type: page
 meta_keyword: ruimte, geografisch, OpenStreetMap, OSM, GIS, geografisch informatiesysteem, HisGIS, historisch GIS, kadaster, kaart, historisch reizen, gazetteers, stedelijke gazetteers
+summary: Wij ontwikkelen methoden om geografische informatie, direct gerelateerd aan andere typen informatie, in kaart te brengen.
 ---
 Geografische informatie (waar iets plaatsvindt) vormt een fundamenteel onderdeel van geesteswetenschappelijke data. Wij ontwikkelen methoden om deze informatie, direct gerelateerd aan andere typen informatie, in kaart te brengen. Letterlijk, door datasets te ontsluiten met of op een kaart. Maar ook figuurlijk, voor minder zichtbare onderzoeksdoeleinden.
 
@@ -26,7 +27,7 @@ Daarnaast dragen we bij aan de [World Historical Gazetteer (WHG)](https://whgaze
 
 - [HisGIS Nederland](https://hisgis.nl)
 - [Historical Atlas of the Low Countries, 1350-1800](https://hdl.handle.net/10622/PGFYTM) en het ['(Re)counting the Uncounted' project](https://www.nwo.nl/projecten/40119038) (NWO Replicatiestudies, PI: Rombert Stapel), waarvoor DI een QGIS plugin heeft ontwikkeld om het linken van (census-)data aan GIS kaarten te vereenvoudigen.
-- Diverse geo-datasets zijn beschikbaar via [IISH Data Collection](https://datasets.iisg.amsterdam/). 
+- Diverse geo-datasets zijn beschikbaar via [IISH Data Collection](https://datasets.iisg.amsterdam/).
 
 ### Publicaties en Presentaties
 

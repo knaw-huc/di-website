@@ -2,6 +2,7 @@
 title: Infrastructuur Dienste
 author: Arno Bosse
 type: page
+summary: Als HuC-Di leveren we een krachtig, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectie verwerkende instituten.
 ---
 
 Als HuC-Di leveren we een krachtig, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectie verwerkende instituten. Maar onze  kracht zit vooral  in de specifieke kennis van deze onderzoeks- en collectie infrastructuur en onze gebruikersgroepen. De ruime ervaring die wij hebben opgebouwd op dit gebied zorgt ervoor dat we in staat zijn mee te denken voor, tijdens en na het onderzoeks- en collectie project. Samen met onze gebruikersgroepen  kunnen we bekijken hoe onze  moderne infrastructuur kan inspelen op de behoefte voor de korte en (zeer) lange termijn. Zonodig passen we delen van de infrastructuur aan of maken we 'stukjes software' die bijvoorbeeld een werkproces zou kunnen vereenvoudigen.

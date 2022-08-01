@@ -1,5 +1,6 @@
 @use 'components/hero';
 @use 'components/huc-founders';
+@use 'components/homelist';
 
 
 
@@ -21,78 +22,32 @@
 
 
 
-.homeLists {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  width: 100%;
-  max-width: 1300px;
-  z-index: 10;
-
-  h2 {
-    margin-bottom: .5rem;
-  }
-
-  ul {
-    margin: 0;
-    padding: 0;
-    li{
-      margin: 0 0 3rem 0;
-      padding: 0;
-      list-style: none;
-
-    }
-  }
-
-}
 
 
-
-.homeListsRow {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  width: 100%;
-
-}
-
-@media (min-width: 1200px) {
-  .homeLists {
-    flex-direction: row;
-    gap: 4rem
-  }
-
-  .homeListsRow {
-    width: 50%;
-  }
-}
-
-
-.homeItem {
-  background-color: #fff;
-  margin-bottom: 16rem;
+.colContentWide {
   position: relative;
+}
 
+.huclogo {
+  display: none;
+}
 
-  .homeItem__thumbnail {
+@media (min-width: 600px) {
+  .huclogo {
+    display: block;
+    position: absolute;
+    top:40px;
+    right: 40px;
+    width: 80px;
+
     img {
-      width: 100%;
+      width: 80px;
       height: auto;
-    }
 
-
-  }
-  .homeItem__text {
-    position: relative;
-    padding: 3rem 1.5rem 1.5rem 1.5rem;
-    margin-top: -100px;
-    background: linear-gradient(180deg, rgba(#ffffff, 0) 0,    rgba(#ffffff, 1) 50px);
-
-    h3 {
-      a {
-        color: hsl(0, 0%, 12%);
-      }
     }
   }
+}
 
+.leftLine {
+  border-left: 1px solid hsl(0, 0%, 90%);
 }

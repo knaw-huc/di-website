@@ -3,7 +3,7 @@ title: Tekstanalyse
 author: Arno Bosse
 type: page
 featured_image: text-analyse.jpg
-summary:
+summary: We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties, zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties.
 ---
 We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties. Deze omvatten zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties. Onze gepubliceerde tekstcollecties verrijken we doorgaans met beschrijvende metadata, afbeeldingen van de originele pagina's en andere soorten verrijkingen, zoals links naar gestructureerde data en annotaties van gebruikers.
 

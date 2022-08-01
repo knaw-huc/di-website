@@ -1,0 +1,181 @@
+@use 'vars' as *;
+
+.col2_1 {
+  display: flex;
+  flex-direction: column;
+  gap: $homeGap;
+
+  >:first-child {
+    flex: 2;
+  }
+
+  >:nth-child(2) {
+    flex: 1;
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col2_1 {
+    flex-direction: row;
+  }
+}
+
+
+
+
+.col1, .col2 {
+  display: flex;
+  flex-direction: row;
+  gap: $homeGap;
+  flex-wrap: wrap;
+
+  >* {
+    width: calc( 100% - 1rem);
+  }
+}
+
+@media (min-width: 1200px) {
+
+  .col2 {
+    >* {
+      width: calc( 50% - 1rem);
+    }
+  }
+}
+
+
+
+
+
+
+.homeCard {
+  background-color: $color_hucOker;
+  border-radius: 4px;
+  padding: 1rem;
+  transition: transform .3s ease-in-out;
+
+  h3 > a {
+    color: $color_huchomeText;
+  }
+
+  .small {
+    line-height: 130%;
+    font-size: .9rem
+  }
+  .homeCard__thumbnail img {
+    width: calc( 100% + 2rem);
+    height: auto;
+    margin-left: -1rem;
+    margin-top: -1rem;
+    margin-right: -1rem;
+  }
+}
+
+.homeCard:hover {
+  transform: translate(0, -10px);
+}
+
+.list2cards {
+    margin: 0;
+    padding: 0;
+    li{
+      margin: 0 0 0rem 0;
+      list-style: none;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.homeLists {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 1300px;
+  z-index: 10;
+
+  h2 {
+    margin-bottom: .5rem;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    li{
+      margin: 0 0 3rem 0;
+      padding: 0;
+      list-style: none;
+
+    }
+  }
+
+}
+
+
+
+.homeListsRow {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+
+}
+
+@media (min-width: 1200px) {
+  .homeLists {
+    flex-direction: row;
+    gap: 4rem
+  }
+
+  .homeListsRow {
+    width: 50%;
+  }
+}
+
+
+.homeItem {
+  background-color: #fff;
+  margin-bottom: 16rem;
+  position: relative;
+
+
+  .homeItem__thumbnail {
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+
+  }
+  .homeItem__text {
+    position: relative;
+    padding: 3rem 1.5rem 1.5rem 1.5rem;
+    margin-top: -100px;
+    background: linear-gradient(180deg, rgba(#ffffff, 0) 0,    rgba(#ffffff, 1) 50px);
+
+    h3 {
+      a {
+        color: hsl(0, 0%, 12%);
+      }
+    }
+  }
+
+}

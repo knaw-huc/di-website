@@ -1,6 +1,6 @@
 {{> html_header}}
 
-<div class="layout_3col_vertNav fullHeight">
+<div class="layout_3col_vertNav fullHeight leftLine">
 
   {{> comp_huc_aside_nav}}
 
@@ -13,14 +13,20 @@
 
 
     {{else}}
+
       <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
         {{{breadcrumb}}}
       </nav>
+
+
+
       <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>{{title}}</h1>
     {{/if}}
 
       {{{ htmlContent }}}
+
+
 
   </main>
   {{#if homeLists}}
@@ -30,7 +36,7 @@
   {{> comp_footer}}
 
 
-
+  <div class="huclogo"><img src="images/logo-knaw-humanities-cluster.png" alt=""></div>
   </div>
 </div>
 

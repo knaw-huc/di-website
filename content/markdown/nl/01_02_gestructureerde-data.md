@@ -2,6 +2,7 @@
 title: Gestructureerde en Linked Data
 author: Arno Bosse
 type: page
+summary: Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen.
 ---
 Data komen in vele vormen en maten. Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen. Ons doel is om de juiste tool te gebruiken voor elke data en elk project. Dat gaat van kant-en-klare software, via intern ontwikkelde generieke componenten en frameworks tot project-specifieke samenstellingen hiervan. Data zijn waardevol en horen een heldere weg af te leggen richting archief. Wij verzorgen die weg en de middelen om de bijgaande metadata te creëren.
 
@@ -16,7 +17,7 @@ Menzo Windhouwer menzo.windhouwer@di.huc.knaw.nl
 
 ### Projekten
 
-- Golden Agents: providing storage and accessibility for enriched linked data- and linksets 
+- Golden Agents: providing storage and accessibility for enriched linked data- and linksets
 - CLARIAH(+): setting up the metadata harvesting pipeline, its vocabulary ecosystem and reimplementing/specifying data stories
 - CLARIN: maintain the core of the Component Metadata infrastructure and its harvesting pipeline
 - REPUBLIC & OpenHuygens: revive Huygens data sets in state-of-the-art technology and data stores
@@ -25,7 +26,7 @@ Menzo Windhouwer menzo.windhouwer@di.huc.knaw.nl
 ### Software en Data
 
 - Lenticular Lens is a tool which allows users to construct linksets between entities from different Timbuctoo datasets (so called data-alignment or reconciliation). Lenticular Lens tracks the configuration and the algorithms used in the alignment and is also able to report on manual corrections and the amount of manual validation done.
-- Timbuctoo is a Linked Data Store, which is able to store large graphs. It provides a GraphQL interface, which means that the schema of the graph is easily available for interaction. ResourceSync support enables us to keep related indexes and access tools in sync. Timbuctoo keeps close track of the provenance. It forms the heart of an expanding toolset to deal with all aspects of linked data. 
+- Timbuctoo is a Linked Data Store, which is able to store large graphs. It provides a GraphQL interface, which means that the schema of the graph is easily available for interaction. ResourceSync support enables us to keep related indexes and access tools in sync. Timbuctoo keeps close track of the provenance. It forms the heart of an expanding toolset to deal with all aspects of linked data.
 - Procrustus is our forms framework, which we can easily adapt to any data source. And can be tweaked to the maximum usability.
 
 ### Publikaties en Presentaties

@@ -1,5 +1,7 @@
+@use 'vars' as *;
+
 .hasHero {
-  color: hsl(174, 86%, 17%);
+  color: $color_huchomeText;
 }
 
 .bgDIBrand01Gradient {
