@@ -5,7 +5,7 @@ type: page // news | list
 publication_date: 22-03-2022
 meta_description:
 meta_keyword:
-featured_image: // thumbnail for overview page.
+summary: We have extensive experience with publishing different kinds of digital scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections.
 ---
 ## Text Analysis
 
@@ -23,7 +23,7 @@ All of our text based projects make use of the open source [text repository](htt
 
 + what did we contribute to each of these projects?
 
-- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts. 
+- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts.
 - [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
 - [Globalise](https://globalise.huygens.knaw.nl) (huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
 - CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)

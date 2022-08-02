@@ -2,6 +2,7 @@
 title: Infrastructure Services
 author: Arno Bosse
 type: page
+summary: Als HuC-Di leveren we een krachtig, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectie verwerkende instituten.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
@@ -10,7 +11,7 @@ Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhonc
 
 ### Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Related Research Projects
 

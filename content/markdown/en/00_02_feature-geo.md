@@ -2,8 +2,8 @@
 title: The plot as an atom of space
 author: Thomas Vermaut
 type: feature
-featured_image: map_1.jpg
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula.
+featured_image: kaart_1.jpg
+summary: Geographical information is a fundamental part of humanities data. All information consists, in the abstract, of 'someone doing something at a certain place'. You can hang anything on that peg and the integration of those types of information and their mutual relationships is becoming increasingly important..
 ---
 "Geographical information is a fundamental part of humanities data. All information consists, in the abstract, of 'someone doing something at a certain place'. You can hang anything on that peg and the integration of those types of information and their mutual relationships is becoming increasingly important." Speaking is Thomas Vermaut, developer and team leader of the DI geographical analysis expertise area, which deals with the processing of spatial data in digital infrastructure.
 

@@ -2,7 +2,8 @@
 title: Spatial Computing
 author: Thomas Vermaut
 type: page
-meta_keyword: spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, Historical GIS, land register, map, historical travel, gazetteers, urban gazetteers
+meta_keyword: spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, Historical GIS, land register, map, historical travel, gazetteers, urban gazetteers.
+summary: Wij ontwikkelen methoden om geografische informatie, direct gerelateerd aan andere typen informatie, in kaart te brengen.
 ---
 
 Spatial information is present everywhere. The study of complex data requires multiple facets, of which the geographical space (_where_ something takes place) is one of the most important. This often results in the publication of a dataset or the publication of a map. [Sentence to be added here once Dutch original is revised]. Logical reasoning about this data in complex systems also plays a relevant part.
@@ -21,7 +22,7 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 
 - [HisGIS Netherlands](https://hisgis.nl)
 - [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to the technical development of v2 of the gazetteer, and in particular also to the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) for which we prepared and curated a variety of datasets.
-- [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). 
+- [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/).
 
 ![HisGIS Viewer](/images/his-gis.png)
 
@@ -29,7 +30,7 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 
 - [HisGIS Netherlands](https://hisgis.nl)
 - [Historical Atlas of the Low Countries, 1350-1800](https://hdl.handle.net/10622/PGFYTM) and the ['(Re)counting the Uncounted' project](https://www.nwo.nl/projecten/40119038) NWO Replication Studies, (PI: Rombert Stapel), for which DI developed a QGIS plugin to simplify the linking of (census) data to GIS maps.
-- [IISH Data Collection](https://datasets.iisg.amsterdam/). 
+- [IISH Data Collection](https://datasets.iisg.amsterdam/).
 
 ### Publications and Presentations
 

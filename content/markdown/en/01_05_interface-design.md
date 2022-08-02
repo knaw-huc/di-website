@@ -2,6 +2,7 @@
 title: Interface Design
 author: Arno Bosse
 type: page
+summary: The interface design team makes this data accessible and understandable, both for researchers and for broader audiences.
 ---
 Data from the humanities is often complex and difficult to interpret. The interface design team makes this data accessible and understandable, both for researchers and for broader audiences. So that even users without domain knowledge or experience of complex searches on the underlying datasets can carry out their searches.
 
