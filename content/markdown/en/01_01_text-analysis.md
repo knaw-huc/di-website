@@ -1,7 +1,7 @@
 ---
 title: Text Analysis
 author: Hennie Brugman
-type: page // news | list
+type: page
 publication_date: 22-03-2022
 meta_description:
 meta_keyword:

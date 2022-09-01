@@ -1,8 +1,21 @@
 # Static site builder
+A simple static site builder build on markdown files.
+
+## Requirements
+To run this site builder you need node.js installed
+
+## Initial site setup
+
+
 
 ## you need
 * node js
 * content folder with markdown files and optional folder with images. + data
+
+
+
+
+
 
 ## How to add to your project / repository
 
