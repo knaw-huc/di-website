@@ -35,8 +35,6 @@ Het [Digital Humanities Lab](https://dhlab.nl/) (DHLab) is een onderzoeksgroep b
 
 Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, overheid en industrie aan wie wij door ons eigen werk een toegevoegde waarde leveren. Onze partners bestaan uit zowel nationale als internationale instellingen.
 
-<!--add logos-->
-
 <div class=logos>
 [![Beeld & Geluid](images/logos/logo_beeldGeluid.png)](https://www.beeldengeluid.nl)
 [![Cultural AI ](images/logos/logo_cul_ai.png)](https://www.kb.nl)
