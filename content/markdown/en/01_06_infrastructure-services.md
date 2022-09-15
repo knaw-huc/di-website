@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam.
 
 Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
 
+The DI department has its own Concern Infrastructure team that manages the developed infrastructure and ensures secure access to it. By using techniques such as Kubernetes, Docker, vmWare and Database clusters, the infrastructure is scalable and sustainably maintained.
+
 ### Contact
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
