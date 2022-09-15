@@ -8,7 +8,9 @@ Infrastructure projects are an important part of the Digital Infrastructure depa
 
 [CLARIAH](https://www.clariah.nl) is the most important example of this at the moment. In CLARIAH, DI is working with several universities and various heritage institutions on facilities for the digital humanities. DI occupies a key technical position and HuC leads a large number of work packages.
 
-Our developers have gained extensive experience in setting up and implementing complex infrastructure projects. Specific projects are often used to create reusable components, thus also contributing to the building of this infrastructure. Even after these projects have been completed, the DI department usually continues to play a major role in managing the infrastructure that has been delivered.
+Our developers have gained extensive experience in setting up and implementing complex infrastructure projects. Specific projects are often used to create reusable components, thus also contributing to the building of this infrastructure. Even after these projects have been completed, the DI department usually continues to play a major role in managing the infrastructure that has been delivered. 
+
+DI develops software and infrastructure as sustainably as possible. Where possible, we use existing tools and software. We continue to build on generic components to serve specific research questions. When further developing software, we always seek to collaborate with other parties. We always make the software available on open source. A large collection of Open Source software projects can be found on [GitHub](https://github.com/knaw-huc). 
 
 The Digital Infrastructure department is always open to new collaborations and new infrastructure projects for the humanities. Contact us to discuss what our role and added value could be. For more information: [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager, member of the grant team Huc) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (director DI).
 
