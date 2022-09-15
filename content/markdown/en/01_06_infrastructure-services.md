@@ -2,33 +2,13 @@
 title: Infrastructure Services
 author: Arno Bosse
 type: page
-summary: Als HuC-Di leveren we een krachtig, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectie verwerkende instituten.
+summary: HuC-DI provides a powerful, stable, secure and multifunctional infrastructure for individual researchers, research groups and collection processing institutions.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
+The Digital Infrastructure Department of the Humanities Cluster provides a powerful, stable, secure and multifunctional infrastructure for individual researchers, research groups and collection processing institutions. We have extensive knowledge and experience of this research and collection infrastructure and our user groups. This enables us to think along before, during and after a research or collection project. Together with our user groups, we look at how our modern infrastructure can meet the needs for the short and (very) long term. If necessary, we adapt parts of the infrastructure or create new software that simplifies a work process, for example.
 
-Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
-
-The DI department has its own Concern Infrastructure team that manages the developed infrastructure and ensures secure access to it. By using techniques such as Kubernetes, Docker, vmWare and Database clusters, the infrastructure is scalable and sustainably maintained.
+When a project is delivered, we ensure that it is properly integrated into the management and infrastructure landscape for the longer term. This way we ensure that research results or services remain available. TWe use techniques such as Kubernetes, Docker, vmWare and Database clusters. This makes the infrastructure scalable and sustainable.
 
 ### Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Related Research Projects
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-### Software and Data
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-### Publications and Presentations
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
-
-- Donec facilisis at ipsum vel convallis. Vestibulum iaculis, libero at viverra cursus, magna augue posuere lectus, at egestas ligula sapien ut urna. Aenean finibus quam sed nibh maximus, sit amet ultrices lectus posuere. Mauris a semper libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar aliquet purus, et laoreet nisi. Phasellus egestas nulla dolor, vitae ultrices turpis iaculis ac.
+[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), teamlead concern infrastructure.
