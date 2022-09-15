@@ -8,11 +8,9 @@ Data from the humanities is often complex and difficult to interpret. The interf
 
 We specialise in user research, online usability, interface design, web publishing, data visualisation and project branding. In order to achieve an optimal end result, the designers are involved in a project at an early stage whenever possible.
 
-The solutions we develop place the underlying data in the right context, making it easier to understand and use. A lot of attention is paid to responsive design, so that the applications are accessible from different screens, from tablet to widescreen monitor. Inclusiveness is also an important principle: the tools are accessible to people with disabilities wherever possible. In addition, the design is as sustainable as possible: the team works according to open source principles, so that the application remains usable in the long term.
+![Golden Agents interface voorbeelden](images/interface-examples.jpg)
 
-<!--
-what specific problems do we encounter
--->
+The solutions we develop place the underlying data in the right context, making it easier to understand and use. A lot of attention is paid to responsive design, so that the applications are accessible from different screens, from tablet to widescreen monitor. Inclusiveness is also an important principle: the tools are accessible to people with disabilities wherever possible. In addition, the design is as sustainable as possible: the team works according to open source principles, so that the application remains usable in the long term.
 
 
 ### Contact
