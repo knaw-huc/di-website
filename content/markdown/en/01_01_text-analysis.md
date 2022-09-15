@@ -7,8 +7,6 @@ meta_description:
 meta_keyword:
 summary: We have extensive experience with publishing different kinds of digital scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections.
 ---
-## Text Analysis
-
 We have extensive experience with publishing different kinds of digital scholarly text collections. These include literary text editions, correspondence catalogues, as well as historical manuscripts and linguistic collections. The collections we publish are usually complemented by us with descriptive metadata, page images and other types of enrichments such as links to structured data and user annotations.
 
 In particular, we offer researchers many ways to carry out complex searches — for example by using 'fuzzy' text patterns, finding semantically related passages or by filtering texts on the basis of structured data such as the persons or places mentioned in a text. We can also provide the necessary know-how and software to allow project teams to edit and visualize their text collections, to publish them on online, and to deposit them in a certified digital repository to ensure their long term preservation and access.

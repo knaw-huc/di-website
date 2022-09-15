@@ -4,8 +4,6 @@ author: Arno Bosse
 type: page
 summary: Data comes in many shapes and sizes. We carefully put the data that is important for a project into a format that the tools can work with.
 ---
-## Structured Data
-
 Data comes in many shapes and sizes. We carefully put the data that is important for a project into a format that the tools can work with. Our goal is to use the right tool for each data and each project. This ranges from ready-made software, via internally developed generic components and frameworks, to project-specific compositions of these. Data is valuable and should have a clear path to the archive. We provide that route and the means to create the accompanying metadata.
 
 Datasets are strongly connected internally - and increasingly also externally. These connections are established on the basis of linking pins, such as shared key entities and core vocabularies. This is particularly the case in the field of Linked (Open) Data. With Timbuctoo, our own Linked Data Store, we offer researchers a stable basis for storing their data. Lenticular Lens makes it possible to create and validate links between entities in different Timbuctoo datasets. Within the Dutch CLARIAH infrastructure, we provide the I (Interoperability) in FAIR datasets using vocabularies as the semantic cornerstone.

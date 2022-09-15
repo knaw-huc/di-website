@@ -5,7 +5,6 @@ type: page
 meta_keyword: spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, Historical GIS, land register, map, historical travel, gazetteers, urban gazetteers.
 summary: Wij ontwikkelen methoden om geografische informatie, direct gerelateerd aan andere typen informatie, in kaart te brengen.
 ---
-
 Spatial information is present everywhere. The study of complex data requires multiple facets, of which the geographical space (_where_ something takes place) is one of the most important. This often results in the publication of a dataset or the publication of a map. [Sentence to be added here once Dutch original is revised]. Logical reasoning about this data in complex systems also plays a relevant part.
 
 One of our important tools is [HisGIS](https://hisgis.nl) which is our first choice for a digital infrastructure for working with fine-grained spatial data such as individual parcels of land. The project aims to unlock the first historical original land register of the Netherlands, also known as the Napoleonic land register, in all its facets (socio-economic value, property as an expression of power, spatially accurate reconstruction of the natural and cultural landscape, etc.). With this project, we have had experience since the 1990s in using volunteers on a broad basis to create the necessary research infrastructure.
