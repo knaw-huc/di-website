@@ -14,7 +14,7 @@ The provenance of data is an important point of attention in the digital humanit
 
 ### Contact
 
-Menzo Windhouwer, menzo.windhouwer@di.huc.knaw.nl
+[Menzo Windhouwer](mailto:menzo.windhouwer@di.huc.knaw.nl), Lead developer for team Structured Data ([Research Gate](https://www.researchgate.net/profile/Menzo-Windhouwer), [LinkedIn](https://www.linkedin.com/in/mwindhouwer/?originalSubdomain=nl), [Pure](https://pure.knaw.nl/portal/nl/persons/menzo-windhouwer))
 
 ### Projects
 
