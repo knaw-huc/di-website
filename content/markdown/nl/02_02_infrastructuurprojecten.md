@@ -10,6 +10,8 @@ Op dit moment is [CLARIAH](https://www.clariah.nl) daar het belangrijkste voorbe
 
 Onze ontwikkelaars hebben uitgebreide ervaring opgedaan in het opzetten en uitvoeren van complexe infrastructuurprojecten. Vaak worden ook specifieke projecten ingezet om te komen tot herbruikbare componenten, op die manier dragen dit soort projecten ook bij aan het opbouwen van deze infrastructuur. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.
 
+DI ontwikkelt software en infrastructuur zo duurzaam mogelijk. Waar mogelijk gebruiken we bestaande tools en software. We bouwen door op generieke componenten voor specifieke onderzoeksvragen. Bij de verdere ontwikkeling van software zoeken we altijd samenwerking met andere partijen. We stellen de software altijd beschikbaar op open source. Een grote verzameling Open Source software projecten is te vinden op [GitHub](https://github.com/knaw-huc). 
+
 De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn. Voor meer informatie: [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager en lid van het Grant Team HuC) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
 
 Voorbeelden van belangrijke infrastructurele projecten zijn:
