@@ -9,7 +9,9 @@ Als HuC-Di leveren we een krachtig, stabiele, veilige en multifunctionele infras
 
 Indien een project wordt opgeleverd zorgen we er voor dat het goed 'geembed' ((mist trema)) wordt in het beheers- en infrastructuurslandschap voor de langere termijn en zorgen we er dus voor dat onderzoeksresultaten of diensten beschikbaar blijven.
 
-### Kontakt
+The DI department has its own Concern Infrastructure team that manages the developed infrastructure and ensures secure access to it. By using techniques such as Kubernetes, Docker, vmWare and Database clusters, the infrastructure is scalable and sustainably maintained.
+
+### Contakt
 
 Mario Mieldijk, teamleider concern infrastructure. (email adres van het team of jira)
 
