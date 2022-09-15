@@ -23,6 +23,8 @@ Daarnaast dragen we bij aan de [World Historical Gazetteer (WHG)](https://whgaze
 - [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We hebben bijgedragen aan v2.0 van de gazetteer, o.a. met de [Dutch Global History collectie](https://whgazetteer.org/collections/2/detail) en het daartoe voorbereiden van datasets en cureren van die data.
 - [Aan het juiste adres](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In samenwerking met [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) en het Amsterdamse Stadsarchief geven we in dit project een vervolg aan het Huisnummer-project binnen de [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/). Daarbij dragen we als DI kennis, ervaring en technologie bij aan het project.
 
+![HisGIS Viewer](/images/his-gis.png)
+
 ### Software en Data
 
 - [HisGIS Nederland](https://hisgis.nl)
