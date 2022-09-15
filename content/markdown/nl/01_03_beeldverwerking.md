@@ -9,7 +9,8 @@ Onze grootste expertise op het gebied van beeldbewerking ligt bij het creëren v
 Bij het converteren van ingescande pagina's met getypte of geprinte tekst naar machineleesbare tekst (OCR) maken we vaak gebruik van open source-software als [Tesseract](https://github.com/tesseract-ocr/tesseract), in combinatie met onze eigen op maat gemaakt pre- en postprocessing methoden. In het geval van handgeschreven manuscripten (HTR) maken we ook gebruik van commerciële software (zoals Transkribus). Voor sommige onderzoeksprojecten is het echter belangrijk om volledige controle over alle delen van de HTR-pijplijn te hebben, van lay-out analyse tot spellingcorrectie. Hiervoor hebben wij een eigen, open source, op machinelearning gebaseerde HTR-pijplijn ontwikkeld. Loghi wordt momenteel gebruikt door het [Nationaal Archief](https://www.nationaalarchief.nl) en het door NWO gefinanceerde project [Globalise](https://globalise.huygens.knaw.nl) om miljoenen handgeschreven manuscriptpagina's uit de zestiende tot achttiende eeuw te transcriberen. Naast Loghi hebben we een set open source tools ontwikkeld die onderzoekers helpen bij het automatisch classificeren en clusteren van verschillende typen documenten (zoals testamenten, contracten, brieven) op basis van hun layout en structuur, en bij het zoeken op basis van visueel vergelijkbare onderdelen van een document, zoals watermerken, briefhoofden of familiewapens.
 
 ### Contact
-images@di.huc.knaw.nl
+
+[Rutger van Koert](mailto:rutger.van.koert@di.huc.knaw.nl), Lead developer for Team Images ([Pure](https://pure.knaw.nl/portal/en/persons/rutger-koert-van), [ACM](https://dl.acm.org/profile/81339533737))
 
 ### Verwante Onderzoeksprojecten
 
