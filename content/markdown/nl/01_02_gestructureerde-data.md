@@ -1,5 +1,5 @@
 ---
-title: Gestructureerde en Linked Data
+title: Gestructureerde Data
 author: Arno Bosse
 type: page
 summary: Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen.
