@@ -1,5 +1,5 @@
 ---
-title: Duurzaamheid
+title: Beheren digitale data
 author: Menno Rasch
 type: page
 summary: Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen.
@@ -16,4 +16,4 @@ Een grote verzameling datasets die we beschikbaar stellen zijn te vinden op:
 - [Timbuctoo](http://huygensing.github.io/timbuctoo/)
 - [Archieven.nl](https://www.archieven.nl/nl/)
 
-Neem voor meer informatie contact op met Mario Mieldijk (team Concern Infrastructure) via [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).
+Neem voor meer informatie contact op met Mario Mieldijk via [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).
