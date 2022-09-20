@@ -3,7 +3,7 @@ title: Het perceel als atoom van de ruimte
 author: Thomas Vermaut
 type: feature
 featured_image: kaart_1.jpg
-summary: Geographical information is a fundamental part of humanities data. All information consists, in the abstract, of 'someone doing something at a certain place'. You can hang anything on that peg and the integration of those types of information and their mutual relationships is becoming increasingly important..
+summary: Geografische informatie is een fundamenteel onderdeel van geesteswetenschappelijke data. Alle informatie bestaat in abstracte zin uit ‘iemand die op een bepaalde plek iets doet’. Aan die kapstok kun je alles ophangen en de integratie van die soorten informatie en hun onderlinge relaties wordt steeds belangrijker.
 ---
 “Geografische informatie is een fundamenteel onderdeel van geesteswetenschappelijke data. Alle informatie bestaat in abstracte zin uit ‘iemand die op een bepaalde plek iets doet’. Aan die kapstok kun je alles ophangen en de integratie van die soorten informatie en hun onderlinge relaties wordt steeds belangrijker.” Aan het woord is Thomas Vermaut, ontwikkelaar en teamleider van het DI-expertisegebied geografische analyse, dat zich bezighoudt met het verwerken van ruimtelijke data in digitale infrastructuur.
 
