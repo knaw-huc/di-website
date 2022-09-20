@@ -17,7 +17,7 @@ De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen
 Voorbeelden van belangrijke infrastructurele projecten zijn:
 
 - [Clariah](https://www.clariah.nl), 2018-2022, NWO-GWI:
-DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. DI neemt hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten en de voorzitter van het HuC is ook PI van CLARIAH.
+DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. DI neemt hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten. En de PI van CLARIAH is de directeur van het Huygens Instituut, een van de drie oprichters van het HuC.
 - [Polifonia](https://polifonia-project.eu/) 2021-2024, EU Horizon 2020:
 Europees interdisciplinair team ontwikkelt een wereldwijd verbonden online database waarin met behulp van kunstmatige intelligentie verbindingen tussen muziek, mensen, locaties en evenmenten vanaf de zestiende eeuw onderzocht kunnen worden.
 - [Golden Agents](https://www.goldenagents.org) 2016-2022, Investeringen NWO-Groot:
