@@ -11,11 +11,12 @@ Our developers all have a great affinity with humanities research. They usually 
 For more information, please contact [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager) or [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (director DI).
 
 Examples of current and completed research projects are:
-* [Anne Frank manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/)
-* [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)
-* [eCodicesNL](https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/)
-* [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)
-* [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
-* [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)
-* [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)
-* [TransLatin](https://translatin.nl)
+
+- [Anne Frank manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/)
+- [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)
+- [eCodicesNL](https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/)
+- [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)
+- [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
+- [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)
+- [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)
+- [TransLatin](https://translatin.nl)
