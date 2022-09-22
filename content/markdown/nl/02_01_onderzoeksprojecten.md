@@ -11,6 +11,7 @@ Onze ontwikkelaars hebben allemaal veel affiniteit met geesteswetenschappelijk o
 Neem voor meer informatie contact op met [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
 
 Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
+
 - [Anne Frank manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/)
 - [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)
 - [eCodicesNL](https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/)
