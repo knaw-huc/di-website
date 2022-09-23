@@ -51,3 +51,10 @@ All of our text based projects make use of the open source [text repository](htt
 - tba
 - tba
 - tba
+
+- Dirk Roorda, 2018. **Coding the Hebrew Bible**.
+  In *Research Data Journal for the Humanities and Social Sciences*,
+  vol 3, issue 1, pp. 27-41.
+  DOI [10.1163/24523666-01000011](https://doi.org/10.1163/24523666-01000011).
+
+  [More publications by Dirk](https://pure.knaw.nl/portal/en/persons/dirk-roorda).
