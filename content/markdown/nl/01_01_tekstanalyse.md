@@ -21,6 +21,7 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 - [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts.
 - [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
 - [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
+- [SHEBANQ](https://shebanq.ancient-data.org) (CLARIN-NL project) is een website om linguïstische zoekopdrachten los te laten op de Hebreeuwse Bijbel en ze daar te publiceren. De onderliggende data is beschikbaar als [dataset](https://github.com/ETCBC/BHSA) in text-fabric formaat.
 - CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)
 - tba
 
@@ -33,6 +34,7 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 - [LaMachine](https://proycon.github.io/LaMachine) (Radboud University Nijmegen) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web-services and web-applications in a single Virtual Research Environment that can be installed on a wide variety of machines.
 - [analiticcl](https://github.com/proycon/analiticcl)is an approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction.
 - [Docere](https://github.com/knaw-huc/docere) is a flexible and customisable digital (scholarly) edition publishing platform.
+- [Text-Fabric](https://annotation.github.io/text-fabric/tf/index.html) (Dirk Roorda) is machinerie om tekstcorpora plus (grote) hoeveelheden annotaties te verwerken. Het is een brug tussen onderzoeker en data scientist.
 - tba
 
 ### Publications and Presentations
@@ -44,3 +46,10 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 - tba
 - tba
 - tba
+
+- Dirk Roorda, 2018. **Coding the Hebrew Bible**.
+  In *Research Data Journal for the Humanities and Social Sciences*,
+  vol 3, issue 1, pp. 27-41.
+  DOI [10.1163/24523666-01000011](https://doi.org/10.1163/24523666-01000011).
+
+  [Meer publicaties van Dirk](https://pure.knaw.nl/portal/en/persons/dirk-roorda).
