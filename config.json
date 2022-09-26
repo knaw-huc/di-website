@@ -13,7 +13,7 @@
     "branding_logo": "logo-knaw-digital-infrastructure.png"
   },
   "content": {
-    "footer_col1": "<p><strong>Powered by</strong><br><a href=\"\">Huygens ING</a><br><a href=\"\">IISG</a><br><a href=\"\">Meertens Instituut</a></p>",
+    "footer_col1": "<p><strong>Powered by</strong><br><a href=\"https://www.huygens.knaw.nl\"  target=\"_blank\">Huygens Instituut</a><br><a href=\"https://iisg.amsterdam\" target=\"_blank\">IISG</a><br><a href=\"https://meertens.knaw.nl\" target=\"_blank\">Meertens Instituut</a></p>",
     "footer_col2": "<p><strong>Contact</strong><br>+31 20 224 68 00</p>",
     "footer_col3": "<p><strong>Adress</strong><br>Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>"
   },
