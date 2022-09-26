@@ -12,30 +12,30 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 
 ### Contact
 
-[Hennie Brugman](mailto:hennie.brugman@di.huc.knaw.nl), Lead Developer for Team Text ([Research Gate](https://www.researchgate.net/profile/Hennie-Brugman), [LinkedIn](https://nl.linkedin.com/in/hennie-brugman-8327369), [Pure](https://pure.knaw.nl/portal/en/persons/h-brugman))
+[Hennie Brugman](mailto:hennie.brugman@di.huc.knaw.nl), Lead Developer voor Team Text ([Research Gate](https://www.researchgate.net/profile/Hennie-Brugman), [LinkedIn](https://nl.linkedin.com/in/hennie-brugman-8327369), [Pure](https://pure.knaw.nl/portal/en/persons/h-brugman)).
 
-### Related Projects
+### Verwante Onderzoeksprojecten
 
-+ what did we contribute to each of these projects?
++ wat hebben we bijgedragen aan elk van deze projecten?
 
-- [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse tens of thousands of Dutch texts.
-- [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) stands for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
-- [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) for advanced new research methods. Contribution: The project uses our text repository infrastructure as a hub to synchronise the collection, enrichment, and curation of historical text transcriptions.
-- CLARIAH (specifiek voor Maarten’s werk, core shared annotation services)
+- Nederlab](https://www.nederlab.nl) (Meertens Instituut) is een online portal voor historisch onderzoek naar Nederlandse taal, literatuur en cultuur. Op de site kunnen onderzoekers tienduizenden Nederlandse teksten doorzoeken, bekijken en analyseren.
+- Republiek](https://republic.huygens.knaw.nl) (Huygens Instituut) staat voor REsolutions PUBLished In a Computational environment. Het doel van het project is om alle handgeschreven en gedrukte resoluties van de Nederlandse Staten-Generaal (1576-1796) vrij online beschikbaar te maken als volledige teksten en pagina-afbeeldingen.
+- Globalise](https://globalise.huygens.knaw.nl) (Huygens Instituut). Het door NWO Groot gefinancierde project Globalise zal een online infrastructuur ontwikkelen die de sleutelreeks van VOC-verslagen (ca. 4,7M pagina's) ontsluit voor geavanceerde nieuwe onderzoeksmethoden. Bijdrage: Het project gebruikt onze tekst repository infrastructuur als een hub om het verzamelen, verrijken en cureren van historische tekst transcripties te synchroniseren.
+- CLARIAH (specifiek voor Maarten's werk, kern gedeelde annotatiediensten)
 - tba
 
 
-### Software and Data
+### Software en Data
 
-+ Docere ownership - current status?
++ Docereigendom - huidige status?
 
-- [Text Repository](https://github.com/knaw-huc/textrepo) is a  backend repository system to store and index text corpora with metadata and versions.
-- [LaMachine](https://proycon.github.io/LaMachine) (Radboud University Nijmegen) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web-services and web-applications in a single Virtual Research Environment that can be installed on a wide variety of machines.
-- [analiticcl](https://github.com/proycon/analiticcl)is an approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction.
-- [Docere](https://github.com/knaw-huc/docere) is a flexible and customisable digital (scholarly) edition publishing platform.
+- Text Repository](https://github.com/knaw-huc/textrepo) is een backend repository systeem om tekstcorpora met metadata en versies op te slaan en te indexeren.
+- LaMachine](https://proycon.github.io/LaMachine) (Radboud Universiteit Nijmegen) is een uniforme softwaredistributie voor Natural Language Processing. Het integreert talrijke open-source NLP-tools, programmeerbibliotheken, web-services en web-applicaties in een enkele virtuele onderzoeksomgeving die op een grote verscheidenheid aan machines kan worden geïnstalleerd.
+- analiticcl](https://github.com/proycon/analiticcl) is een systeem voor het benaderen van stringmatching of fuzzymatching voor spellingcorrectie, normalisatie of post-OCR-correctie.
+- Docere](https://github.com/knaw-huc/docere) is een flexibel en aanpasbaar platform voor het uitgeven van digitale (wetenschappelijke) uitgaven.
 - tba
 
-### Publications and Presentations
+### Publicaties en Presentaties
 
 - iets van Maarten over LaMachine, MvG’s video over analiticcl
 - Nederlab paper
