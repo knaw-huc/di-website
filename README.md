@@ -6,8 +6,11 @@ Content for the website can be placed in the folder `content`. Markdown files ca
 The idea is to use the site structure in the naming of the files.
 
 `nl_00_00-home.md`
+
 `nl_01_00_expertise.md`
+
 `en_00_00-home.md`
+
 `en_01_00_expertise.md`
 
 
