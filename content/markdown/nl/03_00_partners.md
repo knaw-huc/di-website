@@ -40,15 +40,15 @@ Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, ove
 [![Cultural AI ](images/logos/logo_cul_ai.png)](https://www.kb.nl)
 [![DH Lab](images/logos/logo_dhlab.png)](https://www.kb.nl)
 [![EHumanities](images/logos/logo_eHumanities.png)](https://www.kb.nl)
-[![Huygens Instutuut](images/logos/logo_huygens.png)](https://www.kb.nl)
-[![IISG](images/logos/logo_iisg.png)](https://www.kb.nl)
+[![Huygens Instituut](images/logos/logo_huygens.png)](https://www.kb.nl)
+[![IISG](images/logos/logo_iisg.png)](https://www.iisg.nl)
 [![Koninklijke Bibliotheek](images/logos/logo_kb.png)](https://www.kb.nl)
 [![Universiteit Leiden](images/logos/logo_leiden.png)](https://www.kb.nl)
 [![Meertens Instituut](images/logos/logo_meertens.png)](https://www.kb.nl)
 [![National Archives](images/logos/logo_na.png)](https://www.nationaalarchief.nl/)
 [![Oxford](images/logos/logo_oxford.png)](https://www.kb.nl)
 [![UVA](images/logos/logo_uva.png)](https://www.kb.nl)
-[![Vu](images/logos/logo_vu.png)](https://www.kb.nl)
+[![VU](images/logos/logo_vu.png)](https://www.vu.nl)
 </div>
 <!--
 * [Tilburg University](https://www.tilburguniversity.edu/nl)
