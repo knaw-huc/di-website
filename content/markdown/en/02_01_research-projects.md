@@ -8,9 +8,9 @@ The Digital Infrastructure department of the KNAW Humanities Cluster supports re
 
 Our developers all have a great affinity with humanities research. They usually have years of experience working with research teams and have a good understanding of existing tools. This way, development time can be spent on innovation or expanding and improving existing tools.
 
-For more information, please contact [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager) or [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (director DI).
+For more information, please contact [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Manager, Funding & Partnerships) or [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (Director DI).
 
-Examples of current and completed research projects are:
+Examples of our current and recently completed research projects include:
 
 - [Anne Frank manuscripts (English edition)](https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/)
 - [Diplomatieke Getuigenissen](https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/)
