@@ -37,18 +37,19 @@ Wij onderhouden nauwe banden met een reeks partners in onderzoek, onderwijs, ove
 
 <div class=logos>
 [![Beeld & Geluid](images/logos/logo_beeldGeluid.png)](https://www.beeldengeluid.nl)
-[![Cultural AI ](images/logos/logo_cul_ai.png)](https://www.kb.nl)
-[![DH Lab](images/logos/logo_dhlab.png)](https://www.kb.nl)
-[![EHumanities](images/logos/logo_eHumanities.png)](https://www.kb.nl)
-[![Huygens Instituut](images/logos/logo_huygens.png)](https://www.kb.nl)
+[![Cultural AI ](images/logos/logo_cul_ai.png)](https://www.cultural-ai.nl/)
+[![DH Lab](images/logos/logo_dhlab.png)](https://www.dhlab.nl)
+[![EHumanities](images/logos/logo_eHumanities.png)](https://www.ehumanities.nl)
+[![Huygens Instituut](images/logos/logo_huygens.png)](https://www.huygens.knaw.nl)
 [![IISG](images/logos/logo_iisg.png)](https://www.iisg.nl)
 [![Koninklijke Bibliotheek](images/logos/logo_kb.png)](https://www.kb.nl)
-[![Universiteit Leiden](images/logos/logo_leiden.png)](https://www.kb.nl)
-[![Meertens Instituut](images/logos/logo_meertens.png)](https://www.kb.nl)
+[![Universiteit Leiden](images/logos/logo_leiden.png)](https://www.universiteitleiden.nl)
+[![Meertens Instituut](images/logos/logo_meertens.png)](https://www.meertens.knaw.nl)
 [![National Archives](images/logos/logo_na.png)](https://www.nationaalarchief.nl/)
-[![Oxford](images/logos/logo_oxford.png)](https://www.kb.nl)
-[![UVA](images/logos/logo_uva.png)](https://www.kb.nl)
+[![Oxford](images/logos/logo_oxford.png)](https://www.ox.ac.uk)
+[![UVA](images/logos/logo_uva.png)](https://www.uva.nl)
 [![VU](images/logos/logo_vu.png)](https://www.vu.nl)
+[![Maastricht University FASOS](images/logos/logo_umf.png)](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-arts-and-social-sciences)
 </div>
 <!--
 * [Tilburg University](https://www.tilburguniversity.edu/nl)
