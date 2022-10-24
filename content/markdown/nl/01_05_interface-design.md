@@ -14,7 +14,7 @@ De oplossingen die die wij ontwikkelen, plaatsen de onderliggende data in de jui
 
 ## Contact
 
-[Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/), [LinkedIn](https://nl.linkedin.com/in/bas-doppen-b50a1931), [GitHub](https://github.com/Doppen))
+[Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/))
 
 ## Projecten
 

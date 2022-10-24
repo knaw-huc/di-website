@@ -4,17 +4,18 @@
   "dirMarkdown": "../content/markdown",
   "dirJson": "../content/data",
   "languageDefault": "nl",
-  "siteName": "Di Huc",
+  "siteName": "Digital Infrastructure | KNAW Humanities Cluster",
+  "siteFavicon": "favicon_huc.png",
   "url": "http://di.huc.knaw.nl",
   "markup": {
     "color_sidebar_background": "hsl(0, 0%, 100%)",
     "color_content_background": "hsl(174, 40%, 94%)",
-    "color_footer_background": "hsl(68, 72%, 67%)",
+    "color_footer_background": "hsl(174, 66%, 57%)",
     "branding_logo": "logo-knaw-digital-infrastructure.png"
   },
   "content": {
     "footer_col1": "<p><strong>Powered by</strong><br><a href=\"https://www.huygens.knaw.nl\"  target=\"_blank\">Huygens Instituut</a><br><a href=\"https://iisg.amsterdam\" target=\"_blank\">IISG</a><br><a href=\"https://meertens.knaw.nl\" target=\"_blank\">Meertens Instituut</a></p>",
-    "footer_col2": "<p><strong>Contact</strong><br>+31 20 224 68 00</p>",
+    "footer_col2": "<p><strong>Contact</strong><br><a href=\"mailto:staf@di.huc.knaw.nl\">staf@di.huc.knaw.nl</a><br><a href=\"contact-nl.html\">Contact page</a></p>",
     "footer_col3": "<p><strong>Adress</strong><br>Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>"
   },
   "customTemplateFolder": "huc_di",

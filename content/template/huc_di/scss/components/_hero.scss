@@ -69,11 +69,11 @@
     top: -25vh;
     height: 90vh;
     max-width: 1400px;
-    width: auto;
+    width: 100%;
     }
 
   .canalStr {
-    stroke: $color_hucOker;
+    stroke: $color_hucBlueGreenLight;
     stroke-width: 2px;
     stroke-dasharray: 1,8;
     stroke-linecap: round;

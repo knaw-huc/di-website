@@ -6,7 +6,7 @@ let markdown = require("markdown").markdown;
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const config = require("../../config.json");
+const config = require("../../ssg_config.json");
 const sitedata = require("../../content/data/site.json");
 const outputDir = config.dirOutput;
 //const markdownDir = "content/markdown/";
@@ -35,6 +35,7 @@ function build() {
   fs.remove(outputDir)
     .then(createFolder)
     .then(handleLanguage)
+    .then(createCustomCss)
     .then(addPageBreadCrumb)
     .then(addPageNavigationList)
     //.then(addPageSubNavigationList)
@@ -69,6 +70,18 @@ function createSite() {
   createSass("src/scss/style.scss");
 }
 
+
+function createCustomCss() {
+  let css = '.colContentWide{'
+  css +=    'background-color:  '+config.markup.color_content_background+'; '
+  css +=    ' }'
+  css += '.colNav, .colNav nav a{'
+  css +=    'background-color:  '+config.markup.color_sidebar_background+'; '
+  css +=    'color:  '+config.markup.color_sidebar_txt+'; '
+  css +=    ' }'
+
+  createFile('./src/scss/_template_custom.scss', css);
+}
 
 
 function handleLanguage() {
@@ -194,12 +207,14 @@ function createContentList() {
 
 
 function addPageBreadCrumb() {
+
   //
   for (const [key, value] of Object.entries(sitedataLang)) {
 
     let parentPageName = '';
     let parentPageLink = '';
     let parentPageLevel = 1;
+    let parentDirectSubPages = false;
 
     sitedataLang[key].forEach((page, i) => {
       let breadCrumb = '<a href="index.html">Home</a> ';
@@ -210,6 +225,7 @@ function addPageBreadCrumb() {
         breadCrumb += currPage;
         parentPageName = page.title
         parentPageLink = page.file_name
+        parentDirectSubPages = page.directSubpages
 
       } else if (page.page_level = 2) {
         // if subpage
@@ -217,9 +233,13 @@ function addPageBreadCrumb() {
 
         if (page.type == 'feature') {
           breadCrumb += '<span class="breadCrumb__seperator">|</span> <span>' + page.title + '</span>'
-        } else {
+        } else if (parentDirectSubPages) {
+            breadCrumb += '<span class="breadCrumb__seperator">|</span> <span>' + parentPageName + '</span>' + currPage;
+          } else {
           breadCrumb += '<span class="breadCrumb__seperator">|</span> <a href="' + parentPageLink + '">' + parentPageName + '</a> ' + currPage;
         }
+
+
 
       }
       sitedataLang[key][i].breadcrumb = breadCrumb;
@@ -276,7 +296,7 @@ function addPageNavigationList() {
           } else {
             let subClass= ''
             if (subNav != '') {
-              subNav = '<button class="subMenuButton" id="'+navItem.title.toLowerCase()+'" aria-label="Open submenu for '+navItem.title+'"><svg viewBox="0 0 30 30" class="openArrow"> <polygon points="0,0 30,15 0,30" class="svgArrow"/> </svg></button><ul id="sub_'+navItem.title.toLowerCase()+'" class="subnav">'+subNav+'</ul>'
+              subNav = '<button class="subMenuButton" id="'+navItem.title.toLowerCase()+'" aria-label="Open submenu for '+navItem.title+'"><svg viewBox="0 0 30 30" class="openArrow"> <polygon points="0,0 26,0 12,20" class="svgArrow"/> </svg></button><ul id="sub_'+navItem.title.toLowerCase()+'" class="subnav">'+subNav+'</ul>'
               subClass= 'subLi'
             }
             topNav = '<li class="'+subClass+'" id="parent_' + navItem.title.toLowerCase() + '">'+tempUl + subNav + '</li>'+topNav
@@ -419,30 +439,36 @@ function createAltPageLists() {
 
 
 function createLanguageToggle() {
+  let langAmount = Object.keys(sitedataLang).length
+
   let langToggle=''
-  for (const [key, value] of Object.entries(sitedataLang)) {
-    let label = findInArray(sitedataLang[key], 10000, 'page_order', 'language')
-    let link = findInArray(sitedataLang[key], 10000, 'page_order', 'file_name')
+  if (langAmount > 1) {
+    for (const [key, value] of Object.entries(sitedataLang)) {
+      let label = findInArray(sitedataLang[key], 10000, 'page_order', 'language')
+      let link = findInArray(sitedataLang[key], 10000, 'page_order', 'file_name')
 
 
-    let languageName
+      let languageName
 
-    switch (label) {
-      case 'en':
-        languageName = 'English'
-        break;
-      case 'nl':
-        languageName = 'Nederlands'
-        break;
-      case 'fr':
-        languageName = 'Français'
-        break;
-      case 'de':
-        languageName = 'Deutsch'
-        break;
+      switch (label) {
+        case 'en':
+          languageName = 'English'
+          break;
+        case 'nl':
+          languageName = 'Nederlands'
+          break;
+        case 'fr':
+          languageName = 'Français'
+          break;
+        case 'de':
+          languageName = 'Deutsch'
+          break;
+      }
+      langToggle += '<a href="'+link+'" aria-label="'+languageName+'">'+label+'</a>'
     }
-    langToggle += '<a href="'+link+'" aria-label="'+languageName+'">'+label+'</a>'
+
   }
+
 
   for (const [key, value] of Object.entries(sitedataLang)) {
     sitedataLang[key].forEach((page, i) => {

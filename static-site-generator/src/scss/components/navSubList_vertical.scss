@@ -1,0 +1,23 @@
+// mouseover subnave bases on nested list items
+//u .navMouseOver
+
+.navSubMouseOver {
+
+  li ul {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 2s ease-out 5s;
+  }
+
+  li:hover ul {
+    max-height: 1500px;
+    transition: max-height 0.9s ease-in;
+  }
+
+  .current-menu-parent ul, .navIsCurrentParent ul {
+    max-height: 3000px;
+  }
+
+  li ul .current-menu-item {
+  }
+}

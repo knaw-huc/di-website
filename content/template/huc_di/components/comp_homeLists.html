@@ -1,21 +1,22 @@
-<div class="col2_1  in_padding--basic">
-  <div class="">
-    <h2>{{header01}}</h2>
-    <ul class="col2 list2cards">
-      {{#each expertise }}
-
-
-      {{> comp_card_small}}
-      {{/each}}
-    </ul>
-  </div>
+<section class="col2_1  in_padding--basic" aria-label="Featured articles and expertise">
 
   <div class="">
     <h2>{{header02}}</h2>
     <ul class="col1 list2cards">
       {{#each feature }}
-      {{> comp_card_big}}
+      {{> comp_card_big2}}
       {{/each}}
     </ul>
   </div>
-</div>
+
+  <div class="">
+    <h2>{{header01}}</h2>
+    <ul class="col2 list2cards">
+      {{#each expertise }}
+      {{> comp_card_small}}
+      {{/each}}
+    </ul>
+  </div>
+
+
+</section>

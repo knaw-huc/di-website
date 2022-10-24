@@ -4,6 +4,7 @@
   "description": "",
   "main": "app/buildSite.js",
   "scripts": {
+    "init": "node app/initSite.js",
     "getJson": "node App/getj.js",
     "getMd": "node App/structureFromMd.js",
     "build": "node App/buildSite.js",
@@ -17,7 +18,7 @@
   "nodemonConfig": {
     "ignore": [
       "_dist/*",
-      "src/components/markdown/*"
+      "src/scss/_template_custom.scss"
     ]
   },
   "keywords": [],

@@ -2,7 +2,7 @@
 title: Zoeken in handgeschreven teksten
 author: Erica Renckens
 type: feature
-featured_image: paper_1.jpg
+featured_image: paper_1.png
 summary: “Tot het begin van de 18e eeuw werden de resoluties van de Staten Generaal met de hand geschreven”, vertelt Joris Oddens, projectleider van Republic, waarin deze resoluties (1576-1796) digitaal worden ontsloten. “Die handschriften zijn voor een mens moeilijk te lezen en lastig om in groten getale te doorzoeken. Automatische handschriftherkenning zorgt dan ook voor een revolutie in de geesteswetenschappen. Doordat alles online doorzoekbaar wordt, kun je heel andere onderzoeksvragen stellen.”.
 ---
 “Tot het begin van de 18e eeuw werden de resoluties van de Staten Generaal met de hand geschreven”, vertelt Joris Oddens, projectleider van Republic, waarin deze resoluties (1576-1796) digitaal worden ontsloten. “Die handschriften zijn voor een mens moeilijk te lezen en lastig om in groten getale te doorzoeken. Automatische handschriftherkenning zorgt dan ook voor een revolutie in de geesteswetenschappen. Doordat alles online doorzoekbaar wordt, kun je heel andere onderzoeksvragen stellen.”

@@ -141,6 +141,7 @@ $hamSpace: 15px;
   position: absolute;
   right: 0;
   top: 35px;
+  z-index: 500;
 
   background: none;
   border: 0px;
@@ -149,7 +150,7 @@ $hamSpace: 15px;
 }
 
 .hamburgerIcon {
-  width: 30px;
+  width: 25px;
   height: auto;
 }
 

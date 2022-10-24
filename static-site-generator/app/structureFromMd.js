@@ -3,7 +3,7 @@ const path = require("path");
 let sass = require("sass");
 let markdown = require("markdown").markdown;
 
-const config = require("../../config.json");
+const config = require("../../ssg_config.json");
 
 
 
@@ -79,6 +79,7 @@ function createSiteJson(files) {
         pageObj.url = config.url
         pageObj.markup = config.markup
         pageObj.siteName = config.siteName
+        pageObj.siteFavicon = config.siteFavicon
         pageObj.content = config.content
         pageObj.customTemplateFolder = config.customTemplateFolder
 

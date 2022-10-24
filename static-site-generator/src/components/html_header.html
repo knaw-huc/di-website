@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{language}}">
   <head>
-    <title>{{title}} | {{siteName}}</title>
+    <title>{{#if homepage}}{{else}}{{title}} | {{/if}}{{siteName}}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light dark">
@@ -15,7 +15,7 @@
 
     <link rel="stylesheet" href="css/v1/style.css" />
     {{#if customTemplateFolder }} <link rel="stylesheet" href="css/v1/additional.css" />{{/if}}
-    <link rel="shortcut icon" href="images/favicon/favicon.jpg" />
+    <link rel="shortcut icon" href="images/favicon/{{#if siteFavicon}}{{siteFavicon}}{{else}}favicon.png{{/if}}" />
 
   </head>
   <body>

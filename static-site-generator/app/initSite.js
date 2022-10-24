@@ -30,7 +30,7 @@ function ifExistThenCreate(index) {
 }
 
 function copyInitFiles() {
-  copyFiles('app/init_files/config.json', '../config.json')
+  copyFiles('app/init_files/config_init.json', '../ssg_config.json')
   copyFiles('app/init_files/00_00_home.md', '../content/markdown/en/00_00_home.md')
   copyFiles('app/init_files/01_00_example.md', '../content/markdown/en/01_00_example.md')
   copyFiles('app/init_files/example_image.png', '../content/images/example_image.png')
