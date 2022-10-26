@@ -11,11 +11,11 @@ The importance of the digital collections is great; it often concerns digital he
 
 A large collection of datasets that we make available can be found at: 
 
-- [IISH Data Collection](https://datasets.iisg.amsterdam/)
-- [Search IISG](https://meertens.knaw.nl/collecties/databanken/)
-- [Meertens Instituut Databanken](https://meertens.knaw.nl/collecties/databanken/)
-- [Resources Huygens](http://resources.huygens.knaw.nl/)
-- [Timbuctoo](http://huygensing.github.io/timbuctoo/)
-- [Archieven.nl](https://www.archieven.nl/nl/)
+* [IISH Data Collection](https://datasets.iisg.amsterdam/)
+* [Search IISG](https://meertens.knaw.nl/collecties/databanken/)
+* [Meertens Instituut Databanken](https://meertens.knaw.nl/collecties/databanken/)
+* [Resources Huygens](http://resources.huygens.knaw.nl/)
+* [Timbuctoo](http://huygensing.github.io/timbuctoo/)
+* [Archieven.nl](https://www.archieven.nl/nl/)
 
 For more information, please contact Mario Mieldijk at [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).
