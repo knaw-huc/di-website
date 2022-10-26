@@ -1,5 +1,5 @@
 ---
-title: Manage digital data
+title: Data Management
 author: Arno Bosse
 type: page
 summary: An important core task of the Digital Infrastructure department is to manage digital data. Not only because all research projects produce data, but also because our institutes aim to form data sets or digital collections and to make them available. 
