@@ -33,7 +33,7 @@ Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruw
 
 ### Publicaties en Presentaties
 
-* Video presentatie over [analittcl](https://diode.zone/w/kkrqA4MocGwxyC3s68Zsq7)
-* Brugman, H., Reynaert, M., van der Sijs, N., van Stripriaan, R., Tjong Kim Sang, E. & van den Bosch, A. (2016) Nederlab: Towards a Single Portal and Research Environment for Diachronic Dutch Text Corpora. LREC, 25 May 2016 p. 1277-1281 5 p.
-* Koolen, Marijn & Hoekstra, Rik & Nijenhuis, Ida & Sluijter, Ronald & Koert, Rutger & van Gelder, Esther & Brouwer, Gijsjan & Brugman, Hennie. (2020). Modelling Resolutions of the Dutch States General for Digital Historical Research. 
-* Dirk Roorda (2018). Coding the Hebrew Bible. In _Research Data Journal for the Humanities and Social Sciences_, Vol 3, Issue 1, pp. 27-41. DOI [10.1163/24523666-01000011](https://doi.org/10.1163/24523666-01000011).
+* [Video presentatie](https://diode.zone/w/kkrqA4MocGwxyC3s68Zsq7) over analittcl
+* Brugman, H., Reynaert, M., van der Sijs, N., van Stripriaan, R., Tjong Kim Sang, E. & van den Bosch, A. (2016) [Nederlab: Towards a Single Portal and Research Environment for Diachronic Dutch Text Corpora](https://aclanthology.org/L16-1203/). LREC, 25 May 2016 p. 1277-1281
+* Koolen, Marijn & Hoekstra, Rik & Nijenhuis, Ida & Sluijter, Ronald & Koert, Rutger & van Gelder, Esther & Brouwer, Gijsjan & Brugman, Hennie. (2020). [Modelling Resolutions of the Dutch States General for Digital Historical Research](https://pure.knaw.nl/portal/en/publications/modelling-resolutions-of-the-dutch-states-general-for-digital-his). 
+* Dirk Roorda (2018). [Coding the Hebrew Bible](https://brill.com/view/journals/rdj/3/1/article-p27_27.xml). In _Research Data Journal for the Humanities and Social Sciences_, Vol 3, Issue 1, pp. 27-41. DOI:10.1163/24523666-01000011.
