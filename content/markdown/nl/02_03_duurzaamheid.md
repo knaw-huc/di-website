@@ -2,7 +2,7 @@
 title: Beheren digitale data
 author: Menno Rasch
 type: page
-summary: Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen.
+summary:
 ---
 Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen. Deze datasets stellen we duurzaam, en zo veel mogelijk volgens de FAIR-principes beschikbaar. We zijn daarom ook [CoreTrustSeal](https://www.coretrustseal.org/) gecertificeerd .
 

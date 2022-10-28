@@ -10,4 +10,4 @@ Als een team een project opgelevert, integreren we het in onze beheers- en infra
 
 ### Contact
 
-[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), teamleider concerninfrastructuur.
+[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), teamleider Concerninfrastructuur.
