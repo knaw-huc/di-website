@@ -1,6 +1,6 @@
 ---
 title: Working with DI
-author: Arno Bosse
+author: Menno Rasch
 type: page
 summary: The Digital Infrastructure department works together with researchers and is therefore always open to new ideas and projects. We also like to apply existing solutions in new research projects.
 ---

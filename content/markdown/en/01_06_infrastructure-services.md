@@ -11,4 +11,4 @@ When a project is delivered, we ensure that it is properly integrated into the m
 
 ### Contact
 
-[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), teamlead concern infrastructure.
+[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), Team Lead Concern Infrastructure.

@@ -1,8 +1,8 @@
 ---
 title: Data Management
-author: Arno Bosse
+author: Mario Mieldijk
 type: page
-summary: An important core task of the Digital Infrastructure department is to manage digital data. Not only because all research projects produce data, but also because our institutes aim to form data sets or digital collections and to make them available. 
+summary:
 ---
 An important core task of the Digital Infrastructure department is to manage digital data. Not only because all research projects produce data, but also because our institutes aim to form data sets or digital collections and to make them available. This applies particularly to the IISG, which has a direct collection-building objective. We make these datasets available in a sustainable way, and as much as possible according to FAIR principles. Therefore, we are also [CoreTrustSeal](https://www.coretrustseal.org/) certified.
 
