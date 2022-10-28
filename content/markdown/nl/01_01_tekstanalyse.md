@@ -4,9 +4,9 @@ author: Arno Bosse
 type: page
 summary: We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties, zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties.
 ---
-We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties. Deze omvatten zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties. Onze gepubliceerde tekstcollecties verrijken we doorgaans met beschrijvende metadata, afbeeldingen van de originele pagina's en andere soorten verrijkingen, zoals links naar gestructureerde data en annotaties van gebruikers.
+We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties. Deze omvatten zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties. Onze gepubliceerde tekstcollecties verrijken we doorgaans met beschrijvende metadata, afbeeldingen van de originele pagina's en andere soorten verrijkingen, zoals links naar gestructureerde data en diverse soorten annotaties.
 
-We bieden onderzoekers met name verschillende manieren om complexe zoekopdrachten uit te voeren - bijvoorbeeld met behulp van 'fuzzy' tekstpatronen, het vinden van semantisch gerelateerde passages of door teksten te filteren op basis van verrijkingen met gestructureerde data, zoals de personen en plaatsen die in de tekst genoemd worden. Ook bieden we de noodzakelijke kennis en software waarmee projectteams hun tekstcollecties kunnen bewerken en visualiseren, online publiceren en onderbrengen in een gecertificeerde digitale repository om het behoud en de toegang op de lange termijn veilig te stellen.
+We bieden onderzoekers verschillende manieren om complexe zoekopdrachten uit te voeren - bijvoorbeeld met behulp van 'fuzzy' tekstpatronen, het vinden van semantisch gerelateerde passages of door teksten te filteren op basis van verrijkingen met gestructureerde data, zoals de personen en plaatsen die in de tekst genoemd worden. Ook bieden we de noodzakelijke kennis en software waarmee projectteams hun tekstcollecties kunnen bewerken en visualiseren, online publiceren en onderbrengen in een gecertificeerde digitale repository om het behoud en de toegang op de lange termijn veilig te stellen.
 
 Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open source [text repository](https://github.com/knaw-huc/textrepo) die we binnen het Humanities Cluster hebben ontwikkeld. De software fungeert als een repository om corpora met metadata en versiebeheer op te slaan en te indexeren. Applicaties zoals een web-frontend of een editor kunnen gebruikmaken van de API van de text repository om teksten te lezen, te updaten en te verwijderen of om documenten te zoeken en te doorzoeken. Net als de [IIIF Canvas-standaard](https://iiif.io/) maakt dit het mogelijk om tekstpassages te vinden en te annoteren, onafhankelijk van het originele tekstformat.
 
@@ -14,33 +14,25 @@ Al onze projecten die op teksten zijn gebaseerd, maken gebruik van de open sourc
 
 [Hennie Brugman](mailto:hennie.brugman@di.huc.knaw.nl), Lead Developer voor Team Text ([Research Gate](https://www.researchgate.net/profile/Hennie-Brugman), [LinkedIn](https://nl.linkedin.com/in/hennie-brugman-8327369), [Pure](https://pure.knaw.nl/portal/en/persons/h-brugman)).
 
-### Verwante Onderzoeksprojecten
+### Onderzoeksprojecten
 
-+ wat hebben we bijgedragen aan elk van deze projecten?
-
-- Nederlab](https://www.nederlab.nl) (Meertens Instituut) is een online portal voor historisch onderzoek naar Nederlandse taal, literatuur en cultuur. Op de site kunnen onderzoekers tienduizenden Nederlandse teksten doorzoeken, bekijken en analyseren.
-- Republiek](https://republic.huygens.knaw.nl) (Huygens Instituut) staat voor REsolutions PUBLished In a Computational environment. Het doel van het project is om alle handgeschreven en gedrukte resoluties van de Nederlandse Staten-Generaal (1576-1796) vrij online beschikbaar te maken als volledige teksten en pagina-afbeeldingen.
-- Globalise](https://globalise.huygens.knaw.nl) (Huygens Instituut). Het door NWO Groot gefinancierde project Globalise zal een online infrastructuur ontwikkelen die de sleutelreeks van VOC-verslagen (ca. 4,7M pagina's) ontsluit voor geavanceerde nieuwe onderzoeksmethoden. Bijdrage: Het project gebruikt onze tekst repository infrastructuur als een hub om het verzamelen, verrijken en cureren van historische tekst transcripties te synchroniseren.
-- CLARIAH (specifiek voor Maarten's werk, kern gedeelde annotatiediensten)
-- tba
+- Nederlab](https://www.nederlab.nl) (Meertens Instituut) is een online portal voor historisch onderzoek naar Nederlandse taal, literatuur en cultuur. Op de site kunnen onderzoekers miljoenen Nederlandse teksten doorzoeken, bekijken en analyseren.
+- Republic](https://republic.huygens.knaw.nl) (Huygens Instituut) staat voor REsolutions PUBLished In a Computational environment. Het doel van het project is om alle handgeschreven en gedrukte resoluties van de Nederlandse Staten-Generaal (1576-1796) vrij online beschikbaar te maken als volledige teksten en pagina-afbeeldingen.
+- Globalise](https://globalise.huygens.knaw.nl) (Huygens Instituut en IISG). Het door NWO Groot gefinancierde project Globalise zal een online infrastructuur ontwikkelen die de sleutelreeks van VOC-verslagen (ca. 4,7M pagina's) ontsluit voor geavanceerde nieuwe onderzoeksmethoden. Bijdrage: Het project gebruikt onze repository infrastructuur als een hub om het verzamelen, verrijken en cureren van historische tekst transcripties te synchroniseren en ontsluiten voor het team en de wereld.
+- CLARIAH Plus](https://www.clariah.nl/). We leveren diverse bijdragen aan dit infrastructuurproject, in het bijzonder met betrekking tot NLP tools en formaten (LaMachine](https://proycon.github.io/LaMachine), FoLiA](https://proycon.github.io/folia)) en infrastructuur voor maken, publiceren en delen van annotaties op online collecties.
 
 
 ### Software en Data
 
-+ Docereigendom - huidige status?
-
-- Text Repository](https://github.com/knaw-huc/textrepo) is een backend repository systeem om tekstcorpora met metadata en versies op te slaan en te indexeren.
-- LaMachine](https://proycon.github.io/LaMachine) (Radboud Universiteit Nijmegen) is een uniforme softwaredistributie voor Natural Language Processing. Het integreert talrijke open-source NLP-tools, programmeerbibliotheken, web-services en web-applicaties in een enkele virtuele onderzoeksomgeving die op een grote verscheidenheid aan machines kan worden geïnstalleerd.
-- analiticcl](https://github.com/proycon/analiticcl) is een systeem voor het benaderen van stringmatching of fuzzymatching voor spellingcorrectie, normalisatie of post-OCR-correctie.
-- Docere](https://github.com/knaw-huc/docere) is een flexibel en aanpasbaar platform voor het uitgeven van digitale (wetenschappelijke) uitgaven.
-- tba
+- Text Repository](https://github.com/knaw-huc/textrepo) is een backend repository systeem om tekstcorpora met metadata en versies op te slaan en te delen.
+- LaMachine](https://proycon.github.io/LaMachine) is een uniforme softwaredistributie voor Natural Language Processing. Het integreert talrijke open-source NLP-tools, programmeerbibliotheken, web-services en web-applicaties in een enkele virtuele onderzoeksomgeving die op een grote verscheidenheid aan machines kan worden geïnstalleerd.
+- analiticcl](https://github.com/proycon/analiticcl) is een systeem voor spellingcorrectie, normalisatie of post-OCR-correctie.
+- TextAnnoViz](https://github.com/knaw-huc/textannoviz)) is een flexibele en aanpasbare webapplicatie voor het doorzoeken en visualiseren van digitale (wetenschappelijke) tekstedities.
+- AnnoRepo](https://github.com/knaw-huc/annorepo) is onze repository voor opslaan en aanbieden van W3C Web Annotaties. AnnoRepo houdt zich aan de W3C standaarden en biedt daarnaast nog extra zoekmogelijkheden.
+- Dexter](https://github.com/knaw-huc/Dexter)is een web applicatie die we bouwen binnen CLARIAH Plus. Onderzoekers kunnen Dexter gebruiken om autonoom hun eigen, virtuele, onderzoekscollecties te bouwen, annoteren en delen.
 
 ### Publicaties en Presentaties
 
-- iets van Maarten over LaMachine, MvG’s video over analiticcl
-- Nederlab paper
-- Republic paper van Marijn
-- een ppt over untanngle?
-- tba
-- tba
-- tba
+- Video presentatie over analittcl](https://diode.zone/w/kkrqA4MocGwxyC3s68Zsq7)
+- Brugman, H., Reynaert, M., van der Sijs, N., van Stripriaan, R., Tjong Kim Sang, E. & van den Bosch, A. (2016) Nederlab: Towards a Single Portal and Research Environment for Diachronic Dutch Text Corpora. LREC 2016, 25 May 2016 p. 1277-1281 5 p.
+- Koolen, Marijn & Hoekstra, Rik & Nijenhuis, Ida & Sluijter, Ronald & Koert, Rutger & van Gelder, Esther & Brouwer, Gijsjan & Brugman, Hennie. (2020). Modelling Resolutions of the Dutch StatesGeneral for Digital Historical Research. 
