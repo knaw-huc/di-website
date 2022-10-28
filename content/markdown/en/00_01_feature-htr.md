@@ -3,8 +3,10 @@ title: Lorem ipsum dolor sit amet
 author: Erica Renckens
 type: feature
 featured_image: paper_1.png
-summary: “Tot het begin van de 18e eeuw werden de resoluties van de Staten Generaal met de hand geschreven”, vertelt Joris Oddens, projectleider van Republic, waarin deze resoluties (1576-1796) digitaal worden ontsloten. “Die handschriften zijn voor een mens moeilijk te lezen en lastig om in groten getale te doorzoeken. Automatische handschriftherkenning zorgt dan ook voor een revolutie in de geesteswetenschappen. Doordat alles online doorzoekbaar wordt, kun je heel andere onderzoeksvragen stellen.”.
+summary:
 ---
+*Erica Renckens* 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dignissim diam. Donec non scelerisque arcu, in elementum diam. Ut ultrices tempor ultricies. Aenean volutpat arcu est, sit amet aliquet mi volutpat vitae. In vel odio porttitor, egestas erat et, tincidunt augue. Fusce suscipit risus sed nisl sollicitudin vehicula. In eget rutrum lacus, vel tristique erat. Phasellus ultricies turpis cursus, fermentum justo in, convallis eros. Donec fermentum congue libero, at imperdiet sapien sodales nec. Nam est nisl, tincidunt ac molestie vel, pretium ac nisl. Aliquam volutpat egestas elementum.
 
 Nullam porttitor maximus risus, non tincidunt odio malesuada id. Curabitur rhoncus dolor sit amet tellus fringilla tristique. Donec commodo id libero at viverra. Etiam mattis, elit in molestie lobortis, tellus enim pharetra turpis, ut consectetur mi dui id tortor. Cras vulputate ipsum lacus, in vulputate metus sollicitudin sit amet. Proin ut ex tempor, lobortis tellus sit amet, vestibulum urna. In tempor nulla tempus tellus tristique tristique. Etiam et nibh id nibh varius gravida commodo at sem. Cras ornare vulputate volutpat. Curabitur cursus sapien id mollis ornare. Mauris tincidunt ligula eros. Sed sagittis lacinia risus, luctus fringilla ante ornare ut. Aenean pretium eu purus ut pretium. Aenean eu convallis erat, nec maximus eros.
