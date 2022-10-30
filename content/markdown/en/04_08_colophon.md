@@ -13,3 +13,5 @@ We would like to express our sincere thanks to everyone in the Digital Infrastru
 **Editorial assistance:** Ericka Renckens ([tatataal.nl](https://www.tatataal.nl))
 
 Unless noted otherwise, all content on this site as well as the software used to create is freely accessible on its [GitHub repository](https://github.com/knaw-huc/di-website/) under an [MIT](https://github.com/knaw-huc/di-website/blob/main/LICENSE) open source license. 
+
+![Graph of GitHub commits by user](/images/contributions.png)
