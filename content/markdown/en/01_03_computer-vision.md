@@ -4,9 +4,9 @@ author: Rutger van Koert
 type: page
 summary: Our main expertise in computer vision is the creation of searchable, full-text transcripts from handwritten historical manuscripts and printed sources.
 ---
-Our expertise in computer vision is the creation of searchable, full-text transcripts from handwritten historical manuscripts and printed sources. Besides text recognition, we also have experience in analysing the visual characteristics of documents to assist with other relevant research tasks such as determining authorship, dating and localizing where a text was written, identifying entities such as people, places, dates in a text, as well as classifying images.
+Our main expertise in computer vision is the creation of searchable, full-text transcripts from handwritten historical manuscripts and printed sources. Besides text recognition, we also have experience in analysing the visual characteristics of documents to assist with other relevant research tasks such as determining authorship, dating and localizing where a text was written, identifying entities such as people, places, dates in a text, as well as classifying images.
 
-To convert page images of typed or printed text (OCR) into machine-readable text, we typically draw on open source software such as [Tesseract](https://github.com/tesseract-ocr/tesseract) in combination with our own, custom pre- and post-processing methods. In the case of hand-written manuscripts (HTR), we also make use of commercial software (e.g. [Transkribus](https://transkribus.eu)). However, for some research projects, it is helpful to have more control over different elements of the HTR pipeline from layout analysis to spell correction. For this purpose, we have developed a set of open source tools to aid researchers with the automatic classification and clustering of different types of document (e.g. wills, contracts, letters..) based on their layout and structure and to support searches on the basis of visually similar components of a document such as watermarks, letterheads or family crests.
+To convert page images of typed or printed text (OCR) into machine-readable text, we typically draw on open source software such as [Tesseract](https://github.com/tesseract-ocr/tesseract) in combination with our own, custom pre- and post-processing methods. In the case of hand-written manuscripts (HTR), we also make use of commercial software such as [Transkribus](https://transkribus.eu)). However, for some research projects, it is helpful to have more control over different elements of the HTR pipeline from layout analysis to spell correction. For this purpose, we have developed a set of open source tools to aid researchers with the automatic classification and clustering of different types of document (e.g. wills, contracts, letters..) based on their layout and structure and to support searches on the basis of visually similar components of a document such as watermarks, letterheads or family crests.
 
 ### Contact
 
@@ -20,15 +20,10 @@ To convert page images of typed or printed text (OCR) into machine-readable text
 
 [Layout Analysis](/images/htr-layout-analysis2.png)
 
-
-### Software and Data
-
-* Information on tools and datasets
-
 ### Publications and Presentations
 
-* Anne Gorter; Rutger van Koert; Ismee Tames; Edwin Klijn; Marielle Scherer. [_From Tribunal Archive to Digital Research Facility (TRIADO): Exploring ways to make archives accessible and useable_](https://doi.org/10.1145/3322905.3322906), DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage (2019), pp. 105–110.
-* Marius Bulacu; Rutger van Koert; Lambert Schomaker; Tijn van der Zant. [_Layout Analysis of Handwritten Historical Documents for Searching the Archive of the Cabinet of the Dutch Queen_](https://dl.acm.org/doi/10.5555/1304595.1304749), ICDAR '07: Proceedings of the Ninth International Conference on Document Analysis and Recognition - Volume 01 (September 2007), pp. 357–361.
-* [Eindrapport verrijkingsfase TRIADO](https://www.oorlogsbronnen.nl/sites/default/files/20190517_eindrapportTRIADO%20verrijkingsfase_0.pdf) (PDF)
+* Anne Gorter; Rutger van Koert; Ismee Tames; Edwin Klijn; Marielle Scherer. [From Tribunal Archive to Digital Research Facility (TRIADO): Exploring ways to make archives accessible and useable](https://doi.org/10.1145/3322905.3322906), DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage (2019), pp. 105–110.
+* Marius Bulacu; Rutger van Koert; Lambert Schomaker; Tijn van der Zant. [Layout Analysis of Handwritten Historical Documents for Searching the Archive of the Cabinet of the Dutch Queen](https://dl.acm.org/doi/10.5555/1304595.1304749), ICDAR '07: Proceedings of the Ninth International Conference on Document Analysis and Recognition - Volume 01 (September 2007), pp. 357–361.
+* [TRAIDO Final report and enrichment phase](https://www.oorlogsbronnen.nl/sites/default/files/20190517_eindrapportTRIADO%20verrijkingsfase_0.pdf) (PDF)
 * [Interview with Network Oorlogsbronnen](https://www.youtube.com/watch?v=yUzs1QP5i08) for TRIADO.
 * DATeCH 2019 [conference presentation](https://www.youtube.com/watch?v=Sa0KONYWwVc) on TRIADO.

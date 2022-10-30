@@ -22,7 +22,6 @@ The provenance of data is an important point of attention in the digital humanit
 * [REPUBLIC](https://republic.huygens.knaw.nl/) & [OpenHuygens](https://www.huygens.knaw.nl/en/openhuygens-nl-hits-the-ground-running-thanks-to-fonds-knaw-instituten/): revive Huygens data sets in state-of-the-art technology and data stores
 * [ISEBEL](http://search.isebel.eu/): harvesting from & central catalog for folktale data
 
-
 ### Software and Data
 
 * [Lenticular Lens](https://lenticularlens.org/) is a tool which allows users to construct linksets between entities from different Timbuctoo datasets (so called data-alignment or reconciliation). Lenticular Lens tracks the configuration and the algorithms used in the alignment and is also able to report on manual corrections and the amount of manual validation done.

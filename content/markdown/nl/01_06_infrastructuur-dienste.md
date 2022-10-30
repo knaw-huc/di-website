@@ -1,6 +1,6 @@
 ---
 title: Infrastructuur Diensten
-author: Arno Bosse
+author: Mario Mieldijk
 type: page
 summary: HuC-DI levert een krachtige, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectieverwerkende instituten.
 ---

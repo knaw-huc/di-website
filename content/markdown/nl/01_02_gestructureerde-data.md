@@ -1,6 +1,6 @@
 ---
 title: Gestructureerde Data
-author: Arno Bosse
+author: Menno Windhouwer
 type: page
 summary: Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen.
 ---
@@ -13,7 +13,7 @@ De herkomst (_provenance_) van data is een belangrijk punt van aandacht in de di
 
 ### Kontakt
 
-[Menzo Windhouwer](mailto:menzo.windhouwer@di.huc.knaw.nl), Lead developer for team Structured Data ([Research Gate](https://www.researchgate.net/profile/Menzo-Windhouwer), [LinkedIn](https://www.linkedin.com/in/mwindhouwer/?originalSubdomain=nl), [Pure](https://pure.knaw.nl/portal/nl/persons/menzo-windhouwer))
+[Menzo Windhouwer](mailto:menzo.windhouwer@di.huc.knaw.nl), Lead developer for Team Structured Data ([Research Gate](https://www.researchgate.net/profile/Menzo-Windhouwer), [LinkedIn](https://www.linkedin.com/in/mwindhouwer/?originalSubdomain=nl), [Pure](https://pure.knaw.nl/portal/nl/persons/menzo-windhouwer))
 
 ### Projekten
 
