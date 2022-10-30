@@ -1,14 +1,16 @@
 ---
 title: Tekstanalyse
-author: Arno Bosse
+author: Hennie Brugman
 type: page
+meta_description:
+meta_keyword:
 summary: We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties, zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties.
 ---
 We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties. Deze omvatten zowel literaire tekstedities, correspondentie-catalogi, als ook historische manuscripten en taalkundige collecties. Onze gepubliceerde tekstcollecties verrijken we doorgaans met beschrijvende metadata, afbeeldingen van de originele pagina's en andere soorten verrijkingen, zoals links naar gestructureerde data en diverse soorten annotaties.
 
 We bieden onderzoekers verschillende manieren om complexe zoekopdrachten uit te voeren - bijvoorbeeld met behulp van 'fuzzy' tekstpatronen, het vinden van semantisch gerelateerde passages of door teksten te filteren op basis van verrijkingen met gestructureerde data, zoals de personen en plaatsen die in de tekst genoemd worden. Ook bieden we de noodzakelijke kennis en software waarmee projectteams hun tekstcollecties kunnen bewerken en visualiseren, online publiceren en onderbrengen in een gecertificeerde digitale repository om het behoud en de toegang op de lange termijn veilig te stellen.
 
-Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruwe tekst en verrijkingen daarop strikt te scheiden. Teksten, in alle variaties en versies, slaan we op en maken we beschikbaar in onze open source [text repository](https://github.com/knaw-huc/textrepo). Verrijkingen vinden in de vorm van gestandardiseerde Web Annotaties een plek in onze [annotatie repository](https://github.com/knaw-huc/annorepo). Ieder willekeurig tekstfragment in de text repository is daarbij rechtstreeks online opvraagbaar of annoteerbaar, onafhankelijk van het originele tekstformaat. Applicaties zoals een web-frontend of een editor kunnen gebruik maken van de APIs van deze twee systemen. Zo bouwen we bijvoorbeeld zelf een generieke webomgeving voor visualiseren en doorzoeken van digitale tekstedities. Maar onze APIs zijn ook rechtstreeks bruikbaar voor wie onze collectiedata rechtstreeks wil opvragen of eigen applicaties wil bouwen.
+Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruwe tekst en verrijkingen daarop strikt te scheiden. Teksten, in alle variaties en versies, slaan we op en maken we beschikbaar in onze open source [text repository](https://github.com/knaw-huc/textrepo). Verrijkingen vinden in de vorm van gestandardiseerde [Web Annotaties](https://www.w3.org/annotation/) een plek in onze [annotatie repository](https://github.com/knaw-huc/annorepo). Ieder willekeurig tekstfragment in de text repository is daarbij rechtstreeks online opvraagbaar of annoteerbaar, onafhankelijk van het originele tekstformaat. Applicaties zoals een web-frontend of een editor kunnen gebruik maken van de APIs van deze twee systemen. Zo bouwen we bijvoorbeeld zelf een generieke webomgeving voor visualiseren en doorzoeken van digitale tekstedities. Maar onze APIs zijn ook rechtstreeks bruikbaar voor wie onze collectiedata rechtstreeks wil opvragen of eigen applicaties wil bouwen.
 
 ### Contact
 
@@ -18,8 +20,8 @@ Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruw
 
 * [Nederlab](https://www.nederlab.nl) (Meertens Instituut) is een online portal voor historisch onderzoek naar Nederlandse taal, literatuur en cultuur. Op de site kunnen onderzoekers miljoenen Nederlandse teksten doorzoeken, bekijken en analyseren.
 * [Republic](https://republic.huygens.knaw.nl) (Huygens Instituut) staat voor REsolutions PUBLished In a Computational environment. Het doel van het project is om alle handgeschreven en gedrukte resoluties van de Nederlandse Staten-Generaal (1576-1796) vrij online beschikbaar te maken als volledige teksten en pagina-afbeeldingen.
-* [Globalise](https://globalise.huygens.knaw.nl) (Huygens Instituut en IISG). Het door NWO Groot gefinancierde project Globalise zal een online infrastructuur ontwikkelen die de sleutelreeks van VOC-verslagen (ca. 4,7M pagina's) ontsluit voor geavanceerde nieuwe onderzoeksmethoden. Bijdrage: Het project gebruikt onze repository infrastructuur als een hub om het verzamelen, verrijken en cureren van historische tekst transcripties te synchroniseren en ontsluiten voor het team en de wereld.
-* [CLARIAH Plus](https://www.clariah.nl/). We leveren diverse bijdragen aan dit infrastructuurproject, in het bijzonder met betrekking tot NLP tools en formaten ([LaMachine](https://proycon.github.io/LaMachine), [FoLiA](https://proycon.github.io/folia)) en infrastructuur voor maken, publiceren en delen van annotaties op online collecties.
+* [Globalise](https://globalise.huygens.knaw.nl) (Huygens Instituut). Het door NWO Groot gefinancierde project Globalise zal een online infrastructuur ontwikkelen die de sleutelreeks van VOC-verslagen (ca. 4,7M pagina's) ontsluit voor geavanceerde nieuwe onderzoeksmethoden. Het project gebruikt onze repository infrastructuur als een hub om het verzamelen, verrijken en cureren van historische tekst transcripties te synchroniseren en ontsluiten voor het team en de wereld.
+* [CLARIAH Plus](https://www.clariah.nl/). We leveren diverse bijdragen aan dit infrastructuurproject, in het bijzonder met betrekking tot NLP tools en formaten ([LaMachine](https://proycon.github.io/LaMachine), [FoLiA](https://proycon.github.io/folia)) en software voor maken, publiceren en delen van annotaties op online collecties.
 
 ### Software en Data
 
@@ -28,7 +30,7 @@ Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruw
 * [analiticcl](https://github.com/proycon/analiticcl) is een systeem voor spellingcorrectie, normalisatie of post-OCR-correctie.
 * [TextAnnoViz](https://github.com/knaw-huc/textannoviz)) is een flexibele en aanpasbare webapplicatie voor het doorzoeken en visualiseren van digitale (wetenschappelijke) tekstedities.
 * [AnnoRepo](https://github.com/knaw-huc/annorepo) is onze repository voor opslaan en aanbieden van W3C Web Annotaties. AnnoRepo houdt zich aan de W3C standaarden en biedt daarnaast nog extra zoekmogelijkheden.
-* [Dexter](https://github.com/knaw-huc/Dexter) is een web applicatie die we bouwen binnen CLARIAH Plus. Onderzoekers kunnen Dexter gebruiken om autonoom hun eigen, virtuele, onderzoekscollecties te bouwen, annoteren en delen.
+* [Dexter](https://github.com/knaw-huc/Dexter) is een web applicatie die we bouwen binnen [CLARIAH Plus](https://www.clariah.nl). Onderzoekers kunnen Dexter gebruiken om autonoom hun eigen, virtuele, onderzoekscollecties te bouwen, annoteren en delen.
 * [Text-Fabric](https://annotation.github.io/text-fabric/tf/index.html) is een instrument om tekstcorpora plus (grote) hoeveelheden annotaties te verwerken. Het dient als brug tussen onderzoeker en datawetenschapper.
 
 ### Publicaties en Presentaties

@@ -1,6 +1,6 @@
 ---
 title: Expertise
-author: Menno Rasch
+author: Arno Bosse
 type: page
 directSubpages: true
 ---
