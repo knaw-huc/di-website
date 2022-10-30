@@ -16,7 +16,7 @@ De oplossingen die die wij ontwikkelen, plaatsen de onderliggende data in de jui
 
 [Bas Doppen](mailto:bas.doppen@di.huc.knaw.nl), Design Officer ([Pure](https://pure.knaw.nl/portal/en/persons/bas-doppen/publications/))
 
-## Projecten
+## Verwante Onderzoeksprojecten
 
 * [Golden Agents](https://www.goldenagents.org/) Duurzame onderzoeksinfrastructuur waarin de relaties en interacties tussen producenten en consumenten en tussen verschillende bedrijfstakken in de creatieve industrie in de Gouden Eeuw bestudeerd kunnen worden. De gebruiker kan complexe zoekopdrachten geven via de SPARQL-code editor of via de gebruiksvriendelijke query builder met dropdown-menu’s.
 * [Dutch Prize Papers](https://prizepapers.huygens.knaw.nl/) Virtual Research Environment (VRE) voor het doorzoeken en onderzoeken van de 144.000 gedigitaliseerde documenten die door Britse kapers in de periode 1652-1815 op vijandelijke schepen werden buitgemaakt.
