@@ -2,7 +2,7 @@
 title: Gestructureerde Data
 author: Menno Windhouwer
 type: page
-summary:
+summary: Data bestaan in vele soorten en vormen. Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen.
 ---
 Data bestaan in vele soorten en vormen. Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen. Ons doel is om de juiste tool te gebruiken voor elke vorm van data en elk project. Dat gaat van kant-en-klare software, via intern ontwikkelde generieke componenten en frameworks tot project-specifieke samenstellingen hiervan. Data zijn waardevol en horen een heldere weg af te leggen richting archief. Wij verzorgen die weg en de middelen om de bijgaande metadata te creëren.
 
