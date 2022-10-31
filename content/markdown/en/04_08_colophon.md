@@ -5,7 +5,7 @@ type: page
 summary: 
 ---
 
-We would like to express our sincere thanks to everyone in the Digital Infrastructure Department who contributed to the creation of this website: Arno Bosse, Hennie Brugman, Gordon Cupac, Bas Doppen, Stefan Klut, Mario Mieldijk, Menno Rasch, Dirk Roorda, Thijs van der Veen, Rutger van Koert, Thomas Vermaut, and Menzo Windhouwer.
+We would like to express our sincere thanks to everyone in the Digital Infrastructure Department who contributed to the creation of this website: Arno Bosse, Hennie Brugman, Gordon Cupac, Bas Doppen, Guido Gerritsen, Stefan Klut, Mario Mieldijk, Menno Rasch, Dirk Roorda, Thijs van der Veen, Rutger van Koert, Thomas Vermaut, and Menzo Windhouwer.
 
 **Concept:** Arno Bosse, Menno Rasch, Thijs van der Veen
 **Design:** Bas Doppen

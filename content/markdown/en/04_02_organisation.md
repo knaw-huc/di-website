@@ -4,7 +4,7 @@ author: Menno Rasch
 type: page
 summary: DI focuses on supporting the researchers of the Humanities Cluster. DI employs almost 30 people.
 ---
-In early 2018, the IT departments of the three institutes of the HuC were merged into one group, the Digital Infrastructure (DI) Department of the KNAW Humanities Cluster. This has created a unique department in the field of infrastructure for the humanities, one of the largest in Europe.
+In early 2018 the IT departments of the three institutes of the HuC were merged into one group, the Digital Infrastructure (DI) department of the KNAW Humanities Cluster. This has created a unique department in the field of infrastructure for the humanities, one of the largest in Europe.
 
 DI focuses on supporting the researchers of the Humanities Cluster. Through mostly externally funded projects (mainly by NWO, but also increasingly by European funds) we build generic infrastructure and specific research software. These projects have led to close partnerships with heritage institutions such as the National Library of the Netherlands, the National Archives, most Dutch universities, other scientific organisations such as DANS and research institutes in Europe.
 
