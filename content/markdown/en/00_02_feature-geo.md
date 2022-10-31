@@ -4,6 +4,7 @@ author: Ericka Renckens
 type: feature
 featured_image: kaart_1.png
 summary:  Speaking is Thomas Vermaut, developer and team leader of the DI geographical analysis expertise group which works on processing spatial data with digital infrastructure.
+publication_date: 31-10-2022
 showPubDate: true
 showAuthor: true
 ---
