@@ -4,8 +4,9 @@ author: Ericka Renckens
 type: feature
 featured_image: kaart_1.png
 summary:
+showPubDate: true
+showAuthor: true
 ---
-*Ericka Renckens*
 
 "Geographical information is a fundamental part of humanities data. All information consists, in the abstract, of 'someone doing something at a certain place'. You can hang anything on that peg and the integration of those types of information and their mutual relationships is becoming increasingly important." Speaking is Thomas Vermaut, developer and team leader of the DI geographical analysis expertise group which works on processing spatial data with digital infrastructure.
 

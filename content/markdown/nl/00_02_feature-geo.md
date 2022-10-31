@@ -4,8 +4,9 @@ author: Erica Renckens
 type: feature
 featured_image: kaart_1.png
 summary:
+showPubDate: true
+showAuthor: true
 ---
-*Erica Renckens*
 
 “Geografische informatie is een fundamenteel onderdeel van geesteswetenschappelijke data. Alle informatie bestaat in abstracte zin uit ‘iemand die op een bepaalde plek iets doet’. Aan die kapstok kun je alles ophangen en de integratie van die soorten informatie en hun onderlinge relaties wordt steeds belangrijker.” Aan het woord is Thomas Vermaut, ontwikkelaar en teamleider van het DI-expertisegebied geografische analyse, dat zich bezighoudt met het verwerken van ruimtelijke data in digitale infrastructuur.
 
