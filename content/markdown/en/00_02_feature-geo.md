@@ -3,7 +3,7 @@ title: The plot as an atom of space
 author: Ericka Renckens
 type: feature
 featured_image: kaart_1.png
-summary:
+summary:  Speaking is Thomas Vermaut, developer and team leader of the DI geographical analysis expertise group which works on processing spatial data with digital infrastructure.
 showPubDate: true
 showAuthor: true
 ---
