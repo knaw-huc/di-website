@@ -14,7 +14,7 @@ Don't just think about maps, cautions Vermaut. "Geographical information is too 
 
 One of the infrastructure platforms managed by the Geo team is [HisGIS](https://hisgis.nl/), which places geographical data in a historical context. "HisGIS was originally started in the 1980s as a project by Hans Mol at the Fryske Akademy. He is still in charge of the project, but since 2019 the technical infrastructure has been coordinated by the HuC," Vermaut says. The basis of HisGIS is the complete 1832 cadastre of the Netherlands, as set up by Napoleon based on the French model.
 
-![Detail of map Zuid Holland (HisGis)](images/hisgis.png)
+![Detail of map Zuid Holland (HisGIS)](images/his-gis.png)
 
 "The unit we work with in HisGIS is the plot, as an atom of space. With that, you can reconstruct the entire historical context from which things arose." Various other information layers can be connected to this HisGIS base layer, such as elevation files, aerial photos or old topographic maps. This provides valuable information for historians, ecologists, site managers and landscape specialists, but also for governmental bodies such as provinces and municipalities. In the various [Time Machine](https://www.timemachine.eu) projects, for example, the HisGIS data are supplemented with local historical population data, providing insight into the historical development of cities such as Amsterdam and Leiden.
 

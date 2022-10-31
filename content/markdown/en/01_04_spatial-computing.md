@@ -23,7 +23,7 @@ In addition to a broad historical scope, we do not limit ourselves to the curren
 * [World Historical Gazetteer (WHG)](https://whgazetteer.org/) We contributed to the technical development of v2 of the gazetteer, and in particular also to the [Dutch Global History collection](https://whgazetteer.org/collections/2/detail) for which we prepared and curated a variety of datasets.
 * [Name to-be-added](https://www.amsterdam.nl/stadsarchief/organisatie/projecten/juiste-adres/) (2021-2022). In collaboration with [Mark Raat](https://www.fryske-akademy.nl/nl/over-ons/medewerkers/medewerkerspagina/news/detail/mraat/) and the Amsterdam City Archive, this project is a continuation of the House Number project within the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/).
 
-![HisGIS Viewer](/images/his-gis.png)
+![HisGIS Viewer](images/his-gis.png)
 
 ### Software and Data
 
