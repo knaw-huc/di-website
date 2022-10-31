@@ -14,8 +14,8 @@
     "branding_logo": "logo-knaw-digital-infrastructure.png"
   },
   "content": {
-    "footer_col1": "<p><strong>Powered by</strong><br><a href=\"https://www.huygens.knaw.nl\"  target=\"_blank\">Huygens Instituut</a><br><a href=\"https://iisg.amsterdam\" target=\"_blank\">IISG</a><br><a href=\"https://meertens.knaw.nl\" target=\"_blank\">Meertens Instituut</a></p>",
-    "footer_col2": "<p><strong>Contact</strong><br><a href=\"mailto:staf@di.huc.knaw.nl\">staf@di.huc.knaw.nl</a><br><a href=\"contact-nl.html\">Contact page</a></p>",
+    "footer_col1": "<p><strong>Powered by</strong> <br> <a href=\"https://huc.knaw.nl\"  target=\"_blank\">KNAW Humanities Cluster</a>    <ul><li><a href=\"https://www.huygens.knaw.nl\"  target=\"_blank\">Huygens Instituut</a></li><li><a href=\"https://iisg.amsterdam\" target=\"_blank\">IISG</a></li><li><a href=\"https://meertens.knaw.nl\" target=\"_blank\">Meertens Instituut</a></li></ul></p>",
+    "footer_col2": "<p><strong>Contact</strong><br><a href=\"mailto:staf@di.huc.knaw.nl\">staf@di.huc.knaw.nl</a><br><a href=\"contact-en.html\">Contact page</a><br><a href=\"https://www.knaw.nl/privacy\" target=\"_blank\">Privacy</a></p>",
     "footer_col3": "<p><strong>Adress</strong><br>Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>"
   },
   "customTemplateFolder": "huc_di",

@@ -4,6 +4,7 @@ author: Erica Renckens
 type: feature
 featured_image: kaart_1.png
 summary: Aan het woord is Thomas Vermaut, ontwikkelaar en teamleider van het DI-expertisegebied geografische analyse, dat zich bezighoudt met het verwerken van ruimtelijke data in digitale infrastructuur.
+publication_date: 31-10-2022
 showPubDate: true
 showAuthor: true
 ---
