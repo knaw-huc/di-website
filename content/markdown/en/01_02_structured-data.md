@@ -2,7 +2,7 @@
 title: Structured Data
 author: Menno Windhouwer
 type: page
-summary:
+summary: Data comes in many shapes and sizes. We carefully put the data that is important for a project into a format that the tools can work with. 
 ---
 Data comes in many shapes and sizes. We carefully put the data that is important for a project into a format that the tools can work with. Our goal is to use the right tool for each data and each project. This ranges from ready-made software, via internally developed generic components and frameworks, to project-specific compositions of these. Data is valuable and should have a clear path to the archive. We provide that route and the means to create the accompanying metadata.
 
