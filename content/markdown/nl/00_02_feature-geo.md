@@ -3,7 +3,7 @@ title: Het perceel als atoom van de ruimte
 author: Erica Renckens
 type: feature
 featured_image: kaart_1.png
-summary:
+summary: Aan het woord is Thomas Vermaut, ontwikkelaar en teamleider van het DI-expertisegebied geografische analyse, dat zich bezighoudt met het verwerken van ruimtelijke data in digitale infrastructuur.
 showPubDate: true
 showAuthor: true
 ---
