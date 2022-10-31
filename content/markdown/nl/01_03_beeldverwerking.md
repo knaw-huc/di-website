@@ -18,7 +18,7 @@ Bij het converteren van ingescande pagina's met getypte of geprinte tekst naar m
 * [Globalise](https://globalise.huygens.knaw.nl/) (Huygens Instituut). Met zo'n vijfentwintig miljoen pagina's bieden de archieven van de Vereenigde Oostindische Compagnie (VOC) een unieke kijk op de interacties tussen Europese en niet-Europese spelers in Azië in de zeventiende en achttiende eeuw. Onderzoek doen op basis van deze verzameling handgeschreven documenten is echter zeer uitdagend. Globalise ontwikkelt een online infrastructuur waarin de VOC-rapporten eenvoudig toegankelijk zijn voor geavanceerde nieuwe onderzoeksmethoden. Voor Globalise voeren we HTR uit op handgeschreven materialen uit de 16e-18e eeuw, die voornamelijk afkomstig zijn van de VOC en verschillende voormalige Nederlandse Oost-Aziatische koloniën.
 * [TRIADO](https://www.oorlogsbronnen.nl/nieuws/project-tribunaalarchieven-als-digitale-onderzoeksfaciliteit-triado)  (KNAW Humanities Cluster) Na de Tweede Wereldoorlog ondergingen ruim 300.000 Nederlanders de zogeheten bijzondere rechtspleging. Zij werden beschuldigd van samenwerking met de Duitse bezetter, verraad, NSB-lidmaatschap of het in dienst treden bij het Duitse leger. Van al deze mensen is een dossier aanwezig in het [CABR](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/tweede-wereldoorlog-centraal-archief-bijzondere-rechtspleging-cabr). Het doel van het TRIADO-project is om de volledige CABR-collectie doorzoekbaar en toegankelijk te maken. Voor dit project voeren wij type-classificatie, OCR, named entity recognition en topic modeling uit.
 
-![Layout Analysis](/images/htr-layout-analysis2.png)
+![Layout Analysis](images/htr-layout-analysis2.png)
 
 ### Publicaties en Presentaties
 
