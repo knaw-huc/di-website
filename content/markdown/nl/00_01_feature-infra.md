@@ -3,7 +3,7 @@ title: Moet het HuC wel nationale infrastructuur bouwen?
 author: Thijs van der Veen
 type: feature
 featured_image: paper_1.png
-summary: Interview met Menno Rasch
+summary: Menno Rasch is ondertussen al een tijdje directeur bij het KNAW Humanities Cluster van de afdeling Digitale Infrastructuur. Hij is ervan overtuigd dat zijn IT’ers een grote impact kunnen hebben op het onderzoek. Maar dan moet de succesvolle samenwerking binnen het HuC ook buiten de KNAW gestalte krijgen. Samen kunnen we immers veel meer bereiken.
 showPubDate: true
 showAuthor: true
 ---
