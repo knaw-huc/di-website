@@ -12,14 +12,12 @@ Onze ontwikkelaars hebben uitgebreide ervaring opgedaan in het opzetten en uitvo
 
 DI ontwikkelt software en infrastructuur zo duurzaam mogelijk. Waar mogelijk gebruiken we bestaande tools en software. We bouwen door op generieke componenten voor specifieke onderzoeksvragen. Bij de verdere ontwikkeling van software zoeken we altijd samenwerking met andere partijen. We stellen de software altijd beschikbaar op open source. Een grote verzameling Open Source software projecten is te vinden op [GitHub](https://github.com/knaw-huc). 
 
-De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn. Voor meer informatie: [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager en lid van het Grant Team HuC) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
+De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn. Voor meer informatie: [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisitie manager en lid van het Grant Team HuC) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
 
 Voorbeelden van belangrijke infrastructurele projecten zijn:
 
-* [Clariah](https://www.clariah.nl), 2018-2022, NWO-GWI:
-DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. DI neemt hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten. En de PI van CLARIAH is de directeur van het Huygens Instituut, een van de drie oprichters van het HuC.
-* [Polifonia](https://polifonia-project.eu/) 2021-2024, EU Horizon 2020:
-Europees interdisciplinair team ontwikkelt een wereldwijd verbonden online database waarin met behulp van kunstmatige intelligentie verbindingen tussen muziek, mensen, locaties en evenmenten vanaf de zestiende eeuw onderzocht kunnen worden.
+* [Globalise](https://globalise.huygens.knaw.nl) 2022-2027, Investeringen NWO-Groot: Handgeschreven tekstherkenning (HTR), tekstrepository, front & back-end ontwikkeling.
+* [Clariah](https://www.clariah.nl), 2018-2022, NWO-WI: DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. Wij nemen hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten in het consortium. En de PI van CLARIAH is de directeur van het Huygens Instituut, een van de drie oprichters van het HuC.
 * [Golden Agents](https://www.goldenagents.org) 2016-2022, Investeringen NWO-Groot:
 Infrastructuur waarin semantic web-technologieën worden gecombineerd met multi-agent-technologieën. Deze duurzame infrastructuur maakt het mogelijk om de relaties en interacties tussen producenten en consumenten en tussen de verschillende bedrijfstakken van de creatieve industrie te bestuderen over de lange Gouden Eeuw.
 * [Nederlab](https://www.nederlab.nl/) 2013-2018, Investeringen NOW-Groot:
