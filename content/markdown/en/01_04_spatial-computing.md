@@ -2,7 +2,7 @@
 title: Spatial Computing
 author: Thomas Vermaut
 type: page
-meta_keyword: spatial, geographical, OpenStreetMap, OSM, GIS, Geographical Information System, HisGIS, Historical GIS, land register, map, historical travel, gazetteers, urban gazetteers.
+meta_keyword: spatial, geographical, OpenStreetMap, GIS, HisGIS, Historical GIS, land register, map, historical travel, gazetteers.
 summary: We develop methods to map and link different forms of geographical information.
 ---
 Spatial information is present everywhere. The study of complex data requires multiple facets, of which the geographical space (*where* something takes place) is one of the most important. This often results in the publication of a dataset or the publication of a map. [Sentence to be added here once Dutch original is revised]. Logical reasoning about this data in complex systems also plays a relevant part.

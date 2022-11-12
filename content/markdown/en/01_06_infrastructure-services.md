@@ -2,7 +2,7 @@
 title: Infrastructure Services
 author: Mario Mieldijk
 type: page
-summary: HuC-DI provides a powerful, stable, secure and multifunctional infrastructure for individual researchers, research groups and collection processing institutions.
+summary: We provide a powerful, stable, secure, and multifunctional infrastructure for individual researchers, research projects, and collections.
 ---
 
 The Digital Infrastructure Department of the Humanities Cluster provides a powerful, stable, secure and multifunctional infrastructure for individual researchers, research groups and institutions maintaining collections. We have extensive knowledge and experience in research and collection infrastructure and about our user groups. This enables us to collaborate before, during and after a research or collection project. Together with our user groups, we look at how our modern infrastructure can meet the needs for both the short and the (very) long term. If necessary, we adapt parts of the infrastructure or create new software to simplify the work process.
