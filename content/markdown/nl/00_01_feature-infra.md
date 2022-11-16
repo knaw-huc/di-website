@@ -2,7 +2,7 @@
 title: Moet het HuC wel nationale infrastructuur bouwen?
 author: Thijs van der Veen
 type: feature
-featured_image: menno_rasch.png
+featured_image: menno_rasch.jpg
 summary: Menno Rasch is ondertussen al een tijdje directeur bij het KNAW Humanities Cluster van de afdeling Digitale Infrastructuur. Hij is ervan overtuigd dat zijn IT’ers een grote impact kunnen hebben op het onderzoek. Maar dan moet de succesvolle samenwerking binnen het HuC ook buiten de KNAW gestalte krijgen. Samen kunnen we immers veel meer bereiken.
 publication_date: 31-10-2022
 showPubDate: true
@@ -14,6 +14,8 @@ showAuthor: true
 
 Menno Rasch is ondertussen al een aantal maanden directeur bij het KNAW Humanities Cluster van de afdeling Digitale Infrastructuur. Die tijd heeft hij goed gebruikt om de organisatie en zijn groep ontwikkelaars te leren kennen. Hij is ervan overtuigd dat zijn IT’ers een grote impact kunnen hebben op het onderzoek. Maar dan moet de succesvolle samenwerking binnen het HuC ook buiten de KNAW gestalte krijgen. Samen kunnen we immers veel meer bereiken.
 
+![Menno achter zijn bureau in het Spinhuis](images/menno-3.jpg)
+
 Het zijn wellicht niet de opleidingen waar je meteen aan denkt bij een directeur van de afdeling Digitale Infrastructuur, maar Menno Rasch studeerde in Utrecht zowel Informatica als Filosofie. Voor hij bij het KNAW Humanities Cluster (HuC) werkte, vertelde hij IT’ers altijd dat hij Informatica studeerde, en daarnaast filosofie. Bij geesteswetenschappers draaide hij het meestal om. Dan studeerde hij filosofie en had hij ook nog informatica gedaan. Maar hij is er nog niet helemaal over uit hoe hij zich moet voorstellen binnen het HuC, waar de digital humanities centraal staan.
 
 Maar ondanks dat duivelse dilemma, zit Menno bij het HuC helemaal op z’n plek. ‘Dit is voor mij een buitenkans. Ik heb affiniteit met de humanities. En ik mag werken met een groep IT’ers die uniek is in Nederland en misschien daarbuiten ook wel, aan een infrastructuur die zo dicht mogelijk aansluit bij wat onderzoekers nodig hebben. De ontwikkeling van digitale infrastructuur en researchtools maakt nieuw en beter onderzoek mogelijk, dat je ook nog sneller kunt uitvoeren. Dat faciliteren en er ook voor zorgen dat het er ook echt komt, dat vind ik inhoudelijk het leukste aan mijn nieuwe baan.’
@@ -22,6 +24,8 @@ Maar ondanks dat duivelse dilemma, zit Menno bij het HuC helemaal op z’n plek.
 
 Maar Menno realiseert zich dat het een grote puzzel is om heel specifieke wensen van een onderzoeker zo generiek mogelijk op te lossen. Hij benadrukt echter dat juist dat nodig is om de herbruikbaarheid te vergroten en dan daarmee te versnellen. Wanneer we in staat zijn om met hulp van een generieke basis in korte tijd iets goed neer kunnen zetten, dan kunnen we de overgebleven projecttijd gebruiken om specifieke diensten te ontwikkelen.
 Om dat te bereiken zijn veel gesprekken met onderzoekers nodig. En dan vooral het juiste gesprek tussen IT’ers en onderzoekers. Menno: ‘Wanneer zij op het juiste moment het juiste gesprek voeren, dan zie je mooie dingen ontstaan. Dat kan leiden tot baanbrekend onderzoek dat een aantal jaren geleden nog niet mogelijk was. IT’ers kunnen echt een grote impact hebben op het onderzoek.’
+
+
 
 ## HuC strategisch heel slim
 
