@@ -18,5 +18,4 @@ Examples of our current and recently completed research projects include:
 * [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)
 * [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
 * [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)
-* [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)
 * [TransLatin](https://translatin.nl)
