@@ -14,8 +14,8 @@ We are always open to new collaborations and new infrastructure projects for the
 
 Examples of current research infrastructure projects with DI participation include:
 
-* [Globalise](https://globalise.huygens.knaw.nl) 2022-2027, Funding NWO-Groot. The goal of the project is to develop an online infrastructure to unlock key series of Dutch East India Company documents with advanced new research methods. The DI department is providing handwritten text recognition (HTR), a text repository, and further front & back-end development.
-* [Clariah-Plus](https://www.clariah.nl), 2018-2022, Funding: NWO-Infrastructuur.
+* [GLOBALISE](https://globalise.huygens.knaw.nl) 2022-2027, Funding NWO-Groot. The goal of the project is to develop an online infrastructure to unlock key series of Dutch East India Company documents with advanced new research methods. The DI department is providing handwritten text recognition (HTR), a text repository, and further front & back-end development.
+* [CLARIAH-Plus](https://www.clariah.nl), 2018-2022, Funding: NWO-Infrastructuur.
 DI is contributing technical expertise and collaborating with various universities and heritage institutions to develop infrastructure for digital humanities research. The HuC is the leader of a large number of work packages in CLARIAH. The consortium PI is the director of the Huygens Institute at the HuC.
 * [Golden Agents](https://www.goldenagents.org) 2016-2022, Funding: NWO-Groot. Infrastructure combining semantic web technologies with multi-agent technologies. The infrastructure makes it possible to study the relationships and interactions between producers and consumers and between the various branches of the creative industry in the Dutch Golden Age.
 * [REPUBLIC](https://republic.huygens.knaw.nl) 2018-2023, Funding: NWO-Groot. REPUBLIC stands for REsolutions PUBLished In a Computational environment. The project provides full-text, online access to all written and printed resolutions of the States General (1576-1796). The project is a collaboration between the Huygens Institute, the HuC-DI department, and the National Archives in The Hague.
