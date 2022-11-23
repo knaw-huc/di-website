@@ -18,5 +18,4 @@ Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 * [Nederlandse VolksverhalenBank](https://www.verhalenbank.nl)
 * [Correspondence of Christofforo Suriano](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
 * [Digital Forensics](https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/)
-* [Track Changes](https://www.huygens.knaw.nl/en/projecten/track-changes-2/)
 * [TransLatin](https://translatin.nl)
