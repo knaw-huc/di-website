@@ -4,7 +4,7 @@ author: Menno Rasch
 type: page
 summary:
 ---
-Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van de infrastructuur voor het bewaren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen. Deze datasets stellen we duurzaam, en in toenemende mate  volgens de FAIR-principes beschikbaar. We hebben daarom ook het [CoreTrustSeal](https://www.coretrustseal.org/) certificaat.
+Een belangrijke kerntaak van de afdeling Digitale Infrastructuur is het beheren van de infrastructuur voor het bewaren van digitale data. Niet alleen omdat alle onderzoeksprojecten data produceren, maar ook omdat onze instituten als doel hebben om datasets of digitale collecties te vormen en beschikbaar te stellen. Deze datasets stellen we duurzaam, en in toenemende mate  volgens de [FAIR-principes](https://www.go-fair.org) beschikbaar. We hebben daarom ook het [CoreTrustSeal](https://www.coretrustseal.org/) certificaat.
 
 Deze werkzaamheden voeren we uit in nauwe samenwerking met de databeheer- en collectieverwerkende afdelingen van onze KNAW HuC-instituten en het NIOD. Het belang van de digitale collecties is groot; het betreft vaak ook digitaal erfgoed. Daarom is het HuC formeel ook het ‘knooppunt’ voor de sector wetenschap binnen het [Netwerk Digitaal Erfgoed](https://netwerkdigitaalerfgoed.nl/). Ook onze samenwerking met [DANS](https://dans.knaw.nl/) wordt steeds belangrijker.
 
