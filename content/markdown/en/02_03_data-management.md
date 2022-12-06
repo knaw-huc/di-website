@@ -14,7 +14,6 @@ Many of the datasets that we make available can be found at:
 * [Search IISG](https://meertens.knaw.nl/collecties/databanken/)
 * [Meertens Instituut Databanken](https://meertens.knaw.nl/collecties/databanken/)
 * [Resources Huygens](http://resources.huygens.knaw.nl/)
-* [Timbuctoo](http://huygensing.github.io/timbuctoo/)
 * [Archieven.nl](https://www.archieven.nl/nl/)
 
 For more information, please contact Mario Mieldijk (Team Lead, Concern Infrastructure) at [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).

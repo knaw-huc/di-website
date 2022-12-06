@@ -14,7 +14,6 @@ Een grote verzameling datasets die we beschikbaar stellen zijn te vinden op:
 * [Search IISG](https://meertens.knaw.nl/collecties/databanken/)
 * [Meertens Instituut Databanken](https://meertens.knaw.nl/collecties/databanken/)
 * [Resources Huygens](http://resources.huygens.knaw.nl/)
-* [Timbuctoo](http://huygensing.github.io/timbuctoo/)
 * [Archieven.nl](https://www.archieven.nl/nl/)
 
 Neem voor meer informatie contact op met Mario Mieldijk via [concern-infrastructure@di.huc.knaw.nl](mailto:concern-infrastructure@di.huc.knaw.nl).
