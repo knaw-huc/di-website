@@ -20,6 +20,8 @@ De transcriptie-software Loghi, zo bleek uit testen, is uitermate nauwkeurig en 
 <h2>Baseline</h2>
 Loghi is in staat om uiteenlopende teksten te ontcijferen of het nu handgeschreven, getypt of gedrukt is. De software doet dat in twee stappen. Eerst stelt het vast op welke lijn een regel loopt, de zogenaamde baseline. Op die manier weet de software welke zinnen bij elkaar horen. Daarna zet Loghi het plaatje van de tekst om naar digitale tekst. Door deze twee stappen kan Loghi niet alleen rekeninghouden met aantekeningen in de kantlijn of tussen regels, maar ook met teksten die verticaal zijn geschreven in bijvoorbeeld tabellen. De software herkent al die verschillende vormen van tekst en geeft de digitale weergave daarvan in de juiste context weer.
 
+![Scan van vermelding Tocht naar Chatham (uit Nationaal Archief)](images/Loghi_2.png)
+
 <h2>Lage foutmarge</h2>
 Loghi is in de afgelopen zes jaar ontwikkeld door Rutger van Koert van het KNAW Humanities Cluster (HuC). Van Koert: ‘We gebruiken machine learning om vast te stellen welke letter er precies is opgeschreven. Daarvoor breekt Loghi een scan van een document op in plaatjes op verschillende niveaus: van heel klein op het niveau van pixels via letters en zinnen tot het niveau van paragrafen. De software vat stapsgewijs – steeds op een iets hoger niveau – samen wat de visuele kenmerken zijn en kiest uiteindelijk op basis daarvan de meest waarschijnlijke letter. De software kan ook doorhalingen en beschadigingen negeren en zo nog accurater vaststellen waar welke letters staan. Wanneer de software getraind is op een specifieke collectie dan wordt de foutmarge teruggebracht tot onder de 4%. Dat is echt heel laag.’
 
