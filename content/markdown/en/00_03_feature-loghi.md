@@ -20,7 +20,7 @@ The transcription software Loghi, tests showed, is extremely accurate and gives 
 <h2>Baseline</h2>
 Loghi is capable of deciphering a variety of texts whether handwritten, typed or printed. The software does this in two steps. First, it determines on which line a line runs, called the baseline. That way, the software knows which sentences belong together. Then Loghi converts the image of the text to digital text. These two steps allow Loghi to take into account not only notes in the margin or between lines, but also texts written vertically in tables, for example. The software recognises all these different forms of text and displays their digital representation in the correct context.
 
-![Scan of entry Battle to Chatham (from National Archives)]](images/Loghi_2.jpg)
+![Scan of entry Battle to Chatham (from National Archives)](images/Loghi_2.jpg)
 
 <h2>Low error rate</h2>
 Loghi has been developed over the past six years by Rutger van Koert of the Digital Infrastructure Department of the KNAW Humanities Cluster (HuC). Van Koert: 'We use machine learning to determine exactly which letter was written down. To do this, Loghi breaks down a scan of a document into images at different levels: from very small at the level of pixels via letters and sentences to the level of paragraphs. The software summarises step by step - each time at a slightly higher level - what the visual features are and finally chooses the most likely letter based on that. The software can also ignore erasures and corruptions, thus identifying even more accurately where which letters are. When the software is trained on a specific collection then the error rate is reduced to under 4%. That's really very low.'
