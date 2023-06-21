@@ -9,7 +9,7 @@ showPubDate: true
 showAuthor: true
 ---
 
-<h1>Unique software to transcribe historical texts now open source available</h1>
+<h1>Unique software to transcribe historical texts available as open source</h1>
 
 The KNAW Humanities Cluster in Amsterdam is making the transcription software Loghi available open source with immediate effect. The software was developed in cooperation with the Nationaal Archief in The Hague specifically to make scanned historical documents digitally readable and searchable.
 
