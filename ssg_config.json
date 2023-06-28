@@ -19,6 +19,11 @@
     "footer_col3": "<p><strong>Address</strong><br>Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>"
   },
   "customTemplateFolder": "huc_di",
+  "customPageTypes": {
+    "team": {
+      "listordering": "listorder"
+    }
+  },
   "defaults": [
     {
       "name": "template",

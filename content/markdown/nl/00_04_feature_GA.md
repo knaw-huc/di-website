@@ -2,7 +2,7 @@
 title: De nieuwe tools van Golden Agents
 author: Erica Renckens
 type: feature
-featured_image: logo-golden-agents.jpg
+featured_image: golden-agents.jpg
 summary: In het project Golden Agents (2016-2022) zijn verschillende bronnen over deze industrieën samengebracht in een duurzame onderzoeksinfrastructuur met verschillende tools. 
 publication_date: 22-06-2023
 showPubDate: true

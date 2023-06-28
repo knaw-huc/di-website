@@ -4,15 +4,7 @@
 
   {{> comp_huc_aside_nav}}
 
-  <div id="colContentWide" class="colContentWide {{#if hero1}}bgDIBrand01Gradient hasHero{{/if}}"  {{#if hero1}}{{else}} style="background-color:{{markup.color_content_background}}"{{/if}}>
-
-
-    {{#if hero1}}
-      {{> comp_hero}}
-      <main id="main-content" class="read in_padding--basic maxWidth">
-
-
-    {{else}}
+  <div id="colContentWide" class="colContentWide" >
 
       <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
         {{{breadcrumb}}}
@@ -20,12 +12,15 @@
 
       <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>{{title}}</h1>
-        <em class="in_text--S">{{#if showAuthor}}{{#if isLang_nl}}Geschreven door{{/if}}{{#if isLang_en}}Written by{{/if}} {{author}}.{{/if}}
-          {{#if showPubDate}}{{#if isLang_nl}}Gepubliceerd op{{/if}}{{#if isLang_en}}Published on {{/if}} {{publication_date}}.<br><br>{{/if}}
-        </em>
-    {{/if}}
 
+
+        <ul class="card_profile">
+          {{#each staff_profile }}
+            {{> comp_card_profile}}
+          {{/each}}
+        </ul>
       {{{ htmlContent }}}
+
       {{> twitter_feed}}
 
 
@@ -33,10 +28,6 @@
   </main>
   {{#if homeLists}}
     {{> comp_homeLists}}
-  {{/if}}
-
-  {{#if teamList}}
-  {{> comp_teamLists}}
   {{/if}}
 
   {{> comp_footer}}

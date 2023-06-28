@@ -4,15 +4,8 @@
 
   {{> comp_huc_aside_nav}}
 
-  <div id="colContentWide" class="colContentWide {{#if hero1}}bgDIBrand01Gradient hasHero{{/if}}"  {{#if hero1}}{{else}} style="background-color:{{markup.color_content_background}}"{{/if}}>
+  <div id="colContentWide" class="colContentWide" >
 
-
-    {{#if hero1}}
-      {{> comp_hero}}
-      <main id="main-content" class="read in_padding--basic maxWidth">
-
-
-    {{else}}
 
       <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
         {{{breadcrumb}}}
@@ -20,12 +13,20 @@
 
       <main id="main-content" class="read in_padding--basic maxWidth">
         <h1>{{title}}</h1>
-        <em class="in_text--S">{{#if showAuthor}}{{#if isLang_nl}}Geschreven door{{/if}}{{#if isLang_en}}Written by{{/if}} {{author}}.{{/if}}
-          {{#if showPubDate}}{{#if isLang_nl}}Gepubliceerd op{{/if}}{{#if isLang_en}}Published on {{/if}} {{publication_date}}.<br><br>{{/if}}
-        </em>
-    {{/if}}
+
+ 
+        <div class="">
+          <span>Department</span>: {{department}}<br>
+          <span>Expertise</span>: {{expert}}<br><br>
+          Contact<br>
+          <span>Department</span>: {{email}}<br>
+          <span>Expertise</span>: {{telephone}}<br>
+ 
+        </div>
+
 
       {{{ htmlContent }}}
+
       {{> twitter_feed}}
 
 
@@ -33,10 +34,6 @@
   </main>
   {{#if homeLists}}
     {{> comp_homeLists}}
-  {{/if}}
-
-  {{#if teamList}}
-  {{> comp_teamLists}}
   {{/if}}
 
   {{> comp_footer}}

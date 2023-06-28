@@ -1,4 +1,4 @@
-@use 'components/vars' as *;
+ @use 'components/vars' as *;
 @use 'components/hero';
 @use 'components/huc-founders';
 @use 'components/homelist';
@@ -141,4 +141,12 @@ h1, h2, h3, h4, h5 {
   overflow: auto;
   height: 100%;
   padding-bottom: 100px;
+}
+
+.card_profile {
+
+}
+
+.card_profile li {
+  list-style: none;
 }
