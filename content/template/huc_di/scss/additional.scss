@@ -145,8 +145,53 @@ h1, h2, h3, h4, h5 {
 
 .card_profile {
 
+
 }
 
 .card_profile li {
   list-style: none;
+}
+
+.profile_cards {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 400px) {
+  .profile_cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+  }
+}
+
+.profCard {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.profCard h3 {
+  margin: 0;
+  
+}
+
+.profCard_img {
+  width: 100%;
+}
+.profCard_img img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover
+}
+
+.profCard_txt {
+  padding: .5rem .5rem 1rem .5rem;
+}
+
+
+.shortinfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }

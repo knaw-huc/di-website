@@ -1,9 +1,22 @@
-<section class="col2_1  in_padding--basic" aria-label="Team members">
-
+<section class=" maxWidth in_padding--basic" aria-label="Team members">
+<h2>Team</h2>
+<p>Hier vind je een selctie van ons team</p>
   <div class="">
-    <ul class="col1 list2cards">
+    <ul class="profile_cards list2cards ">
       {{#each team }}
-      {{>comp_teamLists_item}}
+      
+
+      <li class="incCard profCard">
+        <div class="profCard_img"><img src="images/_menno_rasch.png" alt="">
+
+        </div>
+        <div class="profCard_txt">
+          <h3><a href="{{file_name}}">{{title}}</a></h3>
+          <div>{{function_short}} </div>
+        </div>
+      </li>
+
+
       
       {{/each}}
     </ul>
