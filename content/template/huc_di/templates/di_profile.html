@@ -4,58 +4,64 @@
 
   {{> comp_huc_aside_nav}}
 
-  <div id="colContentWide" class="colContentWide" >
+  <div id="colContentWide" class="colContentWide">
 
 
-      <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth"  aria-label="Breadcrumb">
-        {{{breadcrumb}}}
-      </nav>
+    <nav id="breadCrumb" class="breadCrumb topSpace in_padding--basic maxWidth" aria-label="Breadcrumb">
+      {{{breadcrumb}}}
+    </nav>
 
-      <main id="main-content" class="read in_padding--basic maxWidth">
-        <h1>{{title}}</h1>
+    <main id="main-content" class=" in_padding--basic maxWidth">
 
- 
-        <div class="shortinfo">
-          <div class="">
-            <span>Department</span>: {{department}}<br>
-          <span>Expertise</span>: {{expert}}<br>
+      <div class="topInfo">
+        <div class="topInfo__data">
+          <h1>{{title}}</h1>
+          <div><em>{{function_short}}</em></div>
+          <div>
+            <h2>Contact</h2>
+          {{email}}<br>
+          {{telephone}}<br>
           </div>
-          <div class="">Contact<br>
-            <span>Department</span>: {{email}}<br>
-            <span>Expertise</span>: {{telephone}}<br></div>
-          
-          
- 
         </div>
+        <div class="topInfo__img">
+            <img src="images/_menno_rasch.png" alt="">
+        </div>
+      </div>
+      
 
 
-      {{{ htmlContent }}}
+
+      <div class="read">
+        {{{ htmlContent }}}
+      </div>
+      
 
       {{> twitter_feed}}
 
 
 
-  </main>
-  {{#if homeLists}}
+    </main>
+    {{#if homeLists}}
     {{> comp_homeLists}}
-  {{/if}}
+    {{/if}}
 
-  {{> comp_footer}}
+    {{> comp_footer}}
 
-  <section class="huclogo" aria-label="Digital Infrastructure is part of the KNAW humanities cluster"><img src="images/logo-knaw-humanities-cluster.png" alt=""></section
+    <section class="huclogo" aria-label="Digital Infrastructure is part of the KNAW humanities cluster"><img
+        src="images/logo-knaw-humanities-cluster.png" alt=""></section </div>
   </div>
-</div>
 
 
 
 
 
-<button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()" title="click to open the menu">
-  <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
-</button>
+  <button type="button" name="button" class="hamburgerButton" id="hamburger" onclick="hamburger()"
+    title="click to open the menu">
+    <img src="images/icons/icon-hamburger.svg" alt="" class="hamburgerIcon" id="hamburgerImg" />
+  </button>
 
 
 
 
-<script src="js/hamburger-menu.js" charset="utf-8"></script>
-{{> html_footer}}
+  <script src="js/hamburger-menu.js" charset="utf-8"></script>
+  {{> html_footer}}

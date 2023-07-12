@@ -169,6 +169,13 @@ h1, h2, h3, h4, h5 {
   background-color: #fff;
   display: flex;
   flex-direction: column;
+  border-radius: 4px;
+  transition: transform .3s ease-in-out;
+}
+
+
+.profCard:hover {
+  transform: translate(0, -10px);
 }
 
 .profCard h3 {
@@ -194,4 +201,43 @@ h1, h2, h3, h4, h5 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.profCard_txt-sm{
+  font-size: .85rem;
+  line-height: 1.2rem;
+}
+
+.topInfo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+  border-bottom: 1px solid hsl(175, 20%, 85%);
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 600px) {
+  .topInfo {
+    flex-direction: row;
+  }
+}
+
+.topInfo__data {
+
+}
+
+.topInfo__img{
+
+}
+
+.topInfo__img img{
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  background-color: #fff;
+  margin-top: 2rem;
+  border-radius: 4px;
 }

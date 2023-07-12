@@ -6,7 +6,7 @@ listorder: 6
 featured_image: menno_rasch.jpg
 summary: Menno Rasch is the direcor of Digital infrastructure
 template: di_profile.html
-function_short: Teamlead Team Geo
+function_short: Teamlead team Geo
 department: Staff
 email: bas.doppen@di.huc.knaw.nl
 telephone: 31 (0)20 224 6800

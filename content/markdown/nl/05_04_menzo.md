@@ -6,7 +6,7 @@ listorder: 4
 featured_image: menno_rasch.jpg
 summary: Menno Rasch is the direcor of Digital infrastructure
 template: di_profile.html
-function_short: Teamlead Structured Data
+function_short: Teamlead team Structured Data
 department: Staff
 email: bas.doppen@di.huc.knaw.nl
 telephone: 31 (0)20 224 6800

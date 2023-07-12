@@ -8,10 +8,9 @@ summary: Menno Rasch is the direcor of Digital infrastructure
 template: di_profile.html
 function_short: Directeur DI
 department: Staff
-email: bas.doppen@di.huc.knaw.nl
+email: menno.rasch@di.huc.knaw.nl
 telephone: 31 (0)20 224 6800
 linkin: https://linkedin.com/in/yolo/
-
 ---
 
 ## Biografie
