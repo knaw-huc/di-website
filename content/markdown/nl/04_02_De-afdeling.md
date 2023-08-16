@@ -3,7 +3,7 @@ title: De afdeling
 author: Menno Rasch
 type: page
 summary: DI focust zich op het ondersteunen van de onderzoekers van het Humanities Cluster. Bij DI werken bijna 30 personen.
-teamList: true
+teamList2: true
 ---
 Begin 2018 zijn de IT-afdelingen van de drie instituten van het HuC samengevoegd tot een groep, de afdeling Digitale Infrastructuur (DI) van het KNAW Humanities Cluster. Daarmee is een unieke afdeling ontstaan op het gebied van infrastructuur voor de geesteswetenschappen, een van de grootste in Europa.
 
