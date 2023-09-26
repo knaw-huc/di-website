@@ -1,5 +1,5 @@
 ---
-title: Het perceel als atoom van de ruimte
+title: Unieke software om historische teksten te transcriberen nu opensource beschikbaar
 author: Thijs van der Veen
 type: feature
 featured_image: Loghi_2.jpg
@@ -8,8 +8,6 @@ publication_date: 21-04-2023
 showPubDate: true
 showAuthor: true
 ---
-
-<h1>Unieke software om historische teksten te transcriberen nu opensource beschikbaar</h1>
 
 Het KNAW Humanities Cluster in Amsterdam maakt de transcriptie-software Loghi per direct opensource beschikbaar. De software is in samenwerking met het Nationaal Archief in Den Haag speciaal ontwikkeld om gescande historische documenten digitaal leesbaar en doorzoekbaar te maken.
 
