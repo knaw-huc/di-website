@@ -28,7 +28,7 @@ Voor al onze projecten, die op verrijkte teksten zijn gebaseerd, proberen we ruw
 * [Text Repository](https://github.com/knaw-huc/textrepo) is een backend repository systeem om tekstcorpora met metadata en versies op te slaan en te delen.
 * [LaMachine](https://proycon.github.io/LaMachine) is een uniforme softwaredistributie voor Natural Language Processing. Het integreert talrijke open-source NLP-tools, programmeerbibliotheken, web-services en web-applicaties in een enkele virtuele onderzoeksomgeving die op een grote verscheidenheid aan machines kan worden geïnstalleerd.
 * [analiticcl](https://github.com/proycon/analiticcl) is een systeem voor spellingcorrectie, normalisatie of post-OCR-correctie.
-* [TextAnnoViz](https://github.com/knaw-huc/textannoviz)) is een flexibele en aanpasbare webapplicatie voor het doorzoeken en visualiseren van digitale (wetenschappelijke) tekstedities.
+* [TextAnnoViz](https://github.com/knaw-huc/textannoviz) is een flexibele en aanpasbare webapplicatie voor het doorzoeken en visualiseren van digitale (wetenschappelijke) tekstedities.
 * [AnnoRepo](https://github.com/knaw-huc/annorepo) is onze repository voor opslaan en aanbieden van W3C Web Annotaties. AnnoRepo houdt zich aan de W3C standaarden en biedt daarnaast nog extra zoekmogelijkheden.
 * [Dexter](https://github.com/knaw-huc/Dexter) is een web applicatie die we bouwen binnen [CLARIAH Plus](https://www.clariah.nl). Onderzoekers kunnen Dexter gebruiken om autonoom hun eigen, virtuele, onderzoekscollecties te bouwen, annoteren en delen.
 * [Text-Fabric](https://annotation.github.io/text-fabric/tf/index.html) is een instrument om tekstcorpora plus (grote) hoeveelheden annotaties te verwerken. Het dient als brug tussen onderzoeker en datawetenschapper.
