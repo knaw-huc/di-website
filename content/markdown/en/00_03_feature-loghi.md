@@ -1,5 +1,5 @@
 ---
-title: Unique software to transcribe historical texts now open source available
+title: Unique software to transcribe historical texts available as open source
 author: Thijs van der Veen
 type: feature
 featured_image: Loghi_2.jpg
