@@ -21,18 +21,20 @@ For all our projects, based on enriched texts, we try to strictly separate raw t
 * [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse millions of Dutch texts.
 * [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) is an acronym for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
 * [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) with advanced research methods. The project uses our text repository infrastructure as a hub to synchronise the enrichment and curation of the historical text transcriptions.
-* [CLARIAH Plus](https://www.clariah.nl/). We are making several contributions to this national infrastructure, in particular with respect to NLP tools and formats ([LaMachine](https://proycon.github.io/LaMachine), [FoLiA](https://proycon.github.io/folia)) and software for creating, publishing and sharing annotations of online collections.
-
+* [CLARIAH Plus](https://www.clariah.nl/). We are making several contributions to this national infrastructure, in particular with respect to NLP tools (e.g. [Frog](https://languagemachines.github.io/frog)) and formats ([FoLiA](https://proycon.github.io/folia), [STAM](https://annotation.github.io/stam)) and software for creating, publishing and sharing annotations of online collections.
+* [Golden Agents](https://www.goldenagents.org) - The Golden Agents project is a sustainable research infrastructure to study relations and interactions between producers and consumers of creative goods in the Dutch Golden Age.
 
 ### Software and Data
 
+* [STAM](https://annotation.github.io/stam) is a standalone data model for stand-off annotation on text. It allows you to describe annotations on text in your own terms. STAM does not prescribe any vocabulary. It comes with practical low-level tooling and offers a foundation upon which further software application for text annotation can be build.
 * [Text Repository](https://github.com/knaw-huc/textrepo) is a backend repository system to store and share text corpora with metadata and versions.
-* [LaMachine](https://proycon.github.io/LaMachine) is a unified software distribution for Natural Language Processing. It integrates numerous open-source NLP tools, programming libraries, web services and web applications into a single virtual research environment that can be installed on a wide variety of machines.
-* [analiticcl](https://github.com/proycon/analiticcl) is a system for spelling correction, normalisation, and  post-OCR correction.
+* [analiticcl](https://github.com/proycon/analiticcl) is a system for spelling correction, normalisation, and  post-OCR correction. It was developed in the scope of the [Golden Agents](https://www.goldenagents.org) project.
 * [TextAnnoViz](https://github.com/knaw-huc/textannoviz) is a flexible and customisable web application for searching and visualising digital (scholarly) text editions.
 * [AnnoRepo](https://github.com/knaw-huc/annorepo) is our repository for storing and providing W3C Web Annotations. AnnoRepo adheres to W3C standards and also offers additional search capabilities.
 * [Dexter](https://github.com/knaw-huc/Dexter) is a web application we developed as part of [CLARIAH Plus](https://www.clariah.nl). Researchers can use Dexter to autonomously build, annotate, and share their own virtual research collections.
 * [Text-Fabric](https://annotation.github.io/text-fabric/tf/index.html) is a tool to process text corpora plus (large) sets of annotations. It serves as a bridge between  researchers and data scientists.
+* [Frog](https://languagemachines.github.io/frog) - Frog is an integration of memory-based natural language processing (NLP) modules developed for Dutch, such as part-of-speech tagging,  lemmatisation, dependency parsing, and more. The tool has a long history over various institutes. 
+* [LaMachine](https://proycon.github.io/LaMachine) (now deprecated) was a unified software distribution for Natural Language Processing. It integrated numerous open-source NLP tools, programming libraries, web services and web applications into a single virtual research environment that could be installed on a wide variety of machines.
 
 ### Publications and Presentations
 
