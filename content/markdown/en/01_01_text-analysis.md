@@ -21,11 +21,12 @@ For all our projects, based on enriched texts, we try to strictly separate raw t
 * [Nederlab](https://www.nederlab.nl) (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse millions of Dutch texts.
 * [Republic](https://republic.huygens.knaw.nl) (Huygens Institute) is an acronym for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.
 * [Globalise](https://globalise.huygens.knaw.nl) (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) with advanced research methods. The project uses our text repository infrastructure as a hub to synchronise the enrichment and curation of the historical text transcriptions.
-* [CLARIAH Plus](https://www.clariah.nl/). We are making several contributions to this national infrastructure, in particular with respect to NLP tools and formats ([LaMachine](https://proycon.github.io/LaMachine), [FoLiA](https://proycon.github.io/folia)) and software for creating, publishing and sharing annotations of online collections.
+* [CLARIAH Plus](https://www.clariah.nl/). We are making several contributions to this national infrastructure, in particular with respect to NLP tools and formats ([FoLiA](https://proycon.github.io/folia), [STAM](https://annotation.github.io/stam)) and software for creating, publishing and sharing annotations of online collections.
 
 
 ### Software and Data
 
+* [STAM](https://annotation.github.io/stam) is a standalone data model for stand-off annotation on text. It allows you to describe annotations on text in your own terms. STAM does not prescribe any vocabulary. It comes with practical low-level tooling and offers a foundation upon which further software application for text annotation can be build.
 * [Text Repository](https://github.com/knaw-huc/textrepo) is a backend repository system to store and share text corpora with metadata and versions.
 * [analiticcl](https://github.com/proycon/analiticcl) is a system for spelling correction, normalisation, and  post-OCR correction.
 * [TextAnnoViz](https://github.com/knaw-huc/textannoviz) is a flexible and customisable web application for searching and visualising digital (scholarly) text editions.
