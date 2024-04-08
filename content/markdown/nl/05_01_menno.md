@@ -4,7 +4,7 @@ author: Bas Doppen
 type: team
 listorder: 1
 featured_image: menno_rasch.jpg
-summary: Menno Rasch is the direcor of Digital infrastructure
+summary: Menno Rasch is the director of Digital infrastructure
 template: di_profile.html
 function_short: Directeur DI
 department: Staff
@@ -14,7 +14,7 @@ linkin: https://linkedin.com/in/yolo/
 ---
 
 ## Biografie
-Ilja Nieuwland studeerde Geschiedenis aan de Rijksuniversiteit Groningen en werkte sindsdien bij universiteiten in Groningen, Berlijn en Potsdam. Sinds 2008 is hij verbonden aan het Huygens Instituut. Momenteel maakt hij deel uit van de afdeling Datamanagement.
+Menno Rasch studeerde Geschiedenis aan de Rijksuniversiteit Groningen en werkte sindsdien bij universiteiten in Groningen, Berlijn en Potsdam. Sinds 2008 is hij verbonden aan het Huygens Instituut. Momenteel maakt hij deel uit van de afdeling Datamanagement.
 
 ## Publicaties
 ### 2023
