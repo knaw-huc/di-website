@@ -14,6 +14,9 @@ linkin: https://linkedin.com/in/yolo/
 
 ---
 
+## Team
+Een van de teams van DI 
+
 ## Biografie
 Ilja Nieuwland studeerde Geschiedenis aan de Rijksuniversiteit Groningen en werkte sindsdien bij universiteiten in Groningen, Berlijn en Potsdam. Sinds 2008 is hij verbonden aan het Huygens Instituut. Momenteel maakt hij deel uit van de afdeling Datamanagement.
 
