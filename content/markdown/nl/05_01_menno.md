@@ -14,7 +14,7 @@ linkin: https://linkedin.com/in/menno-rasch
 ---
 
 ## Biografie
-Menno Rasch studeerde Informatica en Filosofie aan de universiteit Utrecht en werkte sindsdien o.a. bij de universiteit utrecht en de Koninklijke Bibliotheek. Sinds 2021 is hij verbonden aan het Humanities Cluster van de KNAW, als directeur Digitale Infrastructuur.
+Menno Rasch is directeur digitale infrastructuur bij het KNAW Humanities Cluster, een samenwerkingsverband tussen het Meertens Instituut, het Huygens Instituut en het Internationaal Instituut voor Sociale Geschiedenis (IISG). Rasch studeerde Informatica en Wijsbegeerte aan Universiteit Utrecht en werkte daarna als informatiespecialist en sectormanager Innovatie bij de universiteitsbibliotheek van Universiteit Utrecht. Bij de Koninklijke Bibliotheek was hij als sectorhoofd verantwoordelijk voor de collecties, de digitalisering en de IT. Voordat hij bij de KNAW begon, werkte Rasch als programmamanager Research IT bij Universiteit Utrecht, waar hij zich bezighield met de ontwikkeling en optimalisatie van de onderzoeksinfrastructuur. 
 
 ## Nevenfuncties
 - Bestuurslid Netwerk Digitaal Erfgoed (NDE): https://netwerkdigitaalerfgoed.nl
