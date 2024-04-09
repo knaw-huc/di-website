@@ -9,18 +9,14 @@ template: di_profile.html
 function_short: Directeur DI
 department: Staff
 email: menno.rasch@di.huc.knaw.nl
-telephone: 31 (0)20 224 6800
-linkin: https://linkedin.com/in/yolo/
+telephone: 31 (0)6 415 515 32
+linkin: https://linkedin.com/in/menno-rasch
 ---
 
 ## Biografie
-Menno Rasch studeerde Geschiedenis aan de Rijksuniversiteit Groningen en werkte sindsdien bij universiteiten in Groningen, Berlijn en Potsdam. Sinds 2008 is hij verbonden aan het Huygens Instituut. Momenteel maakt hij deel uit van de afdeling Datamanagement.
+Menno Rasch studeerde Informatica en Filosofie aan de universiteit Utrecht en werkte sindsdien o.a. bij de universiteit utrecht en de Koninklijke Bibliotheek. Sinds 2021 is hij verbonden aan het Humanities Cluster van de KNAW, als directeur Digitale Infrastructuur.
 
-## Publicaties
-### 2023
-* Nieuwland, I.J.J. "Revisiting the first dinosaur park: A once-ridiculed sculpture display is worth a second look". Science. 2022, 377(6614). 1496. [handle](https://doi.org/10.1126/science.ade4444)
-* Nieuwland, I.J.J. "Revisiting the first dinosaur park: A once-ridiculed sculpture display is worth a second look". Science. 2022, 377(6614). 1496. [handle](https://doi.org/10.1126/science.ade4444)
-
-### 2022
-* Nieuwland, I.J.J. "Revisiting the first dinosaur park: A once-ridiculed sculpture display is worth a second look". Science. 2022, 377(6614). 1496. [handle](https://doi.org/10.1126/science.ade4444)
-* Nieuwland, I.J.J. "Revisiting the first dinosaur park: A once-ridiculed sculpture display is worth a second look". Science. 2022, 377(6614). 1496. [handle](https://doi.org/10.1126/science.ade4444)
+## Nevenfuncties
+- Bestuurslid Netwerk Digitaal Erfgoed (NDE): https://netwerkdigitaalerfgoed.nl
+- Bestuurslid consortium Oorlog voor de Rechter: https://oorlogvoorderechter.nl
+- Bestuurslid Open Access Publishing Support (OPuS): https://oapus.nl
