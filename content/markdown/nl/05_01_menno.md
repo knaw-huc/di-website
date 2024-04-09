@@ -20,3 +20,4 @@ Menno Rasch is directeur digitale infrastructuur bij het KNAW Humanities Cluster
 - Bestuurslid Netwerk Digitaal Erfgoed (NDE): https://netwerkdigitaalerfgoed.nl
 - Bestuurslid consortium Oorlog voor de Rechter: https://oorlogvoorderechter.nl
 - Bestuurslid Open Access Publishing Support (OPuS): https://oapus.nl
+- Bestuurslid E-Data & Research: https://edata.nl
