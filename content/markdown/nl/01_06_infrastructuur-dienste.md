@@ -1,6 +1,6 @@
 ---
 title: Infrastructuur Diensten
-author: Mario Mieldijk
+author: Mario
 type: page
 summary: HuC-DI levert een krachtige, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectieverwerkende instituten.
 ---
@@ -10,4 +10,4 @@ Als een team een project opgelevert, integreren we het in onze beheers- en infra
 
 ### Contact
 
-[Mario Mieldijk](mailto:concern-infrastructure@di.huc.knaw.nl), Teamleider Concerninfrastructuur.
+[Concern-infrastructure](mailto:concern-infrastructure@di.huc.knaw.nl), Teamleider Concerninfrastructuur.
