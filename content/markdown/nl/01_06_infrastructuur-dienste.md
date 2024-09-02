@@ -10,4 +10,4 @@ Als een team een project opgelevert, integreren we het in onze beheers- en infra
 
 ### Contact
 
-[Concern-infrastructure](mailto:concern-infrastructure@di.huc.knaw.nl), Teamleider Concerninfrastructuur.
+[Concern-infrastructure](mailto:concern-infrastructure@di.huc.knaw.nl)
