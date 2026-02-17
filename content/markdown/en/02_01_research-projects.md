@@ -8,7 +8,7 @@ The Digital Infrastructure department of the KNAW Humanities Cluster supports re
 
 Our developers all have a great affinity with humanities research. Most have years of experience working with research teams and a good understanding of existing tools. In this way, development time can be spent on innovation or expanding and improving existing tools.
 
-For more information, please contact [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Manager, Funding & Partnerships) or [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (Director DI).
+For more information, please contact [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (Director DI).
 
 Examples of our current and recently completed research projects include:
 

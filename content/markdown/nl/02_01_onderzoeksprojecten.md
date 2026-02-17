@@ -8,7 +8,7 @@ De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt 
 
 Onze ontwikkelaars hebben allemaal veel affiniteit met geesteswetenschappelijk onderzoek. Ze hebben doorgaans jarenlange ervaring in het samenwerken met onderzoeksteams en hebben goed zicht op bestaande tools. Dat scheelt ontwikkeltijd, die dan besteed kan worden aan innovatie of het uitbreiden en verbeteren van bestaande tools.
 
-Neem voor meer informatie contact op met [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Acquisition manager) of [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
+Neem voor meer informatie contact op met [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (directeur DI).
 
 Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:
 
