@@ -1,3 +1,13 @@
+---
+title: One system for four centuries of archives:
+author: Britt van Sloun
+type: feature
+featured_image: 
+summary: How the Huygens Institute brings Van Gogh, Mondrian and the VOC together in the same digital environment.
+publication_date: 14-07-2026
+showPubDate: true
+showAuthor: true
+---
 
 <h1>One system for four centuries of archives:</h1>
 <h1>How the Huygens Institute brings Van Gogh, Mondrian and the VOC together in the same digital environment</h1>
