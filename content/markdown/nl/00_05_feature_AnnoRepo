@@ -15,7 +15,9 @@ Hoe het Huygens Instituut Van Gogh, Mondriaan en de VOC in dezelfde digitale omg
 
 
 Wie zoekt in de digitale collecties van het Huygens Instituut, doorkruist al snel miljoenen aantekeningen verspreid over vier eeuwen Nederlandse tekst. Brieven van negentiende-eeuwse kunstenaars, zeventiende-eeuws koloniaal bestuur, twintigste-eeuwse vakbondsgeschiedenis. Dat dit allemaal in één doorzoekbare omgeving samenkomt, is het werk van team lead bij Digital Infrastructure (DI) Hennie Brugman en zijn collega's.
+
 ![Hennie Brugman](images/Hennie Brugman.jpg)
+
 Veel onderzoeksprojecten van het Huygens Instituut naar historische bronnen begonnen jarenlang op dezelfde manier: een eigen website, een eigen zoekvenster, eigen knoppen, eigen logica. De brieven van Van Gogh zaten in een ander systeem dan die van Mondriaan, ook al lazen ze elkaars werk. Onderzoekers moesten per collectie opnieuw uitzoeken waar wat stond.
 
 <h2>Collecties kunnen als één geheel worden doorzocht</h2>
@@ -36,6 +38,8 @@ De schaal van [REPUBLIC](https://www.huygens.knaw.nl/en/projecten/resoluties-sta
 Aan het andere eind van het spectrum staan de kunstenaarsbrieven, waar editeurs nog brief voor brief detailwerk doen. De meest voor de hand liggende laag aantekeningen die ze aanbrengen, is die van de zogeheten Named Entities, een markering die zegt: dit woord is een persoonsnaam, dit een plaatsnaam, dit een scheepsnaam, dit getal is een datum. Voor de grote collecties van REPUBLIC en GLOBALISE wordt dat herkennen tegenwoordig grotendeels door software gedaan, met technieken die Named Entity Recognition heten en die de laatste jaren door AI flink vooruit zijn geholpen.
 Maar bij een editieproject zoals de kunstenaarsbrieven gaat het verder. Editeurs voegen ook context toe: wie is deze persoon precies, wat is zijn relatie tot de schrijver, naar welk kunstwerk wordt hier verwezen. "Editeurs gaan heel erg in detail door brieven heen", zegt Brugman. "Die zeggen: dit is een collega-kunstenaar van Vincent van Gogh, en dit is de informatie die we daarover hebben." Voor AnnoRepo zijn al deze aantekeningen, van een kort labeltje tot een rijk commentaar, gewoon weer een annotatie, in hetzelfde formaat opgeslagen en via dezelfde weg doorzoekbaar. Daardoor kunnen de Mondriaanbrieven en de Van Goghbrieven nu ook als één gezamenlijke collectie worden doorzocht.
 De volgende stap is dat ook anderen aantekeningen kunnen toevoegen: collega-onderzoekers, studenten, vakgenoten. Brugman ziet er veel mogelijkheden in. "Ik denk dat daar in potentie nieuwe manieren van online wetenschappelijk samenwerken rond een collectie uit kunnen voortkomen." Het is nog een langetermijnwens, maar de technische basis ligt er al.
+
+![Screenshot Letters Van Gogh](images/Screenshot Letters Van Gogh.png)
 
 <h2>AnnoRepo is heel veelzijdig</h2>
 AnnoRepo is open source en wordt al ingezet buiten de eigen projecten. Er is bijvoorbeeld al contact met een digital-humanities-team in Vlaanderen. "Het is een implementatie van een webstandaard", zegt Brugman. "Als je maar web-annotaties hebt, kun je het inzetten."
