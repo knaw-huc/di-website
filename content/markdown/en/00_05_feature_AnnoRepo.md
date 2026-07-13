@@ -12,7 +12,9 @@ showAuthor: true
 <h1>One system for four centuries of archives:</h1>
 <h1>How the Huygens Institute brings Van Gogh, Mondrian and the VOC together in the same digital environment</h1>
 
-Anyone searching the Huygens Institute’s digital collections will soon find themselves sifting through millions of entries spanning four centuries of Dutch text. Letters from nineteenth-century artists, seventeenth-century colonial administration, twentieth-century trade union history. The fact that all of this comes together in a single searchable environment is down to the work of Hennie Brugman, team lead at Digital Infrastructure (DI), and his colleagues. 
+Anyone searching the Huygens Institute’s digital collections will soon find themselves sifting through millions of entries spanning four centuries of Dutch text. Letters from nineteenth-century artists, seventeenth-century colonial administration, twentieth-century trade union history. The fact that all of this comes together in a single searchable environment is down to the work of Hennie Brugman, team lead at Digital Infrastructure (DI), and his colleagues.
+
+![Hennie Brugman](images/Hennie Brugman.jpg)
 
 For many years, numerous research projects at the Huygens Institute involving historical sources began in the same way: with their own website, their own search box, their own buttons and their own logic. Van Gogh’s letters were stored in a different system to Mondrian’s, even though they read each other’s work. Researchers had to work out anew, for each collection, where everything was located.
 
@@ -35,6 +37,8 @@ At the other end of the spectrum are the artists’ letters, where editors still
  
 But with an editorial project such as the artists’ letters, it goes further. Editors also add context: who exactly is this person, what is their relationship to the writer, and which artwork is being referred to here. “Editors go through the letters in great detail,” says Brugman. “They say: this is a fellow artist of Vincent van Gogh, and this is the information we have about them.” For AnnoRepo, all these notes – from a short label to a detailed commentary – are simply another annotation, saved in the same format and searchable in the same way. As a result, the Mondrian letters and the Van Gogh letters can now also be searched as a single, combined collection.
 The next step is to allow others to add notes too: fellow researchers, students and colleagues. Brugman sees great potential in this. “I think this could potentially lead to new ways of collaborating online on a collection.” It is still a long-term goal, but the technical foundation is already in place.
+
+![Screenshot Letters Van Gogh](images/Screenshot Letters Van Gogh.png)
 
 <h2>AnnoRepo is extremely versatile</h2>
 AnnoRepo is open source and is already being used outside our own projects. For example, we are already in contact with a digital humanities team in Flanders. “It’s an implementation of a web standard,” says Brugman. “As long as you have web annotations, you can use it.”
