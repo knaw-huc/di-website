@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "version": 1,
+    "name": "test-boilerplate",
+    "enabled": true,
+    "lastUpdated": null,
+    "tags": ["test", "boilerplate", "huc-di"],
+    "priority": 42,
+    "score": 3.14159
+  },
+  "strings": {
+    "plain": "Hello, world!",
+    "empty": "",
+    "unicode": "HuC — Huygens Instituut voor Nederlandse Geschiedenis",
+    "multiline": "Line one\nLine two\nLine three",
+    "withQuotes": "He said \"JSON is useful\" and left."
+  },
+  "numbers": {
+    "integer": 100,
+    "negative": -7,
+    "zero": 0,
+    "float": 19.99,
+    "scientific": 1.5e-4
+  },
+  "booleans": {
+    "yes": true,
+    "no": false
+  },
+  "nullValue": null,
+  "arrays": {
+    "empty": [],
+    "strings": ["alpha", "beta", "gamma"],
+    "numbers": [1, 2, 3, 5, 8],
+    "mixed": ["text", 42, true, null, { "nested": "object in array" }],
+    "nested": [
+      [1, 2],
+      [3, 4],
+      ["a", "b", "c"]
+    ]
+  },
+  "objects": {
+    "empty": {},
+    "shallow": {
+      "key": "value",
+      "count": 1
+    },
+    "deep": {
+      "level1": {
+        "level2": {
+          "level3": {
+            "message": "four levels deep",
+            "active": false
+          }
+        }
+      }
+    }
+  },
+  "people": [
+    {
+      "id": 1,
+      "name": "Ada Lovelace",
+      "roles": ["mathematician", "writer"],
+      "contact": {
+        "email": "ada@example.test",
+        "address": {
+          "city": "London",
+          "country": "GB"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Alan Turing",
+      "roles": ["mathematician", "cryptanalyst"],
+      "contact": {
+        "email": null,
+        "address": {
+          "city": "Manchester",
+          "country": "GB"
+        }
+      }
+    }
+  ],
+  "settings": {
+    "features": {
+      "search": {
+        "enabled": true,
+        "minQueryLength": 2,
+        "filters": ["language", "date", "type"]
+      },
+      "analytics": {
+        "enabled": false,
+        "provider": null
+      }
+    },
+    "theme": {
+      "colors": {
+        "primary": "#003366",
+        "secondary": "#CC6600",
+        "background": "#FFFFFF"
+      },
+      "fonts": {
+        "body": "system-ui, sans-serif",
+        "heading": "Georgia, serif"
+      }
+    }
+  },
+  "flags": {
+    "isProduction": false,
+    "isDraft": true,
+    "hasErrors": false
+  }
+}

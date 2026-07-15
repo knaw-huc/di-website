@@ -1,0 +1,48 @@
+---
+title: "One system for four centuries of archives:"
+author: Britt van Sloun
+featured_image: Screenshot-Letters-Van-Gogh.png
+summary: How the Huygens Institute brings Van Gogh, Mondrian and the VOC together in the same digital environment.
+publication_date: 14-07-2026
+showPubDate: true
+showAuthor: true
+publish: true
+---
+
+
+## How the Huygens Institute brings Van Gogh, Mondrian and the VOC together in the same digital environment
+
+Anyone searching the Huygens Institute’s digital collections will soon find themselves sifting through millions of entries spanning four centuries of Dutch text. Letters from nineteenth-century artists, seventeenth-century colonial administration, twentieth-century trade union history. The fact that all of this comes together in a single searchable environment is down to the work of Hennie Brugman, team lead at Digital Infrastructure (DI), and his colleagues.
+
+![Portrait of Hennie Brugman](images/hennie-brugman.jpg "Hennie Brugman")
+
+For many years, numerous research projects at the Huygens Institute involving historical sources began in the same way: with their own website, their own search box, their own buttons and their own logic. Van Gogh’s letters were stored in a different system to Mondrian’s, even though they read each other’s work. Researchers had to work out anew, for each collection, where everything was located.
+
+## Collections can now be searched as a single entity
+Brugman and his team wanted to put an end to that. “There are many different types of enriched text collections,” he says. “We don’t want to have to grapple with all those formats all over again for every project.” His team opted for a different approach. They reduce all the material to three basic components: a scan of the original, the legible text extracted from that scan, and, on top of that, a large number of small, standardised annotations. Such a note, an annotation, points to a section of text or a spot on a scan and specifies: this is a person’s name, this is a location, this is a ship’s name.
+
+The system that stores all these annotations and makes them searchable is called AnnoRepo. The same building block underpins both the digital edition of letters by [nineteenth-century artists](https://www.huygens.knaw.nl/period/19e-eeuw/) and the [GLOBALISE](https://www.huygens.knaw.nl/projecten/globalise/) transcription viewer, the project focusing on the seventeenth-century VOC archive. Because everything is structured in exactly the same way, collections that used to be separate can now be searched as a single entity. If you search for ‘Batavia’ as a place name, you’ll find the city. If you search for ‘Batavia’ as a ship’s name, you’ll find the ship. These distinctions are possible because every reference is labelled, whether this was done manually by editors or automatically by software.
+
+## Reference, don’t copy
+In the past, many research projects would download entire datasets from heritage institutions to continue working on them elsewhere. The National Archives would publish scans; a research group would retrieve them, add their own insights, and upload that enriched version to a university server. Years later, copies of that data were circulating everywhere, often in an outdated version.
+
+“You end up with very nice, enriched data, but it’s a snapshot of a particular moment,” says Brugman. “Five years later, an old copy of that data is still floating about somewhere.” This is problematic for heritage institutions that wish to remain a reliable source. And for researchers building on that data, it’s a problem, because a scientific conclusion may be based on data that is six years old.
+
+The Huygens approach leaves the source where it is. Scans remain at the National Archives. The annotations refer back to them directly, right down to the individual character or pixel. What Huygens publishes is a thin but detailed layer on top of the original, recording who created it, how and when. “We are responsible for stating how we created it,” says Brugman. That way, you always know where the information comes from.
+
+## What is possible now, and what is to come
+The scale of [REPUBLIC](https://www.huygens.knaw.nl/en/projecten/resoluties-staten-generaal-1576-1796-de-oerbronnen-van-de-parlementaire-democratie-2/) – the project covering nearly two centuries of decisions by the States General – gives a good idea of what this system is capable of. “We’re talking about 700,000 individual decisions,” says Brugman. “Within those resolutions, we come across quite a few names – say, ten or fifteen per resolution. Multiply that by 700,000, and you’ll realise just how many there are.” Millions of annotations, searchable down to the character.
+
+At the other end of the spectrum are the artists’ letters, where editors still carry out detailed work letter by letter. The most obvious layer of annotations they apply is that of so-called Named Entities, a tag that indicates: this word is a person’s name, this a place name, this a ship’s name, this number is a date. For the large collections of REPUBLIC and GLOBALISE, this recognition is now largely carried out by software, using techniques known as Named Entity Recognition, which have been significantly advanced by AI in recent years.
+ 
+But with an editorial project such as the artists’ letters, it goes further. Editors also add context: who exactly is this person, what is their relationship to the writer, and which artwork is being referred to here. “Editors go through the letters in great detail,” says Brugman. “They say: this is a fellow artist of Vincent van Gogh, and this is the information we have about them.” For AnnoRepo, all these notes – from a short label to a detailed commentary – are simply another annotation, saved in the same format and searchable in the same way. As a result, the Mondrian letters and the Van Gogh letters can now also be searched as a single, combined collection.
+The next step is to allow others to add notes too: fellow researchers, students and colleagues. Brugman sees great potential in this. “I think this could potentially lead to new ways of collaborating online on a collection.” It is still a long-term goal, but the technical foundation is already in place.
+
+![Screenshot Letters Van Gogh. An interface with four panels is visible. The first shows a facsimile of a letter from Vincent van Gogh to his brother Theo. The second panel shows the text from the letter. The third panel shows an English translation of the letter text. The fourth panel shows the paintings mentioned in the letter.](images/Screenshot-Letters-Van-Gogh.png "Screenshot of Van Gogh Letters")
+
+## AnnoRepo is extremely versatile
+AnnoRepo is open source and is already being used outside our own projects. For example, we are already in contact with a digital humanities team in Flanders. “It’s an implementation of a web standard,” says Brugman. “As long as you have web annotations, you can use it.”
+
+What lies beneath the surface therefore extends far beyond Dutch archives. For AnnoRepo, it makes no difference where an annotation is attached: a few characters in a text and a square of pixels in an image are both simply ‘a location on a source’. And that opens the door to much more than just letters and resolutions.
+
+A researcher can annotate historical map material, mark locations on old maps and link information to them. In principle, audiovisual material is also possible. The workflow is always the same: draw up a configuration file, run a pipeline, and at the end you have a searchable website. “That’s a bit like the Holy Grail,” says Brugman. “As little manual work as possible per collection.” Whereas each new edition used to come with its own website, its own search interface and its own logic, the next collection that the Huygens Institute brings online now simply slots into an infrastructure that is already in place. Van Gogh and Mondrian had already read each other’s work; now they are finally in the same digital environment too.

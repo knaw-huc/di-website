@@ -1,0 +1,23 @@
+<nav id="breadCrumb" class="text-sm w-full py-8 flex flex-row items-center lg:min-h-[170px] xl:min-h-[220px] px-7 max-w-3xl" aria-label="Breadcrumb">
+  <ol class="flex flex-row items-center list-none m-0 p-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+    {{#each (getBreadcrumbs file_name page_level lists.page)}}
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+        {{#if isCurrent}}
+          <span itemprop="name" class="text-[#1a1a1a]">{{title}}</span>
+        {{else}}
+          {{#if hasLink}}
+            <a href="{{path}}" itemprop="item" class="text-[#183e7c] hover:underline" aria-current="false">
+              <span itemprop="name">{{title}}</span>
+            </a>
+          {{else}}
+            <span itemprop="name" class="text-[#1a1a1a]">{{title}}</span>
+          {{/if}}
+        {{/if}}
+        <meta itemprop="position" content="{{add @index 1}}" />
+        {{#unless @last}}
+          <span class="mx-2.5" aria-hidden="true">|</span>
+        {{/unless}}
+      </li>
+    {{/each}}
+  </ol>
+</nav> 

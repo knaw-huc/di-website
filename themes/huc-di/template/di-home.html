@@ -1,0 +1,40 @@
+{{#> page-layout backgroundColor="#6be1d5"}}
+
+
+{{> img_canals}}
+<section class="px-7 flex flex-col w-full grow relative z-10 [&_ul]:list-[url('../../images/listicon.svg')] [&_figure]:ml-0 [&_figure]:mr-0 [&_figure_img]:w-full [&_figure_img]:h-auto [&_figure_figcaption]:text-sm [&_figure_figcaption]:italic xl:[&_figure]:w-[calc(100%+4rem)] xl:[&_figure]:h-auto xl:[&_figure]:-ml-8 xl:[&_figure]:-mr-8 xl:[&_figure_figcaption]:ml-8">
+    
+  <div class="max-w-5xl mx-auto min-h-[60vh] h-full flex flex-col justify-center gap-10 items-start relative ">
+      <h1 class="text-2xl lg:text-5xl text-[#173630]  lg:leading-15">{{{hero1}}}</h1>
+      <p>{{{hero2}}}</p>
+    </div>
+
+    <div class="flex flex-col xl:flex-row gap-10">
+      <div class="w-full xl:w-3/5">
+        <h2 class="text-2xl mb-4">Research cases</h2>
+        <ul class="flex flex-col gap-2">
+          {{#each (reverse lists.featured)}}
+            {{> lists/list-item-featured}}
+          {{/each}}
+        </ul>
+      </div>
+      <div class="w-full xl:w-2/5">
+        <h2 class="text-2xl mb-4">Expertise</h2>
+
+        <ul class="flex flex-col gap-2">
+          {{#each lists.page}}
+            {{#ifSame levels 1}}
+              {{#ifSame title "Expertise"}}
+                {{#each (getLevel2Children @index ../lists.page)}}
+                  {{> lists/list-item-expertise}}
+                {{/each}}
+              {{/ifSame}}
+            {{/ifSame}}
+          {{/each}}
+        </ul>
+      </div>
+      
+    </div>
+</section>
+
+{{/page-layout}}

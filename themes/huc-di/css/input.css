@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@source "../**/*.html";
+@source "../../../_dist/**/*.html";
+
+@theme {
+  --font-crete-round: "Crete Round", serif;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-crete-round);
+}
+
+a {
+  @apply underline;
+}
+
+a.no-underl {
+  text-decoration: none !important;
+}
+
+.prose a.external-link:not(:has(img))::after {
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  margin-inline-start: 0.2em;
+  vertical-align: -0.05em;
+  background-color: currentColor;
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'/%3E%3Cpath d='M15 3h6v6'/%3E%3Cpath d='M10 14 21 3'/%3E%3C/svg%3E");
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+}
+.canalStr {
+  stroke: #d5f6f3;
+  stroke-width: 2px;
+  stroke-dasharray: 1, 8;
+  stroke-linecap: round;
+  fill: none
+}
+
+.logos {
+  @apply flex flex-row flex-wrap;
+}
+
+.logos a {
+  @apply inline-flex mr-8;
+}
+
+.logos img {
+  @apply w-[150px] h-auto;
+}

@@ -1,210 +1,147 @@
-# DI-website
+# DI Website
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+This repo builds the [Digital Infrastructure](https://di.huc.knaw.nl) site. You write Markdown, run a build, get static HTML.
 
-**A static website builder for the KNAW Digital Infrastructure website**
+All content lives in `content/markdown/`. Nothing else is picked up by the build.
 
-This repository contains the source content and configuration for the Digital Infrastructure website of the KNAW Humanities Cluster. The website is built using a custom static site generator that converts Markdown files into HTML pages.
-
-## Description
-
-This project provides a multilingual static website for the Digital Infrastructure department of the KNAW Humanities Cluster. The site is generated from Markdown content files using a Node.js-based static site generator, which is included as a git submodule. The generator supports multiple languages, hierarchical page structures, and custom templates.
-
-## Introduction
-
-### What is it?
-
-This repository contains the complete source for the Digital Infrastructure website, including:
-
-- **Content files**: Markdown files organized by language (Dutch and English) in the `content/markdown/` directory
-- **Images and assets**: Static assets in the `content/images/` directory
-- **Configuration**: Site configuration in `ssg_config.json`
-- **Site generator**: The static site generator is located in the `static-site-generator/` folder as a git submodule
-- **Generated output**: The built HTML website is output to the `httpDocs/` directory
-
-### What does it do?
-
-The static site generator:
-
-- Converts Markdown files to HTML pages
-- Generates a hierarchical site structure based on file naming conventions
-- Supports multiple languages (currently Dutch and English)
-- Applies custom templates and styling
-- Generates navigation menus automatically
-- Processes metadata from YAML front matter in Markdown files
-
-### For whom?
-
-This project is intended for:
-
-- **Content editors**: Who need to add or modify website content by editing Markdown files
-- **Website maintainers**: Who need to build and deploy the static website
-- **Developers**: Who may need to customize templates, styling, or the site generator itself
-
-### Technical Architecture
-
-The website consists of:
-
-- **Content layer**: Markdown files with YAML front matter for metadata
-- **Generator**: Node.js application that processes Markdown and generates HTML
-- **Template engine**: Handlebars templates for page rendering
-- **Styling**: SCSS files compiled to CSS
-- **Output**: Static HTML files ready for deployment
-
-The site generator (`static-site-generator/`) is a separate git submodule that handles:
-- Parsing Markdown files and extracting metadata
-- Building the site structure from file naming conventions
-- Rendering pages using Handlebars templates
-- Compiling SCSS to CSS
-- Generating the final HTML output
-
-## Installation
-
-### Prerequisites
-
-- **Node.js**: Version compatible with the site generator (check `static-site-generator/package.json` for specific requirements)
-- **Git**: For cloning the repository and managing the submodule
-- **npm**: Comes with Node.js, used for installing dependencies
-
-### Obtaining the Project
-
-Clone the repository:
+## Quick start
 
 ```bash
-git clone <repository-url>
-cd di-website
-```
-
-### Initial Setup
-
-1. **Initialize the git submodule** (the static site generator):
-
-```bash
-git submodule init
-git submodule update
-```
-
-2. **Install dependencies**:
-
-```bash
-cd static-site-generator
 npm install
+npm run build
 ```
 
-3. **Initialize the site** (if setting up a new site):
+Output lands in `_dist/`. Rebuild after every content change.
 
-```bash
-npm run init
+---
+
+## Where to put things
+
+```
+content/markdown/
+├── nl-nl/              Dutch
+│   ├── pages/          Main site (nav, sections)
+│   ├── featured/       Research cases (homepage cards)
+│   ├── staff/          Team profiles
+│   └── tools/          Tool pages
+└── en-gb/              English — same folders
 ```
 
-This will set up the initial site structure and configuration.
+The subfolder name becomes the content type (`pages` → `page`, `featured` → `featured`, etc.). Need something new, like news? Add a folder and wire it up in the theme if you want it in navigation or lists.
 
-## Usage
+Dutch and English are separate. Match files across both folders when you want bilingual content.
 
-### Building the Website
+---
 
-To build the website:
+## Pages
 
-```bash
-cd static-site-generator
-npm run start
+Site structure lives in `pages/`. Filenames control order and hierarchy:
+
+```
+XX_YY_filename.md
 ```
 
-This command will:
-1. Extract structure from Markdown files (`getMd`)
-2. Build the site (`build`)
-3. Start a watch mode that rebuilds on file changes (`nodemon`)
+`XX` is the section (`01` = expertise, `02` = activities). `YY` is the sub-page (`00` = section header, `01+` = child).
 
-### Development Mode
+Examples: `00_00_home.md` (homepage), `01_00_expertise.md` (section), `01_01_tekstanalyse.md` (child under expertise).
 
-For development with automatic rebuilding on file changes:
-
-```bash
-cd static-site-generator
-npm run start
-```
-
-The generator will watch for changes in JavaScript, SCSS, HTML, and Markdown files and automatically rebuild the site.
-
-### Content Structure
-
-#### File Naming Convention
-
-The site structure is determined by the first 5 characters of the Markdown filename:
-
-- First 2 digits: Top-level navigation item
-- Next 2 digits (after underscore): Second-level page (use `00` for top-level pages)
-- Remaining characters: Descriptive filename
-
-Example:
-```
-00_00_home.md          → Home (top level)
-01_00_about.md         → About (top level)
-01_01_information.md   → About > Information (subpage)
-01_02_colofon.md       → About > Colofon (subpage)
-02_00_contact.md       → Contact (top level)
-```
-
-#### Languages
-
-Content is organized by language in subdirectories:
-- `content/markdown/nl/` - Dutch content
-- `content/markdown/en/` - English content
-
-#### Metadata
-
-Each Markdown file should start with YAML front matter:
+**Section headers without content** — pages like Expertise or About that only group the menu:
 
 ```yaml
 ---
-title: Page Title
-author: Author Name
-type: page
-meta_description: Description for SEO
-meta_keyword: keywords, for, seo
-summary: A brief summary
-featured_image: image.jpg
+title: Expertise
+directSubpages: true
+publish: true
 ---
 ```
 
-Required metadata:
-- `title`: The page title (mandatory)
+No HTML file is generated. The nav links straight to the first child page.
 
-Optional metadata:
-- `author`: Author name
-- `type`: Content type (`page`, `news`, `feature`)
-- `meta_description`: SEO description
-- `meta_keyword`: SEO keywords
-- `summary`: Summary text for listings
-- `featured_image`: Thumbnail image for listings
-- `publication_date`: Publication date
-- `template`: Custom template to use
+**A normal page:**
 
-### Configuration
+```yaml
+---
+title: Tekstanalyse
+author: Hennie Brugman
+summary: Short blurb for cards and previews
+publish: true
+---
 
-Site configuration is stored in `ssg_config.json` in the project root. This file contains:
+Write your content here. Standard Markdown works — headings, lists, links.
 
-- Output directory (`dirOutput`)
-- Content directories (`dirContent`, `dirMarkdown`, `dirJson`)
-- Default language (`languageDefault`)
-- Site name and URL
-- Styling colors and branding
-- Footer content
-- Custom page types and templates
+Link to other pages by their *output* filename: [Werken bij DI](werken-bij-di-nl.html)
+```
 
-## Documentation
+`publish: true` is required. Without it, the file is skipped.
 
-For more detailed documentation about the static site generator itself, see the [static-site-generator README](static-site-generator/README.md).
+**Output filenames** come from the title, not the `.md` name. Dutch home → `index.html`, English home → `home-en.html`, everything else → `{title-slug}-{lang}.html` (e.g. `tekstanalyse-nl.html`).
 
-## Support and Roadmap
+---
 
-### Maintainers
+## Frontmatter
 
-B. Doppen (HuC)
+The YAML block at the top of each file drives metadata and layout.
 
-### Roadmap
+**Most files:** `title`, `author`, `summary`, `meta_description`, `featured_image`, `publish`, and optionally `template` to pick a layout.
 
-- Person pages
-- Product pages
+**Featured articles:** add `publication_date`, `showPubDate`, `showAuthor`.
 
+**Homepage** (`00_00_home.md`): `hero1`, `hero2`, `template: di-home.html`.
 
+**Staff:** extra fields like `email`, `telephone`, `function_short` pass through to templates.
+
+Any field you add in frontmatter is available in templates — useful for tools (`github`, `tags`, etc.).
+
+---
+
+## Images
+
+Put files in `content/images/` (editorial) or `themes/huc-di/images/` (shared/theme). Both end up in `_dist/images/`.
+
+**List cards** — filename only in frontmatter:
+
+```yaml
+featured_image: menno_rasch.jpg
+```
+
+**In the body** — square brackets are alt text, quotes are the caption:
+
+```markdown
+![Screenshot Letters Van Gogh. Er is een interface ... brief genoemd worden.](images/Screenshot-Letters-Van-Gogh.png "Screenshot van Van Gogh Letters")
+```
+
+The path (`images/...`) is relative to the site root. Describe what someone needs to know if they can't see the image — that's the alt text. The caption is optional and shows below the image. Leave alt empty only for decoration. (European Accessibility Act.)
+
+---
+
+## Lists
+
+You don't maintain lists by hand. The build collects all published content per language into `lists.page`, `lists.featured`, `lists.staff`, `lists.tools`. Each entry has title, filename, path, summary, featured image, and hierarchy level.
+
+Order follows the numeric prefix in filenames. `01_menno.md`, `02_arno.md` for staff; `XX_YY_` for pages.
+
+Navigation, breadcrumbs, and the homepage columns all read from these lists. Add a published file to `featured/` with `summary` and `featured_image` — it shows up on the homepage automatically.
+
+---
+
+## Common tasks
+
+**New page** — create `pages/XX_YY_name.md` in both languages, set `publish: true`, rebuild, link using the generated `.html` name.
+
+**New research case** — add to `featured/`, fill in title, summary, featured_image, write the body, rebuild.
+
+**New staff member** — add to `staff/` with contact info and a photo.
+
+**Static HTML** (accessibility statement, etc.) — drop in `content/static/`, copied as-is to `_dist/`.
+
+---
+
+## Config & build
+
+`content/config.yaml` sets the theme, output path, and site URL for the sitemap.
+
+`npm run build` scans Markdown → writes `data/site.json` → renders HTML with Handlebars → compiles Tailwind → copies images, JS, and static files → generates sitemap.
+
+Individual steps if you need them: `collect-data`, `build-html`, `build-css`.
+
+Requires Node.js 18+.

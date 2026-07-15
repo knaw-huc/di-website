@@ -1,0 +1,105 @@
+<header id="colNav"
+  class="flex flex-col justify-start items-stretch bg-white px-4 py-2 lg:px-7 lg:py-0 lg:col-[1/2] lg:row-[1/-1] lg:fixed lg:w-[270px] relative z-50"
+  aria-label="Main navigation" style="overflow: visible;">
+
+  <div class="relative z-50 lg:fixed lg:w-[270px] lg:h-full lg:pb-24" style="overflow-y: auto; overflow-x: hidden;">
+    <div class="w-full py-2 lg:py-8 flex flex-row items-center lg:min-h-[170px] xl:min-h-[220px]">
+      <div><a href="index.html"><img id="logo" src="images/logo-knaw-digital-infrastructure.png"
+            alt="Logo Humanities Cluster Digital Infrastructure" class="w-40 lg:w-56 h-auto"></a></div>
+
+      <!-- Hamburger menu button - visible only on screens smaller than lg -->
+      <button
+        id="mobile-menu-toggle"
+        type="button"
+        class="lg:hidden fixed top-4 right-4 z-[110] p-2 text-[#1a1a1a] bg-white cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a]"
+        aria-label="Toggle navigation menu"
+        aria-expanded="false"
+        aria-controls="mobile-navigation">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          <path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Desktop navigation - visible only on lg and larger screens -->
+    <div class="hidden lg:block" style="overflow: visible; position: relative;">
+
+      <nav id="mainNav" class="relative pt-8 [&_ul]:list-none [&_ul]:m-0 [&_ul]:p-0 [&_ul_li]:ml-0 [&_ul_li]:mr-4 [&_ul_li]:mt-0 [&_ul_li]:mb-0 [&_a]:text-[#1a1a1a] [&_a]:no-underline [&_a]:mb-1 [&_a:hover]:font-bold [&_li_ul]:pl-4 [&_li_ul_li:last-child]:mb-4 [&_button]:cursor-pointer [&_button]:text-lg [&_button]:leading-none [&_button]:w-6 [&_button]:h-6 [&_button]:flex [&_button]:items-center [&_button]:justify-center" style="overflow: visible; position: relative;">
+        {{> page-segments/main-navigation}}
+      </nav>
+      <div>
+        <nav class="mt-5 text-sm" aria-label="Choose a language">
+          <a href="index.html" aria-label="Nederlands" class="no-underline text-[#1a1a1a] uppercase mr-2.5">nl</a><a
+            href="home-en.html" aria-label="English" class="no-underline text-[#1a1a1a] uppercase mr-2.5">en</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="hidden lg:block">
+      <div
+        class="flex flex-row justify-start flex-none bg-white pt-5 lg:fixed lg:bottom-0 [&_img]:w-auto [&_img]:h-[60px] [&>*]:mb-2.5 [&>*]:mr-4">
+        <div class="founders__hi"><a href="https://www.huygens.knaw.nl" target="_blank">
+          <span class="sr-only">link to </span>
+            <img src="images/logo_huygens.png" alt="Huygens Institute"></a>
+        </div>
+
+        <div class="founders__ii"><a href="https://iisg.amsterdam" target="_blank">
+            <span class="sr-only">link to </span>
+            <img src="images/logo-iisg.png" alt="Internationaal Instituut voor Sociale Geschiedenis"></a>
+        </div>
+
+        <div class="founders__me"><a href="https://meertens.knaw.nl" target="_blank">
+          <span class="sr-only">link to </span>
+            <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut"></a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile navigation dialog - visible only on screens smaller than lg -->
+<div
+  id="mobile-navigation"
+  role="dialog"
+  aria-modal="true"
+  class="lg:hidden fixed inset-0 z-[90] bg-white -translate-x-full transition-transform duration-300 ease-in-out"
+  aria-label="Mobile navigation"
+  aria-hidden="true"
+  inert>
+  <!-- Close button in top right corner -->
+  <button
+    id="mobile-menu-close"
+    type="button"
+    class="absolute top-4 right-4 z-[100] p-2 text-[#1a1a1a] bg-white cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a]"
+    aria-label="Close navigation menu">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+    </svg>
+  </button>
+  
+  <div class="h-full overflow-y-auto px-7 py-8">
+    <div class="w-full py-8 flex flex-row items-center mb-8">
+      <div><a href="index.html"><img src="images/logo-knaw-digital-infrastructure.png"
+            alt="Welcome to the KNAW Humanties Cluster" class="w-56 h-auto"></a></div>
+    </div>
+
+    <nav id="mobileNav" class="relative [&_ul]:list-none [&_ul]:m-0 [&>ul]:p-0 [&_ul_li]:ml-0 [&_ul_li]:mr-0 [&_ul_li]:mt-0 [&_ul_li]:mb-0 [&_a]:text-[#1a1a1a] [&_a]:no-underline [&_a]:mb-1 [&_a:hover]:font-bold [&_li>ul]:pl-4 [&_li>ul]:mt-1 [&_li>ul]:flex [&_li>ul]:flex-col [&_li>ul]:gap-1 [&_li>ul_li:last-child]:mb-4 [&_button]:hidden [&_ul[role='menu']]:!block [&_ul[role='menu']]:!relative [&_ul[role='menu']]:!translate-y-0 [&_ul[role='menu']]:!shadow-none [&_ul[role='menu']]:!py-0 [&_ul[role='menu']]:!pr-0 [&_ul[role='menu']]:!pl-4 [&_ul[role='menu']]:!mt-1 [&_ul[role='menu']]:!min-w-0 [&_ul[role='menu']]:!max-w-none [&_ul[role='menu']]:!w-full">
+      {{> page-segments/main-navigation}}
+    </nav>
+
+    <div class="mt-8">
+      <nav class="text-sm" aria-label="Choose a language">
+        <a href="index.html" aria-label="Nederlands" class="no-underline text-[#1a1a1a] uppercase mr-2.5">nl</a><a
+          href="home-en.html" aria-label="English" class="no-underline text-[#1a1a1a] uppercase mr-2.5">en</a>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<!-- Mobile navigation backdrop -->
+<div
+  id="mobile-navigation-backdrop"
+  class="lg:hidden fixed inset-0 z-[80] bg-black bg-opacity-50 opacity-0 pointer-events-none transition-opacity duration-300"
+  aria-hidden="true"></div>

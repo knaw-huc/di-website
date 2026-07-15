@@ -1,0 +1,84 @@
+<ul>
+{{#each lists.page}}
+  {{#ifSame levels 1}}
+    <li class="relative group" style="overflow: visible;">
+      <div class="flex items-center justify-between max-w-52">
+        {{#if (getFirstLevel2Child @index ../lists.page)}}
+          {{#if (hasDirectSubpages this ../lists.page @index)}}
+            {{#with (getFirstLevel2ChildWithParent @index ../lists.page this)}}
+              {{#isCurrentPage firstChild ../../file_name}}
+                <a href="{{firstChild.path}}" class="font-bold no-underl" data-level1-link="{{level1Index}}" aria-haspopup="true" aria-expanded="{{isSubnavExpanded level1Item ../../file_name ../../page_level ../../lists.page level1Index}}">{{level1Item.title}}</a>
+              {{else}}
+                {{#isParentPage level1Item ../../file_name ../../page_level ../../lists.page level1Index}}
+                  <a href="{{firstChild.path}}" class="font-bold no-underl" data-level1-link="{{level1Index}}" aria-haspopup="true" aria-expanded="{{isSubnavExpanded level1Item ../../file_name ../../page_level ../../lists.page level1Index}}">{{level1Item.title}}</a>
+                {{else}}
+                  <a href="{{firstChild.path}}" data-level1-link="{{level1Index}}" aria-haspopup="true" aria-expanded="false" class="no-underl">{{level1Item.title}}</a>
+                {{/isParentPage}}
+              {{/isCurrentPage}}
+            {{/with}}
+          {{else}}
+            {{#isCurrentPage this ../file_name}}
+              <a href="{{path}}" class="font-bold no-underl" data-level1-link="{{@index}}" aria-haspopup="true" aria-expanded="{{isSubnavExpanded this ../file_name ../page_level ../lists.page @index}}">{{title}}</a>
+            {{else}}
+              {{#isParentPage this ../file_name ../page_level ../lists.page @index}}
+                <a href="{{path}}" class="font-bold no-underl" data-level1-link="{{@index}}" aria-haspopup="true" aria-expanded="{{isSubnavExpanded this ../file_name ../page_level ../lists.page @index}}">{{title}}</a>
+              {{else}}
+                <a href="{{path}}" data-level1-link="{{@index}}" aria-haspopup="true" aria-expanded="false" class="no-underl">{{title}}</a>
+              {{/isParentPage}}
+            {{/isCurrentPage}}
+          {{/if}}
+          {{#unless (shouldShowNestedList this ../file_name ../page_level ../lists.page @index)}}
+            <button
+              type="button"
+              class="ml-2 text-[#1a1a1a] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a] text-xs -translate-y-3"
+              aria-expanded="{{isSubnavExpanded this ../file_name ../page_level ../lists.page @index}}"
+              aria-controls="subnav-{{@index}}"
+              aria-label="Toggle {{title}} subnavigation"
+              data-subnav-toggle="{{@index}}"
+              data-level1-index="{{@index}}">
+              <span aria-hidden="true" class="subnav-icon">‣</span>
+            </button>
+          {{/unless}}
+        {{else}}
+          {{#isCurrentPage this ../file_name}}
+            <a href="{{path}}" class="font-bold no-underl">{{title}}</a>
+          {{else}}
+            <a href="{{path}}" class="no-underl">{{title}}</a>
+          {{/isCurrentPage}}
+        {{/if}}
+      </div>
+      {{#if (getFirstLevel2Child @index ../lists.page)}}
+        {{#if (shouldShowNestedList this ../file_name ../page_level ../lists.page @index)}}
+          <ul class="pl-4 mt-2 flex flex-col gap-1">
+            {{#each (getLevel2Children @index ../lists.page)}}
+              <li>
+                {{#isCurrentPage this ../../file_name}}
+                  <a href="{{path}}" class="font-bold no-underl">{{title}}</a>
+                {{else}}
+                  <a href="{{path}}" class="no-underl">{{title}}</a>
+                {{/isCurrentPage}}
+              </li>
+            {{/each}}
+          </ul>
+        {{else}}
+          <ul
+            id="subnav-{{@index}}"
+            class="min-w-[200px] bg-white shadow-lg p-4 z-[100] max-w-64 w-full -translate-y-3 flex flex-col gap-2 {{subnavClass this ../file_name ../page_level ../lists.page @index}}"
+            role="menu"
+            aria-label="{{title}} subnavigation">
+            {{#each (getLevel2Children @index ../lists.page)}}
+              <li role="menuitem">
+                {{#isCurrentPage this ../../file_name}}
+                  <a href="{{path}}" class="font-bold no-underl">{{title}}</a>
+                {{else}}
+                  <a href="{{path}}" class="no-underl">{{title}}</a>
+                {{/isCurrentPage}}
+              </li>
+            {{/each}}
+          </ul>
+        {{/if}}
+      {{/if}}
+    </li>
+  {{/ifSame}}
+{{/each}}
+</ul>

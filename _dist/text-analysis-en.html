@@ -1,0 +1,467 @@
+<!DOCTYPE html><html lang="en"><head>
+    <title>Text Analysis | Digital Infrastructure | KNAW Humanities Cluster</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,300&family=IBM+Plex+Sans:ital,wght@0,200;0,500;1,200&family=Crete+Round&display=swap" rel="stylesheet">
+
+    <meta property="og:title" content="Text Analysis">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://di.huc.knaw.nl/text-analysis-en.html">
+    
+    <link rel="shortcut icon" href="images/favicon/favicon_huc.png">
+    <!-- Matomo -->
+    <script>
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://knaw.matomo.cloud/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src='//cdn.matomo.cloud/knaw.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
+  </head>
+  
+  <body class="m-0 p-0 bg-white font-normal text-lg leading-[1.5] text-[#1a1a1a] box-border">
+<a href="#main-content" class="fixed top-2 left-2 z-[9999] -translate-y-[200%] bg-white px-4 py-2 text-[#1a1a1a] underline shadow-[0_0_0_2px_#173630] focus:translate-y-0">Skip to content</a>
+
+<div class="grid w-full mx-auto max-w-[1800px] xl:h-full xl:min-h-screen border-l border-gray-200 lg:grid-cols-[300px_auto] xl:grid-cols-[300px_auto_300px]">
+
+  <header id="colNav"
+    class="flex flex-col justify-start items-stretch bg-white px-4 py-2 lg:px-7 lg:py-0 lg:col-[1/2] lg:row-[1/-1] lg:fixed lg:w-[270px] relative z-50"
+    aria-label="Main navigation" style="overflow: visible;">
+  
+    <div class="relative z-50 lg:fixed lg:w-[270px] lg:h-full lg:pb-24" style="overflow-y: auto; overflow-x: hidden;">
+      <div class="w-full py-2 lg:py-8 flex flex-row items-center lg:min-h-[170px] xl:min-h-[220px]">
+        <div><a href="index.html"><img id="logo" src="images/logo-knaw-digital-infrastructure.png"
+              alt="Logo Humanities Cluster Digital Infrastructure" class="w-40 lg:w-56 h-auto"></a></div>
+  
+        <!-- Hamburger menu button - visible only on screens smaller than lg -->
+        <button
+          id="mobile-menu-toggle"
+          type="button"
+          class="lg:hidden fixed top-4 right-4 z-[110] p-2 text-[#1a1a1a] bg-white cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a]"
+          aria-label="Toggle navigation menu"
+          aria-expanded="false"
+          aria-controls="mobile-navigation">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            <path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+  
+      <!-- Desktop navigation - visible only on lg and larger screens -->
+      <div class="hidden lg:block" style="overflow: visible; position: relative;">
+  
+        <nav id="mainNav" class="relative pt-8 [&_ul]:list-none [&_ul]:m-0 [&_ul]:p-0 [&_ul_li]:ml-0 [&_ul_li]:mr-4 [&_ul_li]:mt-0 [&_ul_li]:mb-0 [&_a]:text-[#1a1a1a] [&_a]:no-underline [&_a]:mb-1 [&_a:hover]:font-bold [&_li_ul]:pl-4 [&_li_ul_li:last-child]:mb-4 [&_button]:cursor-pointer [&_button]:text-lg [&_button]:leading-none [&_button]:w-6 [&_button]:h-6 [&_button]:flex [&_button]:items-center [&_button]:justify-center" style="overflow: visible; position: relative;">
+          <ul>
+              <li class="relative group" style="overflow: visible;">
+                <div class="flex items-center justify-between max-w-52">
+                      <a href="home-en.html" class="no-underl">Home</a>
+                </div>
+              </li>
+              <li class="relative group" style="overflow: visible;">
+                <div class="flex items-center justify-between max-w-52">
+                          <a href="text-analysis-en.html" class="font-bold no-underl" data-level1-link="1" aria-haspopup="true" aria-expanded="true">Expertise</a>
+                </div>
+                    <ul class="pl-4 mt-2 flex flex-col gap-1">
+                        <li>
+                            <a href="text-analysis-en.html" class="font-bold no-underl">Text Analysis</a>
+                        </li>
+                        <li>
+                            <a href="structured-data-en.html" class="no-underl">Structured Data</a>
+                        </li>
+                        <li>
+                            <a href="computer-vision-en.html" class="no-underl">Computer Vision</a>
+                        </li>
+                        <li>
+                            <a href="spatial-computing-en.html" class="no-underl">Spatial Computing</a>
+                        </li>
+                        <li>
+                            <a href="interface-design-en.html" class="no-underl">Interface Design</a>
+                        </li>
+                        <li>
+                            <a href="infrastructure-services-en.html" class="no-underl">Infrastructure Services</a>
+                        </li>
+                    </ul>
+              </li>
+              <li class="relative group" style="overflow: visible;">
+                <div class="flex items-center justify-between max-w-52">
+                            <a href="research-projects-en.html" data-level1-link="8" aria-haspopup="true" aria-expanded="false" class="no-underl">Activities</a>
+                      <button
+                        type="button"
+                        class="ml-2 text-[#1a1a1a] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a] text-xs -translate-y-3"
+                        aria-expanded="false"
+                        aria-controls="subnav-8"
+                        aria-label="Toggle Activities subnavigation"
+                        data-subnav-toggle="8"
+                        data-level1-index="8">
+                        <span aria-hidden="true" class="subnav-icon">‣</span>
+                      </button>
+                </div>
+                    <ul
+                      id="subnav-8"
+                      class="min-w-[200px] bg-white shadow-lg p-4 z-[100] max-w-64 w-full -translate-y-3 flex flex-col gap-2 hidden"
+                      role="menu"
+                      aria-label="Activities subnavigation">
+                        <li role="menuitem">
+                            <a href="research-projects-en.html" class="no-underl">Research Projects</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="infrastructure-projects-en.html" class="no-underl">Infrastructure Projects</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="data-management-en.html" class="no-underl">Data Management</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="working-with-di-en.html" class="no-underl">Working with DI</a>
+                        </li>
+                    </ul>
+              </li>
+              <li class="relative group" style="overflow: visible;">
+                <div class="flex items-center justify-between max-w-52">
+                      <a href="partners-en.html" class="no-underl">Partners</a>
+                </div>
+              </li>
+              <li class="relative group" style="overflow: visible;">
+                <div class="flex items-center justify-between max-w-52">
+                            <a href="mission-en.html" data-level1-link="14" aria-haspopup="true" aria-expanded="false" class="no-underl">About</a>
+                      <button
+                        type="button"
+                        class="ml-2 text-[#1a1a1a] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a] text-xs -translate-y-3"
+                        aria-expanded="false"
+                        aria-controls="subnav-14"
+                        aria-label="Toggle About subnavigation"
+                        data-subnav-toggle="14"
+                        data-level1-index="14">
+                        <span aria-hidden="true" class="subnav-icon">‣</span>
+                      </button>
+                </div>
+                    <ul
+                      id="subnav-14"
+                      class="min-w-[200px] bg-white shadow-lg p-4 z-[100] max-w-64 w-full -translate-y-3 flex flex-col gap-2 hidden"
+                      role="menu"
+                      aria-label="About subnavigation">
+                        <li role="menuitem">
+                            <a href="mission-en.html" class="no-underl">Mission</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="organisation-en.html" class="no-underl">Organisation</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="working-for-di-en.html" class="no-underl">Working for DI</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="contact-en.html" class="no-underl">Contact</a>
+                        </li>
+                        <li role="menuitem">
+                            <a href="colophon-en.html" class="no-underl">Colophon</a>
+                        </li>
+                    </ul>
+              </li>
+          </ul>
+        </nav>
+        <div>
+          <nav class="mt-5 text-sm" aria-label="Choose a language">
+            <a href="index.html" aria-label="Nederlands" class="no-underline text-[#1a1a1a] uppercase mr-2.5">nl</a><a
+              href="home-en.html" aria-label="English" class="no-underline text-[#1a1a1a] uppercase mr-2.5">en</a>
+          </nav>
+        </div>
+      </div>
+  
+      <div class="hidden lg:block">
+        <div
+          class="flex flex-row justify-start flex-none bg-white pt-5 lg:fixed lg:bottom-0 [&_img]:w-auto [&_img]:h-[60px] [&>*]:mb-2.5 [&>*]:mr-4">
+          <div class="founders__hi"><a href="https://www.huygens.knaw.nl" target="_blank">
+            <span class="sr-only">link to </span>
+              <img src="images/logo_huygens.png" alt="Huygens Institute"></a>
+          </div>
+  
+          <div class="founders__ii"><a href="https://iisg.amsterdam" target="_blank">
+              <span class="sr-only">link to </span>
+              <img src="images/logo-iisg.png" alt="Internationaal Instituut voor Sociale Geschiedenis"></a>
+          </div>
+  
+          <div class="founders__me"><a href="https://meertens.knaw.nl" target="_blank">
+            <span class="sr-only">link to </span>
+              <img src="images/logo-meertens-instituut.png" alt="Meertens Instituut"></a>
+          </div>
+  
+        </div>
+      </div>
+    </div>
+  </header>
+  
+  <!-- Mobile navigation dialog - visible only on screens smaller than lg -->
+  <div
+    id="mobile-navigation"
+    role="dialog"
+    aria-modal="true"
+    class="lg:hidden fixed inset-0 z-[90] bg-white -translate-x-full transition-transform duration-300 ease-in-out"
+    aria-label="Mobile navigation"
+    aria-hidden="true"
+    inert>
+    <!-- Close button in top right corner -->
+    <button
+      id="mobile-menu-close"
+      type="button"
+      class="absolute top-4 right-4 z-[100] p-2 text-[#1a1a1a] bg-white cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a]"
+      aria-label="Close navigation menu">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+    
+    <div class="h-full overflow-y-auto px-7 py-8">
+      <div class="w-full py-8 flex flex-row items-center mb-8">
+        <div><a href="index.html"><img src="images/logo-knaw-digital-infrastructure.png"
+              alt="Welcome to the KNAW Humanties Cluster" class="w-56 h-auto"></a></div>
+      </div>
+  
+      <nav id="mobileNav" class="relative [&_ul]:list-none [&_ul]:m-0 [&>ul]:p-0 [&_ul_li]:ml-0 [&_ul_li]:mr-0 [&_ul_li]:mt-0 [&_ul_li]:mb-0 [&_a]:text-[#1a1a1a] [&_a]:no-underline [&_a]:mb-1 [&_a:hover]:font-bold [&_li>ul]:pl-4 [&_li>ul]:mt-1 [&_li>ul]:flex [&_li>ul]:flex-col [&_li>ul]:gap-1 [&_li>ul_li:last-child]:mb-4 [&_button]:hidden [&_ul[role='menu']]:!block [&_ul[role='menu']]:!relative [&_ul[role='menu']]:!translate-y-0 [&_ul[role='menu']]:!shadow-none [&_ul[role='menu']]:!py-0 [&_ul[role='menu']]:!pr-0 [&_ul[role='menu']]:!pl-4 [&_ul[role='menu']]:!mt-1 [&_ul[role='menu']]:!min-w-0 [&_ul[role='menu']]:!max-w-none [&_ul[role='menu']]:!w-full">
+        <ul>
+            <li class="relative group" style="overflow: visible;">
+              <div class="flex items-center justify-between max-w-52">
+                    <a href="home-en.html" class="no-underl">Home</a>
+              </div>
+            </li>
+            <li class="relative group" style="overflow: visible;">
+              <div class="flex items-center justify-between max-w-52">
+                        <a href="text-analysis-en.html" class="font-bold no-underl" data-level1-link="1" aria-haspopup="true" aria-expanded="true">Expertise</a>
+              </div>
+                  <ul class="pl-4 mt-2 flex flex-col gap-1">
+                      <li>
+                          <a href="text-analysis-en.html" class="font-bold no-underl">Text Analysis</a>
+                      </li>
+                      <li>
+                          <a href="structured-data-en.html" class="no-underl">Structured Data</a>
+                      </li>
+                      <li>
+                          <a href="computer-vision-en.html" class="no-underl">Computer Vision</a>
+                      </li>
+                      <li>
+                          <a href="spatial-computing-en.html" class="no-underl">Spatial Computing</a>
+                      </li>
+                      <li>
+                          <a href="interface-design-en.html" class="no-underl">Interface Design</a>
+                      </li>
+                      <li>
+                          <a href="infrastructure-services-en.html" class="no-underl">Infrastructure Services</a>
+                      </li>
+                  </ul>
+            </li>
+            <li class="relative group" style="overflow: visible;">
+              <div class="flex items-center justify-between max-w-52">
+                          <a href="research-projects-en.html" data-level1-link="8" aria-haspopup="true" aria-expanded="false" class="no-underl">Activities</a>
+                    <button
+                      type="button"
+                      class="ml-2 text-[#1a1a1a] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a] text-xs -translate-y-3"
+                      aria-expanded="false"
+                      aria-controls="subnav-8"
+                      aria-label="Toggle Activities subnavigation"
+                      data-subnav-toggle="8"
+                      data-level1-index="8">
+                      <span aria-hidden="true" class="subnav-icon">‣</span>
+                    </button>
+              </div>
+                  <ul
+                    id="subnav-8"
+                    class="min-w-[200px] bg-white shadow-lg p-4 z-[100] max-w-64 w-full -translate-y-3 flex flex-col gap-2 hidden"
+                    role="menu"
+                    aria-label="Activities subnavigation">
+                      <li role="menuitem">
+                          <a href="research-projects-en.html" class="no-underl">Research Projects</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="infrastructure-projects-en.html" class="no-underl">Infrastructure Projects</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="data-management-en.html" class="no-underl">Data Management</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="working-with-di-en.html" class="no-underl">Working with DI</a>
+                      </li>
+                  </ul>
+            </li>
+            <li class="relative group" style="overflow: visible;">
+              <div class="flex items-center justify-between max-w-52">
+                    <a href="partners-en.html" class="no-underl">Partners</a>
+              </div>
+            </li>
+            <li class="relative group" style="overflow: visible;">
+              <div class="flex items-center justify-between max-w-52">
+                          <a href="mission-en.html" data-level1-link="14" aria-haspopup="true" aria-expanded="false" class="no-underl">About</a>
+                    <button
+                      type="button"
+                      class="ml-2 text-[#1a1a1a] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#1a1a1a] text-xs -translate-y-3"
+                      aria-expanded="false"
+                      aria-controls="subnav-14"
+                      aria-label="Toggle About subnavigation"
+                      data-subnav-toggle="14"
+                      data-level1-index="14">
+                      <span aria-hidden="true" class="subnav-icon">‣</span>
+                    </button>
+              </div>
+                  <ul
+                    id="subnav-14"
+                    class="min-w-[200px] bg-white shadow-lg p-4 z-[100] max-w-64 w-full -translate-y-3 flex flex-col gap-2 hidden"
+                    role="menu"
+                    aria-label="About subnavigation">
+                      <li role="menuitem">
+                          <a href="mission-en.html" class="no-underl">Mission</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="organisation-en.html" class="no-underl">Organisation</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="working-for-di-en.html" class="no-underl">Working for DI</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="contact-en.html" class="no-underl">Contact</a>
+                      </li>
+                      <li role="menuitem">
+                          <a href="colophon-en.html" class="no-underl">Colophon</a>
+                      </li>
+                  </ul>
+            </li>
+        </ul>
+      </nav>
+  
+      <div class="mt-8">
+        <nav class="text-sm" aria-label="Choose a language">
+          <a href="index.html" aria-label="Nederlands" class="no-underline text-[#1a1a1a] uppercase mr-2.5">nl</a><a
+            href="home-en.html" aria-label="English" class="no-underline text-[#1a1a1a] uppercase mr-2.5">en</a>
+        </nav>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Mobile navigation backdrop -->
+  <div
+    id="mobile-navigation-backdrop"
+    class="lg:hidden fixed inset-0 z-[80] bg-black bg-opacity-50 opacity-0 pointer-events-none transition-opacity duration-300"
+    aria-hidden="true"></div>
+  <main id="main-content" tabindex="-1" class="flex flex-col items-center justify-between relative bg-[#eaf6f5] lg:col-[2/-1] lg:row-[1/-1] xl:col-[2/-1] xl:row-[1/-1]">
+  
+
+        
+        <nav id="breadCrumb" class="text-sm w-full py-8 flex flex-row items-center lg:min-h-[170px] xl:min-h-[220px] px-7 max-w-3xl" aria-label="Breadcrumb">
+          <ol class="flex flex-row items-center list-none m-0 p-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                    <a href="home-en.html" itemprop="item" class="text-[#183e7c] hover:underline" aria-current="false">
+                      <span itemprop="name">Home</span>
+                    </a>
+                <meta itemprop="position" content="1" />
+                  <span class="mx-2.5" aria-hidden="true">|</span>
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                    <span itemprop="name" class="text-[#1a1a1a]">Expertise</span>
+                <meta itemprop="position" content="2" />
+                  <span class="mx-2.5" aria-hidden="true">|</span>
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                  <span itemprop="name" class="text-[#1a1a1a]">Text Analysis</span>
+                <meta itemprop="position" content="3" />
+              </li>
+          </ol>
+        </nav>   <section class="w-full lg:min-h-[170px] xl:min-h-[220px] px-7 max-w-3xl grow" >
+            
+            
+            <h1 class="leading-[120%] mb-2 text-4xl">Text Analysis</h1>
+            <div class="prose [&_figure_img]:w-full [&_figure_figcaption]:text-sm [&_figure_figcaption]:italic">
+                <p>We have extensive experience with publishing different types of scholarly text collections. These include literary text editions, historical manuscripts, linguistic collections, and particularly large collections of texts from OCR or automated handwriting recognition. The collections we publish are usually enriched with descriptive metadata and other types of enhancements, such as links to structured data and various kinds of annotations. Additionally, our texts are often linked to scanned images of the original pages.</p>
+            <p>We offer researchers different ways to carry out complex searches — for example by using search facets, &#39;fuzzy&#39; text patterns, finding semantically related passages, or by filtering texts based on enrichments with structured data, such as the persons and places mentioned in the text. We also provide the necessary knowledge and software to allow project teams to manage, edit, and visualize their text collections, publish them online, and deposit them in a certified archive to ensure their long-term preservation and access.</p>
+            <p>For all our projects based on enriched texts, we try to strictly separate raw text and enrichments. Texts, in all variations and versions, are stored and made available in our open source <a class="external-link" href="https://github.com/knaw-huc/textrepo">text repository</a>. Enrichments find their place in our <a class="external-link" href="https://github.com/knaw-huc/annorepo">annotation repository</a> in the form of standardized <a class="external-link" href="https://www.w3.org/annotation/">Web Annotations</a>. Any text fragment in the text repository is thus directly retrievable or annotatable online, independent of the original text format. Applications such as a web frontend or an editor can make use of the APIs of these two systems. This is how we build, for example, our own generic web environment for visualizing and searching digital text editions. But our APIs are also directly usable for anyone who wants to query our collection data directly or build their own applications.</p>
+            <h2>Contact</h2>
+            <p><a href="mailto:hennie.brugman@di.huc.knaw.nl">Hennie Brugman</a>, Lead Developer for Team Text (<a class="external-link" href="https://www.researchgate.net/profile/Hennie-Brugman">Research Gate</a>, <a class="external-link" href="https://nl.linkedin.com/in/hennie-brugman-8327369">LinkedIn</a>, <a class="external-link" href="https://pure.knaw.nl/portal/en/persons/h-brugman">Pure</a>)</p>
+            <h2>Related Research Projects</h2>
+            <ul>
+            <li><a class="external-link" href="https://www.nederlab.nl">Nederlab</a> (Meertens Institute) is an online portal for historical research on Dutch language, literature and culture. On the site, researchers can search, view, and analyse millions of Dutch texts.</li>
+            <li><a class="external-link" href="https://republic.huygens.knaw.nl">Republic</a> (Huygens Institute) is an acronym for REsolutions PUBLished In a Computational environment. The goal of the project is to make all of the manuscript and printed resolutions of the Dutch States General (1576-1796) freely available online as full texts and page images.</li>
+            <li><a class="external-link" href="https://globalise.huygens.knaw.nl">Globalise</a> (Huygens Institute). The NWO Groot funded Globalise project will develop an online infrastructure that unlocks the key series of VOC reports (c. 4.7M pages) with advanced research methods. The project uses our text repository infrastructure as a hub to synchronise the enrichment and curation of the historical text transcriptions.</li>
+            <li><a class="external-link" href="https://www.clariah.nl/">CLARIAH Plus</a>. We are making several contributions to this national infrastructure, in particular with respect to NLP tools (e.g. <a class="external-link" href="https://languagemachines.github.io/frog">Frog</a>) and formats (<a class="external-link" href="https://proycon.github.io/folia">FoLiA</a>, <a class="external-link" href="https://annotation.github.io/stam">STAM</a>) and software for creating, publishing and sharing annotations of online collections.</li>
+            <li><a class="external-link" href="https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/">Suriano</a> (Huygens Institute). We have adapted our software stack to the correspondence of Christofforo Suriano. We are developing a semi-automatic workflow for finding and annotating named entities. The Suriano project is an example of how we technically support and publish digital text editions.</li>
+            <li><a class="external-link" href="https://www.huygens.knaw.nl/en/projecten/editem/">eDITem</a> (Huygens Institute). The eDITEM project is working on innovative digital text editionss. Many similar structural components recur across different editions. It is therefore more efficient to develop generic templates that can be used for multiple, future editions. Huygens researchers and DI are collaborating on a template-based ecosystem of tools for building, publishing, and using such digital editions.</li>
+            </ul>
+            <h2>Software and Data</h2>
+            <ul>
+            <li><a class="external-link" href="https://github.com/knaw-huc/textrepo">Text Repository</a> is a backend repository system to store and share text corpora with metadata and versions.</li>
+            <li><a class="external-link" href="https://proycon.github.io/LaMachine">LaMachine</a> (now deprecated) was a unified software distribution for Natural Language Processing. It integrated numerous open-source NLP tools, programming libraries, web services and web applications into a single virtual research environment that could be installed on a wide variety of machines.</li>
+            <li><a class="external-link" href="https://github.com/proycon/analiticcl">analiticcl</a> is a system for spelling correction, normalisation, and  post-OCR correction. It was developed in the scope of the <a class="external-link" href="https://www.goldenagents.org">Golden Agents</a> project.</li>
+            <li><a class="external-link" href="https://github.com/knaw-huc/textannoviz">TextAnnoViz</a> is a flexible and customisable web application for searching and visualising digital (scholarly) text editions.</li>
+            <li><a class="external-link" href="https://github.com/knaw-huc/annorepo">AnnoRepo</a> is our repository for storing and providing W3C Web Annotations. AnnoRepo adheres to W3C standards and also offers additional search capabilities.</li>
+            <li><a class="external-link" href="https://github.com/knaw-huc/Dexter">Dexter</a> is a web application we developed as part of <a class="external-link" href="https://www.clariah.nl">CLARIAH Plus</a>. Researchers can use Dexter to autonomously build, annotate, and share their own virtual research collections.</li>
+            <li><a class="external-link" href="https://annotation.github.io/text-fabric/tf/index.html">Text-Fabric</a> is a tool to process text corpora plus (large) sets of annotations. It serves as a bridge between  researchers and data scientists.</li>
+            <li><a class="external-link" href="https://annotation.github.io/stam">STAM</a> is a standalone data model for stand-off annotation on text. It allows you to describe annotations on text in your own terms. STAM does not prescribe any vocabulary. It comes with practical low-level tooling and offers a foundation upon which further software application for text annotation can be build.</li>
+            </ul>
+            <h2>Publications and Presentations</h2>
+            <ul>
+            <li><a class="external-link" href="https://diode.zone/w/kkrqA4MocGwxyC3s68Zsq7">Video presentation</a> on <a class="external-link" href="https://github.com/proycon/analiticcl">analiticcl</a>.</li>
+            <li>Brugman, H., Reynaert, M., van der Sijs, N., van Stripriaan, R., Tjong Kim Sang, E. &amp; van den Bosch, A. (2016) <a class="external-link" href="https://aclanthology.org/L16-1203/">Nederlab: Towards a Single Portal and Research Environment for Diachronic Dutch Text Corpora</a>. LREC, 25 May 2016 p. 1277-1281</li>
+            <li>Brugman, H. (2024). Multimodal collections as linkable data - what about text collections? DHBenelux 2023, Brussels, May 31 - June 2, 2023.</li>
+            <li>Brugman (2024). Using IIIF and Web Annotations to Publish TEI Editions, Open Up Digital Scholarly Editions Conference, Zürich, January 24 -January 26, 2024.</li>
+            <li>Hennie Brugman, Bram Buitendijk, Hayco De Jong, Bas Leenknegt, Sebastiaan Van Daalen, Dirk Roorda (2024). <a class="external-link" href="https://iiif.io/event/2024/los-angeles/schedule/#134">Publishing and Annotating Text and Images in Large Historical Handwritten Text Recognition Collections</a>. 2024 IIIF Annual Conference, Los Angeles June 4-6, 2024, USA.</li>
+            <li>Koolen, Marijn &amp; Hoekstra, Rik &amp; Nijenhuis, Ida &amp; Sluijter, Ronald &amp; Koert, Rutger &amp; van Gelder, Esther &amp; Brouwer, Gijsjan &amp; Brugman, Hennie. (2020). <a class="external-link" href="https://pure.knaw.nl/portal/en/publications/modelling-resolutions-of-the-dutch-states-general-for-digital-his">Modelling Resolutions of the Dutch States General for Digital Historical Research</a>. </li>
+            <li>Dirk Roorda (2018). <a class="external-link" href="https://brill.com/view/journals/rdj/3/1/article-p27_27.xml">Coding the Hebrew Bible</a>. In <em>Research Data Journal for the Humanities and Social Sciences</em>, Vol 3, Issue 1, pp. 27-41. DOI:<a class="external-link" href="https://doi.org/10.1163/24523666-01000011">10.1163/24523666-01000011</a>.</li>
+            </ul>
+            
+            </div>
+          </section>
+        
+        
+
+    
+    <footer class="mt-24 py-10 w-full flex justify-center bg-[hsl(174,66%,57%)]">
+      <div class="flex flex-col w-full max-w-4xl lg:flex-row [&>*]:w-full [&>*]:mb-8 lg:[&>*]:mb-0">
+    
+        <div class="px-7">
+          <h2 class="font-semibold">Powered by</h2>
+          <p class="mt-0">
+          <a href="https://huc.knaw.nl" target="_blank" class="text-[#1a1a1a]">KNAW Humanities Cluster</a> </p>
+          <ul class="list-disc pl-4 m-0 [&_li]:m-0">
+            <li><a href="https://www.huygens.knaw.nl" target="_blank" class="text-[#1a1a1a]">Huygens Instituut</a></li>
+            <li><a href="https://iisg.amsterdam" target="_blank" class="text-[#1a1a1a]">IISG</a></li>
+            <li><a href="https://meertens.knaw.nl" target="_blank" class="text-[#1a1a1a]">Meertens Instituut</a></li>
+          </ul>
+          <p></p>
+        </div>
+    
+        <div class="px-7">
+          <h2 class="font-semibold">Contact</h2>
+          <p class="mt-0">
+          <a href="mailto:staf@di.huc.knaw.nl"
+            class="text-[#1a1a1a]">staf@di.huc.knaw.nl</a><br><a href="contact-en.html" class="text-[#1a1a1a]">Contact
+            page</a><br><a href="https://www.knaw.nl/privacy" target="_blank" class="text-[#1a1a1a]">Privacy</a><br><a
+            href="toegankelijkheidsverklaring-KNAW-Humanities-Cluster Digital-Infrastructure-20260219.html"
+            class="text-[#1a1a1a]">Accessibility
+            statement</a></p>
+        </div>
+    
+        <div class="px-7">
+          <h2 class="font-semibold">Address</h2>
+          <p class="mt-0">
+          Oudezijds Achterburgwal 185<br>1012 DK Amsterdam</p>
+        </div>
+    
+      </div>
+    </footer>
+    <section class="hidden md:block absolute top-12 right-12 w-24" aria-label="Digital Infrastructure is part of the KNAW humanities cluster">
+      <img src="images/logo-knaw-humanities-cluster.png" alt="Logo KNAW Humanities Cluster" class="w-24 h-auto">
+    </section>
+  </main>
+</div>
+
+
+  <script src="js/navigation.js"></script>
+  </body>
+</html>
+
