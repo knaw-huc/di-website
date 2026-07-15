@@ -38,7 +38,7 @@ At the other end of the spectrum are the artists’ letters, where editors still
 But with an editorial project such as the artists’ letters, it goes further. Editors also add context: who exactly is this person, what is their relationship to the writer, and which artwork is being referred to here. “Editors go through the letters in great detail,” says Brugman. “They say: this is a fellow artist of Vincent van Gogh, and this is the information we have about them.” For AnnoRepo, all these notes – from a short label to a detailed commentary – are simply another annotation, saved in the same format and searchable in the same way. As a result, the Mondrian letters and the Van Gogh letters can now also be searched as a single, combined collection.
 The next step is to allow others to add notes too: fellow researchers, students and colleagues. Brugman sees great potential in this. “I think this could potentially lead to new ways of collaborating online on a collection.” It is still a long-term goal, but the technical foundation is already in place.
 
-![Screenshot Letters Van Gogh](images/Screenshot Letters Van Gogh.png)
+![Screenshot of Van Gogh Letters](images/Screenshot Letters Van Gogh.png)
 
 <h2>AnnoRepo is extremely versatile</h2>
 AnnoRepo is open source and is already being used outside our own projects. For example, we are already in contact with a digital humanities team in Flanders. “It’s an implementation of a web standard,” says Brugman. “As long as you have web annotations, you can use it.”
