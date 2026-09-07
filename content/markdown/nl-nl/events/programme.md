@@ -1,8 +1,5 @@
 ---
 title: IISG / DI collection day
-author: Bas Doppen
-featured_image: menno_rasch.jpg
-summary: 
 publish: true
 ---
 
