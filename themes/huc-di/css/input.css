@@ -52,3 +52,15 @@ a.no-underl {
 .logos img {
   @apply w-[150px] h-auto;
 }
+
+
+.timetable table {
+  table-layout: fixed;
+  width: 100%;
+}
+.timetable th:nth-child(1),
+.timetable td:nth-child(1) { width: 20%; }
+.timetable th:nth-child(2),
+.timetable td:nth-child(2) { width: 55%; }
+.timetable th:nth-child(3),
+.timetable td:nth-child(3) { width: 25%; }

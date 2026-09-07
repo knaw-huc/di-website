@@ -10,7 +10,7 @@ Our staff and developers have  extensive experience in overseeing and implementi
 
 [CLARIAH](https://www.clariah.nl) is the most important infrastructure project we are working on at the moment. In CLARIAH, we are working with several universities and various heritage institutions on facilities for digital humanities research. The project is led by the HuC and our department occupies key technical position in several of its [work packages](https://www.clariah.nl/work-packages), including the leadership of [WP2 Technology](https://www.clariah.nl/wp2-technology).
 
-We are always open to new collaborations and new infrastructure projects for the humanities. Please contact us to discuss what our role and added value could be. For more information: [Arno Bosse](mailto:arno.bosse@di.huc.knaw.nl) (Manager, Funding & Partnerships) or [Menno Rasch](mailto:menno.rasch@di.huc.knaw.nl) (Director DI).
+We are always open to new collaborations and new infrastructure projects for the humanities. Please [contact us](mailto:staf@di.huc.knaw.nl) to discuss what our role and added value could be. 
 
 Examples of current research infrastructure projects with DI participation include:
 

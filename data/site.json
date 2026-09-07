@@ -467,6 +467,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -965,6 +976,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -1471,6 +1493,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -1971,6 +2004,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -2469,6 +2513,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -2973,6 +3028,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -3471,6 +3537,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -3973,6 +4050,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -4473,6 +4561,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -4536,7 +4635,7 @@
         "author": "Menno Rasch",
         "summary": null,
         "publish": true,
-        "htmlContent": "<p>The Digital Infrastructure department of the KNAW Humanities Cluster supports researchers throughout the entire process of a research project in both planning and the management. This starts with the acquisition and consideration of the technical possibilities for a specific research project. We then work with the research team to realise the intended tools and websites. Finally, we take care of the management of the newly developed components. In doing so, we focus on sustainability: we use existing infrastructure as much as possible, we always share code as open source software, we adhere to international standards as much as possible, and we make management as efficient as possible.</p>\n<p>Our developers all have a great affinity with humanities research. Most have years of experience working with research teams and a good understanding of existing tools. In this way, development time can be spent on innovation or expanding and improving existing tools.</p>\n<p>For more information, please contact <a href=\"mailto:arno.bosse@di.huc.knaw.nl\">Arno Bosse</a> (Manager, Funding &amp; Partnerships) or <a href=\"mailto:menno.rasch@di.huc.knaw.nl\">Menno Rasch</a> (Director DI).</p>\n<p>Examples of our current and recently completed research projects include:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/\">Anne Frank manuscripts</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/\">Diplomatieke Getuigenissen</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/\">eCodicesNL</a></li>\n<li><a class=\"external-link\" href=\"https://www.verhalenbank.nl\">Nederlandse VolksverhalenBank</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/\">Correspondence of Christofforo Suriano</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/\">Digital Forensics</a></li>\n<li><a class=\"external-link\" href=\"https://translatin.nl\">TransLatin</a></li>\n</ul>\n",
+        "htmlContent": "<p>The Digital Infrastructure department of the KNAW Humanities Cluster supports researchers throughout the entire process of a research project in both planning and the management. This starts with the acquisition and consideration of the technical possibilities for a specific research project. We then work with the research team to realise the intended tools and websites. Finally, we take care of the management of the newly developed components. In doing so, we focus on sustainability: we use existing infrastructure as much as possible, we always share code as open source software, we adhere to international standards as much as possible, and we make management as efficient as possible.</p>\n<p>Our developers all have a great affinity with humanities research. Most have years of experience working with research teams and a good understanding of existing tools. In this way, development time can be spent on innovation or expanding and improving existing tools.</p>\n<p>For more information, <a href=\"mailto:staf@di.huc.knaw.nl\">please contact us on staf@di.huc.knaw.nl</a></p>\n<p>Examples of our current and recently completed research projects include:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/\">Anne Frank manuscripts</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/\">Diplomatieke Getuigenissen</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/\">eCodicesNL</a></li>\n<li><a class=\"external-link\" href=\"https://www.verhalenbank.nl\">Nederlandse VolksverhalenBank</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/\">Correspondence of Christofforo Suriano</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/\">Digital Forensics</a></li>\n<li><a class=\"external-link\" href=\"https://translatin.nl\">TransLatin</a></li>\n</ul>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "research-projects-en.html",
@@ -4786,7 +4885,7 @@
         "author": "Menno Rasch",
         "summary": "De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt onderzoekers bij het gehele proces van een onderzoeksproject.",
         "publish": true,
-        "htmlContent": "<p>De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt onderzoekers bij het gehele proces van een onderzoeksproject. Zowel bij het plannen als bij het managen. Dat begint bij de acquisitie en het nadenken over de technische mogelijkheden voor een specifiek onderzoek. Vervolgens werken we samen met het onderzoeksteam aan het realiseren van de beoogde tools en websites. Ten slotte verzorgen we het beheer van de nieuw ontwikkelde onderdelen. Hierbij focussen we op duurzaamheid: we gebruiken zo veel mogelijk bestaande infrastructuur; we delen code altijd als Open Source software; we sluiten zo veel mogelijk aan bij internationale standaarden; en we maken het beheer zo efficiënt mogelijk.</p>\n<p>Onze ontwikkelaars hebben allemaal veel affiniteit met geesteswetenschappelijk onderzoek. Ze hebben doorgaans jarenlange ervaring in het samenwerken met onderzoeksteams en hebben goed zicht op bestaande tools. Dat scheelt ontwikkeltijd, die dan besteed kan worden aan innovatie of het uitbreiden en verbeteren van bestaande tools.</p>\n<p>Neem voor meer informatie contact op met <a href=\"mailto:arno.bosse@di.huc.knaw.nl\">Arno Bosse</a> (Acquisition manager) of <a href=\"mailto:menno.rasch@di.huc.knaw.nl\">Menno Rasch</a> (directeur DI).</p>\n<p>Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/\">Anne Frank manuscripts (English edition)</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/\">Diplomatieke Getuigenissen</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/\">eCodicesNL</a></li>\n<li><a class=\"external-link\" href=\"https://www.verhalenbank.nl\">Nederlandse VolksverhalenBank</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/\">Correspondence of Christofforo Suriano</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/\">Digital Forensics</a></li>\n<li><a class=\"external-link\" href=\"https://translatin.nl\">TransLatin</a></li>\n</ul>\n",
+        "htmlContent": "<p>De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt onderzoekers bij het gehele proces van een onderzoeksproject. Zowel bij het plannen als bij het managen. Dat begint bij de acquisitie en het nadenken over de technische mogelijkheden voor een specifiek onderzoek. Vervolgens werken we samen met het onderzoeksteam aan het realiseren van de beoogde tools en websites. Ten slotte verzorgen we het beheer van de nieuw ontwikkelde onderdelen. Hierbij focussen we op duurzaamheid: we gebruiken zo veel mogelijk bestaande infrastructuur; we delen code altijd als Open Source software; we sluiten zo veel mogelijk aan bij internationale standaarden; en we maken het beheer zo efficiënt mogelijk.</p>\n<p>Onze ontwikkelaars hebben allemaal veel affiniteit met geesteswetenschappelijk onderzoek. Ze hebben doorgaans jarenlange ervaring in het samenwerken met onderzoeksteams en hebben goed zicht op bestaande tools. Dat scheelt ontwikkeltijd, die dan besteed kan worden aan innovatie of het uitbreiden en verbeteren van bestaande tools.</p>\n<p>Voor meer informatie, stuur een mail naar <a href=\"mailto:staf@di.huc.knaw.nl\">staf@di.huc.knaw.nl</a>.</p>\n<p>Voorbeelden van lopende en afgeronde onderzoeksprojecten zijn:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://www.annefrank.org/en/about-us/news-and-press/news/2021/9/28/digitised-manuscripts-available-entirely/\">Anne Frank manuscripts (English edition)</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/diplomatic-witnesses/\">Diplomatieke Getuigenissen</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/ecodicesnl-2/\">eCodicesNL</a></li>\n<li><a class=\"external-link\" href=\"https://www.verhalenbank.nl\">Nederlandse VolksverhalenBank</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/\">Correspondence of Christofforo Suriano</a></li>\n<li><a class=\"external-link\" href=\"https://www.huygens.knaw.nl/en/projecten/digital-forensics-for-historical-documents-2/\">Digital Forensics</a></li>\n<li><a class=\"external-link\" href=\"https://translatin.nl\">TransLatin</a></li>\n</ul>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "onderzoeksprojecten-nl.html",
@@ -4973,6 +5072,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -5036,7 +5146,7 @@
         "author": "Menno Rasch",
         "summary": "Infrastructure projects, both national and European, are an important part of the Digital Infrastructure section of the KNAW Humanities Cluster (HuC). These projects contribute directly to the department's goal of creating an infrastructure for humanities research.",
         "publish": true,
-        "htmlContent": "<p>Infrastructure projects are an important part of the Digital Infrastructure department. These projects contribute directly to the department&#39;s goal of creating a European and national infrastructure for humanities research. These are almost always projects in which there is intensive collaboration with other parties from the humanities or heritage sector.</p>\n<p>Our staff and developers have  extensive experience in overseeing and implementing complex projects of this kind. The output of such projects are often reusable components. Thus, even after these projects have been completed, the our department usually continues to play a major role in managing the delivered infrastructure. A large collection of our open source software can be found on our <a class=\"external-link\" href=\"https://github.com/knaw-huc\">GitHub</a> repository. </p>\n<p><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH</a> is the most important infrastructure project we are working on at the moment. In CLARIAH, we are working with several universities and various heritage institutions on facilities for digital humanities research. The project is led by the HuC and our department occupies key technical position in several of its <a class=\"external-link\" href=\"https://www.clariah.nl/work-packages\">work packages</a>, including the leadership of <a class=\"external-link\" href=\"https://www.clariah.nl/wp2-technology\">WP2 Technology</a>.</p>\n<p>We are always open to new collaborations and new infrastructure projects for the humanities. Please contact us to discuss what our role and added value could be. For more information: <a href=\"mailto:arno.bosse@di.huc.knaw.nl\">Arno Bosse</a> (Manager, Funding &amp; Partnerships) or <a href=\"mailto:menno.rasch@di.huc.knaw.nl\">Menno Rasch</a> (Director DI).</p>\n<p>Examples of current research infrastructure projects with DI participation include:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://globalise.huygens.knaw.nl\">GLOBALISE</a> 2022-2027, Funding NWO-Groot. The goal of the project is to develop an online infrastructure to unlock key series of Dutch East India Company documents with advanced new research methods. The DI department is providing handwritten text recognition (HTR), a text repository, and further front &amp; back-end development.</li>\n<li><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH-Plus</a>, 2018-2022, Funding: NWO-Infrastructuur.\nDI is contributing technical expertise and collaborating with various universities and heritage institutions to develop infrastructure for digital humanities research. The HuC is the leader of a large number of work packages in CLARIAH. The consortium PI is the director of the Huygens Institute at the HuC.</li>\n<li><a class=\"external-link\" href=\"https://www.goldenagents.org\">Golden Agents</a> 2016-2022, Funding: NWO-Groot. Infrastructure combining semantic web technologies with multi-agent technologies. The infrastructure makes it possible to study the relationships and interactions between producers and consumers and between the various branches of the creative industry in the Dutch Golden Age.</li>\n<li><a class=\"external-link\" href=\"https://republic.huygens.knaw.nl\">REPUBLIC</a> 2018-2023, Funding: NWO-Groot. REPUBLIC stands for REsolutions PUBLished In a Computational environment. The project provides full-text, online access to all written and printed resolutions of the States General (1576-1796). The project is a collaboration between the Huygens Institute, the HuC-DI department, and the National Archives in The Hague.</li>\n<li><a class=\"external-link\" href=\"https://www.nederlab.nl/\">Nederlab</a> 2013-2018, Funding: NWO-Groot. Web application that allows researchers to search and analyse scattered digital historical corpora in an unified environment; this applies to both the texts themselves and their metadata.</li>\n<li><a class=\"external-link\" href=\"https://www.oorlogvoorderechter.nl/\">Oorlog voor de Rechter</a> 2023-2027, Funding: ministries of VWS, OCW and Justice. \nThe aim of this project is to digitise the CABR and make the digitised records readable and searchable. The DI department will help make all texts on the scans - both handwritten and typed - machine-readable; recognise certain documents - such as decrees, photographs, statements of intelligence etc; and link names, places and events to external collections and files through automatic pattern recognition. The project is a collaboration between Huygens Institute, the DI Department, National Archives, Netwerk Oorlogsbronnen and NIOD.</li>\n</ul>\n",
+        "htmlContent": "<p>Infrastructure projects are an important part of the Digital Infrastructure department. These projects contribute directly to the department&#39;s goal of creating a European and national infrastructure for humanities research. These are almost always projects in which there is intensive collaboration with other parties from the humanities or heritage sector.</p>\n<p>Our staff and developers have  extensive experience in overseeing and implementing complex projects of this kind. The output of such projects are often reusable components. Thus, even after these projects have been completed, the our department usually continues to play a major role in managing the delivered infrastructure. A large collection of our open source software can be found on our <a class=\"external-link\" href=\"https://github.com/knaw-huc\">GitHub</a> repository. </p>\n<p><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH</a> is the most important infrastructure project we are working on at the moment. In CLARIAH, we are working with several universities and various heritage institutions on facilities for digital humanities research. The project is led by the HuC and our department occupies key technical position in several of its <a class=\"external-link\" href=\"https://www.clariah.nl/work-packages\">work packages</a>, including the leadership of <a class=\"external-link\" href=\"https://www.clariah.nl/wp2-technology\">WP2 Technology</a>.</p>\n<p>We are always open to new collaborations and new infrastructure projects for the humanities. Please <a href=\"mailto:staf@di.huc.knaw.nl\">contact us</a> to discuss what our role and added value could be. </p>\n<p>Examples of current research infrastructure projects with DI participation include:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://globalise.huygens.knaw.nl\">GLOBALISE</a> 2022-2027, Funding NWO-Groot. The goal of the project is to develop an online infrastructure to unlock key series of Dutch East India Company documents with advanced new research methods. The DI department is providing handwritten text recognition (HTR), a text repository, and further front &amp; back-end development.</li>\n<li><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH-Plus</a>, 2018-2022, Funding: NWO-Infrastructuur.\nDI is contributing technical expertise and collaborating with various universities and heritage institutions to develop infrastructure for digital humanities research. The HuC is the leader of a large number of work packages in CLARIAH. The consortium PI is the director of the Huygens Institute at the HuC.</li>\n<li><a class=\"external-link\" href=\"https://www.goldenagents.org\">Golden Agents</a> 2016-2022, Funding: NWO-Groot. Infrastructure combining semantic web technologies with multi-agent technologies. The infrastructure makes it possible to study the relationships and interactions between producers and consumers and between the various branches of the creative industry in the Dutch Golden Age.</li>\n<li><a class=\"external-link\" href=\"https://republic.huygens.knaw.nl\">REPUBLIC</a> 2018-2023, Funding: NWO-Groot. REPUBLIC stands for REsolutions PUBLished In a Computational environment. The project provides full-text, online access to all written and printed resolutions of the States General (1576-1796). The project is a collaboration between the Huygens Institute, the HuC-DI department, and the National Archives in The Hague.</li>\n<li><a class=\"external-link\" href=\"https://www.nederlab.nl/\">Nederlab</a> 2013-2018, Funding: NWO-Groot. Web application that allows researchers to search and analyse scattered digital historical corpora in an unified environment; this applies to both the texts themselves and their metadata.</li>\n<li><a class=\"external-link\" href=\"https://www.oorlogvoorderechter.nl/\">Oorlog voor de Rechter</a> 2023-2027, Funding: ministries of VWS, OCW and Justice. \nThe aim of this project is to digitise the CABR and make the digitised records readable and searchable. The DI department will help make all texts on the scans - both handwritten and typed - machine-readable; recognise certain documents - such as decrees, photographs, statements of intelligence etc; and link names, places and events to external collections and files through automatic pattern recognition. The project is a collaboration between Huygens Institute, the DI Department, National Archives, Netwerk Oorlogsbronnen and NIOD.</li>\n</ul>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "infrastructure-projects-en.html",
@@ -5286,7 +5396,7 @@
         "author": "Menno Rasch",
         "summary": "Infrastructurele projecten, zowel nationaal als Europees, vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek.",
         "publish": true,
-        "htmlContent": "<p>Infrastructurele projecten vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek. Het betreft hier zowel Europese als nationale projecten. Het betreft hier bijna altijd projecten waarin intensief wordt samengewerkt met andere partijen uit de geesteswetenschappen of erfgoedsector.</p>\n<p>Onze medewerkers hebben uitgebreide ervaring opgedaan in het opzetten en uitvoeren van complexe infrastructuurprojecten. Vaak worden ook specifieke projecten ingezet om te komen tot herbruikbare componenten, op die manier dragen dit soort projecten ook bij aan het opbouwen van deze infrastructuur. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.</p>\n<p>Op dit moment is <a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH</a> daar het belangrijkste voorbeeld van. In CLARIAH werkt DI samen met meerdere universiteiten en diverse erfgoedinstellingen aan voorzieningen voor de digital humanities. DI neemt een technische sleutelpositie in en het HuC is trekker van een groot aantal <a class=\"external-link\" href=\"https://www.clariah.nl/work-packages\">werkpaketten</a>, inclusief de leiding van <a class=\"external-link\" href=\"https://www.clariah.nl/wp2-technology\">WP2 Technologie</a>.</p>\n<p>DI ontwikkelt software en infrastructuur zo duurzaam mogelijk. Waar mogelijk gebruiken we bestaande tools en software. We bouwen door op generieke componenten voor specifieke onderzoeksvragen. Bij de verdere ontwikkeling van software zoeken we altijd samenwerking met andere partijen. We stellen de software altijd beschikbaar op open source. Een grote verzameling Open Source software projecten is te vinden op <a class=\"external-link\" href=\"https://github.com/knaw-huc\">GitHub</a>. </p>\n<p>De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn. Voor meer informatie: <a href=\"mailto:arno.bosse@di.huc.knaw.nl\">Arno Bosse</a> (Acquisitie manager en lid van het Grant Team HuC) of <a href=\"mailto:menno.rasch@di.huc.knaw.nl\">Menno Rasch</a> (directeur DI).</p>\n<p>Voorbeelden van belangrijke infrastructurele projecten zijn:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://globalise.huygens.knaw.nl\">GLOBALISE</a> 2022-2027, Financiering NWO-Groot. Het doel van GLOBALISE is het ontwikkelen van een online infrastructuur om belangrijke series documenten van de Verenigde Oost-Indische Compagnie te ontsluiten met geavanceerde nieuwe onderzoeksmethoden. De DI afdeling levert handgeschreven tekst herkenning (HTR), een tekst repository, en verdere front &amp; back-end ontwikkeling.</li>\n<li><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH+</a>, 2018-2022, NWO-Infrastructuur: DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. Wij nemen hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten in het consortium. En de PI van CLARIAH is de directeur van het Huygens Instituut, een van de drie oprichters van het HuC.</li>\n<li><a class=\"external-link\" href=\"https://www.goldenagents.org\">Golden Agents</a> 2016-2022, Investeringen NWO-Groot:\nInfrastructuur waarin semantic web-technologieën worden gecombineerd met multi-agent-technologieën. Deze duurzame infrastructuur maakt het mogelijk om de relaties en interacties tussen producenten en consumenten en tussen de verschillende bedrijfstakken van de creatieve industrie te bestuderen over de lange Gouden Eeuw.</li>\n<li><a class=\"external-link\" href=\"https://republic.huygens.knaw.nl\">REPUBLIC</a> 2018-2023, Investeringen NWO-Groot: REPUBLIC staat voor REsolutions PUBLished In a Computational environment. In dit project worden alle geschreven en gedrukte resoluties van de Staten-Generaal (1576-1796) fulltext en online ontsloten. Het project is een samenwerking tussen het Huygens Instituut, het HuC-DI afdeling, en het Nationaal Archief in Den Haag.</li>\n<li><a class=\"external-link\" href=\"https://www.nederlab.nl/\">Nederlab</a> 2013-2018, Investeringen NWO-Groot:\nWebinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.</li>\n<li><a class=\"external-link\" href=\"https://www.oorlogvoorderechter.nl/\">Oorlog voor de Rechter</a> 2023-2027, Investeringen ministeries van VWS, OCW en Justitie: \nHet doel van dit project is om het CABR te digitaliseren en de gedigitaliseerde archiefstukken leesbaar en doorzoekbaar te maken. De DI afdeling helpt om alle teksten op de scans - zowel handgeschreven als getypt - machineleesbaar te maken; bepaalde documenten - zoals besluiten, foto’s, staten van inlichtingen etc - te herkennen; en door middel van automatische patroonherkenning namen, plaatsen en gebeurtenissen te koppelen aan externe collecties en bestanden. Het project is een samenwerking tussen het Huygens Instituut, de afdeling DI, het Nationaal Archief, het Netwerk Oorlogsbronnen en het NIOD.</li>\n</ul>\n",
+        "htmlContent": "<p>Infrastructurele projecten vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek. Het betreft hier zowel Europese als nationale projecten. Het betreft hier bijna altijd projecten waarin intensief wordt samengewerkt met andere partijen uit de geesteswetenschappen of erfgoedsector.</p>\n<p>Onze medewerkers hebben uitgebreide ervaring opgedaan in het opzetten en uitvoeren van complexe infrastructuurprojecten. Vaak worden ook specifieke projecten ingezet om te komen tot herbruikbare componenten, op die manier dragen dit soort projecten ook bij aan het opbouwen van deze infrastructuur. Ook na afloop van deze projecten houdt de afdeling DI doorgaans een grote rol in het beheer van de opgeleverde infrastructuur.</p>\n<p>Op dit moment is <a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH</a> daar het belangrijkste voorbeeld van. In CLARIAH werkt DI samen met meerdere universiteiten en diverse erfgoedinstellingen aan voorzieningen voor de digital humanities. DI neemt een technische sleutelpositie in en het HuC is trekker van een groot aantal <a class=\"external-link\" href=\"https://www.clariah.nl/work-packages\">werkpaketten</a>, inclusief de leiding van <a class=\"external-link\" href=\"https://www.clariah.nl/wp2-technology\">WP2 Technologie</a>.</p>\n<p>DI ontwikkelt software en infrastructuur zo duurzaam mogelijk. Waar mogelijk gebruiken we bestaande tools en software. We bouwen door op generieke componenten voor specifieke onderzoeksvragen. Bij de verdere ontwikkeling van software zoeken we altijd samenwerking met andere partijen. We stellen de software altijd beschikbaar op open source. Een grote verzameling Open Source software projecten is te vinden op <a class=\"external-link\" href=\"https://github.com/knaw-huc\">GitHub</a>. </p>\n<p>De afdeling Digitale Infrastructuur staat altijd open voor nieuwe samenwerkingen en nieuwe infrastructuurprojecten voor de geesteswetenschappen. Neem contact met ons op om te bespreken wat onze rol en toegevoegde waarde kan zijn. Voor meer informatie, stuur een mail naar <a href=\"mailto:staf@di.huc.knaw.nl\">staf@di.huc.knaw.nl</a>.</p>\n<p>Voorbeelden van belangrijke infrastructurele projecten zijn:</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://globalise.huygens.knaw.nl\">GLOBALISE</a> 2022-2027, Financiering NWO-Groot. Het doel van GLOBALISE is het ontwikkelen van een online infrastructuur om belangrijke series documenten van de Verenigde Oost-Indische Compagnie te ontsluiten met geavanceerde nieuwe onderzoeksmethoden. De DI afdeling levert handgeschreven tekst herkenning (HTR), een tekst repository, en verdere front &amp; back-end ontwikkeling.</li>\n<li><a class=\"external-link\" href=\"https://www.clariah.nl\">CLARIAH+</a>, 2018-2022, NWO-Infrastructuur: DI werkt samen met verschillende universiteiten en erfgoedinstellingen aan voorzieningen voor de digitale geestwetenschappen. Wij nemen hierbij een technische sleutelpositie in. Het HuC is trekker van een groot aantal werkpakketten in het consortium. En de PI van CLARIAH is de directeur van het Huygens Instituut, een van de drie oprichters van het HuC.</li>\n<li><a class=\"external-link\" href=\"https://www.goldenagents.org\">Golden Agents</a> 2016-2022, Investeringen NWO-Groot:\nInfrastructuur waarin semantic web-technologieën worden gecombineerd met multi-agent-technologieën. Deze duurzame infrastructuur maakt het mogelijk om de relaties en interacties tussen producenten en consumenten en tussen de verschillende bedrijfstakken van de creatieve industrie te bestuderen over de lange Gouden Eeuw.</li>\n<li><a class=\"external-link\" href=\"https://republic.huygens.knaw.nl\">REPUBLIC</a> 2018-2023, Investeringen NWO-Groot: REPUBLIC staat voor REsolutions PUBLished In a Computational environment. In dit project worden alle geschreven en gedrukte resoluties van de Staten-Generaal (1576-1796) fulltext en online ontsloten. Het project is een samenwerking tussen het Huygens Instituut, het HuC-DI afdeling, en het Nationaal Archief in Den Haag.</li>\n<li><a class=\"external-link\" href=\"https://www.nederlab.nl/\">Nederlab</a> 2013-2018, Investeringen NWO-Groot:\nWebinterface die onderzoekers in staat stelt verspreide digitale historische corpora als eenheid te doorzoeken en te analyseren; dit geldt zowel voor de teksten zelf als voor de metadata.</li>\n<li><a class=\"external-link\" href=\"https://www.oorlogvoorderechter.nl/\">Oorlog voor de Rechter</a> 2023-2027, Investeringen ministeries van VWS, OCW en Justitie: \nHet doel van dit project is om het CABR te digitaliseren en de gedigitaliseerde archiefstukken leesbaar en doorzoekbaar te maken. De DI afdeling helpt om alle teksten op de scans - zowel handgeschreven als getypt - machineleesbaar te maken; bepaalde documenten - zoals besluiten, foto’s, staten van inlichtingen etc - te herkennen; en door middel van automatische patroonherkenning namen, plaatsen en gebeurtenissen te koppelen aan externe collecties en bestanden. Het project is een samenwerking tussen het Huygens Instituut, de afdeling DI, het Nationaal Archief, het Netwerk Oorlogsbronnen en het NIOD.</li>\n</ul>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "infrastructuurprojecten-nl.html",
@@ -5471,6 +5581,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -5973,6 +6094,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -6473,6 +6605,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -6969,6 +7112,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -7471,6 +7625,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -7971,6 +8136,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -8285,7 +8461,7 @@
         "summary": "DI focust zich op het ondersteunen van de onderzoekers van het Humanities Cluster. Bij DI werken bijna 30 personen.",
         "teamList2": true,
         "publish": true,
-        "htmlContent": "<p>Begin 2018 zijn de IT-afdelingen van de drie instituten van het HuC samengevoegd tot een groep, de afdeling Digitale Infrastructuur (DI) van het KNAW Humanities Cluster. Daarmee is een unieke afdeling ontstaan op het gebied van infrastructuur voor de geesteswetenschappen, een van de grootste in Europa.</p>\n<p>DI focust zich op het ondersteunen van de onderzoekers van het Humanities Cluster. Via doorgaans extern gefinancierde projecten (vooral door NWO, maar ook steeds meer Europese fondsen) bouwen wij aan generieke infrastructuur en specifieke onderzoekssoftware. Door deze projecten zijn er innige samenwerkingen ontstaan met erfgoedinstituten zoals de Koninklijke Bibliotheek, het Nationaal Archief, de meeste Nederlandse universiteiten, andere wetenschappelijke organisaties zoals DANS en onderzoeksinstituten in Europa.</p>\n<p>De in projecten gerealiseerde infrastructuur maken we beschikbaar voor alle geesteswetenschappelijke onderzoekers. Dat gebeurt niet alleen door het delen van code, data en collecties (open source en volgens de FAIR-principes), maar ook door het beschikbaar stellen van infrastructuur. De afdeling DI beheert daarom een veelheid aan websites, tools en digitale collecties.</p>\n<p>Bij DI werken bijna 30 personen. Naast een directeur en een kleine staf voor planning, consultancy en communicatie, werken de meeste collega’s verdeeld over zes expertise gebieden: <a href=\"infrastructuur-diensten-nl.html\">Infrastructuur Diensten</a>, <a href=\"gestructureerde-data-nl.html.html\">Gestructureerde en Linked Data</a>, <a href=\"tekstanalyse-nl.html\">Tekstanalyse</a>, <a href=\"beeldverwerking-nl.html\">Beeldverwerking</a>, <a href=\"geografische-analyse-nl.html\">Gegrafische Analyse</a> en <a href=\"interface-design-nl.html\">Interface design</a>. Eén team focust op het beheer van de infrastructuur, software en data. De andere teams bouwen software en bestaan dus volledig uit software engineers. Elke engineer heeft naast ruime ervaring met het werken in geesteswetenschappelijk onderzoek ook een unieke specialisatie.</p>\n<p>Zie ook : <a href=\"werken-bij-di-nl.html\">Werken bij DI</a> en <a class=\"external-link\" href=\"https://communicatie.huc.knaw.nl/nl/organisaties/digitale-infrastructuur/digital-infrastructure\">Intranet</a> (login verplicht)</p>\n",
+        "htmlContent": "<p>Begin 2018 zijn de IT-afdelingen van de drie instituten van het HuC samengevoegd tot een groep, de afdeling Digitale Infrastructuur (DI) van het KNAW Humanities Cluster. Daarmee is een unieke afdeling ontstaan op het gebied van infrastructuur voor de geesteswetenschappen, een van de grootste in Europa.</p>\n<p>DI focust zich op het ondersteunen van de onderzoekers van het Humanities Cluster. Via doorgaans extern gefinancierde projecten (vooral door NWO, maar ook steeds meer Europese fondsen) bouwen wij aan generieke infrastructuur en specifieke onderzoekssoftware. Door deze projecten zijn er innige samenwerkingen ontstaan met erfgoedinstituten zoals de Koninklijke Bibliotheek, het Nationaal Archief, de meeste Nederlandse universiteiten, andere wetenschappelijke organisaties zoals DANS en onderzoeksinstituten in Europa.</p>\n<p>De in projecten gerealiseerde infrastructuur maken we beschikbaar voor alle geesteswetenschappelijke onderzoekers. Dat gebeurt niet alleen door het delen van code, data en collecties (open source en volgens de FAIR-principes), maar ook door het beschikbaar stellen van infrastructuur. De afdeling DI beheert daarom een veelheid aan websites, tools en digitale collecties.</p>\n<p>Bij DI werken bijna 30 personen. Naast een directeur en een kleine staf voor planning, consultancy en communicatie, werken de meeste collega’s verdeeld over zes expertise gebieden: <a href=\"infrastructuur-diensten-nl.html\">Infrastructuur Diensten</a>, <a href=\"gestructureerde-data-nl.html\">Gestructureerde en Linked Data</a>, <a href=\"tekstanalyse-nl.html\">Tekstanalyse</a>, <a href=\"beeldverwerking-nl.html\">Beeldverwerking</a>, <a href=\"geografische-analyse-nl.html\">Geografische Analyse</a> en <a href=\"interface-design-nl.html\">Interface design</a>. Eén team focust op het beheer van de infrastructuur, software en data. De andere teams bouwen software en bestaan dus volledig uit software engineers. Elke engineer heeft naast ruime ervaring met het werken in geesteswetenschappelijk onderzoek ook een unieke specialisatie.</p>\n<p>Zie ook : <a href=\"werken-bij-di-nl.html\">Werken bij DI</a> en <a class=\"external-link\" href=\"https://communicatie.huc.knaw.nl/nl/organisaties/digitale-infrastructuur/digital-infrastructure\">Intranet</a> (login verplicht)</p>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "de-afdeling-nl.html",
@@ -8470,6 +8646,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -8972,6 +9159,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -9472,6 +9670,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -9970,6 +10179,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -11299,6 +11519,268 @@
         "isLang_nl": true,
         "page_order": 99999,
         "page_level": 0,
+        "name": "programme",
+        "type": "events",
+        "title": "IISG / DI collection day",
+        "author": "Bas Doppen",
+        "featured_image": "menno_rasch.jpg",
+        "summary": null,
+        "publish": true,
+        "htmlContent": "<h2>Time table</h2>\n<p><strong>Afternoon duration</strong>: 1200-1730</p>\n<div class=\"timetable\">\n\n<table>\n<thead>\n<tr>\n<th><strong>Time</strong></th>\n<th><strong>Program</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>12:00 - 13:00</td>\n<td>Walk in/Lunch</td>\n<td></td>\n</tr>\n<tr>\n<td>13:00 - 13:10</td>\n<td>Plenary start and presentation: Welcome/Rationale behind this afternoon/Explanation about the form</td>\n<td>Robert</td>\n</tr>\n<tr>\n<td>13:10 – 13:25</td>\n<td>General overview IISG Collections and departments</td>\n<td>Eric</td>\n</tr>\n<tr>\n<td>13:25 - 13:40</td>\n<td>General overview DI (teams)</td>\n<td>Marielle</td>\n</tr>\n<tr>\n<td>13:40 – 13:45</td>\n<td>Changeover to poster sessions</td>\n<td></td>\n</tr>\n<tr>\n<td>13:45 - 14:35</td>\n<td>Block 1 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>14:35 - 14:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>14:45 - 15:35</td>\n<td>Block 2 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>15:35 - 15:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>15:45 - 16:35</td>\n<td>Block 3 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>16:35 - 16:40</td>\n<td>Changeover to plenary setting</td>\n<td></td>\n</tr>\n<tr>\n<td>16:40 - 16:50</td>\n<td>Plenary end of presentation blocks (some end conclusions/next steps)</td>\n<td>Zefi</td>\n</tr>\n<tr>\n<td>16:50 – 18:00</td>\n<td>Drinks</td>\n<td></td>\n</tr>\n</tbody></table>\n</div>\n\n<h2>Block 1 posters 13:45 – 14:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>1.1</td>\n<td>Processing of born digital archives project</td>\n<td>Avigail Friedland</td>\n</tr>\n<tr>\n<td>1.2</td>\n<td>HTR, OCR (Loghi)</td>\n<td>Stefan</td>\n</tr>\n<tr>\n<td>1.3</td>\n<td>Access and reuse terms in descriptive metadata – conceptual modelling and implementation</td>\n<td>Zefi Kavvadia and ???</td>\n</tr>\n<tr>\n<td>1.4</td>\n<td>HisGIS</td>\n<td>Rombert, Marlies</td>\n</tr>\n<tr>\n<td>1.5</td>\n<td>Serving historical digital text editions</td>\n<td>Sebastiaan</td>\n</tr>\n</tbody></table>\n<h2>Block 2 posters 14:45 – 15:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>2.1</td>\n<td>Technical infrastructure and collection documentation</td>\n<td>Julia van der Knaap</td>\n</tr>\n<tr>\n<td>2.2</td>\n<td>How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project)</td>\n<td>Robert Gillesse</td>\n</tr>\n<tr>\n<td>2.3</td>\n<td>Cybersecurity + Anubis implementation</td>\n<td>Mario Mieldijk and Gordan Cupac</td>\n</tr>\n<tr>\n<td>2.4</td>\n<td>Editor, Procrustus and Panoptes pipeline</td>\n<td>Jarno Bakker and Kerim Meijer</td>\n</tr>\n<tr>\n<td>2.5</td>\n<td>MARC metadata improvement project</td>\n<td>Liliana</td>\n</tr>\n</tbody></table>\n<h2>Block 3 posters 15:45 – 16:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>3.1</td>\n<td>Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface</td>\n<td>Alaina Rose and Vera</td>\n</tr>\n<tr>\n<td>3.2</td>\n<td>Sessie digitalisering Thijs</td>\n<td>Thijs van Leeuwen</td>\n</tr>\n<tr>\n<td>3.3</td>\n<td>Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff () collections</td>\n<td>Mieke Stroo and Daniel van Heusden</td>\n</tr>\n<tr>\n<td>3.4</td>\n<td>Using LLMs to enhance existing collections</td>\n<td>Luuk (Hennie)</td>\n</tr>\n<tr>\n<td>3.5</td>\n<td>A shelf space dashboard</td>\n<td>Eva van Oene and Wendy Ettema</td>\n</tr>\n</tbody></table>\n",
+        "publish_date": "2022-01-01",
+        "feautred_img": "",
+        "file_name": "iisg-di-collection-day-nl.html",
+        "lists": {
+            "page": [
+                {
+                    "title": "Home",
+                    "filename": "index.html",
+                    "path": "index.html",
+                    "levels": 1,
+                    "directSubpages": false,
+                    "summary": "Wij maken duurzame infrastructuur om innovatief onderzoek te bevorderen en mensen, data en collecties met elkaar te verbinden.",
+                    "featured_image": "Box-with-Prize-Papers.jpg"
+                },
+                {
+                    "title": "Expertise",
+                    "filename": "expertise-nl.html",
+                    "path": "expertise-nl.html",
+                    "levels": 1,
+                    "directSubpages": true,
+                    "summary": "",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Tekstanalyse",
+                    "filename": "tekstanalyse-nl.html",
+                    "path": "tekstanalyse-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "We hebben ruime ervaring met het publiceren van verschillende typen wetenschappelijke tekstcollecties, zowel literaire tekstedities, historische manuscripten, taalkundige collecties en met name ook grote collecties met teksten uit OCR of automatische handschriftherkenning.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Gestructureerde Data",
+                    "filename": "gestructureerde-data-nl.html",
+                    "path": "gestructureerde-data-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Data bestaan in vele soorten en vormen. Wij brengen de data die van belang zijn voor een project zorgvuldig in een format waarmee de tools uit de voeten kunnen.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Beeldverwerking",
+                    "filename": "beeldverwerking-nl.html",
+                    "path": "beeldverwerking-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Onze grootste expertise in computer vision is het maken van doorzoekbare, full-text transcripties van historische manuscripten en gedrukte bronnen.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Geografische Analyse",
+                    "filename": "geografische-analyse-nl.html",
+                    "path": "geografische-analyse-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Wij ontwikkelen methoden om geografische informatie, direct gerelateerd aan andere typen informatie, in kaart te brengen.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Interface Design",
+                    "filename": "interface-design-nl.html",
+                    "path": "interface-design-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Wij zijn gespecialiseerd in gebruikersonderzoek, online gebruiksvriendelijkheid, interface-ontwerp, webpublicatie, datavisualisatie en project branding.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Infrastructuur Diensten",
+                    "filename": "infrastructuur-diensten-nl.html",
+                    "path": "infrastructuur-diensten-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "HuC-DI levert een krachtige, stabiele, veilige en multifunctionele infrastructuur voor individuele onderzoekers, onderzoeksgroepen en collectieverwerkende instituten.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Activiteiten",
+                    "filename": "activiteiten-nl.html",
+                    "path": "activiteiten-nl.html",
+                    "levels": 1,
+                    "directSubpages": true,
+                    "summary": "",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Onderzoeksprojecten",
+                    "filename": "onderzoeksprojecten-nl.html",
+                    "path": "onderzoeksprojecten-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "De afdeling Digitale Infrastructuur van het KNAW Humanities Cluster ondersteunt onderzoekers bij het gehele proces van een onderzoeksproject.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Infrastructuurprojecten",
+                    "filename": "infrastructuurprojecten-nl.html",
+                    "path": "infrastructuurprojecten-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Infrastructurele projecten, zowel nationaal als Europees, vormen een belangrijk onderdeel van de afdeling Digitale Infrastructuur van het KNAW Humanities Cluster. Deze projecten dragen direct bij aan het doel van de afdeling om te komen tot een infrastructuur voor geesteswetenschappelijk onderzoek.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Beheren digitale data",
+                    "filename": "beheren-digitale-data-nl.html",
+                    "path": "beheren-digitale-data-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Werken met DI",
+                    "filename": "werken-met-di-nl.html",
+                    "path": "werken-met-di-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "De afdeling Digitale Infrastructuur werkt samen met onderzoekers en staat daarom altijd open voor nieuwe ideeën en projecten. Ook passen we de bestaande oplossingen graag toe in nieuwe onderzoeksprojecten.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Partners",
+                    "filename": "partners-nl.html",
+                    "path": "partners-nl.html",
+                    "levels": 1,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Organisatie",
+                    "filename": "organisatie-nl.html",
+                    "path": "organisatie-nl.html",
+                    "levels": 1,
+                    "directSubpages": true,
+                    "summary": "",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Missie",
+                    "filename": "missie-nl.html",
+                    "path": "missie-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "De afdeling Digitale Infrastructuur an het KNAW Humanities Cluster bouwt duurzame infrastructuur voor innovatief geesteswetenschappelijk onderzoek in Nederland en daarbuiten.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "De afdeling",
+                    "filename": "de-afdeling-nl.html",
+                    "path": "de-afdeling-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "DI focust zich op het ondersteunen van de onderzoekers van het Humanities Cluster. Bij DI werken bijna 30 personen.",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Werken bij DI",
+                    "filename": "werken-bij-di-nl.html",
+                    "path": "werken-bij-di-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "De afdeling Digitale Infrastructuur is een van de grootste teams in Europa op het snijvlak van geesteswetenschappelijk onderzoek en IT",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Contact",
+                    "filename": "contact-nl.html",
+                    "path": "contact-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "Contact met de afdeling Digitale Infrastructuur",
+                    "featured_image": ""
+                },
+                {
+                    "title": "Colofon",
+                    "filename": "colofon-nl.html",
+                    "path": "colofon-nl.html",
+                    "levels": 2,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Moet het HuC wel nationale infrastructuur bouwen?",
+                    "filename": "moet-het-huc-wel-nationale-infrastructuur-bouwen-nl.html",
+                    "path": "moet-het-huc-wel-nationale-infrastructuur-bouwen-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "Menno Rasch is ondertussen al een tijdje directeur bij het KNAW Humanities Cluster van de afdeling Digitale Infrastructuur. Hij is ervan overtuigd dat zijn IT’ers een grote impact kunnen hebben op het onderzoek. Maar dan moet de succesvolle samenwerking binnen het HuC ook buiten de KNAW gestalte krijgen. Samen kunnen we immers veel meer bereiken.",
+                    "featured_image": "menno_rasch.jpg"
+                },
+                {
+                    "title": "Het perceel als atoom van de ruimte",
+                    "filename": "het-perceel-als-atoom-van-de-ruimte-nl.html",
+                    "path": "het-perceel-als-atoom-van-de-ruimte-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "\"Geografische informatie is een fundamenteel onderdeel van geesteswetenschappelijke data.\" Aan het woord is Thomas Vermaut, ontwikkelaar en teamleider van het expertisegebied geografische analyse, dat zich bezighoudt met het verwerken van ruimtelijke data in digitale infrastructuur.",
+                    "featured_image": "kaart_1.png"
+                },
+                {
+                    "title": "Unieke software om historische teksten te transcriberen nu opensource beschikbaar",
+                    "filename": "unieke-software-om-historische-teksten-te-transcriberen-nu-opensource-beschikbaar-nl.html",
+                    "path": "unieke-software-om-historische-teksten-te-transcriberen-nu-opensource-beschikbaar-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "Het KNAW Humanities Cluster in Amsterdam maakt de transcriptie-software Loghi per direct opensource beschikbaar. De software is in samenwerking met het Nationaal Archief in Den Haag speciaal ontwikkeld om gescande historische documenten digitaal leesbaar en doorzoekbaar te maken.",
+                    "featured_image": "Loghi_2.jpg"
+                },
+                {
+                    "title": "De nieuwe tools van Golden Agents",
+                    "filename": "de-nieuwe-tools-van-golden-agents-nl.html",
+                    "path": "de-nieuwe-tools-van-golden-agents-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "In het project Golden Agents (2016-2022) zijn verschillende bronnen over deze industrieën samengebracht in een duurzame onderzoeksinfrastructuur met verschillende tools.",
+                    "featured_image": "golden-agents.jpg"
+                },
+                {
+                    "title": "Systeem voor vier eeuwen archief:",
+                    "filename": "systeem-voor-vier-eeuwen-archief-nl.html",
+                    "path": "systeem-voor-vier-eeuwen-archief-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "Hoe het Huygens Instituut Van Gogh, Mondriaan en de VOC in dezelfde digitale omgeving krijgt.",
+                    "featured_image": "Screenshot-Letters-Van-Gogh.png"
+                }
+            ]
+        },
+        "theme": "huc-di",
+        "tempPath": "_dist/",
+        "site_url": "https://di.huc.knaw.nl"
+    },
+    {
+        "language": "nl",
+        "isLang_nl": true,
+        "page_order": 99999,
+        "page_level": 0,
         "name": "01_feature-infra",
         "type": "featured",
         "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -11494,6 +11976,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -11750,6 +12243,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -12002,6 +12506,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
@@ -12258,6 +12773,17 @@
                     "featured_image": ""
                 }
             ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
+                }
+            ],
             "featured": [
                 {
                     "title": "Moet het HuC wel nationale infrastructuur bouwen?",
@@ -12510,6 +13036,17 @@
                     "directSubpages": false,
                     "summary": "",
                     "featured_image": ""
+                }
+            ],
+            "events": [
+                {
+                    "title": "IISG / DI collection day",
+                    "filename": "iisg-di-collection-day-nl.html",
+                    "path": "iisg-di-collection-day-nl.html",
+                    "levels": 0,
+                    "directSubpages": false,
+                    "summary": "",
+                    "featured_image": "menno_rasch.jpg"
                 }
             ],
             "featured": [
