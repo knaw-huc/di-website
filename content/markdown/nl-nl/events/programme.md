@@ -43,7 +43,7 @@ publish: true
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | 2.1        | Technical infrastructure and collection documentation                                                                      | Julia van der Knaap          |
 | 2.2        | How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project) | Robert Gillesse              |
-| 2.3        | Cybersecurity + Anubis implementation                                                                                      | Mario Mieldijk, Gordan Cupac |
+| 2.3        | Cybersecurity + Anubis implementation                                                                                      | Gordan Cupac, Mario Mieldijk |
 | 2.4        | Editor, Procrustus and Panoptes pipeline                                                                                   | Jarno Bakker, Kerim Meijer   |
 | 2.5        | MARC metadata improvement project                                                                                          | Liliana Melgar               |
 
