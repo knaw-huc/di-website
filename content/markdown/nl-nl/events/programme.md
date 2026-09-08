@@ -35,7 +35,7 @@ publish: true
 | 1.2        | HTR, OCR (Loghi)                                                                         | Stefan Klut                      |
 | 1.3        | Access and reuse terms in descriptive metadata – conceptual modelling and implementation | Zefi Kavvadia                    |
 | 1.4        | HisGIS                                                                                   | Rombert Stapel, Marlies Koffeman |
-| 1.5        | Serving historical digital text editions                                                 | Sebastiaan van Daalen            |
+| 1.5        | Archiving by design project                                                              | Per Backhuis, Rosemary Grennan   |
 
 ## Block 2 posters 14:45 – 15:35
 
@@ -54,5 +54,5 @@ publish: true
 | 3.1        | Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface | Alaina Rose, Vera Erykalova     |
 | 3.2        | Sessie digitalisering Thijs                                                                                  | Thijs van Leeuwen               |
 | 3.3        | Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff collections            | Mieke Stroo, Daniel van Heusden |
-| 3.4        | Using LLMs to enhance existing collections                                                                   | Luuk Suurmeijer                 |
+| 3.4        | Serving historical digital text editions                                                                     | Sebastiaan van Daalen           |
 | 3.5        | A shelf space dashboard                                                                                      | Eva van Oene, Wendy Ettema      |
