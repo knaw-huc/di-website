@@ -41,18 +41,17 @@ publish: true
 
 | **Poster** | **Content poster**                                                                                                         | **Who**                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 2.1        | Technical infrastructure and collection documentation                                                                      | Julia van der Knaap          |
-| 2.2        | How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project) | Robert Gillesse              |
-| 2.3        | Cybersecurity + Anubis implementation                                                                                      | Gordan Cupac, Mario Mieldijk |
-| 2.4        | Editor, Procrustus and Panoptes pipeline                                                                                   | Jarno Bakker, Kerim Meijer   |
-| 2.5        | MARC metadata improvement project                                                                                          | Liliana Melgar               |
+| 2.1        | How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project) | Robert Gillesse              |
+| 2.2        | Cybersecurity + Anubis implementation                                                                                      | Gordan Cupac, Mario Mieldijk |
+| 2.3        | Editor, Procrustus and Panoptes pipeline                                                                                   | Jarno Bakker, Kerim Meijer   |
+| 2.4        | MARC metadata improvement project                                                                                          | Liliana Melgar               |
 
 ## Block 3 posters 15:45 – 16:35
 
-| **Poster** | **Content poster**                                                                                           | **Who**                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
-| 3.1        | Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface | Alaina Rose, Vera Erykalova     |
-| 3.2        | Sessie digitalisering Thijs                                                                                  | Thijs van Leeuwen               |
-| 3.3        | Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff collections            | Mieke Stroo, Daniel van Heusden |
-| 3.4        | Serving historical digital text editions                                                                     | Sebastiaan van Daalen           |
-| 3.5        | A shelf space dashboard                                                                                      | Eva van Oene, Wendy Ettema      |
+| **Poster** | **Content poster**                                                                                                                     | **Who**                         |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| 3.1        | Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface                           | Alaina Rose, Vera Erykalova     |
+| 3.2        | A presentation on new insights (and the resulting proposed guiding principles) regarding the digitisation of the IISG/NEHA collections | Thijs van Leeuwen               |
+| 3.3        | Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff collections                                      | Mieke Stroo, Daniel van Heusden |
+| 3.4        | Serving historical digital text editions                                                                                               | Sebastiaan van Daalen           |
+| 3.5        | A shelf space dashboard                                                                                                                | Eva van Oene, Wendy Ettema      |
