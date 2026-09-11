@@ -40,11 +40,11 @@ publish: true
 ## Block 2 posters 14:45 – 15:35
 
 | **Poster** | **Content poster**                                                                                                         | **Who**                      |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+|------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | 2.1        | How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project) | Robert Gillesse              |
 | 2.2        | Cybersecurity + Anubis implementation                                                                                      | Gordan Cupac, Mario Mieldijk |
 | 2.3        | Editor, Procrustus and Panoptes pipeline                                                                                   | Jarno Bakker, Kerim Meijer   |
-| 2.4        | MARC metadata improvement project                                                                                          | Liliana Melgar               |
+| 2.4        | Every field counts: Improving the quality of our metadata                                                                  | Liliana Melgar               |
 
 ## Block 3 posters 15:45 – 16:35
 
