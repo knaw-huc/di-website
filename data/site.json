@@ -475,7 +475,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -986,7 +986,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -1501,7 +1501,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -2012,7 +2012,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -2523,7 +2523,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -3036,7 +3036,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -3547,7 +3547,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -4058,7 +4058,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -4569,7 +4569,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -5080,7 +5080,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -5591,7 +5591,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -6102,7 +6102,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -6613,7 +6613,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -7122,7 +7122,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -7633,7 +7633,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -8144,7 +8144,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -8656,7 +8656,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -9167,7 +9167,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -9678,7 +9678,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -10189,7 +10189,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -11522,11 +11522,8 @@
         "name": "programme",
         "type": "events",
         "title": "IISG / DI collection day",
-        "author": "Bas Doppen",
-        "featured_image": "menno_rasch.jpg",
-        "summary": null,
         "publish": true,
-        "htmlContent": "<h2>Time table</h2>\n<p><strong>Afternoon duration</strong>: 1200-1730</p>\n<div class=\"timetable\">\n\n<table>\n<thead>\n<tr>\n<th><strong>Time</strong></th>\n<th><strong>Program</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>12:00 - 13:00</td>\n<td>Walk in/Lunch</td>\n<td></td>\n</tr>\n<tr>\n<td>13:00 - 13:10</td>\n<td>Plenary start and presentation: Welcome/Rationale behind this afternoon/Explanation about the form</td>\n<td>Robert</td>\n</tr>\n<tr>\n<td>13:10 – 13:25</td>\n<td>General overview IISG Collections and departments</td>\n<td>Eric</td>\n</tr>\n<tr>\n<td>13:25 - 13:40</td>\n<td>General overview DI (teams)</td>\n<td>Marielle</td>\n</tr>\n<tr>\n<td>13:40 – 13:45</td>\n<td>Changeover to poster sessions</td>\n<td></td>\n</tr>\n<tr>\n<td>13:45 - 14:35</td>\n<td>Block 1 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>14:35 - 14:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>14:45 - 15:35</td>\n<td>Block 2 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>15:35 - 15:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>15:45 - 16:35</td>\n<td>Block 3 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>16:35 - 16:40</td>\n<td>Changeover to plenary setting</td>\n<td></td>\n</tr>\n<tr>\n<td>16:40 - 16:50</td>\n<td>Plenary end of presentation blocks (some end conclusions/next steps)</td>\n<td>Zefi</td>\n</tr>\n<tr>\n<td>16:50 – 18:00</td>\n<td>Drinks</td>\n<td></td>\n</tr>\n</tbody></table>\n</div>\n\n<h2>Block 1 posters 13:45 – 14:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>1.1</td>\n<td>Processing of born digital archives project</td>\n<td>Avigail Friedland</td>\n</tr>\n<tr>\n<td>1.2</td>\n<td>HTR, OCR (Loghi)</td>\n<td>Stefan</td>\n</tr>\n<tr>\n<td>1.3</td>\n<td>Access and reuse terms in descriptive metadata – conceptual modelling and implementation</td>\n<td>Zefi Kavvadia and ???</td>\n</tr>\n<tr>\n<td>1.4</td>\n<td>HisGIS</td>\n<td>Rombert, Marlies</td>\n</tr>\n<tr>\n<td>1.5</td>\n<td>Serving historical digital text editions</td>\n<td>Sebastiaan</td>\n</tr>\n</tbody></table>\n<h2>Block 2 posters 14:45 – 15:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>2.1</td>\n<td>Technical infrastructure and collection documentation</td>\n<td>Julia van der Knaap</td>\n</tr>\n<tr>\n<td>2.2</td>\n<td>How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project)</td>\n<td>Robert Gillesse</td>\n</tr>\n<tr>\n<td>2.3</td>\n<td>Cybersecurity + Anubis implementation</td>\n<td>Mario Mieldijk and Gordan Cupac</td>\n</tr>\n<tr>\n<td>2.4</td>\n<td>Editor, Procrustus and Panoptes pipeline</td>\n<td>Jarno Bakker and Kerim Meijer</td>\n</tr>\n<tr>\n<td>2.5</td>\n<td>MARC metadata improvement project</td>\n<td>Liliana</td>\n</tr>\n</tbody></table>\n<h2>Block 3 posters 15:45 – 16:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>3.1</td>\n<td>Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface</td>\n<td>Alaina Rose and Vera</td>\n</tr>\n<tr>\n<td>3.2</td>\n<td>Sessie digitalisering Thijs</td>\n<td>Thijs van Leeuwen</td>\n</tr>\n<tr>\n<td>3.3</td>\n<td>Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff () collections</td>\n<td>Mieke Stroo and Daniel van Heusden</td>\n</tr>\n<tr>\n<td>3.4</td>\n<td>Using LLMs to enhance existing collections</td>\n<td>Luuk (Hennie)</td>\n</tr>\n<tr>\n<td>3.5</td>\n<td>A shelf space dashboard</td>\n<td>Eva van Oene and Wendy Ettema</td>\n</tr>\n</tbody></table>\n",
+        "htmlContent": "<h2>Time table</h2>\n<p><strong>Afternoon duration</strong>: 1200-1730</p>\n<div class=\"timetable\">\n\n<table>\n<thead>\n<tr>\n<th><strong>Time</strong></th>\n<th><strong>Program</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>12:00 - 13:00</td>\n<td>Walk in/Lunch</td>\n<td></td>\n</tr>\n<tr>\n<td>13:00 - 13:10</td>\n<td>Plenary start and presentation: Welcome / Rationale behind this afternoon / Explanation about the form</td>\n<td>Robert Gillesse</td>\n</tr>\n<tr>\n<td>13:10 – 13:25</td>\n<td>General overview IISG Collections and departments</td>\n<td>Eric de Ruijter</td>\n</tr>\n<tr>\n<td>13:25 - 13:40</td>\n<td>General overview DI (teams)</td>\n<td>Mariëlle Veldhuis</td>\n</tr>\n<tr>\n<td>13:40 – 13:45</td>\n<td>Changeover to poster sessions</td>\n<td></td>\n</tr>\n<tr>\n<td>13:45 - 14:35</td>\n<td>Block 1 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>14:35 - 14:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>14:45 - 15:35</td>\n<td>Block 2 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>15:35 - 15:45</td>\n<td>Change and short break</td>\n<td></td>\n</tr>\n<tr>\n<td>15:45 - 16:35</td>\n<td>Block 3 posters</td>\n<td></td>\n</tr>\n<tr>\n<td>16:35 - 16:40</td>\n<td>Changeover to plenary setting</td>\n<td></td>\n</tr>\n<tr>\n<td>16:40 - 16:50</td>\n<td>Plenary end of presentation blocks (some end conclusions / next steps)</td>\n<td>Zefi Kavvadia</td>\n</tr>\n<tr>\n<td>16:50 – 18:00</td>\n<td>Drinks</td>\n<td></td>\n</tr>\n</tbody></table>\n</div>\n\n<h2>Block 1 posters 13:45 – 14:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>1.1</td>\n<td>Processing of born digital archives project</td>\n<td>Avigail Friedland</td>\n</tr>\n<tr>\n<td>1.2</td>\n<td>HTR, OCR (Loghi)</td>\n<td>Stefan Klut</td>\n</tr>\n<tr>\n<td>1.3</td>\n<td>Access and reuse terms in descriptive metadata – conceptual modelling and implementation</td>\n<td>Zefi Kavvadia</td>\n</tr>\n<tr>\n<td>1.4</td>\n<td>HisGIS</td>\n<td>Rombert Stapel, Marlies Koffeman</td>\n</tr>\n<tr>\n<td>1.5</td>\n<td>Archiving by design project</td>\n<td>Per Backhuis, Rosemary Grennan</td>\n</tr>\n</tbody></table>\n<h2>Block 2 posters 14:45 – 15:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>2.1</td>\n<td>Technical infrastructure and collection documentation</td>\n<td>Julia van der Knaap</td>\n</tr>\n<tr>\n<td>2.2</td>\n<td>How to use LLMs to create descriptive metadata (EAD) of born digital and digitized archives (KVAN Tot op de bodem project)</td>\n<td>Robert Gillesse</td>\n</tr>\n<tr>\n<td>2.3</td>\n<td>Cybersecurity + Anubis implementation</td>\n<td>Gordan Cupac, Mario Mieldijk</td>\n</tr>\n<tr>\n<td>2.4</td>\n<td>Editor, Procrustus and Panoptes pipeline</td>\n<td>Jarno Bakker, Kerim Meijer</td>\n</tr>\n<tr>\n<td>2.5</td>\n<td>MARC metadata improvement project</td>\n<td>Liliana Melgar</td>\n</tr>\n</tbody></table>\n<h2>Block 3 posters 15:45 – 16:35</h2>\n<table>\n<thead>\n<tr>\n<th><strong>Poster</strong></th>\n<th><strong>Content poster</strong></th>\n<th><strong>Who</strong></th>\n</tr>\n</thead>\n<tbody><tr>\n<td>3.1</td>\n<td>Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface</td>\n<td>Alaina Rose, Vera Erykalova</td>\n</tr>\n<tr>\n<td>3.2</td>\n<td>Sessie digitalisering Thijs</td>\n<td>Thijs van Leeuwen</td>\n</tr>\n<tr>\n<td>3.3</td>\n<td>Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff collections</td>\n<td>Mieke Stroo, Daniel van Heusden</td>\n</tr>\n<tr>\n<td>3.4</td>\n<td>Serving historical digital text editions</td>\n<td>Sebastiaan van Daalen</td>\n</tr>\n<tr>\n<td>3.5</td>\n<td>A shelf space dashboard</td>\n<td>Eva van Oene, Wendy Ettema</td>\n</tr>\n</tbody></table>\n",
         "publish_date": "2022-01-01",
         "feautred_img": "",
         "file_name": "iisg-di-collection-day-nl.html",
@@ -11721,7 +11718,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -11986,7 +11983,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -12251,7 +12248,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -12516,7 +12513,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -12781,7 +12778,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
@@ -13046,7 +13043,7 @@
                     "levels": 0,
                     "directSubpages": false,
                     "summary": "",
-                    "featured_image": "menno_rasch.jpg"
+                    "featured_image": ""
                 }
             ],
             "featured": [
