@@ -52,6 +52,6 @@ publish: true
 |------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | 3.1        | Bypass project: controlled access to born digital collections from the IISG backlog / pipeline and interface                           | Alaina Rose, Vera Erykalova     |
 | 3.2        | A presentation on new insights (and the resulting proposed guiding principles) regarding the digitisation of the IISG/NEHA collections | Thijs van Leeuwen               |
-| 3.3        | Use of HTR, NER and other for offering new ways of access to the Velle and Van Imhoff collections                                      | Mieke Stroo, Daniel van Heusden |
+| 3.3        | Use of HTR, NER and other for offering new ways of access to the Velle and the KNAW library                                            | Mieke Stroo, Daniel van Heusden |
 | 3.4        | Serving historical digital text editions                                                                                               | Sebastiaan van Daalen           |
 | 3.5        | A shelf space dashboard                                                                                                                | Eva van Oene, Wendy Ettema      |
