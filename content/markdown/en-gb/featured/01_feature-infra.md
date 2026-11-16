@@ -6,7 +6,7 @@ summary: Menno Rasch has now been director of the KNAW Humanities Cluster’s Di
 publication_date: 31-10-2022
 showPubDate: true
 showAuthor: true
-publish: true
+publish: false
 ---
 
 ## Interview met Menno Rasch
