@@ -6,7 +6,7 @@ summary: Menno Rasch is ondertussen al een tijdje directeur bij het KNAW Humanit
 publication_date: 31-10-2022
 showPubDate: true
 showAuthor: true
-publish: true
+publish: false
 ---
 
 ## Interview met Menno Rasch
