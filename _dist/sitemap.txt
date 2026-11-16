@@ -9,7 +9,6 @@ https://di.huc.knaw.nl/contact-nl.html
 https://di.huc.knaw.nl/data-management-en.html
 https://di.huc.knaw.nl/de-afdeling-nl.html
 https://di.huc.knaw.nl/de-nieuwe-tools-van-golden-agents-nl.html
-https://di.huc.knaw.nl/does-the-huc-need-to-build-national-infrastructure-en.html
 https://di.huc.knaw.nl/geografische-analyse-nl.html
 https://di.huc.knaw.nl/gestructureerde-data-nl.html
 https://di.huc.knaw.nl/het-perceel-als-atoom-van-de-ruimte-nl.html
@@ -23,7 +22,6 @@ https://di.huc.knaw.nl/interface-design-en.html
 https://di.huc.knaw.nl/interface-design-nl.html
 https://di.huc.knaw.nl/missie-nl.html
 https://di.huc.knaw.nl/mission-en.html
-https://di.huc.knaw.nl/moet-het-huc-wel-nationale-infrastructuur-bouwen-nl.html
 https://di.huc.knaw.nl/onderzoeksprojecten-nl.html
 https://di.huc.knaw.nl/one-system-for-four-centuries-of-archives-en.html
 https://di.huc.knaw.nl/organisation-en.html

@@ -6,7 +6,7 @@ summary: "Een nieuwe open tool transcribeert historische Nederlandse documenten 
 publication_date: 12-11-2026
 showPubDate: true
 showAuthor: true
-publish: true
+publish: false
 ---
 
 Een nieuwe, open beschikbare tool van het Humanities Cluster maakt het mogelijk Nederlandstalige historische documenten niet alleen automatisch te transcriberen, maar ook de opmaak te herkennen. Dat levert betere teksten op, en tabellen, illustraties en toevoegingen in de marges van documenten bieden een extra bron van informatie. De eerste onderdelen van het project zijn al online te bekijken.

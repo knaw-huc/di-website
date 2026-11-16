@@ -6,7 +6,7 @@ summary: "A new open tool transcribes historical Dutch documents and recognises 
 publication_date: 12-11-2026
 showPubDate: true
 showAuthor: true
-publish: true
+publish: false
 ---
 
 A new, openly available tool from the Humanities Cluster makes it possible not only to transcribe historical Dutch-language documents automatically, but also to recognise their layout. This produces better texts, and the tables, illustrations and marginal additions in documents offer an extra source of information. The first parts of the project can already be viewed online.
